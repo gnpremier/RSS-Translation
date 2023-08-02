@@ -1,20 +1,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>心血管高分期刊</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_campaign=pubmed-2&amp;utm_source=Chrome&amp;ff=20230801182454&amp;fc=20230708114047&amp;v=2.17.9.post6+86293ac&amp;utm_medium=rss&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-
+<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.17.9.post6+86293ac&amp;utm_source=Chrome&amp;utm_medium=rss&amp;fc=20230708114047&amp;utm_campaign=pubmed-2&amp;ff=20230801203021
     <description>心血管高分期刊: Latest results from PubMed</description>
-<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_campaign=pubmed-2&amp;utm_source=Chrome&amp;ff=20230801182454&amp;fc=20230708114047&amp;v=2.17.9.post6+86293ac&amp;utm_medium=rss&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-" rel="self"></atom:link>
+<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.17.9.post6+86293ac&amp;utm_source=Chrome&amp;utm_medium=rss&amp;fc=20230708114047&amp;utm_campaign=pubmed-2&amp;ff=20230801203021" rel="self"></atom:link>
 <docs>http://www.rssboard.org/rss-specification</docs>
 <generator>PubMed RSS feeds (2.17.9.post6+86293ac)</generator>
 <language>en</language>
-<lastbuilddate>Tue, 01 Aug 2023 22:24:54 +0000</lastbuilddate>
+<lastbuilddate>Wed, 02 Aug 2023 00:30:22 +0000</lastbuilddate>
 <pubDate>Tue, 01 Aug 2023 06:00:00 -0400</pubDate>
 <ttl>120</ttl>
 <item>
-<title>REVIV(E)ing the ischaemic paradigm in heart failure: STICHes are needed</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37525996/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<title>Focus on translational vascular biology: new therapeutic targets in hypertension, aortic aneurysm, and atherosclerosis</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37527405/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1:ehad488. doi: 10.1093/eurheartj/ehad488. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37525996/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37525996</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad488>10.1093/eurheartj/ehad488</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1;44(29):2645-2649. doi: 10.1093/eurheartj/ehad481.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37527405/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37527405</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad481>10.1093/eurheartj/ehad481</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37527405</guid>
+<pubDate>Tue, 01 Aug 2023 06:00:00 -0400</pubDate>
+<dc:creator>Filippo Crea</dc:creator>
+<dc:date>2023-08-01</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Focus on translational vascular biology: new therapeutic targets in hypertension, aortic aneurysm, and atherosclerosis</dc:title>
+<dc:identifier>pmid:37527405</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehad481</dc:identifier>
+</item>
+<item>
+<title>REVIV(E)ing the ischaemic paradigm in heart failure: STICHes are needed</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37525996/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1:ehad488. doi: 10.1093/eurheartj/ehad488. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37525996/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37525996</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad488>10.1093/eurheartj/ehad488</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37525996</guid>
 <pubDate>Tue, 01 Aug 2023 06:00:00 -0400</pubDate>
 <dc:creator>Luis E Rohde</dc:creator>
@@ -27,9 +41,9 @@
 </item>
 <item>
 <title>Routine post-operative troponin surveillance after non-cardiac surgery: are we ready?</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37525944/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37525944/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1:ehad487. doi: 10.1093/eurheartj/ehad487. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37525944/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37525944</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad487>10.1093/eurheartj/ehad487</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1:ehad487. doi: 10.1093/eurheartj/ehad487. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37525944/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37525944</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad487>10.1093/eurheartj/ehad487</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37525944</guid>
 <pubDate>Tue, 01 Aug 2023 06:00:00 -0400</pubDate>
 <dc:creator>Wilton A van Klei</dc:creator>
@@ -43,9 +57,9 @@
 </item>
 <item>
 <title>An unusual cause of life-threatening episodic syncope: cellular angiofibroma in the right ventricular outflow tract</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37525898/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37525898/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1:ehad479. doi: 10.1093/eurheartj/ehad479. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37525898/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37525898</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad479>10.1093/eurheartj/ehad479</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1:ehad479. doi: 10.1093/eurheartj/ehad479. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37525898/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37525898</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad479>10.1093/eurheartj/ehad479</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37525898</guid>
 <pubDate>Tue, 01 Aug 2023 06:00:00 -0400</pubDate>
 <dc:creator>Xiang Zhou</dc:creator>
@@ -59,9 +73,9 @@
 </item>
 <item>
 <title>Emphysematous aortitis: successful management with antibiotic therapy</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37525553/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37525553/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1:ehad474. doi: 10.1093/eurheartj/ehad474. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37525553/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37525553</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad474>10.1093/eurheartj/ehad474</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1:ehad474. doi: 10.1093/eurheartj/ehad474. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37525553/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37525553</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad474>10.1093/eurheartj/ehad474</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37525553</guid>
 <pubDate>Tue, 01 Aug 2023 06:00:00 -0400</pubDate>
 <dc:creator>Tuncay Sahutoglu</dc:creator>
@@ -74,9 +88,9 @@
 </item>
 <item>
 <title>Acute myocardial infarction is associated with faster age-related cognitive decline</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37525547/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37525547/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1:ehad475. doi: 10.1093/eurheartj/ehad475. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37525547/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37525547</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad475>10.1093/eurheartj/ehad475</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1:ehad475. doi: 10.1093/eurheartj/ehad475. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37525547/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37525547</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad475>10.1093/eurheartj/ehad475</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37525547</guid>
 <pubDate>Tue, 01 Aug 2023 06:00:00 -0400</pubDate>
 <dc:creator>Giovanna Liuzzo</dc:creator>
@@ -89,9 +103,9 @@
 </item>
 <item>
 <title>The promise of a new orally active body weight reducer</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37525544/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37525544/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1:ehad470. doi: 10.1093/eurheartj/ehad470. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37525544/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37525544</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad470>10.1093/eurheartj/ehad470</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1:ehad470. doi: 10.1093/eurheartj/ehad470. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37525544/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37525544</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad470>10.1093/eurheartj/ehad470</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37525544</guid>
 <pubDate>Tue, 01 Aug 2023 06:00:00 -0400</pubDate>
 <dc:creator>Massimo Volpe</dc:creator>
@@ -104,9 +118,9 @@
 </item>
 <item>
 <title>Machine learning and myocardial infarction diagnosis: sometimes you can't make it on your own</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37525543/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37525543/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1:ehad467. doi: 10.1093/eurheartj/ehad467. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37525543/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37525543</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad467>10.1093/eurheartj/ehad467</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1:ehad467. doi: 10.1093/eurheartj/ehad467. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37525543/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37525543</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad467>10.1093/eurheartj/ehad467</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37525543</guid>
 <pubDate>Tue, 01 Aug 2023 06:00:00 -0400</pubDate>
 <dc:creator>Rocco Vergallo</dc:creator>
@@ -119,9 +133,9 @@
 </item>
 <item>
 <title>The revolution of beat-to-beat wireless bidirectional communication between intra-cardiac devices</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37525532/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37525532/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1:ehad457. doi: 10.1093/eurheartj/ehad457. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37525532/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37525532</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad457>10.1093/eurheartj/ehad457</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1:ehad457. doi: 10.1093/eurheartj/ehad457. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37525532/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37525532</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad457>10.1093/eurheartj/ehad457</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37525532</guid>
 <pubDate>Tue, 01 Aug 2023 06:00:00 -0400</pubDate>
 <dc:creator>Maria Lucia Narducci</dc:creator>
@@ -134,9 +148,9 @@
 </item>
 <item>
 <title>Routine electronic health record-based clinical trials: what should an early-career trialist know?</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37525523/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37525523/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1:ehad437. doi: 10.1093/eurheartj/ehad437. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37525523/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37525523</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad437>10.1093/eurheartj/ehad437</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Aug 1:ehad437. doi: 10.1093/eurheartj/ehad437. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37525523/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37525523</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad437>10.1093/eurheartj/ehad437</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37525523</guid>
 <pubDate>Tue, 01 Aug 2023 06:00:00 -0400</pubDate>
 <dc:creator>Zainab Atiyah Dakhil</dc:creator>
@@ -148,9 +162,9 @@
 </item>
 <item>
 <title>Cholesterol catabolism and bile acid synthesis in cardiomyocytes promote inflammation and heart failure</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37524809/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37524809/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2023 Jul 31. doi: 10.1038/s41569-023-00917-8. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37524809/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37524809</a> | DOI:<a href=https://doi.org/10.1038/s41569-023-00917-8>10.1038/s41569-023-00917-8</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2023 Jul 31. doi: 10.1038/s41569-023-00917-8. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37524809/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37524809</a> | DOI:<a href=https://doi.org/10.1038/s41569-023-00917-8>10.1038/s41569-023-00917-8</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37524809</guid>
 <pubDate>Mon, 31 Jul 2023 06:00:00 -0400</pubDate>
 <dc:creator>Gregory B Lim</dc:creator>
@@ -162,9 +176,9 @@
 </item>
 <item>
 <title>Promising novel siRNA for the treatment of hypertension</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37524808/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37524808/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2023 Jul 31. doi: 10.1038/s41569-023-00916-9. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37524808/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37524808</a> | DOI:<a href=https://doi.org/10.1038/s41569-023-00916-9>10.1038/s41569-023-00916-9</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2023 Jul 31. doi: 10.1038/s41569-023-00916-9. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37524808/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37524808</a> | DOI:<a href=https://doi.org/10.1038/s41569-023-00916-9>10.1038/s41569-023-00916-9</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37524808</guid>
 <pubDate>Mon, 31 Jul 2023 06:00:00 -0400</pubDate>
 <dc:creator>Irene Fernández-Ruiz</dc:creator>
@@ -176,9 +190,9 @@
 </item>
 <item>
 <title>P-Selectin de-ACTIVation in COVID-19: What Have We Learned?</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37523764/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37523764/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2023 Aug;148(5):391-393. doi: 10.1161/CIRCULATIONAHA.123.065619. Epub 2023 Jul 31.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37523764/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37523764</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.065619>10.1161/CIRCULATIONAHA.123.065619</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2023 Aug;148(5):391-393. doi: 10.1161/CIRCULATIONAHA.123.065619. Epub 2023 Jul 31.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37523764/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37523764</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.065619>10.1161/CIRCULATIONAHA.123.065619</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37523764</guid>
 <pubDate>Mon, 31 Jul 2023 06:00:00 -0400</pubDate>
 <dc:creator>Behnood Bikdeli</dc:creator>
@@ -191,9 +205,9 @@
 </item>
 <item>
 <title>Highlights From the Circulation Family of Journals</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37523763/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37523763/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2023 Aug;148(5):430-435. doi: 10.1161/CIRCULATIONAHA.123.066084. Epub 2023 Jul 31.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37523763/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37523763</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.066084>10.1161/CIRCULATIONAHA.123.066084</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2023 Aug;148(5):430-435. doi: 10.1161/CIRCULATIONAHA.123.066084. Epub 2023 Jul 31.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37523763/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37523763</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.066084>10.1161/CIRCULATIONAHA.123.066084</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37523763</guid>
 <pubDate>Mon, 31 Jul 2023 06:00:00 -0400</pubDate>
 <dc:date>2023-07-31</dc:date>
@@ -204,9 +218,9 @@
 </item>
 <item>
 <title>What Is the Mechanism of the Premature Beats?</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37523762/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37523762/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2023 Aug;148(5):426-429. doi: 10.1161/CIRCULATIONAHA.123.065558. Epub 2023 Jul 31.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37523762/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37523762</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.065558>10.1161/CIRCULATIONAHA.123.065558</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2023 Aug;148(5):426-429. doi: 10.1161/CIRCULATIONAHA.123.065558. Epub 2023 Jul 31.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37523762/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37523762</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.065558>10.1161/CIRCULATIONAHA.123.065558</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37523762</guid>
 <pubDate>Mon, 31 Jul 2023 06:00:00 -0400</pubDate>
 <dc:creator>Kinán Rajjoub</dc:creator>
@@ -220,9 +234,9 @@
 </item>
 <item>
 <title>Letter by Cainzos-Achirica Regarding Article, "Incidental Coronary Artery Calcium: Opportunistic Screening of Previous Nongated Chest Computed Tomography Scans to Improve Statin Rates (NOTIFY-1 Project)"</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37523761/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37523761/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2023 Aug;148(5):440. doi: 10.1161/CIRCULATIONAHA.122.063210. Epub 2023 Jul 31.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37523761/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37523761</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.122.063210>10.1161/CIRCULATIONAHA.122.063210</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2023 Aug;148(5):440. doi: 10.1161/CIRCULATIONAHA.122.063210. Epub 2023 Jul 31.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37523761/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37523761</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.122.063210>10.1161/CIRCULATIONAHA.122.063210</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37523761</guid>
 <pubDate>Mon, 31 Jul 2023 06:00:00 -0400</pubDate>
 <dc:creator>Miguel Cainzos-Achirica</dc:creator>
@@ -234,9 +248,9 @@
 </item>
 <item>
 <title>Cardiovascular Assessment up to One Year After COVID-19 Vaccine-Associated Myocarditis</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37523760/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37523760/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2023 Aug;148(5):436-439. doi: 10.1161/CIRCULATIONAHA.123.064772. Epub 2023 Jul 31.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37523760/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37523760</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC10373639/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">PMC10373639</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.064772>10.1161/CIRCULATIONAHA.123.064772</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2023 Aug;148(5):436-439. doi: 10.1161/CIRCULATIONAHA.123.064772. Epub 2023 Jul 31.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37523760/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37523760</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC10373639/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">PMC10373639</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.064772>10.1161/CIRCULATIONAHA.123.064772</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37523760</guid>
 <pubDate>Mon, 31 Jul 2023 06:00:00 -0400</pubDate>
 <dc:creator>Clement Kwong-Man Yu</dc:creator>
@@ -258,9 +272,9 @@
 </item>
 <item>
 <title>Response by Sandhu et al to Letter Regarding Article, "Incidental Coronary Artery Calcium: Opportunistic Screening of Previous Nongated Chest Computed Tomography Scans to Improve Statin Rates (NOTIFY-1 Project)"</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37523759/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37523759/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2023 Aug;148(5):441. doi: 10.1161/CIRCULATIONAHA.123.065360. Epub 2023 Jul 31.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37523759/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37523759</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.065360>10.1161/CIRCULATIONAHA.123.065360</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2023 Aug;148(5):441. doi: 10.1161/CIRCULATIONAHA.123.065360. Epub 2023 Jul 31.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37523759/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37523759</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.065360>10.1161/CIRCULATIONAHA.123.065360</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37523759</guid>
 <pubDate>Mon, 31 Jul 2023 06:00:00 -0400</pubDate>
 <dc:creator>Alexander T Sandhu</dc:creator>
@@ -274,9 +288,9 @@
 </item>
 <item>
 <title>I am therefore I think</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37523655/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37523655/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Jul 31:ehad451. doi: 10.1093/eurheartj/ehad451. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37523655/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37523655</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad451>10.1093/eurheartj/ehad451</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Jul 31:ehad451. doi: 10.1093/eurheartj/ehad451. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37523655/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37523655</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad451>10.1093/eurheartj/ehad451</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37523655</guid>
 <pubDate>Mon, 31 Jul 2023 06:00:00 -0400</pubDate>
 <dc:creator>Nandan S Anavekar</dc:creator>
@@ -290,9 +304,9 @@
 </item>
 <item>
 <title>2023 AHA/ACC Clinical Performance and Quality Measures for Coronary Artery Revascularization: A Report of the American College of Cardiology/American Heart Association Joint Committee on Performance Measures</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37516946/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37516946/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2023 Jul 21:S0735-1097(23)05187-2. doi: 10.1016/j.jacc.2023.03.409. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37516946/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37516946</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2023.03.409>10.1016/j.jacc.2023.03.409</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2023 Jul 21:S0735-1097(23)05187-2. doi: 10.1016/j.jacc.2023.03.409. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37516946/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37516946</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2023.03.409>10.1016/j.jacc.2023.03.409</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37516946</guid>
 <pubDate>Sun, 30 Jul 2023 06:00:00 -0400</pubDate>
 <dc:creator>Writing Committee Members</dc:creator>
@@ -319,9 +333,9 @@
 </item>
 <item>
 <title>In Memoriam: WCR: The Remarkable Life and Works of Dr. Bill Roberts</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37516945/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
+<link/>https://pubmed.ncbi.nlm.nih.gov/37516945/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801203021&amp;v=2.17.9.post6+86293ac
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2023 Jul 21:S0735-1097(23)06136-3. doi: 10.1016/j.jacc.2023.07.003. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37516945/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37516945</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2023.07.003>10.1016/j.jacc.2023.07.003</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2023 Jul 21:S0735-1097(23)06136-3. doi: 10.1016/j.jacc.2023.07.003. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37516945/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801203021&v=2.17.9.post6+86293ac">37516945</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2023.07.003>10.1016/j.jacc.2023.07.003</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:37516945</guid>
 <pubDate>Sun, 30 Jul 2023 06:00:00 -0400</pubDate>
 <dc:creator>Barry J Maron</dc:creator>
@@ -330,23 +344,6 @@
 <dc:title>In Memoriam: WCR: The Remarkable Life and Works of Dr. Bill Roberts</dc:title>
 <dc:identifier>pmid:37516945</dc:identifier>
 <dc:identifier>doi:10.1016/j.jacc.2023.07.003</dc:identifier>
-</item>
-<item>
-<title>Structural basis for membrane-proximal proteolysis of substrates by ADAM10</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/37516108/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20230801182454&amp;v=2.17.9.post6+86293ac
-      <description>The endopeptidase ADAM10 is a critical catalyst for the regulated proteolysis of key drivers of mammalian development, physiology, and non-amyloidogenic cleavage of APP as the primary α-secretase. ADAM10 function requires the formation of a complex with a C8-tetraspanin protein, but how tetraspanin binding enables positioning of the enzyme active site for membrane-proximal cleavage remains unknown. We present here a cryo-EM structure of a vFab-ADAM10-Tspan15 complex, which shows that Tspan15...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2023 Jul 19:S0092-8674(23)00733-X. doi: 10.1016/j.cell.2023.06.026. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The endopeptidase ADAM10 is a critical catalyst for the regulated proteolysis of key drivers of mammalian development, physiology, and non-amyloidogenic cleavage of APP as the primary α-secretase. ADAM10 function requires the formation of a complex with a C8-tetraspanin protein, but how tetraspanin binding enables positioning of the enzyme active site for membrane-proximal cleavage remains unknown. We present here a cryo-EM structure of a vFab-ADAM10-Tspan15 complex, which shows that Tspan15 binding relieves ADAM10 autoinhibition and acts as a molecular measuring stick to position the enzyme active site about 20 Å from the plasma membrane for membrane-proximal substrate cleavage. Cell-based assays of N-cadherin shedding establish that the positioning of the active site by the interface between the ADAM10 catalytic domain and the bound tetraspanin influences selection of the preferred cleavage site. Together, these studies reveal the molecular mechanism underlying ADAM10 proteolysis at membrane-proximal sites and offer a roadmap for its modulation in disease.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37516108/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20230801182454&v=2.17.9.post6+86293ac">37516108</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2023.06.026>10.1016/j.cell.2023.06.026</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:37516108</guid>
-<pubDate>Sat, 29 Jul 2023 06:00:00 -0400</pubDate>
-<dc:creator>Colin H Lipper</dc:creator>
-<dc:creator>Emily D Egan</dc:creator>
-<dc:creator>Khal-Hentz Gabriel</dc:creator>
-<dc:creator>Stephen C Blacklow</dc:creator>
-<dc:date>2023-07-29</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>Structural basis for membrane-proximal proteolysis of substrates by ADAM10</dc:title>
-<dc:identifier>pmid:37516108</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2023.06.026</dc:identifier>
 </item>
 
 

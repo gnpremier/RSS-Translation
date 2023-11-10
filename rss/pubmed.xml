@@ -1,1 +1,707 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>环保</title><link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;ff=20231110050839&amp;utm_content=1vUePJ4Z_ tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;utm_source=Chrome&amp;v=2.17.9.post6 +86293ac<description> PubMed 的最新结果</description><atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;ff=20231110050839&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;utm_source=Chrome&amp;v=2.17.9.post6+86293ac" rel="self"></atom:link><docs> http://www.rssboard.org/rss-specification</docs><generator> PubMed RSS 源 (2.17.9.post6+86293ac)</generator><language> zh</language><lastbuilddate> 2023 年 11 月 10 日星期五 10:08:42 +0</lastbuilddate><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><ttl> 120</ttl><item><title> RNA 聚合酶 II 动力学和 mRNA 稳定性反馈量随细胞大小变化的 mRNA 量</title><link/>https://pubmed.ncbi.nlm.nih.gov/37944513/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=2023070 8114047&amp;ff =20231110050839&amp;v=2.17.9.post6+86293ac<description>细胞生长的一个基本特征是总蛋白和 RNA 的量随着细胞大小的增加而增加，以保持浓度大致恒定。其中一个关键组成部分是较大细胞中的整体转录率增加。在这里，我们确定 RNA 聚合酶 II (RNAPII) 是芽殖酵母中 mRNA 转录随细胞大小变化的限制因子。我们的... </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>细胞</b>2023 年 11 月 1 日：S0092-8674(23)01128-5。 doi：10.1016/cell.2023.10.012。印刷前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">细胞生长的一个基本特征是总蛋白和 RNA 的量随着细胞大小的增加而增加，以保持浓度大致恒定。其中一个关键组成部分是较大细胞中的整体转录率增加。在这里，我们确定 RNA 聚合酶 II (RNAPII) 是芽殖酵母中 mRNA 转录随细胞大小变化的限制因子。我们的实验支持动态平衡模型，其中给定大小的全局 RNAPII 转录是由未接合的核质 RNAPII 与基因组的大规模作用招募动力学设定的。然而，这只会导致转录随大小的亚线性增加，然后随着细胞增大，mRNA 衰减率的降低会部分补偿这一增加。因此，限制 RNAPII 和对 mRNA 稳定性的反馈协同作用，以根据细胞大小缩放 mRNA 量。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/37944513/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37944513</a> | DOI： <a href=https://doi.org/10.1016/j.cell.2023.10.012>10.1016/j.cell.2023.10.012</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：37944513</guid><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><dc:creator>马修·P·斯瓦弗</dc:creator><dc:creator>格奥尔基·马里诺夫</dc:creator><dc:creator>郑焕</dc:creator><dc:creator>卢克喷泉巴伦苏埃拉</dc:creator><dc:creator>翠怡</dc:creator><dc:creator>安德鲁·W·琼斯</dc:creator><dc:creator>杰西卡·格林伍德</dc:creator><dc:creator>安舒尔昆达吉</dc:creator><dc:creator>威廉·J·格林利夫</dc:creator><dc:creator>罗德里戈·雷耶斯·拉莫特</dc:creator><dc:creator>简·M·斯科特海姆</dc:creator><dc:date>2023-11-0</dc:date><dc:source>细胞</dc:source><dc:title>RNA 聚合酶 II 动力学和 mRNA 稳定性反馈量随细胞大小变化的 mRNA 量</dc:title><dc:identifier>下午：37944513</dc:identifier><dc:identifier> doi:10.1016/cell.2023.10.012</dc:identifier></item><item><title>酵母 tRNA 新染色体的设计、构建和功能表征</title><link/>https://pubmed.ncbi.nlm.nih.gov/37944512/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=2023070 8114047&amp;ff =20231110050839&amp;v=2.17.9.post6+86293ac<description>在这里，我们报告了 tRNA 新染色体的设计、构建和表征，这是一种设计染色体，可作为酿酒酵母天然互补体的额外的从头对应物。为了解决 Sc2.0 项目的核心设计原则之一，~190-kb tRNA 新染色体容纳了所有 275 个重新定位的核 tRNA 基因。为了最大限度地提高稳定性，该设计结合了来自非 S 的正交遗传元件。酿酒酵母种类。此外，。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>细胞</b>2023 年 11 月 5 日：S0092-8674(23)01130-3。 doi：10.1016/cell.2023.10.015。印刷前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">在这里，我们报告了 tRNA 新染色体的设计、构建和表征，这是一种设计染色体，可作为酿酒酵母天然互补体的额外的从头对应物。为了解决 Sc2.0 项目的核心设计原则之一，~190-kb tRNA 新染色体容纳了所有 275 个重新定位的核 tRNA 基因。为了最大限度地提高稳定性，该设计结合了来自非 S 的正交遗传元件。酿酒酵母种类。此外，283 个 rox 重组位点的存在使得正交 tRNA SCRaMbLE 系统成为可能。在酵母中构建后，我们获得了有效选择力的证据，表现为细胞倍性的自发加倍。此外，还采用 tRNA 测序、转录组学、蛋白质组学、核小体作图、复制分析、FISH 和 Hi-C 来研究 tRNA 新染色体的行为和功能问题。它的构建展示了酵母模型卓越的易处理性，并为直接测试围绕这些重要非编码 RNA 的假设提供了机会。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/37944512/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37944512</a> | DOI： <a href=https://doi.org/10.1016/j.cell.2023.10.015>10.1016/j.cell.2023.10.015</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：37944512</guid><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><dc:creator>丹尼尔·辛德勒</dc:creator><dc:creator>罗伊·SK·沃克</dc:creator><dc:creator>蒋双英</dc:creator><dc:creator>亚伦·N·布鲁克斯</dc:creator><dc:creator>王云</dc:creator><dc:creator>卡罗琳·穆勒</dc:creator><dc:creator>夏洛特·科克拉姆</dc:creator><dc:creator>罗伊莎</dc:creator><dc:creator>艾丽西亚·加西亚</dc:creator><dc:creator>丹尼尔·施莱沃格尔</dc:creator><dc:creator>朱利安·莫齐科纳奇</dc:creator><dc:creator>诺亚·佩纳</dc:creator><dc:creator>马赫迪·阿萨里</dc:creator><dc:creator>玛丽亚·德尔·卡门·桑切斯·埃尔姆斯</dc:creator><dc:creator>赵宇</dc:creator><dc:creator>阿尔巴·巴莱里尼</dc:creator><dc:creator>本杰明·布朗特</dc:creator><dc:creator>蔡继同</dc:creator><dc:creator>路易斯·奥甘拉纳</dc:creator><dc:creator>刘伟</dc:creator><dc:creator>凯瑟琳·琼森</dc:creator><dc:creator>达柳斯·阿布拉姆齐克</dc:creator><dc:creator>伊娃·加西亚·鲁伊斯</dc:creator><dc:creator>托马斯·W·图洛夫斯基</dc:creator><dc:creator>雷姆·斯威达</dc:creator><dc:creator>汤姆·埃利斯</dc:creator><dc:creator>潘涛</dc:creator><dc:creator>弗朗西斯·安特克拉</dc:creator><dc:creator>沉月</dc:creator><dc:creator>康拉德·尼杜辛斯基</dc:creator><dc:creator>罗曼·科苏尔</dc:creator><dc:creator>戴俊标</dc:creator><dc:creator>拉尔斯·M·斯坦梅茨</dc:creator><dc:creator>杰夫·D·博克</dc:creator><dc:creator>蔡一智</dc:creator><dc:date>2023-11-0</dc:date><dc:source>细胞</dc:source><dc:title>酵母 tRNA 新染色体的设计、构建和功能表征</dc:title><dc:identifier>下午：37944512</dc:identifier><dc:identifier> doi:10.1016/cell.2023.10.015</dc:identifier></item><item><title>调试和整合多个合成染色体揭示了组合遗传相互作用</title><link/>https://pubmed.ncbi.nlm.nih.gov/37944511/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=2023070 8114047&amp;ff =20231110050839&amp;v=2.17.9.post6+86293ac<description> Sc2.0项目正在从头开始构建真核合成基因组。所有单独的 Sc2.0 染色体的组装已经实现了一个重要的里程碑。在这里，我们描述了使用先进的内复制与 tRNA 表达盒交叉来整合多个合成染色体，以生成具有 6.5 条合成染色体的菌株。使用 Hi-C 和长读长直接 RNA 测序评估 3D 染色体组织和转录亚型图谱。我们开发了。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>细胞</b>2023 年 10 月 20 日：S0092-8674(23)01079-6。 doi：10.1016/j.cell.2023.09.025。印刷前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one"> Sc2.0项目正在从头开始构建真核合成基因组。所有单独的 Sc2.0 染色体的组装已经实现了一个重要的里程碑。在这里，我们描述了使用先进的内复制与 tRNA 表达盒交叉来整合多个合成染色体，以生成具有 6.5 条合成染色体的菌株。使用 Hi-C 和长读长直接 RNA 测序评估 3D 染色体组织和转录亚型图谱。我们开发了 CRISPR 定向双等位基因 URA3 辅助基因组扫描，或“CRISPR D-BUGS”，以绘制由特定设计者修改（称为“bug”）引起的表型变异。我们首先精细定位了合成染色体 II (synII) 中的一个错误，然后发现了与 synIII 和 synX 相关的组合相互作用，揭示了一种意想不到的遗传相互作用，该相互作用将转录调控、肌醇代谢和 tRNA <sub>Ser</sub> <sup>CGA</sup>丰度联系起来。最后，为了加速整合，我们采用染色体替换来合并最大的染色体 (synIV)，从而将 >; 50% 的 Sc2.0 基因组整合到一个菌株中。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/37944511/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37944511</a> | DOI： <a href=https://doi.org/10.1016/j.cell.2023.09.025>10.1016/j.cell.2023.09.025</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：37944511</guid><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><dc:creator>赵宇</dc:creator><dc:creator>卡米拉·科埃略</dc:creator><dc:creator>阿曼达·L·休斯</dc:creator><dc:creator>卢西安娜·拉扎尔-斯蒂芬妮塔</dc:creator><dc:creator>杨珊迪</dc:creator><dc:creator>亚伦·N·布鲁克斯</dc:creator><dc:creator>罗伊·SK·沃克</dc:creator><dc:creator>张伟民</dc:creator><dc:creator>斯蒂芬妮·劳尔</dc:creator><dc:creator>辛迪·埃尔南德斯</dc:creator><dc:creator>蔡继同</dc:creator><dc:creator>莱斯利·米切尔</dc:creator><dc:creator>内塔·阿格蒙</dc:creator><dc:creator>沉月</dc:creator><dc:creator>约瑟夫·萨尔</dc:creator><dc:creator>维奥拉·凡凡尼</dc:creator><dc:creator>阿纳维路</dc:creator><dc:creator>乔丹·里维拉</dc:creator><dc:creator>梁凤霞</dc:creator><dc:creator>乔尔·巴德</dc:creator><dc:creator>乔瓦尼·斯特拉夸达尼奥</dc:creator><dc:creator>拉尔斯·M·斯坦梅茨</dc:creator><dc:creator>蔡一智</dc:creator><dc:creator>杰夫·D·博克</dc:creator><dc:date>2023-11-0</dc:date><dc:source>细胞</dc:source><dc:title>调试和整合多个合成染色体揭示了组合遗传相互作用</dc:title><dc:identifier>下午:37944511</dc:identifier><dc:identifier> doi:10.1016/cell.2023.09.025</dc:identifier></item><item><title>根据 2022 年 ESC/ERS 肺动脉高压指南新血流动力学阈值确认生存预测</title><link/>https://pubmed.ncbi.nlm.nih.gov/37944164/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=2023070 8114047&amp;ff =20231110050839&amp;v=2.17.9.post6+86293ac<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;">你的心 J. 2023 年 11 月 7 日：ehad6 doi：10.1093/eurheartj/ehad672。印刷前在线。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/37944164/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37944164</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehad672>10.1093/eurheartj/ehad672</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：37944164</guid><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><dc:creator>纳扎雷诺·加利</dc:creator><dc:creator>马西米利亚诺·帕拉齐尼</dc:creator><dc:creator>亚历山德拉·梅内斯</dc:creator><dc:date>2023-11-0</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>根据 2022 年 ESC/ERS 肺动脉高压指南新血流动力学阈值确认生存预测</dc:title><dc:identifier>下午:37944164</dc:identifier><dc:identifier> doi:10.1093/eurheartj/ehad672</dc:identifier></item><item><title>更正：TLR 和透明质酸代谢能否在急性冠脉综合征中引发中性粒细胞愤怒？</title><link/> https://pubmed.ncbi.nlm.nih.gov/37944137/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=2023070 8114047&amp;ff =20231110050839&amp;v=2.17.9.post6+86293ac<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2023 年 11 月 7 日：had7 doi：10.1093/eurheartj/ehad714。印刷前在线。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/37944137/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37944137</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehad714>10.1093/eurheartj/ehad714</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：37944137</guid><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><dc:date> 2023-11-0</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>更正：TLR 和透明质酸代谢能否在急性冠脉综合征中引发中性粒细胞愤怒？</dc:title><dc:identifier>下午:37944137</dc:identifier><dc:identifier> doi:10.1093/eurheartj/ehad714</dc:identifier></item><item><title> 4-Hydroxynonenal 通过 Dicer 翻译后修饰损害心力衰竭中 miRNA 的成熟</title><link/>https://pubmed.ncbi.nlm.nih.gov/37944136/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=2023070 8114047&amp;ff =20231110050839&amp;v=2.17.9.post6+86293ac<description>结论：4-HNE 对 Dicer 的抑制直接损害心力衰竭中的 miRNA 生物发生。引人注目的是，通过药理学 ALDH2 激活降低心脏 4-HNE 水平足以重建 Dicer 活性和 miRNA 生物合成；从而代表了心力衰竭患者的潜在治疗方法。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;">你的心 J. 2023 年 11 月 7 日：ehad6 doi：10.1093/eurheartj/ehad662。印刷前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">背景和目标：开发新疗法来应对心力衰竭的全球公共卫生负担仍然具有挑战性。本研究探讨了 4-羟基壬烯醛 (4-HNE) 对心力衰竭有害作用的潜在机制和潜在治疗方法。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">方法：应用生化、功能和组织化学测量来鉴定大鼠和人类衰竭心脏中的 4-HNE 加合物。进行体外研究以验证 4-HNE 靶标。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结果：4-HNE 是心力衰竭线粒体功能障碍的反应性醛副产物，可共价抑制 Dicer，Dicer 是 microRNA (miRNA) 生物合成所必需的 RNase III 核酸内切酶。 4-HNE 抑制 Dicer 会损害 miRNA 加工。从机制上讲，4-HNE 通过分子间相互作用与重组人 Dicer 结合，以浓度和时间依赖性方式破坏 Dicer 的活性和稳定性。二硫苏糖醇中和 4-HNE 或替换 Dicer 中的 4-HNE 靶向残基可防止体外 Dicer 的 4-HNE 抑制。有趣的是，来自三种不同心力衰竭病因的人类终末期心脏衰竭表现出 4-HNE 清除缺陷、Dicer 活性降低和 miRNA 生物合成受损。值得注意的是，使用 Alda-1 或其改进的口服生物利用度衍生物 AD-9308 通过药理学重新激活线粒体醛脱氢酶 2 (ALDH2) 来促进 4-HNE 清除，可恢复 Dicer 活性。 ALDH2 是负责去除 4-HNE 的主要酶。重要的是，这种反应伴随着心力衰竭临床前模型中 miRNA 成熟和心脏功能/重塑的改善。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结论：4-HNE 对 Dicer 的抑制直接损害心力衰竭中的 miRNA 生物发生。引人注目的是，通过药理学 ALDH2 激活降低心脏 4-HNE 水平足以重建 Dicer 活性和 miRNA 生物合成；从而代表了心力衰竭患者的潜在治疗方法。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/37944136/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37944136</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehad662>10.1093/eurheartj/ehad662</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：37944136</guid><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><dc:creator>甲级联赛 基尤纳</dc:creator><dc:creator>达尔兰·S·坎迪</dc:creator><dc:creator>路易斯·RG·普尔</dc:creator><dc:creator>伊塔马尔 CG 耶稣</dc:creator><dc:creator>利斯利·S·布兰奇</dc:creator><dc:creator>芭芭拉·克鲁姆</dc:creator><dc:creator>车轮 P 阿尔伯克基</dc:creator><dc:creator>朱莉安·C·菲尔兹</dc:creator><dc:creator>路易·H·博兹</dc:creator><dc:creator>凡妮莎·奥·赞贝利</dc:creator><dc:creator>阿丽亚娜·阿尔维斯</dc:creator><dc:creator>尼古拉斯·坎波罗</dc:creator><dc:creator>莫里斯·马斯特罗乔瓦尼</dc:creator><dc:creator>西尔维娜·巴特萨吉</dc:creator><dc:creator>亚历山大·莱瓦</dc:creator><dc:creator>念珠杜兰</dc:creator><dc:creator>拉斐尔广播电台</dc:creator><dc:creator>威廉·M·阿兰特斯</dc:creator><dc:creator>埃德提乌斯·库尼亚-内托</dc:creator><dc:creator>马塞洛·莫里 (Marcelo A Mori) 免费 Mp3 下载</dc:creator><dc:creator>陈哲红</dc:creator><dc:creator>杨文金</dc:creator><dc:creator>达莉亚·莫奇利-罗森</dc:creator><dc:creator>伊恩·麦克雷</dc:creator><dc:creator>卢德米拉·RP·费雷拉</dc:creator><dc:creator>朱利叶斯·CB·铁匠</dc:creator><dc:date>2023-11-0</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>4-Hydroxynonenal 通过 Dicer 翻译后修饰损害心力衰竭中 miRNA 的成熟</dc:title><dc:identifier>下午:37944136</dc:identifier><dc:identifier> doi:10.1093/eurheartj/ehad662</dc:identifier></item><item><title>改变游戏规则的流行病学研究</title><link/>https://pubmed.ncbi.nlm.nih.gov/37944059/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=2023070 8114047&amp;ff =20231110050839&amp;v=2.17.9.post6+86293ac<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2023 年 11 月 7 日；44(42):4393-4397。 doi：10.1093/eurheartj/ehad739。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/37944059/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37944059</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehad739>10.1093/eurheartj/ehad739</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：37944059</guid><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><dc:creator>菲利普·克雷亚</dc:creator><dc:date>2023-11-0</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>改变游戏规则的流行病学研究</dc:title><dc:identifier>下午:37944059</dc:identifier><dc:identifier> doi:10.1093/eurheartj/ehad739</dc:identifier></item><item><title>暴发性心肌炎的心内膜心肌活检：需要早期准确的诊断以改善结果</title><link/>https://pubmed.ncbi.nlm.nih.gov/37944038/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=2023070 8114047&amp;ff =20231110050839&amp;v=2.17.9.post6+86293ac<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;">你的心 J. 2023 年 11 月 7 日：ehad4 doi：10.1093/eurheartj/ehad489。印刷前在线。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/37944038/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37944038</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehad489>10.1093/euroheartj/ehad489</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：37944038</guid><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><dc:creator>海因茨·彼得·舒尔泰斯</dc:creator><dc:creator>恭喜埃舍尔</dc:creator><dc:date>2023-11-0</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>暴发性心肌炎的心内膜心肌活检：需要早期准确的诊断以改善结果</dc:title><dc:identifier>下午:37944038</dc:identifier><dc:identifier> doi:10.1093/eurheartj/ehad489</dc:identifier></item><item><title>欧洲心脏病学会动脉粥样硬化和血管生物学工作组</title><link/>https://pubmed.ncbi.nlm.nih.gov/37944036/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=2023070 8114047&amp;ff =20231110050839&amp;v=2.17.9.post6+86293ac<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;">你的心 J. 2023 年 11 月 7 日：had5 doi：10.1093/eurheartj/ehad536。印刷前在线。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/37944036/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37944036</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehad536>10.1093/eurheartj/ehad536</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：37944036</guid><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><dc:creator>埃丝特·鲁特根斯</dc:creator><dc:creator>埃琳娜·奥斯托</dc:creator><dc:creator>玛丽·露丝·博查顿·皮亚拉</dc:creator><dc:date>2023-11-0</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>欧洲心脏病学会动脉粥样硬化和血管生物学工作组</dc:title><dc:identifier>下午:37944036</dc:identifier><dc:identifier> doi:10.1093/eurheartj/ehad536</dc:identifier></item><item><title>将抗 CXCR3 自身抗体作为潜在的心脏保护疗法：前景与挑战</title><link/>https://pubmed.ncbi.nlm.nih.gov/37944029/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=2023070 8114047&amp;ff =20231110050839&amp;v=2.17.9.post6+86293ac<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;">你的心 J. 2023 年 11 月 7 日：ehad6 doi：10.1093/eurheartj/ehad665。印刷前在线。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/37944029/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37944029</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehad665>10.1093/eurheartj/ehad665</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：37944029</guid><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><dc:creator>邓伟康</dc:creator><dc:date>2023-11-0</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>将抗 CXCR3 自身抗体作为潜在的心脏保护疗法：前景与挑战</dc:title><dc:identifier>下午:37944029</dc:identifier><dc:identifier> doi:10.1093/eurheartj/ehad665</dc:identifier></item><item><title>研究 HFpEF 肺动脉高压的新方法</title><link/>https://pubmed.ncbi.nlm.nih.gov/37943948/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=2023070 8114047&amp;ff =20231110050839&amp;v=2.17.9.post6+86293ac<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;">环路研究中心。 2023 年 11 月 10 日；133(11):899-901。 doi：10.1161/CIRCUS.123.323753。电子版 2023 年 11 月</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/37943948/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37943948</a> | DOI： <a href=https://doi.org/10.1161/CIRCRESAHA.123.323753>10.1161/CIRCUS.123.323753</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：37943948</guid><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><dc:creator>戴志玉</dc:creator><dc:creator>爱德华·本杰明·索普</dc:creator><dc:date>2023-11-0</dc:date><dc:source>流通研究</dc:source><dc:title>研究 HFpEF 肺动脉高压的新方法</dc:title><dc:identifier>下午:37943948</dc:identifier><dc:identifier> doi:10.1161/CIRCUS.123.323753</dc:identifier></item><item><title>认识第一作者</title><link/>https://pubmed.ncbi.nlm.nih.gov/37943946/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=2023070 8114047&amp;ff =20231110050839&amp;v=2.17.9.post6+86293ac<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;">环路研究中心。 2023 年 11 月 10 日；133(11):884。 doi：10.1161/RES。电子版 2023 年 11 月</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/37943946/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37943946</a> | DOI： <a href=https://doi.org/10.1161/RES.0000000000000643>10.1161/RES</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：37943946</guid><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><dc:date> 2023-11-0</dc:date><dc:source>流通研究</dc:source><dc:title>认识第一作者</dc:title><dc:identifier>下午:37943946</dc:identifier><dc:identifier> doi:10.1161/RES.000000000000643</dc:identifier></item><item><title>受体特异性由内而外的 cAMP 信号传导调节心肌细胞的命运</title><link/>https://pubmed.ncbi.nlm.nih.gov/37943945/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=2023070 8114047&amp;ff =20231110050839&amp;v=2.17.9.post6+86293ac<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;">环路研究中心。 2023 年 11 月 10 日；133(11):924-926。 doi：10.1161/CIRCUS.123.323754。电子版 2023 年 11 月</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/37943945/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37943945</a> | DOI： <a href=https://doi.org/10.1161/CIRCRESAHA.123.323754>10.1161/CIRCUS.123.323754</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：37943945</guid><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><dc:creator>弗兰克·勒佐亚克</dc:creator><dc:creator>维亚切斯拉夫·尼古拉耶夫</dc:creator><dc:date>2023-11-0</dc:date><dc:source>流通研究</dc:source><dc:title>受体特异性由内而外的 cAMP 信号传导调节心肌细胞的命运</dc:title><dc:identifier>下午:37943945</dc:identifier><dc:identifier> doi:10.1161/CIRCUS.123.323754</dc:identifier></item><item><title> 2023年心肺复苏和心血管急救科学国际共识及治疗建议：基本生命支持总结；高级生命支持；儿科生命支持；新生儿生命支持；教育、实施和团队；和急救工作队</title><link/>https://pubmed.ncbi.nlm.nih.gov/37942682/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=2023070 8114047&amp;ff =20231110050839&amp;v=2.17.9.post6+86293ac<description>国际复苏联络委员会不断审查新的、同行评审的、已出版的心肺复苏和急救科学。 《科学与治疗建议共识》草案全年都会在网上发布，这份年度摘要提供了今年所有工作组最终《科学与治疗建议共识》的更简洁版本。今年系统评价涉及的主题包括复苏。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>流通</b>。 2023 年 11 月 9 日。doi：10.1161/CIR。印刷前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">国际复苏联络委员会不断审查新的、同行评审的、已出版的心肺复苏和急救科学。 《科学与治疗建议共识》草案全年都会在网上发布，这份年度摘要提供了今年所有工作组最终《科学与治疗建议共识》的更简洁版本。今年系统评价的主题包括溺水复苏、成人和儿童体外心肺复苏、心脏骤停期间的钙治疗、双序贯除颤、成人和儿童心脏骤停后的神经预测、早产后维持正常体温、心率监测方法等。新生儿诊断、新生儿呼出二氧化碳检测、成人复苏期间家人在场，以及逐步进行复苏技能培训。来自六个国际复苏联络委员会工作组的成员使用建议分级评估、制定和评估标准对证据质量进行了评估、讨论和辩论，他们的声明包括共识治疗建议。理由和决策证据框架要点部分提供了对工作组审议情况的深入了解。此外，工作组还列出了进一步研究的优先知识差距。其他主题通过范围审查和证据更新来解决。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/37942682/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37942682</a> | DOI： <a href=https://doi.org/10.1161/CIR.0000000000001179>10.1161/CIR</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：37942682</guid><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><dc:creator>凯瑟琳·伯格</dc:creator><dc:creator>珍妮特·E·布雷</dc:creator><dc:creator>吴基昌</dc:creator><dc:creator>海伦·G·莉莉</dc:creator><dc:creator>罗伯特·格雷夫</dc:creator><dc:creator>贾斯汀·卡尔森</dc:creator><dc:creator>彼得·T·莫利</dc:creator><dc:creator>伊恩·R·德伦南</dc:creator><dc:creator>迈克尔·史密斯</dc:creator><dc:creator>巴纳比·R·斯科菲尔德</dc:creator><dc:creator>加里·韦纳</dc:creator><dc:creator>郑少秋</dc:creator><dc:creator>特蕾莎·贾尔夫</dc:creator><dc:creator>克里斯蒂安·阿贝莱拉斯·戈麦斯</dc:creator><dc:creator>贾森·阿克沃斯</dc:creator><dc:creator>拉尔斯·W·安德森</dc:creator><dc:creator>黛安·L·阿特金斯</dc:creator><dc:creator>大卫·C·贝里</dc:creator><dc:creator>法尔汗·班吉</dc:creator><dc:creator>约斯特·比伦斯</dc:creator><dc:creator>托马斯·比当古·科顿</dc:creator><dc:creator>维尔博拉</dc:creator><dc:creator>贝恩德·W·博蒂格</dc:creator><dc:creator>理查德·布拉德利</dc:creator><dc:creator>扬·布雷克沃尔特</dc:creator><dc:creator>帕斯卡·卡桑</dc:creator><dc:creator>张伟天</dc:creator><dc:creator>内森·P·查尔顿</dc:creator><dc:creator>郑成菲尔</dc:creator><dc:creator>朱莉·康斯丁</dc:creator><dc:creator>丹妮拉·T·科斯塔-诺布尔</dc:creator><dc:creator>基思·库珀</dc:creator><dc:creator>凯蒂·丹蒂</dc:creator><dc:creator>达萨那亚克精舍</dc:creator><dc:creator>彼得·G·戴维斯</dc:creator><dc:creator>詹妮弗·道森</dc:creator><dc:creator>阿尔梅达的玛丽亚·费尔南达</dc:creator><dc:creator>艾伦·R（来自卡昂）</dc:creator><dc:creator>查尔斯·D·迪肯</dc:creator><dc:creator>布里奇特·迪克</dc:creator><dc:creator>马修·J·杜马</dc:creator><dc:creator>凯瑟琳·伊斯特伍德</dc:creator><dc:creator>瓦利德·埃尔-纳加尔</dc:creator><dc:creator>乔治·G·法布尔</dc:creator><dc:creator>乔·福克斯</dc:creator><dc:creator>尼诺·菲亚科</dc:creator><dc:creator>朱迪思·C·芬恩</dc:creator><dc:creator>古斯塔沃和鲜花</dc:creator><dc:creator>伊丽莎白·E·福利亚</dc:creator><dc:creator>弗雷德里克·福克</dc:creator><dc:creator>伊莱恩·吉尔福伊尔</dc:creator><dc:creator>克雷格·古尔斯比</dc:creator><dc:creator>阿斯格·格兰费尔特</dc:creator><dc:creator>安妮·玛丽·盖尔盖里安</dc:creator><dc:creator>露丝金斯堡</dc:creator><dc:creator>畑哲夫</dc:creator><dc:creator>凯伦·G·赫希</dc:creator><dc:creator>马蒂亚斯·霍姆伯格</dc:creator><dc:creator>细野茂治</dc:creator><dc:creator>谢明如</dc:creator><dc:creator>许欣迪</dc:creator><dc:creator>池山贵成</dc:creator><dc:creator>谏山哲也</dc:creator><dc:creator>尼古拉斯·约翰逊</dc:creator><dc:creator>维沙尔·卡帕迪亚</dc:creator><dc:creator>达里巴川上寺</dc:creator><dc:creator>金韩石</dc:creator><dc:creator>莫妮卡·E·克莱曼</dc:creator><dc:creator>大卫·A·克洛克</dc:creator><dc:creator>彼得·库登丘克</dc:creator><dc:creator>艾米·法尔</dc:creator><dc:creator>黑泽宏</dc:creator><dc:creator>安东尼·T·拉吉纳</dc:creator><dc:creator>卡斯帕·G·劳里森</dc:creator><dc:creator>埃里克·J·拉沃纳斯</dc:creator><dc:creator>亨利·C·李</dc:creator><dc:creator>林依群</dc:creator><dc:creator>安德鲁·S·洛基</dc:creator><dc:creator>芬利·麦克尼尔</dc:creator><dc:creator>伊恩·K·麦科诺奇</dc:creator><dc:creator>R约翰·马达尔</dc:creator><dc:creator>卡罗莱纳州马耳他汉森</dc:creator><dc:creator>西沃恩·马斯特森</dc:creator><dc:creator>松山佑</dc:creator><dc:creator>克里斯托弗·麦金利</dc:creator><dc:creator>丹尼尔·梅兰</dc:creator><dc:creator>维克斯·蒙纳利</dc:creator><dc:creator>维奈纳德卡尼</dc:creator><dc:creator>菲尔多斯 L 时间</dc:creator><dc:creator>凯文·J·内森</dc:creator><dc:creator>Ziad Nehme 免费 Mp3 下载</dc:creator><dc:creator>迈克尔·内梅斯</dc:creator><dc:creator>罗伯特·W·诺伊马尔</dc:creator><dc:creator>托尼娅·尼克尔森</dc:creator><dc:creator>尼古拉斯·尼古拉斯</dc:creator><dc:creator>西山千花</dc:creator><dc:creator>典井达也</dc:creator><dc:creator>加布里埃尔·A·纳索尔</dc:creator><dc:creator>大下慎一郎</dc:creator><dc:creator>特里萨·M·奥拉斯芬根</dc:creator><dc:creator>王永光</dc:creator><dc:creator>亚伦·M·奥金</dc:creator><dc:creator>迈克尔·J·帕尔</dc:creator><dc:creator>凯瑟琳·帕托卡</dc:creator><dc:creator>加文·帕金斯</dc:creator><dc:creator>杰弗里·帕尔曼</dc:creator><dc:creator>雅科夫·拉比</dc:creator><dc:creator>詹姆斯·雷特</dc:creator><dc:creator>沙利尼·拉马钱德兰</dc:creator><dc:creator>维拉加万 V 拉马斯瓦米</dc:creator><dc:creator>雷蒙德阿姨</dc:creator><dc:creator>阿米莉亚·G·雷斯</dc:creator><dc:creator>约书亚·C·雷诺兹</dc:creator><dc:creator>朱塞佩·里斯塔尼奥</dc:creator><dc:creator>安东尼奥·罗德里格斯·努涅斯</dc:creator><dc:creator>查尔斯·C·罗尔</dc:creator><dc:creator>马里奥·吕迪格</dc:creator><dc:creator>坂本哲也</dc:creator><dc:creator>克劳迪奥·桑德罗尼</dc:creator><dc:creator>泰勒·L·索耶</dc:creator><dc:creator>史蒂夫·M·谢克斯奈德</dc:creator><dc:creator>乔治·M·施默尔泽</dc:creator><dc:creator>塞巴斯蒂安·施瑙贝尔特</dc:creator><dc:creator>费德里科·塞梅拉罗</dc:creator><dc:creator>尤尼斯·M·辛格特里</dc:creator><dc:creator>马库斯 B 文具</dc:creator><dc:creator>克里斯托弗·M·史密斯</dc:creator><dc:creator>贾斯米特·索尔</dc:creator><dc:creator>威廉·斯塔森</dc:creator><dc:creator>杉浦贵宏</dc:creator><dc:creator>珍妮丝·蒂森</dc:creator><dc:creator>亚历克西斯·托普吉安</dc:creator><dc:creator>丹尼尔·特雷维萨努托</dc:creator><dc:creator>克里斯蒂安·瓦扬古</dc:creator><dc:creator>迈拉·H·威科夫</dc:creator><dc:creator>乔纳森·P·威利</dc:creator><dc:creator>杨志伟</dc:creator><dc:creator>杨欣宜</dc:creator><dc:creator>卡罗琳·M·泽洛普</dc:creator><dc:creator>大卫·齐德曼</dc:creator><dc:creator>杰里·P·诺兰</dc:creator><dc:creator>合作者</dc:creator><dc:date>2023-11-0</dc:date><dc:source>循环</dc:source><dc:title>2023年心肺复苏和心血管急救科学国际共识及治疗建议：基本生命支持总结；高级生命支持；儿科生命支持；新生儿生命支持；教育、实施和团队；和急救工作队</dc:title><dc:identifier>下午:37942682</dc:identifier><dc:identifier>号码：10.1161/CIR</dc:identifier></item><item><title>趋化因子受体 3 自身抗体可预测心血管风险</title><link/>https://pubmed.ncbi.nlm.nih.gov/37941454/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=2023070 8114047&amp;ff =20231110050839&amp;v=2.17.9.post6+86293ac<description>结论：在无自身免疫性疾病的个体中，抗 CXCR3 aAb 丰富，与 CV 终末器官损伤相关，并可预测全因死亡以及心脏发病率和死亡率以及实验性动脉粥样硬化的加速。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;">你的心 J. 2023 年 11 月 6 日：ehad6 doi：10.1093/eurheartj/ehad666。印刷前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">背景和目的：慢性炎症和自身免疫导致心血管（CV）疾病。最近，已经鉴定出针对 CXC 基序趋化因子受体 3 (CXCR3) 的自身抗体 (aAb)，CXCR3 是一种在动脉粥样硬化中起关键作用的 G 蛋白偶联受体。抗 CXCR3 aAb 在 CV 风险和疾病中的作用尚不清楚。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">方法：通过市售酶联免疫吸附测定对基于人群的古腾堡健康研究的 5000 名参与者（可用性：97.1%）的抗 CXCR3 aAb 进行定量，并进行广泛的临床表型分析。进行回归分析以确定抗CXCR3 aAb的决定因素以及与临床结果的相关性（即全因死亡率、心源性死亡、心力衰竭和主要不良心脏事件，包括突发冠状动脉疾病、心肌梗塞和心源性死亡）。最后，在 ApoE(-/-) 小鼠中进行 CXCR3 免疫和 aAb 被动转移以进行临床前验证。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结果：排除患有自身免疫性疾病、免疫调节药物、急性感染和癌症病史的个体后，分析样本包括 4195 名个体（48% 女性，平均年龄 55.5 ± 11 岁）。与年龄、性别、肾功能和传统心血管危险因素无关，抗 CXCR3 aAb 浓度的增加会转化为更高的内膜中层厚度、左心室质量和 N 末端 B 型利钠肽前体。根据年龄和性别进行调整后，高于 75% 的抗 CXCR3 aAb 可预测全因死亡[风险比 (HR)（95% 置信区间）1.25 (1.02, 1.52)，P = .029]，这是由过高的心脏死亡率驱动的[ 4].HR 2.51 (1.21, 5.22), P = .014]。主要不良心脏事件风险较高的趋势 [HR 1.42 (1.0, 2.0), P = .05]，同时心力衰竭事件风险增加 [抗 CXCR3 aAb 的每标准差增加的 HR：1.26 (1.02, 1.56) ).), P = .03] 可能有助于这一观察。靶向蛋白质组学揭示了抗 CXCR3 aAb 的分子特征，反映了与正在进行的 T 辅助细胞 1 反应相关的免疫细胞激活和细胞因子-细胞因子受体相互作用。最后，与未免疫对照相比，针对CXCR3免疫的ApoE(-/-)小鼠表现出增加的抗CXCR3 aAb，并表现出更高的动脉粥样硬化负担，这与被动转移模型中抗CXCR3 aAb的浓度相关。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结论：在无自身免疫性疾病的个体中，抗 CXCR3 aAb 丰富，与 CV 终末器官损伤相关，并可预测全因死亡以及心脏发病率和死亡率以及实验性动脉粥样硬化的加速。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/37941454/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37941454</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehad666>10.1093/eurheartj/ehad666</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：37941454</guid><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><dc:creator>费利克斯·穆勒</dc:creator><dc:creator>祖海尔·阿赫拉鲁</dc:creator><dc:creator>汉娜·格拉肖夫</dc:creator><dc:creator>马克·W·海多恩</dc:creator><dc:creator>延斯和汉里奇</dc:creator><dc:creator>劳伦斯·约翰逊</dc:creator><dc:creator>雷杜安·阿赫拉鲁</dc:creator><dc:creator>托拜厄斯·赖因伯格</dc:creator><dc:creator>安德烈亚斯·舒尔茨</dc:creator><dc:creator>文森特十凯特</dc:creator><dc:creator>亚历山大·帕拉雷斯·奥克斯</dc:creator><dc:creator>托马斯·科克</dc:creator><dc:creator>史蒂芬·拉普</dc:creator><dc:creator>谢谢兰格</dc:creator><dc:creator>卢卡斯·布拉查切克</dc:creator><dc:creator>芬恩·吕伯</dc:creator><dc:creator>珍妮特·埃德曼</dc:creator><dc:creator>哈拉尔德·海德克</dc:creator><dc:creator>凯·舒尔茨-福斯特</dc:creator><dc:creator>拉尔夫·德钦德</dc:creator><dc:creator>查尔斯·J·拉克纳</dc:creator><dc:creator>诺伯特·菲佛</dc:creator><dc:creator>Jasmin Ghaemi Kerahrodi 免费 Mp3 下载</dc:creator><dc:creator>奥利弗·图舍尔</dc:creator><dc:creator>安德烈亚斯·施瓦廷</dc:creator><dc:creator>康斯坦丁·斯特劳赫</dc:creator><dc:creator>托马斯·蒙泽尔</dc:creator><dc:creator>于尔根·H·普罗查斯卡</dc:creator><dc:creator>加布里埃拉·里梅卡斯坦</dc:creator><dc:creator>菲利普·S·怀尔德</dc:creator><dc:date>2023-11-0</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>趋化因子受体 3 自身抗体可预测心血管风险</dc:title><dc:identifier>下午:37941454</dc:identifier><dc:identifier> doi:10.1093/eurheartj/ehad666</dc:identifier></item><item><title>早期活检和结果证明暴发性心肌炎</title><link/>https://pubmed.ncbi.nlm.nih.gov/37941449/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=2023070 8114047&amp;ff =20231110050839&amp;v=2.17.9.post6+86293ac<description>结论：对于临床疑似暴发性心肌炎入住重症监护病房的患者，应广泛、及时地进行心内膜心肌活检。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;">你的心 J. 2023 年 11 月 6 日：had7 doi：10.1093/eurheartj/ehad707。印刷前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">背景和目的：虽然建议对暴发性心肌炎成年患者进行心内膜心肌活检（EMB），但其时机的临床影响仍不清楚。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">方法：收集了全球 15 个国家 36 个三级中心重症监护室收治的 419 名临床疑似暴发性心肌炎成年患者的数据。 210 名患者（50%）通过 EMB（n = 183，44%）或尸检/移植心脏检查（n = 27，6%）在组织学上证实了心肌炎的诊断，并且临床怀疑的心脏磁共振成像证实了心肌炎的诊断96 名 (23%) 患者。特别比较了早期 EMB（入住重症监护病房后 2 天内，n = 103）和延迟 EMB（n ).= 80).进行倾向得分加权分析以控制混杂因素。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结果：入院时的中位年龄为 40 (29-52) 岁，322 名 (77%) 患者接受了临时机械循环支持。共有 273 名 (65%) 患者在没有 HTx/LVAD 的情况下存活。早期和延迟 EMB 患者的主要结局存在显着差异（70% 与 49%，P = .004）。倾向评分加权后，早期 EMB 组与延迟 EMB 组在无 HTx/LVAD 的生存率方面仍存在显着差异（63% vs. 40%，P = .021）。此外，早期 EMB 与 1 年时较低的死亡率或 HTx/LVAD 独立相关（比值比为 0.44；95% 置信区间：0.22–0.86；P = 0.016）。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结论：对于临床疑似暴发性心肌炎入住重症监护病房的患者，应广泛、及时地进行心内膜心肌活检。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/37941449/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37941449</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehad707>10.1093/eurheartj/ehad707</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：37941449</guid><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><dc:creator>黄佛伦</dc:creator><dc:creator>亨利·阿米拉蒂</dc:creator><dc:creator>波尼雅大君</dc:creator><dc:creator>詹姆斯·蒙特罗</dc:creator><dc:creator>维克多·兰博</dc:creator><dc:creator>达里尔·艾布拉姆斯</dc:creator><dc:creator>威廉·勒布雷顿</dc:creator><dc:creator>文森特·佩莱格里诺</dc:creator><dc:creator>约书亚·伊勒</dc:creator><dc:creator>毛里齐奥·波蒂罗利</dc:creator><dc:creator>罗曼·佩尔西尼</dc:creator><dc:creator>玛丽莎·伊丽莎白·巴里奥努埃沃·桑切斯</dc:creator><dc:creator>阿尔伯特·阿里扎-孙</dc:creator><dc:creator>杨宝莲女士</dc:creator><dc:creator>冼伟正</dc:creator><dc:creator>拉杰·艾尔</dc:creator><dc:creator>赫尔根·布舍尔</dc:creator><dc:creator>斯里曼·贝莱德</dc:creator><dc:creator>克莱门特·德尔马斯</dc:creator><dc:creator>丽塔·费雷拉</dc:creator><dc:creator>罗伯特·朗康·阿尔伯克基</dc:creator><dc:creator>特蕾莎·洛佩斯-侄子</dc:creator><dc:creator>杰伦·J·H·邦吉</dc:creator><dc:creator>克里斯托弗·菲瑟</dc:creator><dc:creator>威廉·弗兰奇诺</dc:creator><dc:creator>杰米·麦卡尼</dc:creator><dc:creator>大下真一郎</dc:creator><dc:creator>亚历山德罗·西奥尼斯</dc:creator><dc:creator>弗朗西斯科·何塞·埃尔南德斯-佩雷斯</dc:creator><dc:creator>爱德华·巴尔吉·奈特</dc:creator><dc:creator>马丁·贝克</dc:creator><dc:creator>亨利·穆利亚</dc:creator><dc:creator>朴成勋</dc:creator><dc:creator>德克·W·唐克</dc:creator><dc:creator>比阿特丽斯·波拉尔</dc:creator><dc:creator>纳迪亚·艾萨维</dc:creator><dc:creator>阿尔芒帐户德萨普</dc:creator><dc:creator>弗吉尼亚布尔戈斯</dc:creator><dc:creator>马修·勒苏海蒂尔</dc:creator><dc:creator>贾斯汀·弗里德</dc:creator><dc:creator>郑在承</dc:creator><dc:creator>桑德拉·罗西洛</dc:creator><dc:creator>文森特谢勒</dc:creator><dc:creator>萨阿德·恩塞尔</dc:creator><dc:creator>哈德里安·温斯泽夫斯基</dc:creator><dc:creator>保罗·乔治-佩雷斯</dc:creator><dc:creator>安东尼·金蒙</dc:creator><dc:creator>罗德里戈·迪亚兹</dc:creator><dc:creator>阿兰·库姆斯</dc:creator><dc:creator>马修·施密特</dc:creator><dc:creator>满月研究小组</dc:creator><dc:date>2023-11-0</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>早期活检和结果证明暴发性心肌炎</dc:title><dc:identifier>下午：37941449</dc:identifier><dc:identifier> doi:10.1093/eurheartj/ehad707</dc:identifier></item><item><title> Emery-Dreifuss 肌营养不良症：仔细观察心脏并发症</title><link/>https://pubmed.ncbi.nlm.nih.gov/37941127/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=2023070 8114047&amp;ff =20231110050839&amp;v=2.17.9.post6+86293ac<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;">你的心 J. 2023 年 11 月 6 日：ehad7 doi：10.1093/eurheartj/ehad735。印刷前在线。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/37941127/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37941127</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehad735>10.1093/eurheartj/ehad735</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：37941127</guid><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><dc:creator>达莉亚·克拉马连科</dc:creator><dc:creator>罗迪·沃尔什</dc:creator><dc:date>2023-11-0</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>Emery-Dreifuss 肌营养不良症：仔细观察心脏并发症</dc:title><dc:identifier>下午：37941127</dc:identifier><dc:identifier> doi:10.1093/eurheartj/ehad735</dc:identifier></item><item><title>五个简单的部分仅占心血管疾病和全因死亡事件的一小部分</title><link/>https://pubmed.ncbi.nlm.nih.gov/37941126/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=2023070 8114047&amp;ff =20231110050839&amp;v=2.17.9.post6+86293ac<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> Eur Heart J. 2023 Nov 6:ehad731. doi: 10.1093/eurheartj/ehad731. Online ahead of print.</p><p> <b>NO ABSTRACT</b></p><p style="color: lightgray"> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/37941126/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37941126</a> | DOI: <a href=https://doi.org/10.1093/eurheartj/ehad731>10.1093/eurheartj/ehad731</a></p></div> ]]>;</content:encoded><guid ispermalink="false"> pubmed:37941126</guid><pubDate> Thu, 09 Nov 2023 06:00:00 -0500</pubDate><dc:creator> Giovanna Liuzzo</dc:creator><dc:creator> Carlo Patrono</dc:creator><dc:date> 2023-11-09</dc:date><dc:source> European heart journal</dc:source><dc:title> Five easy pieces only account for a fraction of incident cardiovascular disease and all-cause deaths</dc:title><dc:identifier> pmid:37941126</dc:identifier><dc:identifier> doi:10.1093/eurheartj/ehad731</dc:identifier></item><item><title> Reply: C-Reactive Protein and Heart Failure in Patients With Established Cardiovascular Disease: Evidence From UK Biobank</title><link/> https://pubmed.ncbi.nlm.nih.gov/37940237/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110050839&amp;v=2.17.9.post6+86293ac<description> No abstract </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> J Am Coll Cardiol. 2023 Nov 14;82(20):e193. doi: 10.1016/j.jacc.2023.09.803.</p><p> <b>NO ABSTRACT</b></p><p style="color: lightgray"> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/37940237/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37940237</a> | DOI: <a href=https://doi.org/10.1016/j.jacc.2023.09.803>10.1016/j.jacc.2023.09.803</a></p></div> ]]>;</content:encoded><guid ispermalink="false"> pubmed:37940237</guid><pubDate> Wed, 08 Nov 2023 06:00:00 -0500</pubDate><dc:creator> Pascal M Burger</dc:creator><dc:creator> Frank LJ Visseren</dc:creator><dc:creator> Jannick AN Dorresteijn</dc:creator><dc:date> 2023-11-08</dc:date><dc:source> Journal of the American College of Cardiology</dc:source><dc:title> Reply: C-Reactive Protein and Heart Failure in Patients With Established Cardiovascular Disease: Evidence From UK Biobank</dc:title><dc:identifier> pmid:37940237</dc:identifier><dc:identifier> doi:10.1016/j.jacc.2023.09.803</dc:identifier></item><item><title> C-Reactive Protein and Heart Failure in Patients With Established Cardiovascular Disease: Evidence From UK Biobank</title><link/> https://pubmed.ncbi.nlm.nih.gov/37940236/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110050839&amp;v=2.17.9.post6+86293ac<description> No abstract </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> J Am Coll Cardiol. 2023 Nov 14;82(20):e191-e192. doi: 10.1016/j.jacc.2023.08.052.</p><p> <b>NO ABSTRACT</b></p><p style="color: lightgray"> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/37940236/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37940236</a> | DOI: <a href=https://doi.org/10.1016/j.jacc.2023.08.052>10.1016/j.jacc.2023.08.052</a></p></div> ]]>;</content:encoded><guid ispermalink="false"> pubmed:37940236</guid><pubDate> Wed, 08 Nov 2023 06:00:00 -0500</pubDate><dc:creator> Jakub Morze</dc:creator><dc:creator> Andrzej Rynkiewicz</dc:creator><dc:date> 2023-11-08</dc:date><dc:source> Journal of the American College of Cardiology</dc:source><dc:title> C-Reactive Protein and Heart Failure in Patients With Established Cardiovascular Disease: Evidence From UK Biobank</dc:title><dc:identifier> pmid:37940236</dc:identifier><dc:identifier> doi:10.1016/j.jacc.2023.08.052</dc:identifier></item><item><title> Long-Term Incidence of Atrial Fibrillation in Patients With Autoimmune Disease</title><link/> https://pubmed.ncbi.nlm.nih.gov/37940235/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110050839&amp;v=2.17.9.post6+86293ac<description> No abstract </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> J Am Coll Cardiol. 2023 Nov 14;82(20):1969-1971. doi: 10.1016/j.jacc.2023.09.802.</p><p> <b>NO ABSTRACT</b></p><p style="color: lightgray"> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/37940235/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110050839&v=2.17.9.post6+86293ac">37940235</a> | DOI: <a href=https://doi.org/10.1016/j.jacc.2023.09.802>10.1016/j.jacc.2023.09.802</a></p></div> ]]>;</content:encoded><guid ispermalink="false"> pubmed:37940235</guid><pubDate> Wed, 08 Nov 2023 06:00:00 -0500</pubDate><dc:creator> Guoli Sun</dc:creator><dc:creator> Ole Ahlehoff</dc:creator><dc:creator> Emil L Fosbøl</dc:creator><dc:creator> Morten Schou</dc:creator><dc:creator> Mikkel Faurschou</dc:creator><dc:creator> Jesper Hastrup Svendsen</dc:creator><dc:creator> Lars Køber</dc:creator><dc:creator> Jawad H Butt</dc:creator><dc:date> 2023-11-08</dc:date><dc:source> Journal of the American College of Cardiology</dc:source><dc:title> Long-Term Incidence of Atrial Fibrillation in Patients With Autoimmune Disease</dc:title><dc:identifier> pmid:37940235</dc:identifier><dc:identifier> doi:10.1016/j.jacc.2023.09.802</dc:identifier></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>心血管高分期刊</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;v=2.17.9.post6+86293ac&amp;fc=20230708114047&amp;utm_source=Chrome&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;ff=20231110071448
+    <description>心血管高分期刊: Latest results from PubMed</description>
+<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;v=2.17.9.post6+86293ac&amp;fc=20230708114047&amp;utm_source=Chrome&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;ff=20231110071448" rel="self"></atom:link>
+<docs>http://www.rssboard.org/rss-specification</docs>
+<generator>PubMed RSS feeds (2.17.9.post6+86293ac)</generator>
+<language>en</language>
+<lastbuilddate>Fri, 10 Nov 2023 12:14:49 +0000</lastbuilddate>
+<pubDate>Fri, 10 Nov 2023 06:00:00 -0500</pubDate>
+<ttl>120</ttl>
+<item>
+<title>Disturbed Sleep Supports Neutrophil Activation and Promotes Atherosclerosis and Plaque Necrosis</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37947098/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2023 Nov 10. doi: 10.1161/CIRCRESAHA.123.322858. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37947098/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37947098</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.123.322858>10.1161/CIRCRESAHA.123.322858</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37947098</guid>
+<pubDate>Fri, 10 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Alina K Moriarty</dc:creator>
+<dc:creator>Tayab C Waseem</dc:creator>
+<dc:creator>W Coles Keeter</dc:creator>
+<dc:creator>Shelby D Ma</dc:creator>
+<dc:creator>Robin Bai</dc:creator>
+<dc:creator>Aleksandr V Ivanov</dc:creator>
+<dc:creator>Cassandra L Kirk</dc:creator>
+<dc:creator>Marion Mussbacher</dc:creator>
+<dc:creator>Larry D Sanford</dc:creator>
+<dc:creator>Elena V Galkina</dc:creator>
+<dc:date>2023-11-10</dc:date>
+<dc:source>Circulation research</dc:source>
+<dc:title>Disturbed Sleep Supports Neutrophil Activation and Promotes Atherosclerosis and Plaque Necrosis</dc:title>
+<dc:identifier>pmid:37947098</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCRESAHA.123.322858</dc:identifier>
+</item>
+<item>
+<title>Novel Prediction Equations for Absolute Risk Assessment of Total Cardiovascular Disease Incorporating Cardiovascular-Kidney-Metabolic Health: A Scientific Statement From the American Heart Association</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37947094/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>Cardiovascular-kidney-metabolic (CKM) syndrome is a novel construct recently defined by the American Heart Association in response to the high prevalence of metabolic and kidney disease. Epidemiological data demonstrate higher absolute risk of both atherosclerotic cardiovascular disease (CVD) and heart failure as an individual progresses from CKM stage 0 to stage 3, but optimal strategies for risk assessment need to be refined. Absolute risk assessment with the goal to match type and intensity...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2023 Nov 10. doi: 10.1161/CIR.0000000000001191. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Cardiovascular-kidney-metabolic (CKM) syndrome is a novel construct recently defined by the American Heart Association in response to the high prevalence of metabolic and kidney disease. Epidemiological data demonstrate higher absolute risk of both atherosclerotic cardiovascular disease (CVD) and heart failure as an individual progresses from CKM stage 0 to stage 3, but optimal strategies for risk assessment need to be refined. Absolute risk assessment with the goal to match type and intensity of interventions with predicted risk and expected treatment benefit remains the cornerstone of primary prevention. Given the growing number of therapies in our armamentarium that simultaneously address all 3 CKM axes, novel risk prediction equations are needed that incorporate predictors and outcomes relevant to the CKM context. This should also include social determinants of health, which are key upstream drivers of CVD, to more equitably estimate and address risk. This scientific statement summarizes the background, rationale, and clinical implications for the newly developed sex-specific, race-free risk equations: PREVENT (AHA Predicting Risk of CVD Events). The PREVENT equations enable 10- and 30-year risk estimates for total CVD (composite of atherosclerotic CVD and heart failure), include estimated glomerular filtration rate as a predictor, and adjust for competing risk of non-CVD death among adults 30 to 79 years of age. Additional models accommodate enhanced predictive utility with the addition of CKM factors when clinically indicated for measurement (urine albumin-to-creatinine ratio and hemoglobin A1c) or social determinants of health (social deprivation index) when available. Approaches to implement risk-based prevention using PREVENT across various settings are discussed.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37947094/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37947094</a> | DOI:<a href=https://doi.org/10.1161/CIR.0000000000001191>10.1161/CIR.0000000000001191</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37947094</guid>
+<pubDate>Fri, 10 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Sadiya S Khan</dc:creator>
+<dc:creator>Josef Coresh</dc:creator>
+<dc:creator>Michael J Pencina</dc:creator>
+<dc:creator>Chiadi E Ndumele</dc:creator>
+<dc:creator>Janani Rangaswami</dc:creator>
+<dc:creator>Sheryl L Chow</dc:creator>
+<dc:creator>Latha P Palaniappan</dc:creator>
+<dc:creator>Laurence S Sperling</dc:creator>
+<dc:creator>Salim S Virani</dc:creator>
+<dc:creator>Jennifer E Ho</dc:creator>
+<dc:creator>Ian J Neeland</dc:creator>
+<dc:creator>Katherine R Tuttle</dc:creator>
+<dc:creator>Radhika Rajgopal Singh</dc:creator>
+<dc:creator>Mitchell S V Elkind</dc:creator>
+<dc:creator>Donald M Lloyd-Jones</dc:creator>
+<dc:creator>American Heart Association</dc:creator>
+<dc:date>2023-11-10</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Novel Prediction Equations for Absolute Risk Assessment of Total Cardiovascular Disease Incorporating Cardiovascular-Kidney-Metabolic Health: A Scientific Statement From the American Heart Association</dc:title>
+<dc:identifier>pmid:37947094</dc:identifier>
+<dc:identifier>doi:10.1161/CIR.0000000000001191</dc:identifier>
+</item>
+<item>
+<title>Development and Validation of the American Heart Association Predicting Risk of Cardiovascular Disease EVENTs (PREVENT) Equations</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37947085/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>Background: Multivariable equations are recommended by primary prevention guidelines to assess absolute risk of cardiovascular disease (CVD). However, current equations have several limitations. Therefore, we developed and validated the AHA Predicting Risk of CVD EVENTs (PREVENT) equations among US adults aged 30-79 years without known CVD. Methods: The derivation sample included individual-level participant data from 25 datasets (N=3,281,919) between 1992-2017. The primary outcome was CVD...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2023 Nov 10. doi: 10.1161/CIRCULATIONAHA.123.067626. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one"><b>Background:</b> Multivariable equations are recommended by primary prevention guidelines to assess absolute risk of cardiovascular disease (CVD). However, current equations have several limitations. Therefore, we developed and validated the AHA Predicting Risk of CVD EVENTs (PREVENT) equations among US adults aged 30-79 years without known CVD. <b>Methods:</b> The derivation sample included individual-level participant data from 25 datasets (N=3,281,919) between 1992-2017. The primary outcome was CVD (atherosclerotic CVD [ASCVD] and heart failure [HF]). Predictors included traditional risk factors (smoking status, systolic blood pressure, cholesterol, anti-hypertensive or statin use, diabetes) and estimated glomerular filtration rate [eGFR]. Models were sex-specific, race-free, developed on the age-scale, and adjusted for competing risk of non-CVD death. Analyses were conducted in each dataset and meta-analyzed. Discrimination was assessed using Harrell's C-statistic. Calibration was calculated as the slope of the observed vs. predicted risk by decile. Additional equations to predict each CVD subtype (ASCVD, HF) and include optional predictors (urine albumin-to-creatinine ratio [UACR], hemoglobin A1c [HbA1c]), and social deprivation index [SDI]) were also developed. External validation was performed in 3,330,085 participants from 21 additional datasets. <b>Results:</b> Among 6,612,004 adults included, mean (SD) age was 53 (12) years and 56% were female. Over a mean (SD) follow-up of 4.8 (3.1) years, there were 211,515 incident total CVD events. The median C-statistics in external validation for CVD were 0.794 (interquartile interval [IQI]: 0.763-0.809) in female and 0.757 (0.727-0.778) in male participants. The calibration slopes were 1.03 (IQI 0.81 -1.16) and 0.94 (0.81-1.13) among females and males, respectively. Similar estimates for discrimination and calibration were observed for ASCVD- and HF-specific models. The improvement in discrimination was small but statistically significant when UACR, HbA1c, and SDI were added together to the base model to total CVD (ΔC-statistic [IQI] 0.004 [0.004, 0.005] and 0.005 [0.004, 0.007] among females and males, respectively). Calibration improved significantly when UACR was added to the base model among those with marked albuminuria (>;300mg/g) (1.05 [0.84-1.20] vs. 1.39 [1.14-1.65], p=0.01). <b>Conclusions:</b> PREVENT equations accurately and precisely predicted risk for incident CVD and CVD subtypes in a large, diverse, and contemporary sample of US adults using routinely available clinical variables.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37947085/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37947085</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.067626>10.1161/CIRCULATIONAHA.123.067626</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37947085</guid>
+<pubDate>Fri, 10 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Sadiya S Khan</dc:creator>
+<dc:creator>Kunihiro Matsushita</dc:creator>
+<dc:creator>Yingying Sang</dc:creator>
+<dc:creator>Shoshana H Ballew</dc:creator>
+<dc:creator>Morgan E Grams</dc:creator>
+<dc:creator>Aditya Surapaneni</dc:creator>
+<dc:creator>Michael J Blaha</dc:creator>
+<dc:creator>April P Carson</dc:creator>
+<dc:creator>Alexander R Chang</dc:creator>
+<dc:creator>Elizabeth Ciemins</dc:creator>
+<dc:creator>Alan S Go</dc:creator>
+<dc:creator>Orlando M Gutierrez</dc:creator>
+<dc:creator>Shih-Jen Hwang</dc:creator>
+<dc:creator>Simerjot K Jassal</dc:creator>
+<dc:creator>Csaba P Kovesdy</dc:creator>
+<dc:creator>Donald M Lloyd-Jones</dc:creator>
+<dc:creator>Michael G Shlipak</dc:creator>
+<dc:creator>Latha P Palaniappan</dc:creator>
+<dc:creator>Laurence Sperling</dc:creator>
+<dc:creator>Salim S Virani</dc:creator>
+<dc:creator>Katherine Tuttle</dc:creator>
+<dc:creator>Ian J Neeland</dc:creator>
+<dc:creator>Sheryl L Chow</dc:creator>
+<dc:creator>Janani Rangaswami</dc:creator>
+<dc:creator>Michael J Pencina</dc:creator>
+<dc:creator>Chiadi E Ndumele</dc:creator>
+<dc:creator>Josef Coresh</dc:creator>
+<dc:creator>Chronic Kidney Disease Prognosis Consortium and the American Heart Association Cardiovascular-Kidney-Metabolic Science Advisory Group</dc:creator>
+<dc:date>2023-11-10</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Development and Validation of the American Heart Association Predicting Risk of Cardiovascular Disease EVENTs (PREVENT) Equations</dc:title>
+<dc:identifier>pmid:37947085</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.123.067626</dc:identifier>
+</item>
+<item>
+<title>RNA polymerase II dynamics and mRNA stability feedback scale mRNA amounts with cell size</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37944513/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>A fundamental feature of cellular growth is that total protein and RNA amounts increase with cell size to keep concentrations approximately constant. A key component of this is that global transcription rates increase in larger cells. Here, we identify RNA polymerase II (RNAPII) as the limiting factor scaling mRNA transcription with cell size in budding yeast, as transcription is highly sensitive to the dosage of RNAPII but not to other components of the transcriptional machinery. Our...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2023 Nov 1:S0092-8674(23)01128-5. doi: 10.1016/j.cell.2023.10.012. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">A fundamental feature of cellular growth is that total protein and RNA amounts increase with cell size to keep concentrations approximately constant. A key component of this is that global transcription rates increase in larger cells. Here, we identify RNA polymerase II (RNAPII) as the limiting factor scaling mRNA transcription with cell size in budding yeast, as transcription is highly sensitive to the dosage of RNAPII but not to other components of the transcriptional machinery. Our experiments support a dynamic equilibrium model where global RNAPII transcription at a given size is set by the mass action recruitment kinetics of unengaged nucleoplasmic RNAPII to the genome. However, this only drives a sub-linear increase in transcription with size, which is then partially compensated for by a decrease in mRNA decay rates as cells enlarge. Thus, limiting RNAPII and feedback on mRNA stability work in concert to scale mRNA amounts with cell size.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37944513/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37944513</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2023.10.012>10.1016/j.cell.2023.10.012</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37944513</guid>
+<pubDate>Thu, 09 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Matthew P Swaffer</dc:creator>
+<dc:creator>Georgi K Marinov</dc:creator>
+<dc:creator>Huan Zheng</dc:creator>
+<dc:creator>Lucas Fuentes Valenzuela</dc:creator>
+<dc:creator>Crystal Yee Tsui</dc:creator>
+<dc:creator>Andrew W Jones</dc:creator>
+<dc:creator>Jessica Greenwood</dc:creator>
+<dc:creator>Anshul Kundaje</dc:creator>
+<dc:creator>William J Greenleaf</dc:creator>
+<dc:creator>Rodrigo Reyes-Lamothe</dc:creator>
+<dc:creator>Jan M Skotheim</dc:creator>
+<dc:date>2023-11-09</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>RNA polymerase II dynamics and mRNA stability feedback scale mRNA amounts with cell size</dc:title>
+<dc:identifier>pmid:37944513</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2023.10.012</dc:identifier>
+</item>
+<item>
+<title>Design, construction, and functional characterization of a tRNA neochromosome in yeast</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37944512/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>Here, we report the design, construction, and characterization of a tRNA neochromosome, a designer chromosome that functions as an additional, de novo counterpart to the native complement of Saccharomyces cerevisiae. Intending to address one of the central design principles of the Sc2.0 project, the ∼190-kb tRNA neochromosome houses all 275 relocated nuclear tRNA genes. To maximize stability, the design incorporates orthogonal genetic elements from non-S. cerevisiae yeast species. Furthermore,...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2023 Nov 5:S0092-8674(23)01130-3. doi: 10.1016/j.cell.2023.10.015. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Here, we report the design, construction, and characterization of a tRNA neochromosome, a designer chromosome that functions as an additional, de novo counterpart to the native complement of Saccharomyces cerevisiae. Intending to address one of the central design principles of the Sc2.0 project, the ∼190-kb tRNA neochromosome houses all 275 relocated nuclear tRNA genes. To maximize stability, the design incorporates orthogonal genetic elements from non-S. cerevisiae yeast species. Furthermore, the presence of 283 rox recombination sites enables an orthogonal tRNA SCRaMbLE system. Following construction in yeast, we obtained evidence of a potent selective force, manifesting as a spontaneous doubling in cell ploidy. Furthermore, tRNA sequencing, transcriptomics, proteomics, nucleosome mapping, replication profiling, FISH, and Hi-C were undertaken to investigate questions of tRNA neochromosome behavior and function. Its construction demonstrates the remarkable tractability of the yeast model and opens up opportunities to directly test hypotheses surrounding these essential non-coding RNAs.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37944512/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37944512</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2023.10.015>10.1016/j.cell.2023.10.015</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37944512</guid>
+<pubDate>Thu, 09 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Daniel Schindler</dc:creator>
+<dc:creator>Roy S K Walker</dc:creator>
+<dc:creator>Shuangying Jiang</dc:creator>
+<dc:creator>Aaron N Brooks</dc:creator>
+<dc:creator>Yun Wang</dc:creator>
+<dc:creator>Carolin A Müller</dc:creator>
+<dc:creator>Charlotte Cockram</dc:creator>
+<dc:creator>Yisha Luo</dc:creator>
+<dc:creator>Alicia García</dc:creator>
+<dc:creator>Daniel Schraivogel</dc:creator>
+<dc:creator>Julien Mozziconacci</dc:creator>
+<dc:creator>Noah Pena</dc:creator>
+<dc:creator>Mahdi Assari</dc:creator>
+<dc:creator>María Del Carmen Sánchez Olmos</dc:creator>
+<dc:creator>Yu Zhao</dc:creator>
+<dc:creator>Alba Ballerini</dc:creator>
+<dc:creator>Benjamin A Blount</dc:creator>
+<dc:creator>Jitong Cai</dc:creator>
+<dc:creator>Lois Ogunlana</dc:creator>
+<dc:creator>Wei Liu</dc:creator>
+<dc:creator>Katarina Jönsson</dc:creator>
+<dc:creator>Dariusz Abramczyk</dc:creator>
+<dc:creator>Eva Garcia-Ruiz</dc:creator>
+<dc:creator>Tomasz W Turowski</dc:creator>
+<dc:creator>Reem Swidah</dc:creator>
+<dc:creator>Tom Ellis</dc:creator>
+<dc:creator>Tao Pan</dc:creator>
+<dc:creator>Francisco Antequera</dc:creator>
+<dc:creator>Yue Shen</dc:creator>
+<dc:creator>Conrad A Nieduszynski</dc:creator>
+<dc:creator>Romain Koszul</dc:creator>
+<dc:creator>Junbiao Dai</dc:creator>
+<dc:creator>Lars M Steinmetz</dc:creator>
+<dc:creator>Jef D Boeke</dc:creator>
+<dc:creator>Yizhi Cai</dc:creator>
+<dc:date>2023-11-09</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Design, construction, and functional characterization of a tRNA neochromosome in yeast</dc:title>
+<dc:identifier>pmid:37944512</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2023.10.015</dc:identifier>
+</item>
+<item>
+<title>Debugging and consolidating multiple synthetic chromosomes reveals combinatorial genetic interactions</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37944511/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>The Sc2.0 project is building a eukaryotic synthetic genome from scratch. A major milestone has been achieved with all individual Sc2.0 chromosomes assembled. Here, we describe the consolidation of multiple synthetic chromosomes using advanced endoreduplication intercrossing with tRNA expression cassettes to generate a strain with 6.5 synthetic chromosomes. The 3D chromosome organization and transcript isoform profiles were evaluated using Hi-C and long-read direct RNA sequencing. We developed...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2023 Oct 20:S0092-8674(23)01079-6. doi: 10.1016/j.cell.2023.09.025. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The Sc2.0 project is building a eukaryotic synthetic genome from scratch. A major milestone has been achieved with all individual Sc2.0 chromosomes assembled. Here, we describe the consolidation of multiple synthetic chromosomes using advanced endoreduplication intercrossing with tRNA expression cassettes to generate a strain with 6.5 synthetic chromosomes. The 3D chromosome organization and transcript isoform profiles were evaluated using Hi-C and long-read direct RNA sequencing. We developed CRISPR Directed Biallelic URA3-assisted Genome Scan, or "CRISPR D-BUGS," to map phenotypic variants caused by specific designer modifications, known as "bugs." We first fine-mapped a bug in synthetic chromosome II (synII) and then discovered a combinatorial interaction associated with synIII and synX, revealing an unexpected genetic interaction that links transcriptional regulation, inositol metabolism, and tRNA<sub>Ser</sub><sup>CGA</sup> abundance. Finally, to expedite consolidation, we employed chromosome substitution to incorporate the largest chromosome (synIV), thereby consolidating >;50% of the Sc2.0 genome in one strain.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37944511/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37944511</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2023.09.025>10.1016/j.cell.2023.09.025</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37944511</guid>
+<pubDate>Thu, 09 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Yu Zhao</dc:creator>
+<dc:creator>Camila Coelho</dc:creator>
+<dc:creator>Amanda L Hughes</dc:creator>
+<dc:creator>Luciana Lazar-Stefanita</dc:creator>
+<dc:creator>Sandy Yang</dc:creator>
+<dc:creator>Aaron N Brooks</dc:creator>
+<dc:creator>Roy S K Walker</dc:creator>
+<dc:creator>Weimin Zhang</dc:creator>
+<dc:creator>Stephanie Lauer</dc:creator>
+<dc:creator>Cindy Hernandez</dc:creator>
+<dc:creator>Jitong Cai</dc:creator>
+<dc:creator>Leslie A Mitchell</dc:creator>
+<dc:creator>Neta Agmon</dc:creator>
+<dc:creator>Yue Shen</dc:creator>
+<dc:creator>Joseph Sall</dc:creator>
+<dc:creator>Viola Fanfani</dc:creator>
+<dc:creator>Anavi Jalan</dc:creator>
+<dc:creator>Jordan Rivera</dc:creator>
+<dc:creator>Feng-Xia Liang</dc:creator>
+<dc:creator>Joel S Bader</dc:creator>
+<dc:creator>Giovanni Stracquadanio</dc:creator>
+<dc:creator>Lars M Steinmetz</dc:creator>
+<dc:creator>Yizhi Cai</dc:creator>
+<dc:creator>Jef D Boeke</dc:creator>
+<dc:date>2023-11-09</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Debugging and consolidating multiple synthetic chromosomes reveals combinatorial genetic interactions</dc:title>
+<dc:identifier>pmid:37944511</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2023.09.025</dc:identifier>
+</item>
+<item>
+<title>Confirmation of survival prediction based on 2022 ESC/ERS pulmonary hypertension guidelines new haemodynamic thresholds</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37944164/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Nov 7:ehad672. doi: 10.1093/eurheartj/ehad672. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37944164/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37944164</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad672>10.1093/eurheartj/ehad672</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37944164</guid>
+<pubDate>Thu, 09 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Nazzareno Galiè</dc:creator>
+<dc:creator>Massimiliano Palazzini</dc:creator>
+<dc:creator>Alessandra Manes</dc:creator>
+<dc:date>2023-11-09</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Confirmation of survival prediction based on 2022 ESC/ERS pulmonary hypertension guidelines new haemodynamic thresholds</dc:title>
+<dc:identifier>pmid:37944164</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehad672</dc:identifier>
+</item>
+<item>
+<title>Correction to: Unravelling the heart's comic drama: can TLRs and hyaluronan metabolism stoke neutrophil rage in acute coronary syndrome?</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37944137/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Nov 7:ehad714. doi: 10.1093/eurheartj/ehad714. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37944137/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37944137</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad714>10.1093/eurheartj/ehad714</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37944137</guid>
+<pubDate>Thu, 09 Nov 2023 06:00:00 -0500</pubDate>
+<dc:date>2023-11-09</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Correction to: Unravelling the heart's comic drama: can TLRs and hyaluronan metabolism stoke neutrophil rage in acute coronary syndrome?</dc:title>
+<dc:identifier>pmid:37944137</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehad714</dc:identifier>
+</item>
+<item>
+<title>4-Hydroxynonenal impairs miRNA maturation in heart failure via Dicer post-translational modification</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37944136/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>CONCLUSIONS: 4-HNE inhibition of Dicer directly impairs miRNA biogenesis in heart failure. Strikingly, decreasing cardiac 4-HNE levels through pharmacological ALDH2 activation is sufficient to re-establish Dicer activity and miRNA biogenesis; thereby representing potential treatment for patients with heart failure.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Nov 7:ehad662. doi: 10.1093/eurheartj/ehad662. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND AND AIMS: Developing novel therapies to battle the global public health burden of heart failure remains challenging. This study investigates the underlying mechanisms and potential treatment for 4-hydroxynonenal (4-HNE) deleterious effects in heart failure.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Biochemical, functional, and histochemical measurements were applied to identify 4-HNE adducts in rat and human failing hearts. In vitro studies were performed to validate 4-HNE targets.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: 4-HNE, a reactive aldehyde by-product of mitochondrial dysfunction in heart failure, covalently inhibits Dicer, an RNase III endonuclease essential for microRNA (miRNA) biogenesis. 4-HNE inhibition of Dicer impairs miRNA processing. Mechanistically, 4-HNE binds to recombinant human Dicer through an intermolecular interaction that disrupts both activity and stability of Dicer in a concentration- and time-dependent manner. Dithiothreitol neutralization of 4-HNE or replacing 4-HNE-targeted residues in Dicer prevents 4-HNE inhibition of Dicer in vitro. Interestingly, end-stage human failing hearts from three different heart failure aetiologies display defective 4-HNE clearance, decreased Dicer activity, and miRNA biogenesis impairment. Notably, boosting 4-HNE clearance through pharmacological re-activation of mitochondrial aldehyde dehydrogenase 2 (ALDH2) using Alda-1 or its improved orally bioavailable derivative AD-9308 restores Dicer activity. ALDH2 is a major enzyme responsible for 4-HNE removal. Importantly, this response is accompanied by improved miRNA maturation and cardiac function/remodelling in a pre-clinical model of heart failure.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: 4-HNE inhibition of Dicer directly impairs miRNA biogenesis in heart failure. Strikingly, decreasing cardiac 4-HNE levels through pharmacological ALDH2 activation is sufficient to re-establish Dicer activity and miRNA biogenesis; thereby representing potential treatment for patients with heart failure.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37944136/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37944136</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad662>10.1093/eurheartj/ehad662</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37944136</guid>
+<pubDate>Thu, 09 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Ligia A Kiyuna</dc:creator>
+<dc:creator>Darlan S Candido</dc:creator>
+<dc:creator>Luiz R G Bechara</dc:creator>
+<dc:creator>Itamar C G Jesus</dc:creator>
+<dc:creator>Lisley S Ramalho</dc:creator>
+<dc:creator>Barbara Krum</dc:creator>
+<dc:creator>Ruda P Albuquerque</dc:creator>
+<dc:creator>Juliane C Campos</dc:creator>
+<dc:creator>Luiz H M Bozi</dc:creator>
+<dc:creator>Vanessa O Zambelli</dc:creator>
+<dc:creator>Ariane N Alves</dc:creator>
+<dc:creator>Nicolás Campolo</dc:creator>
+<dc:creator>Mauricio Mastrogiovanni</dc:creator>
+<dc:creator>Silvina Bartesaghi</dc:creator>
+<dc:creator>Alejandro Leyva</dc:creator>
+<dc:creator>Rosario Durán</dc:creator>
+<dc:creator>Rafael Radi</dc:creator>
+<dc:creator>Guilherme M Arantes</dc:creator>
+<dc:creator>Edécio Cunha-Neto</dc:creator>
+<dc:creator>Marcelo A Mori</dc:creator>
+<dc:creator>Che-Hong Chen</dc:creator>
+<dc:creator>Wenjin Yang</dc:creator>
+<dc:creator>Daria Mochly-Rosen</dc:creator>
+<dc:creator>Ian J MacRae</dc:creator>
+<dc:creator>Ludmila R P Ferreira</dc:creator>
+<dc:creator>Julio C B Ferreira</dc:creator>
+<dc:date>2023-11-09</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>4-Hydroxynonenal impairs miRNA maturation in heart failure via Dicer post-translational modification</dc:title>
+<dc:identifier>pmid:37944136</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehad662</dc:identifier>
+</item>
+<item>
+<title>Game changer epidemiological studies</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37944059/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Nov 7;44(42):4393-4397. doi: 10.1093/eurheartj/ehad739.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37944059/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37944059</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad739>10.1093/eurheartj/ehad739</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37944059</guid>
+<pubDate>Thu, 09 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Filippo Crea</dc:creator>
+<dc:date>2023-11-09</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Game changer epidemiological studies</dc:title>
+<dc:identifier>pmid:37944059</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehad739</dc:identifier>
+</item>
+<item>
+<title>Endomyocardial biopsy in fulminant myocarditis: need for early and accurate diagnosis to improve the outcome</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37944038/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Nov 7:ehad489. doi: 10.1093/eurheartj/ehad489. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37944038/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37944038</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad489>10.1093/eurheartj/ehad489</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37944038</guid>
+<pubDate>Thu, 09 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Heinz-Peter Schultheiss</dc:creator>
+<dc:creator>Felicitas Escher</dc:creator>
+<dc:date>2023-11-09</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Endomyocardial biopsy in fulminant myocarditis: need for early and accurate diagnosis to improve the outcome</dc:title>
+<dc:identifier>pmid:37944038</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehad489</dc:identifier>
+</item>
+<item>
+<title>The European Society of Cardiology working group on atherosclerosis and vascular biology</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37944036/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Nov 7:ehad536. doi: 10.1093/eurheartj/ehad536. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37944036/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37944036</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad536>10.1093/eurheartj/ehad536</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37944036</guid>
+<pubDate>Thu, 09 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Esther Lutgens</dc:creator>
+<dc:creator>Elena Osto</dc:creator>
+<dc:creator>Marie-Luce Bochaton-Piallat</dc:creator>
+<dc:date>2023-11-09</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>The European Society of Cardiology working group on atherosclerosis and vascular biology</dc:title>
+<dc:identifier>pmid:37944036</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehad536</dc:identifier>
+</item>
+<item>
+<title>Targeting anti-CXCR3 autoantibodies as potential cardioprotective therapy: promises and challenges</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37944029/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Nov 7:ehad665. doi: 10.1093/eurheartj/ehad665. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37944029/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37944029</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad665>10.1093/eurheartj/ehad665</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37944029</guid>
+<pubDate>Thu, 09 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Wai Hong Wilson Tang</dc:creator>
+<dc:date>2023-11-09</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Targeting anti-CXCR3 autoantibodies as potential cardioprotective therapy: promises and challenges</dc:title>
+<dc:identifier>pmid:37944029</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehad665</dc:identifier>
+</item>
+<item>
+<title>New Way to Study Pulmonary Hypertension in HFpEF</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37943948/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2023 Nov 10;133(11):899-901. doi: 10.1161/CIRCRESAHA.123.323753. Epub 2023 Nov 9.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37943948/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37943948</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.123.323753>10.1161/CIRCRESAHA.123.323753</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37943948</guid>
+<pubDate>Thu, 09 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Zhiyu Dai</dc:creator>
+<dc:creator>Edward Benjamin Thorp</dc:creator>
+<dc:date>2023-11-09</dc:date>
+<dc:source>Circulation research</dc:source>
+<dc:title>New Way to Study Pulmonary Hypertension in HFpEF</dc:title>
+<dc:identifier>pmid:37943948</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCRESAHA.123.323753</dc:identifier>
+</item>
+<item>
+<title>Meet the First Authors</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37943946/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2023 Nov 10;133(11):884. doi: 10.1161/RES.0000000000000643. Epub 2023 Nov 9.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37943946/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37943946</a> | DOI:<a href=https://doi.org/10.1161/RES.0000000000000643>10.1161/RES.0000000000000643</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37943946</guid>
+<pubDate>Thu, 09 Nov 2023 06:00:00 -0500</pubDate>
+<dc:date>2023-11-09</dc:date>
+<dc:source>Circulation research</dc:source>
+<dc:title>Meet the First Authors</dc:title>
+<dc:identifier>pmid:37943946</dc:identifier>
+<dc:identifier>doi:10.1161/RES.0000000000000643</dc:identifier>
+</item>
+<item>
+<title>Receptor-Specific Inside-Out cAMP Signaling Regulates Cardiomyocyte Fate</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37943945/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2023 Nov 10;133(11):924-926. doi: 10.1161/CIRCRESAHA.123.323754. Epub 2023 Nov 9.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37943945/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37943945</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.123.323754>10.1161/CIRCRESAHA.123.323754</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37943945</guid>
+<pubDate>Thu, 09 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Frank Lezoualc'h</dc:creator>
+<dc:creator>Viacheslav O Nikolaev</dc:creator>
+<dc:date>2023-11-09</dc:date>
+<dc:source>Circulation research</dc:source>
+<dc:title>Receptor-Specific Inside-Out cAMP Signaling Regulates Cardiomyocyte Fate</dc:title>
+<dc:identifier>pmid:37943945</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCRESAHA.123.323754</dc:identifier>
+</item>
+<item>
+<title>2023 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations: Summary From the Basic Life Support; Advanced Life Support; Pediatric Life Support; Neonatal Life Support; Education, Implementation, and Teams; and First Aid Task Forces</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37942682/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>The International Liaison Committee on Resuscitation engages in a continuous review of new, peer-reviewed, published cardiopulmonary resuscitation and first aid science. Draft Consensus on Science With Treatment Recommendations are posted online throughout the year, and this annual summary provides more concise versions of the final Consensus on Science With Treatment Recommendations from all task forces for the year. Topics addressed by systematic reviews this year include resuscitation of...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2023 Nov 9. doi: 10.1161/CIR.0000000000001179. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The International Liaison Committee on Resuscitation engages in a continuous review of new, peer-reviewed, published cardiopulmonary resuscitation and first aid science. Draft Consensus on Science With Treatment Recommendations are posted online throughout the year, and this annual summary provides more concise versions of the final Consensus on Science With Treatment Recommendations from all task forces for the year. Topics addressed by systematic reviews this year include resuscitation of cardiac arrest from drowning, extracorporeal cardiopulmonary resuscitation for adults and children, calcium during cardiac arrest, double sequential defibrillation, neuroprognostication after cardiac arrest for adults and children, maintaining normal temperature after preterm birth, heart rate monitoring methods for diagnostics in neonates, detection of exhaled carbon dioxide in neonates, family presence during resuscitation of adults, and a stepwise approach to resuscitation skills training. Members from 6 International Liaison Committee on Resuscitation task forces have assessed, discussed, and debated the quality of the evidence, using Grading of Recommendations Assessment, Development, and Evaluation criteria, and their statements include consensus treatment recommendations. Insights into the deliberations of the task forces are provided in the Justification and Evidence-to-Decision Framework Highlights sections. In addition, the task forces list priority knowledge gaps for further research. Additional topics are addressed with scoping reviews and evidence updates.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37942682/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37942682</a> | DOI:<a href=https://doi.org/10.1161/CIR.0000000000001179>10.1161/CIR.0000000000001179</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37942682</guid>
+<pubDate>Thu, 09 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Katherine M Berg</dc:creator>
+<dc:creator>Janet E Bray</dc:creator>
+<dc:creator>Kee-Chong Ng</dc:creator>
+<dc:creator>Helen G Liley</dc:creator>
+<dc:creator>Robert Greif</dc:creator>
+<dc:creator>Jestin N Carlson</dc:creator>
+<dc:creator>Peter T Morley</dc:creator>
+<dc:creator>Ian R Drennan</dc:creator>
+<dc:creator>Michael Smyth</dc:creator>
+<dc:creator>Barnaby R Scholefield</dc:creator>
+<dc:creator>Gary M Weiner</dc:creator>
+<dc:creator>Adam Cheng</dc:creator>
+<dc:creator>Therese Djärv</dc:creator>
+<dc:creator>Cristian Abelairas-Gómez</dc:creator>
+<dc:creator>Jason Acworth</dc:creator>
+<dc:creator>Lars W Andersen</dc:creator>
+<dc:creator>Dianne L Atkins</dc:creator>
+<dc:creator>David C Berry</dc:creator>
+<dc:creator>Farhan Bhanji</dc:creator>
+<dc:creator>Joost Bierens</dc:creator>
+<dc:creator>Thomaz Bittencourt Couto</dc:creator>
+<dc:creator>Vere Borra</dc:creator>
+<dc:creator>Bernd W Böttiger</dc:creator>
+<dc:creator>Richard N Bradley</dc:creator>
+<dc:creator>Jan Breckwoldt</dc:creator>
+<dc:creator>Pascal Cassan</dc:creator>
+<dc:creator>Wei-Tien Chang</dc:creator>
+<dc:creator>Nathan P Charlton</dc:creator>
+<dc:creator>Sung Phil Chung</dc:creator>
+<dc:creator>Julie Considine</dc:creator>
+<dc:creator>Daniela T Costa-Nobre</dc:creator>
+<dc:creator>Keith Couper</dc:creator>
+<dc:creator>Katie N Dainty</dc:creator>
+<dc:creator>Vihara Dassanayake</dc:creator>
+<dc:creator>Peter G Davis</dc:creator>
+<dc:creator>Jennifer A Dawson</dc:creator>
+<dc:creator>Maria Fernanda de Almeida</dc:creator>
+<dc:creator>Allan R De Caen</dc:creator>
+<dc:creator>Charles D Deakin</dc:creator>
+<dc:creator>Bridget Dicker</dc:creator>
+<dc:creator>Matthew J Douma</dc:creator>
+<dc:creator>Kathryn Eastwood</dc:creator>
+<dc:creator>Walid El-Naggar</dc:creator>
+<dc:creator>Jorge G Fabres</dc:creator>
+<dc:creator>Joe Fawke</dc:creator>
+<dc:creator>Nino Fijacko</dc:creator>
+<dc:creator>Judith C Finn</dc:creator>
+<dc:creator>Gustavo E Flores</dc:creator>
+<dc:creator>Elizabeth E Foglia</dc:creator>
+<dc:creator>Fredrik Folke</dc:creator>
+<dc:creator>Elaine Gilfoyle</dc:creator>
+<dc:creator>Craig A Goolsby</dc:creator>
+<dc:creator>Asger Granfeldt</dc:creator>
+<dc:creator>Anne-Marie Guerguerian</dc:creator>
+<dc:creator>Ruth Guinsburg</dc:creator>
+<dc:creator>Tetsuo Hatanaka</dc:creator>
+<dc:creator>Karen G Hirsch</dc:creator>
+<dc:creator>Mathias J Holmberg</dc:creator>
+<dc:creator>Shigeharu Hosono</dc:creator>
+<dc:creator>Ming-Ju Hsieh</dc:creator>
+<dc:creator>Cindy H Hsu</dc:creator>
+<dc:creator>Takanari Ikeyama</dc:creator>
+<dc:creator>Tetsuya Isayama</dc:creator>
+<dc:creator>Nicholas J Johnson</dc:creator>
+<dc:creator>Vishal S Kapadia</dc:creator>
+<dc:creator>Mandira Daripa Kawakami</dc:creator>
+<dc:creator>Han-Suk Kim</dc:creator>
+<dc:creator>Monica E Kleinman</dc:creator>
+<dc:creator>David A Kloeck</dc:creator>
+<dc:creator>Peter Kudenchuk</dc:creator>
+<dc:creator>Amy Kule</dc:creator>
+<dc:creator>Hiroshi Kurosawa</dc:creator>
+<dc:creator>Anthony T Lagina</dc:creator>
+<dc:creator>Kasper G Lauridsen</dc:creator>
+<dc:creator>Eric J Lavonas</dc:creator>
+<dc:creator>Henry C Lee</dc:creator>
+<dc:creator>Yiqun Lin</dc:creator>
+<dc:creator>Andrew S Lockey</dc:creator>
+<dc:creator>Finlay Macneil</dc:creator>
+<dc:creator>Ian K Maconochie</dc:creator>
+<dc:creator>R John Madar</dc:creator>
+<dc:creator>Carolina Malta Hansen</dc:creator>
+<dc:creator>Siobhan Masterson</dc:creator>
+<dc:creator>Tasuku Matsuyama</dc:creator>
+<dc:creator>Christopher J D McKinlay</dc:creator>
+<dc:creator>Daniel Meyran</dc:creator>
+<dc:creator>Vix Monnelly</dc:creator>
+<dc:creator>Vinay Nadkarni</dc:creator>
+<dc:creator>Firdose L Nakwa</dc:creator>
+<dc:creator>Kevin J Nation</dc:creator>
+<dc:creator>Ziad Nehme</dc:creator>
+<dc:creator>Michael Nemeth</dc:creator>
+<dc:creator>Robert W Neumar</dc:creator>
+<dc:creator>Tonia Nicholson</dc:creator>
+<dc:creator>Nikolaos Nikolaou</dc:creator>
+<dc:creator>Chika Nishiyama</dc:creator>
+<dc:creator>Tatsuya Norii</dc:creator>
+<dc:creator>Gabrielle A Nuthall</dc:creator>
+<dc:creator>Shinchiro Ohshimo</dc:creator>
+<dc:creator>Theresa M Olasveengen</dc:creator>
+<dc:creator>Yong-Kwang Gene Ong</dc:creator>
+<dc:creator>Aaron M Orkin</dc:creator>
+<dc:creator>Michael J Parr</dc:creator>
+<dc:creator>Catherine Patocka</dc:creator>
+<dc:creator>Gavin D Perkins</dc:creator>
+<dc:creator>Jeffrey M Perlman</dc:creator>
+<dc:creator>Yacov Rabi</dc:creator>
+<dc:creator>James Raitt</dc:creator>
+<dc:creator>Shalini Ramachandran</dc:creator>
+<dc:creator>Viraraghavan V Ramaswamy</dc:creator>
+<dc:creator>Tia T Raymond</dc:creator>
+<dc:creator>Amelia G Reis</dc:creator>
+<dc:creator>Joshua C Reynolds</dc:creator>
+<dc:creator>Giuseppe Ristagno</dc:creator>
+<dc:creator>Antonio Rodriguez-Nunez</dc:creator>
+<dc:creator>Charles C Roehr</dc:creator>
+<dc:creator>Mario Rüdiger</dc:creator>
+<dc:creator>Tetsuya Sakamoto</dc:creator>
+<dc:creator>Claudio Sandroni</dc:creator>
+<dc:creator>Taylor L Sawyer</dc:creator>
+<dc:creator>Steve M Schexnayder</dc:creator>
+<dc:creator>Georg M Schmölzer</dc:creator>
+<dc:creator>Sebastian Schnaubelt</dc:creator>
+<dc:creator>Federico Semeraro</dc:creator>
+<dc:creator>Eunice M Singletary</dc:creator>
+<dc:creator>Markus B Skrifvars</dc:creator>
+<dc:creator>Christopher M Smith</dc:creator>
+<dc:creator>Jasmeet Soar</dc:creator>
+<dc:creator>Willem Stassen</dc:creator>
+<dc:creator>Takahiro Sugiura</dc:creator>
+<dc:creator>Janice A Tijssen</dc:creator>
+<dc:creator>Alexis A Topjian</dc:creator>
+<dc:creator>Daniele Trevisanuto</dc:creator>
+<dc:creator>Christian Vaillancourt</dc:creator>
+<dc:creator>Myra H Wyckoff</dc:creator>
+<dc:creator>Jonathan P Wyllie</dc:creator>
+<dc:creator>Chih-Wei Yang</dc:creator>
+<dc:creator>Joyce Yeung</dc:creator>
+<dc:creator>Carolyn M Zelop</dc:creator>
+<dc:creator>David A Zideman</dc:creator>
+<dc:creator>Jerry P Nolan</dc:creator>
+<dc:creator>Collaborators</dc:creator>
+<dc:date>2023-11-09</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>2023 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations: Summary From the Basic Life Support; Advanced Life Support; Pediatric Life Support; Neonatal Life Support; Education, Implementation, and Teams; and First Aid Task Forces</dc:title>
+<dc:identifier>pmid:37942682</dc:identifier>
+<dc:identifier>doi:10.1161/CIR.0000000000001179</dc:identifier>
+</item>
+<item>
+<title>Autoantibodies against the chemokine receptor 3 predict cardiovascular risk</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37941454/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>CONCLUSIONS: In individuals free of autoimmune disease, anti-CXCR3 aAbs were abundant, related to CV end-organ damage, and predicted all-cause death as well as cardiac morbidity and mortality in conjunction with the acceleration of experimental atherosclerosis.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Nov 6:ehad666. doi: 10.1093/eurheartj/ehad666. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND AND AIMS: Chronic inflammation and autoimmunity contribute to cardiovascular (CV) disease. Recently, autoantibodies (aAbs) against the CXC-motif-chemokine receptor 3 (CXCR3), a G protein-coupled receptor with a key role in atherosclerosis, have been identified. The role of anti-CXCR3 aAbs for CV risk and disease is unclear.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Anti-CXCR3 aAbs were quantified by a commercially available enzyme-linked immunosorbent assay in 5000 participants (availability: 97.1%) of the population-based Gutenberg Health Study with extensive clinical phenotyping. Regression analyses were carried out to identify determinants of anti-CXCR3 aAbs and relevance for clinical outcome (i.e. all-cause mortality, cardiac death, heart failure, and major adverse cardiac events comprising incident coronary artery disease, myocardial infarction, and cardiac death). Last, immunization with CXCR3 and passive transfer of aAbs were performed in ApoE(-/-) mice for preclinical validation.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: The analysis sample included 4195 individuals (48% female, mean age 55.5 ± 11 years) after exclusion of individuals with autoimmune disease, immunomodulatory medication, acute infection, and history of cancer. Independent of age, sex, renal function, and traditional CV risk factors, increasing concentrations of anti-CXCR3 aAbs translated into higher intima-media thickness, left ventricular mass, and N-terminal pro-B-type natriuretic peptide. Adjusted for age and sex, anti-CXCR3 aAbs above the 75th percentile predicted all-cause death [hazard ratio (HR) (95% confidence interval) 1.25 (1.02, 1.52), P = .029], driven by excess cardiac mortality [HR 2.51 (1.21, 5.22), P = .014]. A trend towards a higher risk for major adverse cardiac events [HR 1.42 (1.0, 2.0), P = .05] along with increased risk of incident heart failure [HR per standard deviation increase of anti-CXCR3 aAbs: 1.26 (1.02, 1.56), P = .03] may contribute to this observation. Targeted proteomics revealed a molecular signature of anti-CXCR3 aAbs reflecting immune cell activation and cytokine-cytokine receptor interactions associated with an ongoing T helper cell 1 response. Finally, ApoE(-/-) mice immunized against CXCR3 displayed increased anti-CXCR3 aAbs and exhibited a higher burden of atherosclerosis compared to non-immunized controls, correlating with concentrations of anti-CXCR3 aAbs in the passive transfer model.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: In individuals free of autoimmune disease, anti-CXCR3 aAbs were abundant, related to CV end-organ damage, and predicted all-cause death as well as cardiac morbidity and mortality in conjunction with the acceleration of experimental atherosclerosis.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37941454/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37941454</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad666>10.1093/eurheartj/ehad666</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37941454</guid>
+<pubDate>Thu, 09 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Felix S Müller</dc:creator>
+<dc:creator>Zouhair Aherrahrou</dc:creator>
+<dc:creator>Hanna Grasshoff</dc:creator>
+<dc:creator>Marc W Heidorn</dc:creator>
+<dc:creator>Jens Y Humrich</dc:creator>
+<dc:creator>Laurence Johanson</dc:creator>
+<dc:creator>Redouane Aherrahrou</dc:creator>
+<dc:creator>Tobias Reinberger</dc:creator>
+<dc:creator>Andreas Schulz</dc:creator>
+<dc:creator>Vincent Ten Cate</dc:creator>
+<dc:creator>Alejandro Pallares Robles</dc:creator>
+<dc:creator>Thomas Koeck</dc:creator>
+<dc:creator>Steffen Rapp</dc:creator>
+<dc:creator>Tanja Lange</dc:creator>
+<dc:creator>Lukas Brachaczek</dc:creator>
+<dc:creator>Finn Luebber</dc:creator>
+<dc:creator>Jeanette Erdmann</dc:creator>
+<dc:creator>Harald Heidecke</dc:creator>
+<dc:creator>Kai Schulze-Forster</dc:creator>
+<dc:creator>Ralf Dechend</dc:creator>
+<dc:creator>Karl J Lackner</dc:creator>
+<dc:creator>Norbert Pfeiffer</dc:creator>
+<dc:creator>Jasmin Ghaemi Kerahrodi</dc:creator>
+<dc:creator>Oliver Tüscher</dc:creator>
+<dc:creator>Andreas Schwarting</dc:creator>
+<dc:creator>Konstantin Strauch</dc:creator>
+<dc:creator>Thomas Münzel</dc:creator>
+<dc:creator>Jürgen H Prochaska</dc:creator>
+<dc:creator>Gabriela Riemekasten</dc:creator>
+<dc:creator>Philipp S Wild</dc:creator>
+<dc:date>2023-11-09</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Autoantibodies against the chemokine receptor 3 predict cardiovascular risk</dc:title>
+<dc:identifier>pmid:37941454</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehad666</dc:identifier>
+</item>
+<item>
+<title>Fulminant myocarditis proven by early biopsy and outcomes</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37941449/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>CONCLUSIONS: Endomyocardial biopsy should be broadly and promptly used in patients admitted to the intensive care unit for clinically suspected fulminant myocarditis.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Nov 6:ehad707. doi: 10.1093/eurheartj/ehad707. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND AND AIMS: While endomyocardial biopsy (EMB) is recommended in adult patients with fulminant myocarditis, the clinical impact of its timing is still unclear.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Data were collected from 419 adult patients with clinically suspected fulminant myocarditis admitted to intensive care units across 36 tertiary centres in 15 countries worldwide. The diagnosis of myocarditis was histologically proven in 210 (50%) patients, either by EMB (n = 183, 44%) or by autopsy/explanted heart examination (n = 27, 6%), and clinically suspected cardiac magnetic resonance imaging confirmed in 96 (23%) patients. The primary outcome of survival free of heart transplantation (HTx) or left ventricular assist device (LVAD) at 1 year was specifically compared between patients with early EMB (within 2 days after intensive care unit admission, n = 103) and delayed EMB (n = 80). A propensity score-weighted analysis was done to control for confounders.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Median age on admission was 40 (29-52) years, and 322 (77%) patients received temporary mechanical circulatory support. A total of 273 (65%) patients survived without HTx/LVAD. The primary outcome was significantly different between patients with early and delayed EMB (70% vs. 49%, P = .004). After propensity score weighting, the early EMB group still significantly differed from the delayed EMB group in terms of survival free of HTx/LVAD (63% vs. 40%, P = .021). Moreover, early EMB was independently associated with a lower rate of death or HTx/LVAD at 1 year (odds ratio of 0.44; 95% confidence interval: 0.22-0.86; P = .016).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Endomyocardial biopsy should be broadly and promptly used in patients admitted to the intensive care unit for clinically suspected fulminant myocarditis.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37941449/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37941449</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad707>10.1093/eurheartj/ehad707</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37941449</guid>
+<pubDate>Thu, 09 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Florent Huang</dc:creator>
+<dc:creator>Enrico Ammirati</dc:creator>
+<dc:creator>Maharajah Ponnaiah</dc:creator>
+<dc:creator>Santiago Montero</dc:creator>
+<dc:creator>Victor Raimbault</dc:creator>
+<dc:creator>Darryl Abrams</dc:creator>
+<dc:creator>Guillaume Lebreton</dc:creator>
+<dc:creator>Vincent Pellegrino</dc:creator>
+<dc:creator>Joshua Ihle</dc:creator>
+<dc:creator>Maurizio Bottiroli</dc:creator>
+<dc:creator>Romain Persichini</dc:creator>
+<dc:creator>Marisa Isabel Barrionuevo-Sánchez</dc:creator>
+<dc:creator>Albert Ariza-Solé</dc:creator>
+<dc:creator>Pauline Yeung Ng</dc:creator>
+<dc:creator>Simon Wai Ching Sin</dc:creator>
+<dc:creator>Raj Ayer</dc:creator>
+<dc:creator>Hergen Buscher</dc:creator>
+<dc:creator>Slimane Belaid</dc:creator>
+<dc:creator>Clément Delmas</dc:creator>
+<dc:creator>Rita Ferreira</dc:creator>
+<dc:creator>Roberto Roncon Albuquerque</dc:creator>
+<dc:creator>Teresa Lόpez-Sobrino</dc:creator>
+<dc:creator>Jeroen J H Bunge</dc:creator>
+<dc:creator>Christoph Fisser</dc:creator>
+<dc:creator>Guillaume Franchineau</dc:creator>
+<dc:creator>Jamie McCanny</dc:creator>
+<dc:creator>Shinichiro Ohshimo</dc:creator>
+<dc:creator>Alessandro Sionis</dc:creator>
+<dc:creator>Francisco José Hernández-Pérez</dc:creator>
+<dc:creator>Eduardo Barge-Caballero</dc:creator>
+<dc:creator>Martin Balik</dc:creator>
+<dc:creator>Henrique Muglia</dc:creator>
+<dc:creator>Sunghoon Park</dc:creator>
+<dc:creator>Dirk W Donker</dc:creator>
+<dc:creator>Beatriz Porral</dc:creator>
+<dc:creator>Nadia Aïssaoui</dc:creator>
+<dc:creator>Armand Mekontso Dessap</dc:creator>
+<dc:creator>Virginia Burgos</dc:creator>
+<dc:creator>Mathieu Lesouhaitier</dc:creator>
+<dc:creator>Justin Fried</dc:creator>
+<dc:creator>Jae-Seung Jung</dc:creator>
+<dc:creator>Sandra Rosillo</dc:creator>
+<dc:creator>Vincent Scherrer</dc:creator>
+<dc:creator>Saad Nseir</dc:creator>
+<dc:creator>Hadrien Winszewski</dc:creator>
+<dc:creator>Pablo Jorge-Pérez</dc:creator>
+<dc:creator>Antoine Kimmoun</dc:creator>
+<dc:creator>Rodrigo Diaz</dc:creator>
+<dc:creator>Alain Combes</dc:creator>
+<dc:creator>Matthieu Schmidt</dc:creator>
+<dc:creator>FULLMOON Study Group</dc:creator>
+<dc:date>2023-11-09</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Fulminant myocarditis proven by early biopsy and outcomes</dc:title>
+<dc:identifier>pmid:37941449</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehad707</dc:identifier>
+</item>
+<item>
+<title>Emery-Dreifuss muscular dystrophy: a closer look at cardiac complications</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37941127/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Nov 6:ehad735. doi: 10.1093/eurheartj/ehad735. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37941127/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37941127</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad735>10.1093/eurheartj/ehad735</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37941127</guid>
+<pubDate>Thu, 09 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Daria Kramarenko</dc:creator>
+<dc:creator>Roddy Walsh</dc:creator>
+<dc:date>2023-11-09</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Emery-Dreifuss muscular dystrophy: a closer look at cardiac complications</dc:title>
+<dc:identifier>pmid:37941127</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehad735</dc:identifier>
+</item>
+<item>
+<title>Five easy pieces only account for a fraction of incident cardiovascular disease and all-cause deaths</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/37941126/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20231110071448&amp;v=2.17.9.post6+86293ac
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2023 Nov 6:ehad731. doi: 10.1093/eurheartj/ehad731. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/37941126/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20231110071448&v=2.17.9.post6+86293ac">37941126</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad731>10.1093/eurheartj/ehad731</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:37941126</guid>
+<pubDate>Thu, 09 Nov 2023 06:00:00 -0500</pubDate>
+<dc:creator>Giovanna Liuzzo</dc:creator>
+<dc:creator>Carlo Patrono</dc:creator>
+<dc:date>2023-11-09</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Five easy pieces only account for a fraction of incident cardiovascular disease and all-cause deaths</dc:title>
+<dc:identifier>pmid:37941126</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehad731</dc:identifier>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</channel>
+</rss>

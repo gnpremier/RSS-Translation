@@ -1,20 +1,207 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>心血管高分期刊</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_campaign=pubmed-2&amp;utm_medium=rss&amp;fc=20230708114047&amp;v=2.18.0&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_source=Chrome&amp;ff=20240110231038
+<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;utm_campaign=pubmed-2&amp;utm_source=Chrome&amp;ff=20240111011135&amp;v=2.18.0&amp;utm_medium=rss
     <description>心血管高分期刊: Latest results from PubMed</description>
-<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_campaign=pubmed-2&amp;utm_medium=rss&amp;fc=20230708114047&amp;v=2.18.0&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_source=Chrome&amp;ff=20240110231038" rel="self"></atom:link>
+<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;utm_campaign=pubmed-2&amp;utm_source=Chrome&amp;ff=20240111011135&amp;v=2.18.0&amp;utm_medium=rss" rel="self"></atom:link>
 <docs>http://www.rssboard.org/rss-specification</docs>
 <generator>PubMed RSS feeds (2.18.0)</generator>
 <language>en</language>
-<lastbuilddate>Thu, 11 Jan 2024 04:10:39 +0000</lastbuilddate>
+<lastbuilddate>Thu, 11 Jan 2024 06:11:36 +0000</lastbuilddate>
 <pubDate>Wed, 10 Jan 2024 06:00:00 -0500</pubDate>
 <ttl>120</ttl>
 <item>
-<title>Private Equity and Cardiovascular Health Care</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38198174/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
+<title>Hospitalization With Cardiovascular Conditions in the Postpartum Year Among Commercially Insured Women in the U.S</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38199715/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Jan 10. doi: 10.1001/jamacardio.2023.5127. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38198174/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38198174</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2023.5127>10.1001/jamacardio.2023.5127</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Jan 16;83(2):382-384. doi: 10.1016/j.jacc.2023.11.006.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38199715/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38199715</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2023.11.006>10.1016/j.jacc.2023.11.006</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38199715</guid>
+<pubDate>Wed, 10 Jan 2024 06:00:00 -0500</pubDate>
+<dc:creator>Nicole D Ford</dc:creator>
+<dc:creator>Carla L DeSisto</dc:creator>
+<dc:creator>Lindsay S Womack</dc:creator>
+<dc:creator>Romeo R Galang</dc:creator>
+<dc:creator>Lisa M Hollier</dc:creator>
+<dc:creator>Laurence S Sperling</dc:creator>
+<dc:creator>Janet S Wright</dc:creator>
+<dc:creator>Jean Y Ko</dc:creator>
+<dc:date>2024-01-10</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Hospitalization With Cardiovascular Conditions in the Postpartum Year Among Commercially Insured Women in the U.S</dc:title>
+<dc:identifier>pmid:38199715</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2023.11.006</dc:identifier>
+</item>
+<item>
+<title>Hyperuricemia and Gout Reduction by SGLT2 Inhibitors in Diabetes and Heart Failure: JACC Review Topic of the Week</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38199714/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
+      <description>Gout is characterized by increased production of purines (through the pentose phosphate pathway), which is coupled with reduced renal or intestinal excretion of urate. Concurrent upregulation of nutrient surplus signaling (mammalian target of rapamycin and hypoxia-inducible factor-1a) and downregulation of nutrient deprivation signaling (sirtuin-1 and adenosine monophosphate-activated protein kinase) redirects glucose toward anabolic pathways (rather than adenosine triphosphate production), thus...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Jan 16;83(2):371-381. doi: 10.1016/j.jacc.2023.10.030.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Gout is characterized by increased production of purines (through the pentose phosphate pathway), which is coupled with reduced renal or intestinal excretion of urate. Concurrent upregulation of nutrient surplus signaling (mammalian target of rapamycin and hypoxia-inducible factor-1a) and downregulation of nutrient deprivation signaling (sirtuin-1 and adenosine monophosphate-activated protein kinase) redirects glucose toward anabolic pathways (rather than adenosine triphosphate production), thus promoting heightened oxidative stress and cardiomyocyte and proximal tubular dysfunction, leading to cardiomyopathy and kidney disease. Hyperuricemia is a marker (rather than a driver) of these cellular stresses. By inducing a state of starvation mimicry in a state of nutrient surplus, sodium-glucose cotransporter-2 inhibitors decrease flux through the pentose phosphate pathway (thereby attenuating purine and urate synthesis) while promoting renal urate excretion. These convergent actions exert a meaningful effect to lower serum uric acid by ≈0.6 to 1.5 mg/dL and to reduce the risk of gout by 30% to 50% in large-scale clinical trials.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38199714/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38199714</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2023.10.030>10.1016/j.jacc.2023.10.030</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38199714</guid>
+<pubDate>Wed, 10 Jan 2024 06:00:00 -0500</pubDate>
+<dc:creator>Milton Packer</dc:creator>
+<dc:date>2024-01-10</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Hyperuricemia and Gout Reduction by SGLT2 Inhibitors in Diabetes and Heart Failure: JACC Review Topic of the Week</dc:title>
+<dc:identifier>pmid:38199714</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2023.10.030</dc:identifier>
+</item>
+<item>
+<title>Sudden Cardiac Death in Young Athletes: JACC State-of-the-Art Review</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38199713/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
+      <description>Athletes epitomize the healthiest segment of society. Despite this premise, sudden cardiac death may occur in apparently healthy athletes, attracting significant attention not only in the medical community but also in laypersons and media. The incidence of sudden cardiac death is variably reported, and epidemiological burden differs among cohorts. Athletes appear to be at risk of developing fatal arrhythmias when harboring a quiescent cardiac disorder. Primary cardiomyopathies, ion...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Jan 16;83(2):350-370. doi: 10.1016/j.jacc.2023.10.032.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Athletes epitomize the healthiest segment of society. Despite this premise, sudden cardiac death may occur in apparently healthy athletes, attracting significant attention not only in the medical community but also in laypersons and media. The incidence of sudden cardiac death is variably reported, and epidemiological burden differs among cohorts. Athletes appear to be at risk of developing fatal arrhythmias when harboring a quiescent cardiac disorder. Primary cardiomyopathies, ion channelopathies, and coronary artery anomalies are prevalent causes in young individuals. Cardiac assessment of athletes can be challenging because these individuals exhibit a plethora of electrical, structural, and functional physiological changes that overlap with cardiac pathology. A diagnosis of cardiac disease in a young athlete is not necessarily an indication to terminate competition and sports participation. International guidelines, traditionally focused on disqualification of individuals with cardiac disease, have recently adopted a more liberal attitude, based on a careful assessment of the risk and on a shared-decision making approach.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38199713/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38199713</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2023.10.032>10.1016/j.jacc.2023.10.032</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38199713</guid>
+<pubDate>Wed, 10 Jan 2024 06:00:00 -0500</pubDate>
+<dc:creator>Gherardo Finocchiaro</dc:creator>
+<dc:creator>Joseph Westaby</dc:creator>
+<dc:creator>Mary N Sheppard</dc:creator>
+<dc:creator>Michael Papadakis</dc:creator>
+<dc:creator>Sanjay Sharma</dc:creator>
+<dc:date>2024-01-10</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Sudden Cardiac Death in Young Athletes: JACC State-of-the-Art Review</dc:title>
+<dc:identifier>pmid:38199713</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2023.10.032</dc:identifier>
+</item>
+<item>
+<title>Best Oral Anticoagulant for Transcatheter Mitral Valve Replacement</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38199712/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Jan 16;83(2):347-349. doi: 10.1016/j.jacc.2023.11.005.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38199712/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38199712</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2023.11.005>10.1016/j.jacc.2023.11.005</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38199712</guid>
+<pubDate>Wed, 10 Jan 2024 06:00:00 -0500</pubDate>
+<dc:creator>Jurriën M Ten Berg</dc:creator>
+<dc:creator>Daniël C Overduin</dc:creator>
+<dc:creator>Dirk Jan van Ginkel</dc:creator>
+<dc:date>2024-01-10</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Best Oral Anticoagulant for Transcatheter Mitral Valve Replacement</dc:title>
+<dc:identifier>pmid:38199712</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2023.11.005</dc:identifier>
+</item>
+<item>
+<title>Comparison of Direct Oral Anticoagulants vs Vitamin K Antagonists After Transcatheter Mitral Valve Replacement</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38199711/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
+      <description>CONCLUSIONS: The use of DOACs after TMVR, compared with VKAs, appears to reduce the risk of bleeding complications and decrease the length of hospital stay for patients, without a significant increase in the risk of thrombotic events.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Jan 16;83(2):334-346. doi: 10.1016/j.jacc.2023.10.031.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: There is currently no established recommendation for antithrombotic treatment following transcatheter mitral valve replacement (TMVR). However, based on the analogy with surgical mitral bioprosthesis, vitamin K antagonists (VKAs) are predominantly used.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVES: The purpose of this study was to compare bleeding and thrombotic events associated with direct oral anticoagulants (DOACs) or VKAs in a prospective cohort of TMVR patients.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: We enrolled consecutive patients who underwent transseptal TMVR using a SAPIEN family prosthesis at our center between 2011 and 2023. The primary outcome was the occurrence of bleeding. VKAs were administered to patients until October 2019, after which DOACs were prescribed. The median follow-up was 4.7 months (Q1-Q3: 2.6-6.7 months).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: A total of 156 patients were included. The mean age was 65 ± 18.5 years, and 103 patients (66%) were women. The median EuroSCORE II was 7.48% (Q1-Q3: 3.80%-12.97%). Of the participants, 20.5% received DOACs and 79.5% were treated with VKAs. The primary outcome was observed in 50 (40%) patients in the VKA group and 3 (9%) patients in the DOAC group (adjusted HR: 0.21; 95% CI: 0.06-0.74; P = 0.02). Treatment with DOAC was associated with a shorter length of hospital stay. No significant differences were found in terms of thrombotic events, major vascular complications, stroke, or death.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: The use of DOACs after TMVR, compared with VKAs, appears to reduce the risk of bleeding complications and decrease the length of hospital stay for patients, without a significant increase in the risk of thrombotic events.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38199711/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38199711</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2023.10.031>10.1016/j.jacc.2023.10.031</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38199711</guid>
+<pubDate>Wed, 10 Jan 2024 06:00:00 -0500</pubDate>
+<dc:creator>Nathan El Bèze</dc:creator>
+<dc:creator>Dominique Himbert</dc:creator>
+<dc:creator>Gaspard Suc</dc:creator>
+<dc:creator>Eric Brochet</dc:creator>
+<dc:creator>Nadine Ajzenberg</dc:creator>
+<dc:creator>Audrey Cailliau</dc:creator>
+<dc:creator>John Kikoïne</dc:creator>
+<dc:creator>Clemence Delhomme</dc:creator>
+<dc:creator>Jose Luis Carrasco</dc:creator>
+<dc:creator>Phalla Ou</dc:creator>
+<dc:creator>Bernard Iung</dc:creator>
+<dc:creator>Marina Urena</dc:creator>
+<dc:date>2024-01-10</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Comparison of Direct Oral Anticoagulants vs Vitamin K Antagonists After Transcatheter Mitral Valve Replacement</dc:title>
+<dc:identifier>pmid:38199711</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2023.10.031</dc:identifier>
+</item>
+<item>
+<title>What Do We Really Know About Transcatheter Mitral Valve-in-Valve Procedures?</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38199710/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Jan 16;83(2):331-333. doi: 10.1016/j.jacc.2023.11.009.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38199710/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38199710</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2023.11.009>10.1016/j.jacc.2023.11.009</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38199710</guid>
+<pubDate>Wed, 10 Jan 2024 06:00:00 -0500</pubDate>
+<dc:creator>Matthew W Sherwood</dc:creator>
+<dc:creator>Amit N Vora</dc:creator>
+<dc:date>2024-01-10</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>What Do We Really Know About Transcatheter Mitral Valve-in-Valve Procedures?</dc:title>
+<dc:identifier>pmid:38199710</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2023.11.009</dc:identifier>
+</item>
+<item>
+<title>Timing Surgical Mitral Valve Repair for Primary Mitral Regurgitation: An Opportunity for Sex-Guided Precision Medicine</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38199709/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Jan 16;83(2):313-316. doi: 10.1016/j.jacc.2023.10.035.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38199709/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38199709</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2023.10.035>10.1016/j.jacc.2023.10.035</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38199709</guid>
+<pubDate>Wed, 10 Jan 2024 06:00:00 -0500</pubDate>
+<dc:creator>Anna Sannino</dc:creator>
+<dc:creator>Federico Fortuni</dc:creator>
+<dc:date>2024-01-10</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Timing Surgical Mitral Valve Repair for Primary Mitral Regurgitation: An Opportunity for Sex-Guided Precision Medicine</dc:title>
+<dc:identifier>pmid:38199709</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2023.10.035</dc:identifier>
+</item>
+<item>
+<title>Sex-Specific Prognosis of Left Ventricular Size and Function Following Repair of Degenerative Mitral Regurgitation</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38199708/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
+      <description>CONCLUSIONS: After mitral valve repair, women have a higher risk for all-cause mortality at lower LVESD and LVESDi and higher EF. These results support consideration of sex-specific thresholds for LVESDi in surgical decision making for patients with severe MR.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Jan 16;83(2):303-312. doi: 10.1016/j.jacc.2023.10.033.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Prior studies have demonstrated worse long-term outcomes for women after surgery for severe mitral regurgitation (MR). The current Class I indications for surgery for severe degenerative MR use cutoffs of left ventricular end-systolic dimension (LVESD) and left ventricular ejection fraction (EF) that do not account for known sex-related differences.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVES: The primary objective of this study was to assess long-term mortality following mitral valve repair in women compared with men on the basis of preoperative left ventricular systolic dimensions and EF.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Consecutive patients who underwent isolated mitral valve repair for degenerative MR at a single institution between 1994 and 2016 were screened. Adjusted HRs for all-cause mortality were compared according to baseline LVESD, LVESD indexed to body surface area (LVESDi), and EF for men and women.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Among 4,589 patients, 1,825 were women (40%), and after a median follow-up period of 7.2 years, 344 patients (7.5%) had died. The risk for mortality for women increased from the baseline hazard at an LVESD of 3.6 cm, whereas an inflection point for increased risk with LVESD was not evident in men. Regarding LVESDi, the risk for women increased at 1.8 cm/m<sup>2</sup> compared with 2.1 cm/m<sup>2</sup> in men. For EF, women and men had a similar inflection point (58%); however, mortality was higher for women as EF decreased.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: After mitral valve repair, women have a higher risk for all-cause mortality at lower LVESD and LVESDi and higher EF. These results support consideration of sex-specific thresholds for LVESDi in surgical decision making for patients with severe MR.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38199708/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38199708</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2023.10.033>10.1016/j.jacc.2023.10.033</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38199708</guid>
+<pubDate>Wed, 10 Jan 2024 06:00:00 -0500</pubDate>
+<dc:creator>Bryan Q Abadie</dc:creator>
+<dc:creator>Paul C Cremer</dc:creator>
+<dc:creator>Sneha Vakamudi</dc:creator>
+<dc:creator>A Marc Gillinov</dc:creator>
+<dc:creator>Lars G Svensson</dc:creator>
+<dc:creator>Leslie Cho</dc:creator>
+<dc:date>2024-01-10</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Sex-Specific Prognosis of Left Ventricular Size and Function Following Repair of Degenerative Mitral Regurgitation</dc:title>
+<dc:identifier>pmid:38199708</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2023.10.033</dc:identifier>
+</item>
+<item>
+<title>Clinical Utility of the Humble Exercise ECG Stress Test</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38199707/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Jan 16;83(2):300-302. doi: 10.1016/j.jacc.2023.10.036.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38199707/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38199707</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2023.10.036>10.1016/j.jacc.2023.10.036</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38199707</guid>
+<pubDate>Wed, 10 Jan 2024 06:00:00 -0500</pubDate>
+<dc:creator>John F Beltrame</dc:creator>
+<dc:creator>Sarena La</dc:creator>
+<dc:creator>Jessica Marathe</dc:creator>
+<dc:date>2024-01-10</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Clinical Utility of the Humble Exercise ECG Stress Test</dc:title>
+<dc:identifier>pmid:38199707</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2023.10.036</dc:identifier>
+</item>
+<item>
+<title>Rethinking False Positive Exercise Electrocardiographic Stress Tests by Assessing Coronary Microvascular Function</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38199706/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
+      <description>CONCLUSIONS: In patients with ANOCA, ischemia on EST was highly specific of an underlying ischemic substrate. These findings challenge the traditional belief that EST has a high false positive rate.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Jan 16;83(2):291-299. doi: 10.1016/j.jacc.2023.10.034.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Exercise electrocardiographic stress testing (EST) has historically been validated against the demonstration of obstructive coronary artery disease. However, myocardial ischemia can occur because of coronary microvascular dysfunction (CMD) in the absence of obstructive coronary artery disease.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVES: The aim of this study was to assess the specificity of EST to detect an ischemic substrate against the reference standard of coronary endothelium-independent and endothelium-dependent microvascular function in patients with angina with nonobstructive coronary arteries (ANOCA).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Patients with ANOCA underwent invasive coronary physiological assessment using adenosine and acetylcholine. CMD was defined as impaired endothelium-independent and/or endothelium-dependent function. EST was performed using a standard Bruce treadmill protocol, with ischemia defined as the appearance of ≥0.1-mV ST-segment depression 80 ms from the J-point on electrocardiography. The study was powered to detect specificity of ≥91%.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: A total of 102 patients were enrolled (65% women, mean age 60 ± 8 years). Thirty-two patients developed ischemia (ischemic group) during EST, whereas 70 patients did not (nonischemic group); both groups were phenotypically similar. Ischemia during EST was 100% specific for CMD. Acetylcholine flow reserve was the strongest predictor of ischemia during exercise. Using endothelium-independent and endothelium-dependent microvascular dysfunction as the reference standard, the false positive rate of EST dropped to 0%.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: In patients with ANOCA, ischemia on EST was highly specific of an underlying ischemic substrate. These findings challenge the traditional belief that EST has a high false positive rate.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38199706/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38199706</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2023.10.034>10.1016/j.jacc.2023.10.034</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38199706</guid>
+<pubDate>Wed, 10 Jan 2024 06:00:00 -0500</pubDate>
+<dc:creator>Aish Sinha</dc:creator>
+<dc:creator>Utkarsh Dutta</dc:creator>
+<dc:creator>Ozan M Demir</dc:creator>
+<dc:creator>Kalpa De Silva</dc:creator>
+<dc:creator>Howard Ellis</dc:creator>
+<dc:creator>Samuel Belford</dc:creator>
+<dc:creator>Mark Ogden</dc:creator>
+<dc:creator>Matthew Li Kam Wa</dc:creator>
+<dc:creator>Holly P Morgan</dc:creator>
+<dc:creator>Ajay M Shah</dc:creator>
+<dc:creator>Amedeo Chiribiri</dc:creator>
+<dc:creator>Andrew J Webb</dc:creator>
+<dc:creator>Michael Marber</dc:creator>
+<dc:creator>Haseeb Rahman</dc:creator>
+<dc:creator>Divaka Perera</dc:creator>
+<dc:date>2024-01-10</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Rethinking False Positive Exercise Electrocardiographic Stress Tests by Assessing Coronary Microvascular Function</dc:title>
+<dc:identifier>pmid:38199706</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2023.10.034</dc:identifier>
+</item>
+<item>
+<title>Private Equity and Cardiovascular Health Care</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38198174/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Jan 10. doi: 10.1001/jamacardio.2023.5127. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38198174/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38198174</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2023.5127>10.1001/jamacardio.2023.5127</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38198174</guid>
 <pubDate>Wed, 10 Jan 2024 06:00:00 -0500</pubDate>
 <dc:creator>Partha Sardar</dc:creator>
@@ -28,9 +215,9 @@
 </item>
 <item>
 <title>Precision Measurement of Telomere Length as a Future Guide to Improve CVD Interventions</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38198169/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38198169/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Jan 10. doi: 10.1001/jamacardio.2023.5006. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38198169/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38198169</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2023.5006>10.1001/jamacardio.2023.5006</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Jan 10. doi: 10.1001/jamacardio.2023.5006. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38198169/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38198169</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2023.5006>10.1001/jamacardio.2023.5006</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38198169</guid>
 <pubDate>Wed, 10 Jan 2024 06:00:00 -0500</pubDate>
 <dc:creator>Javier Yu Peng Koh</dc:creator>
@@ -44,9 +231,9 @@
 </item>
 <item>
 <title>Clonal Hematopoiesis and Coronary Artery Disease-A Deep Connection</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38198161/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38198161/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Jan 10. doi: 10.1001/jamacardio.2023.5106. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38198161/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38198161</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2023.5106>10.1001/jamacardio.2023.5106</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Jan 10. doi: 10.1001/jamacardio.2023.5106. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38198161/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38198161</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2023.5106>10.1001/jamacardio.2023.5106</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38198161</guid>
 <pubDate>Wed, 10 Jan 2024 06:00:00 -0500</pubDate>
 <dc:creator>José J Fuster</dc:creator>
@@ -58,9 +245,9 @@
 </item>
 <item>
 <title>Somatic and Germline Variants and Coronary Heart Disease in a Chinese Population</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38198131/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38198131/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
       <description>CONCLUSIONS: This study revealed that elevated CHD risk attributed to CHIP was nonnegligible even for small clones. Inflammation genes involved in CHD could aggravate or abrogate CHIP-related CHD risk.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Jan 10. doi: 10.1001/jamacardio.2023.5095. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">IMPORTANCE: The genetic basis of coronary heart disease (CHD) has expanded from a germline to somatic genome, including clonal hematopoiesis of indeterminate potential (CHIP). How CHIP confers CHD risk in East Asian individuals, especially those with small clones (variant allele fraction [VAF] 0.5%-2%) and different genetic backgrounds, was completely unknown.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVE: To investigate the CHIP profile in a general Chinese cohort by deep sequencing and further explore the association between CHIP and incident CHD considering germline predisposition.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">DESIGN, SETTING, AND PARTICIPANTS: This cohort study used data from 3 prospective cohorts in the project Prediction for Atherosclerotic Cardiovascular Disease Risk in China. Participants without cardiovascular disease or cancer at baseline were enrolled in 2001 and 2008 and had a median follow-up of 12.17 years extending into 2021.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">EXPOSURES: CHIP mutations were detected by targeted sequencing (mean depth, 916×). A predefined CHD polygenic risk score (PRS) comprising 531 variants was used to evaluate germline predisposition.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">MAIN OUTCOMES AND MEASURES: The main outcome was first incident CHD.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Among 6181 participants, the median (IQR) age was 53.83 years (45.35-62.39 years); 3082 participants (49.9%) were female, and 3099 (50.1%) were male. A total of 1100 individuals (17.80%) harbored 1372 CHIP mutations at baseline. CHIP was independently associated with incident CHD (hazard ratio [HR], 1.42; 95% CI, 1.18-1.72; P = 2.82 × 10-4) and presented a risk gradient with increasing VAF (P = 3.98 × 10-3 for trend). Notably, individuals with small clones, nearly half of CHIP carriers, also demonstrated a higher CHD risk compared with non-CHIP carriers (HR, 1.33; 95% CI, 1.02-1.74; P = .03) and were 4 years younger than those with VAF of 2% or greater (median age, 58.52 vs 62.70 years). Heightened CHD risk was not observed among CHIP carriers with low PRS (HR, 1.02; 95% CI, 0.64-1.64; P = .92), while high PRS and CHIP jointly contributed a 2.23-fold increase in risk (95% CI, 1.51-3.29; P = 6.29 × 10-5) compared with non-CHIP carriers with low PRS. Interestingly, the diversity in CHIP-related CHD risk within each PRS group was substantially diminished when removing variants in the inflammatory pathway from the PRS.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: This study revealed that elevated CHD risk attributed to CHIP was nonnegligible even for small clones. Inflammation genes involved in CHD could aggravate or abrogate CHIP-related CHD risk.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38198131/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38198131</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2023.5095>10.1001/jamacardio.2023.5095</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Jan 10. doi: 10.1001/jamacardio.2023.5095. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">IMPORTANCE: The genetic basis of coronary heart disease (CHD) has expanded from a germline to somatic genome, including clonal hematopoiesis of indeterminate potential (CHIP). How CHIP confers CHD risk in East Asian individuals, especially those with small clones (variant allele fraction [VAF] 0.5%-2%) and different genetic backgrounds, was completely unknown.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVE: To investigate the CHIP profile in a general Chinese cohort by deep sequencing and further explore the association between CHIP and incident CHD considering germline predisposition.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">DESIGN, SETTING, AND PARTICIPANTS: This cohort study used data from 3 prospective cohorts in the project Prediction for Atherosclerotic Cardiovascular Disease Risk in China. Participants without cardiovascular disease or cancer at baseline were enrolled in 2001 and 2008 and had a median follow-up of 12.17 years extending into 2021.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">EXPOSURES: CHIP mutations were detected by targeted sequencing (mean depth, 916×). A predefined CHD polygenic risk score (PRS) comprising 531 variants was used to evaluate germline predisposition.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">MAIN OUTCOMES AND MEASURES: The main outcome was first incident CHD.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Among 6181 participants, the median (IQR) age was 53.83 years (45.35-62.39 years); 3082 participants (49.9%) were female, and 3099 (50.1%) were male. A total of 1100 individuals (17.80%) harbored 1372 CHIP mutations at baseline. CHIP was independently associated with incident CHD (hazard ratio [HR], 1.42; 95% CI, 1.18-1.72; P = 2.82 × 10-4) and presented a risk gradient with increasing VAF (P = 3.98 × 10-3 for trend). Notably, individuals with small clones, nearly half of CHIP carriers, also demonstrated a higher CHD risk compared with non-CHIP carriers (HR, 1.33; 95% CI, 1.02-1.74; P = .03) and were 4 years younger than those with VAF of 2% or greater (median age, 58.52 vs 62.70 years). Heightened CHD risk was not observed among CHIP carriers with low PRS (HR, 1.02; 95% CI, 0.64-1.64; P = .92), while high PRS and CHIP jointly contributed a 2.23-fold increase in risk (95% CI, 1.51-3.29; P = 6.29 × 10-5) compared with non-CHIP carriers with low PRS. Interestingly, the diversity in CHIP-related CHD risk within each PRS group was substantially diminished when removing variants in the inflammatory pathway from the PRS.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: This study revealed that elevated CHD risk attributed to CHIP was nonnegligible even for small clones. Inflammation genes involved in CHD could aggravate or abrogate CHIP-related CHD risk.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38198131/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38198131</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2023.5095>10.1001/jamacardio.2023.5095</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38198131</guid>
 <pubDate>Wed, 10 Jan 2024 06:00:00 -0500</pubDate>
 <dc:creator>Kun Zhao</dc:creator>
@@ -90,9 +277,9 @@
 </item>
 <item>
 <title>JAMA Cardiology</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38197891/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38197891/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Jan 1;9(1):4. doi: 10.1001/jamacardio.2023.3201.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38197891/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38197891</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2023.3201>10.1001/jamacardio.2023.3201</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Jan 1;9(1):4. doi: 10.1001/jamacardio.2023.3201.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38197891/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38197891</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2023.3201>10.1001/jamacardio.2023.3201</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38197891</guid>
 <pubDate>Wed, 10 Jan 2024 06:00:00 -0500</pubDate>
 <dc:date>2024-01-10</dc:date>
@@ -103,9 +290,9 @@
 </item>
 <item>
 <title>Deficiency of Transcription Factor SP1 Contributes to Hypertrophic Cardiomyopathy</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38197258/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38197258/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
       <description>CONCLUSIONS: Our study demonstrates that SP1 deficiency leads to HCM. SP1 overexpression exhibits significant therapeutic effects on both HCM mice and HCM hiPSC-CMs, suggesting that SP1 could be a potential intervention target for HCM.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Jan 10. doi: 10.1161/CIRCRESAHA.123.323272. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Hypertrophic cardiomyopathy (HCM) is the most prevalent monogenic heart disorder. However, the pathogenesis of HCM, especially its nongenetic mechanisms, remains largely unclear. TFs (transcription factors) are known to be involved in various biological processes including cell growth. We hypothesized that Sp1 (specificity protein 1), the first purified TF in mammals, plays a role in the cardiomyocyte growth and cardiac hypertrophy of HCM.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Cardiac-specific conditional knockout of Sp1 mice were constructed to investigate the role of SP1 in the heart. The echocardiography, histochemical experiment, and transmission electron microscope were performed to analyze the cardiac phenotypes of cardiac-specific conditional knockout of Sp1 mice. RNA sequencing, chromatin immunoprecipitation sequencing, and adeno-associated virus experiments in vivo were performed to explore the downstream molecules of SP1. To examine the therapeutic effect of SP1 on HCM, an SP1 overexpression vector was constructed and injected into the mutant allele of Myh6 R404Q/+ (<i>Myh6</i> c. 1211C>;T) HCM mice. The human induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs) from a patient with HCM were used to detect the potential therapeutic effects of SP1 in human HCM.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: The cardiac-specific conditional knockout of Sp1 mice developed a typical HCM phenotype, displaying overt myocardial hypertrophy, interstitial fibrosis, and disordered myofilament. In addition, Sp1 knockdown dramatically increased the cell area of hiPSC-CMs and caused intracellular myofibrillar disorganization, which was similar to the hypertrophic cardiomyocytes of HCM. Mechanistically, <i>Tuft1</i> was identified as the key target gene of SP1. The hypertrophic phenotypes induced by Sp1 knockdown in both hiPSC-CMs and mice could be rescued by TUFT1 (tuftelin 1) overexpression. Furthermore, SP1 overexpression suppressed the development of HCM in the mutant allele of Myh6 R404Q/+ mice and also reversed the hypertrophic phenotype of HCM hiPSC-CMs.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Our study demonstrates that SP1 deficiency leads to HCM. SP1 overexpression exhibits significant therapeutic effects on both HCM mice and HCM hiPSC-CMs, suggesting that SP1 could be a potential intervention target for HCM.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38197258/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38197258</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.123.323272>10.1161/CIRCRESAHA.123.323272</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Jan 10. doi: 10.1161/CIRCRESAHA.123.323272. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Hypertrophic cardiomyopathy (HCM) is the most prevalent monogenic heart disorder. However, the pathogenesis of HCM, especially its nongenetic mechanisms, remains largely unclear. TFs (transcription factors) are known to be involved in various biological processes including cell growth. We hypothesized that Sp1 (specificity protein 1), the first purified TF in mammals, plays a role in the cardiomyocyte growth and cardiac hypertrophy of HCM.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Cardiac-specific conditional knockout of Sp1 mice were constructed to investigate the role of SP1 in the heart. The echocardiography, histochemical experiment, and transmission electron microscope were performed to analyze the cardiac phenotypes of cardiac-specific conditional knockout of Sp1 mice. RNA sequencing, chromatin immunoprecipitation sequencing, and adeno-associated virus experiments in vivo were performed to explore the downstream molecules of SP1. To examine the therapeutic effect of SP1 on HCM, an SP1 overexpression vector was constructed and injected into the mutant allele of Myh6 R404Q/+ (<i>Myh6</i> c. 1211C>;T) HCM mice. The human induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs) from a patient with HCM were used to detect the potential therapeutic effects of SP1 in human HCM.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: The cardiac-specific conditional knockout of Sp1 mice developed a typical HCM phenotype, displaying overt myocardial hypertrophy, interstitial fibrosis, and disordered myofilament. In addition, Sp1 knockdown dramatically increased the cell area of hiPSC-CMs and caused intracellular myofibrillar disorganization, which was similar to the hypertrophic cardiomyocytes of HCM. Mechanistically, <i>Tuft1</i> was identified as the key target gene of SP1. The hypertrophic phenotypes induced by Sp1 knockdown in both hiPSC-CMs and mice could be rescued by TUFT1 (tuftelin 1) overexpression. Furthermore, SP1 overexpression suppressed the development of HCM in the mutant allele of Myh6 R404Q/+ mice and also reversed the hypertrophic phenotype of HCM hiPSC-CMs.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Our study demonstrates that SP1 deficiency leads to HCM. SP1 overexpression exhibits significant therapeutic effects on both HCM mice and HCM hiPSC-CMs, suggesting that SP1 could be a potential intervention target for HCM.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38197258/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38197258</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.123.323272>10.1161/CIRCRESAHA.123.323272</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38197258</guid>
 <pubDate>Wed, 10 Jan 2024 06:00:00 -0500</pubDate>
 <dc:creator>Fulei Zhang</dc:creator>
@@ -135,9 +322,9 @@
 </item>
 <item>
 <title>New mechanisms-based therapies in acute ischaemic stroke</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38195195/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38195195/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Jan 9:ehad865. doi: 10.1093/eurheartj/ehad865. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38195195/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38195195</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad865>10.1093/eurheartj/ehad865</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Jan 9:ehad865. doi: 10.1093/eurheartj/ehad865. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38195195/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38195195</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad865>10.1093/eurheartj/ehad865</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38195195</guid>
 <pubDate>Tue, 09 Jan 2024 06:00:00 -0500</pubDate>
 <dc:creator>Guido Stoll</dc:creator>
@@ -152,9 +339,9 @@
 </item>
 <item>
 <title>The '10 commandments' for the 2023 ESC Guidelines for the management of cardiovascular disease in patients with diabetes</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38195096/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38195096/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Jan 9:ehad881. doi: 10.1093/eurheartj/ehad881. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38195096/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38195096</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad881>10.1093/eurheartj/ehad881</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Jan 9:ehad881. doi: 10.1093/eurheartj/ehad881. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38195096/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38195096</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad881>10.1093/eurheartj/ehad881</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38195096</guid>
 <pubDate>Tue, 09 Jan 2024 06:00:00 -0500</pubDate>
 <dc:creator>Katharina Schütt</dc:creator>
@@ -170,9 +357,9 @@
 </item>
 <item>
 <title>How to diagnose and treat venous congestion in heart failure</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38195064/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38195064/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Jan 9:ehad883. doi: 10.1093/eurheartj/ehad883. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38195064/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38195064</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad883>10.1093/eurheartj/ehad883</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Jan 9:ehad883. doi: 10.1093/eurheartj/ehad883. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38195064/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38195064</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad883>10.1093/eurheartj/ehad883</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38195064</guid>
 <pubDate>Tue, 09 Jan 2024 06:00:00 -0500</pubDate>
 <dc:creator>Pierpaolo Pellicori</dc:creator>
@@ -187,9 +374,9 @@
 </item>
 <item>
 <title>Mineralocorticoid receptor antagonists and atrial fibrillation: a meta-analysis of clinical trials</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38195054/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38195054/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
       <description>CONCLUSIONS: Mineralocorticoid receptor antagonists are similarly effective in preventing cardiovascular events in patients with and without HF and most likely retain their efficacy regardless of AF status. Mineralocorticoid receptor antagonists may also be moderately effective in preventing incident or recurrent AF events.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Jan 9:ehad811. doi: 10.1093/eurheartj/ehad811. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND AND AIMS: Mineralocorticoid receptor antagonists (MRAs) improve cardiovascular outcomes in a variety of settings. This study aimed to assess whether cardioprotective effects of MRAs are modified by heart failure (HF) and atrial fibrillation (AF) status and to study their impact on AF events.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: MEDLINE, Embase, and Cochrane Central databases were searched to 24 March 2023 for randomized controlled trials evaluating the efficacy of MRAs as compared with placebo or usual care in reducing cardiovascular outcomes and AF events in patients with or at risk for cardiovascular diseases. Random-effects models and interaction analyses were used to test for effect modification.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Meta-analysis of seven trials (20 741 participants, mean age: 65.6 years, 32% women) showed that the efficacy of MRAs, as compared with placebo, in reducing a composite of cardiovascular death or HF hospitalization remains consistent across patients with HF [risk ratio = 0.81; 95% confidence interval (CI): 0.67-0.98] and without HF (risk ratio = 0.84; 95% CI: 0.75-0.93; interaction P = .77). Among patients with HF, MRAs reduced cardiovascular death or HF hospitalization in patients with AF (hazard ratio = 0.95; 95% CI: 0.54-1.66) to a similar extent as in those without AF (hazard ratio = 0.82; 95% CI: 0.63-1.07; interaction P = .65). Pooled data from 20 trials (21 791 participants, mean age: 65.2 years, 31.3% women) showed that MRAs reduce AF events (risk ratio = 0.76; 95% CI: 0.67-0.87) in both patients with and without prior AF.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Mineralocorticoid receptor antagonists are similarly effective in preventing cardiovascular events in patients with and without HF and most likely retain their efficacy regardless of AF status. Mineralocorticoid receptor antagonists may also be moderately effective in preventing incident or recurrent AF events.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38195054/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38195054</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad811>10.1093/eurheartj/ehad811</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Jan 9:ehad811. doi: 10.1093/eurheartj/ehad811. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND AND AIMS: Mineralocorticoid receptor antagonists (MRAs) improve cardiovascular outcomes in a variety of settings. This study aimed to assess whether cardioprotective effects of MRAs are modified by heart failure (HF) and atrial fibrillation (AF) status and to study their impact on AF events.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: MEDLINE, Embase, and Cochrane Central databases were searched to 24 March 2023 for randomized controlled trials evaluating the efficacy of MRAs as compared with placebo or usual care in reducing cardiovascular outcomes and AF events in patients with or at risk for cardiovascular diseases. Random-effects models and interaction analyses were used to test for effect modification.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Meta-analysis of seven trials (20 741 participants, mean age: 65.6 years, 32% women) showed that the efficacy of MRAs, as compared with placebo, in reducing a composite of cardiovascular death or HF hospitalization remains consistent across patients with HF [risk ratio = 0.81; 95% confidence interval (CI): 0.67-0.98] and without HF (risk ratio = 0.84; 95% CI: 0.75-0.93; interaction P = .77). Among patients with HF, MRAs reduced cardiovascular death or HF hospitalization in patients with AF (hazard ratio = 0.95; 95% CI: 0.54-1.66) to a similar extent as in those without AF (hazard ratio = 0.82; 95% CI: 0.63-1.07; interaction P = .65). Pooled data from 20 trials (21 791 participants, mean age: 65.2 years, 31.3% women) showed that MRAs reduce AF events (risk ratio = 0.76; 95% CI: 0.67-0.87) in both patients with and without prior AF.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Mineralocorticoid receptor antagonists are similarly effective in preventing cardiovascular events in patients with and without HF and most likely retain their efficacy regardless of AF status. Mineralocorticoid receptor antagonists may also be moderately effective in preventing incident or recurrent AF events.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38195054/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38195054</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad811>10.1093/eurheartj/ehad811</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38195054</guid>
 <pubDate>Tue, 09 Jan 2024 06:00:00 -0500</pubDate>
 <dc:creator>Alireza Oraii</dc:creator>
@@ -208,9 +395,9 @@
 </item>
 <item>
 <title>Tackling cardiovascular healthcare disparities for LGBTQIA+ population: a call to action in the European Society of Cardiology</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38195053/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38195053/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240111011135&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Jan 9:ehad882. doi: 10.1093/eurheartj/ehad882. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38195053/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38195053</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad882>10.1093/eurheartj/ehad882</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Jan 9:ehad882. doi: 10.1093/eurheartj/ehad882. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38195053/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240111011135&v=2.18.0">38195053</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad882>10.1093/eurheartj/ehad882</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38195053</guid>
 <pubDate>Tue, 09 Jan 2024 06:00:00 -0500</pubDate>
 <dc:creator>Alexander Kharlamov</dc:creator>
@@ -222,278 +409,6 @@
 <dc:title>Tackling cardiovascular healthcare disparities for LGBTQIA+ population: a call to action in the European Society of Cardiology</dc:title>
 <dc:identifier>pmid:38195053</dc:identifier>
 <dc:identifier>doi:10.1093/eurheartj/ehad882</dc:identifier>
-</item>
-<item>
-<title>Implantable cardioverter defibrillator use in arrhythmogenic right ventricular cardiomyopathy in North America and Europe</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38195003/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
-      <description>CONCLUSIONS: North American ARVC patients were substantially more likely than Europeans to receive primary prevention ICDs across all arrhythmic risk strata. A lower rate of ICD implantation in Europe was not associated with a higher rate of VA events in those without ICDs.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Jan 9:ehad799. doi: 10.1093/eurheartj/ehad799. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND AND AIMS: Implantable cardioverter-defibrillators (ICDs) are critical for preventing sudden cardiac death (SCD) in arrhythmogenic right ventricular cardiomyopathy (ARVC). This study aims to identify cross-continental differences in utilization of primary prevention ICDs and survival free from sustained ventricular arrhythmia (VA) in ARVC.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: This was a retrospective analysis of ARVC patients without prior VA enrolled in clinical registries from 11 countries throughout Europe and North America. Patients were classified according to whether they received treatment in North America or Europe and were further stratified by baseline predicted VA risk into low- (&lt;10%/5 years), intermediate- (10%-25%/5 years), and high-risk (>;25%/5 years) groups. Differences in ICD implantation and survival free from sustained VA events (including appropriate ICD therapy) were assessed.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: One thousand ninety-eight patients were followed for a median of 5.1 years; 554 (50.5%) received a primary prevention ICD, and 286 (26.0%) experienced a first VA event. After adjusting for baseline risk factors, North Americans were more than three times as likely to receive ICDs {hazard ratio (HR) 3.1 [95% confidence interval (CI) 2.5, 3.8]} but had only mildly increased risk for incident sustained VA [HR 1.4 (95% CI 1.1, 1.8)]. North Americans without ICDs were at higher risk for incident sustained VA [HR 2.1 (95% CI 1.3, 3.4)] than Europeans.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: North American ARVC patients were substantially more likely than Europeans to receive primary prevention ICDs across all arrhythmic risk strata. A lower rate of ICD implantation in Europe was not associated with a higher rate of VA events in those without ICDs.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38195003/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38195003</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad799>10.1093/eurheartj/ehad799</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38195003</guid>
-<pubDate>Tue, 09 Jan 2024 06:00:00 -0500</pubDate>
-<dc:creator>Richard T Carrick</dc:creator>
-<dc:creator>Corrado De Marco</dc:creator>
-<dc:creator>Alessio Gasperetti</dc:creator>
-<dc:creator>Laurens P Bosman</dc:creator>
-<dc:creator>Jean-Baptiste Gourraud</dc:creator>
-<dc:creator>Alessandro Trancuccio</dc:creator>
-<dc:creator>Andrea Mazzanti</dc:creator>
-<dc:creator>Brittney Murray</dc:creator>
-<dc:creator>Catherine Pendleton</dc:creator>
-<dc:creator>Crystal Tichnell</dc:creator>
-<dc:creator>Harikrishna Tandri</dc:creator>
-<dc:creator>Katja Zeppenfeld</dc:creator>
-<dc:creator>Arthur A M Wilde</dc:creator>
-<dc:creator>Brianna Davies</dc:creator>
-<dc:creator>Colette Seifer</dc:creator>
-<dc:creator>Jason D Roberts</dc:creator>
-<dc:creator>Jeff S Healey</dc:creator>
-<dc:creator>Ciorsti MacIntyre</dc:creator>
-<dc:creator>Wael Alqarawi</dc:creator>
-<dc:creator>Rafik Tadros</dc:creator>
-<dc:creator>Michael J Cutler</dc:creator>
-<dc:creator>Mattia Targetti</dc:creator>
-<dc:creator>Leonardo Calò</dc:creator>
-<dc:creator>Francesco Vitali</dc:creator>
-<dc:creator>Matteo Bertini</dc:creator>
-<dc:creator>Paolo Compagnucci</dc:creator>
-<dc:creator>Michela Casella</dc:creator>
-<dc:creator>Antonio Dello Russo</dc:creator>
-<dc:creator>Chiara Cappelletto</dc:creator>
-<dc:creator>Antonio De Luca</dc:creator>
-<dc:creator>Davide Stolfo</dc:creator>
-<dc:creator>Firat Duru</dc:creator>
-<dc:creator>Henrik K Jensen</dc:creator>
-<dc:creator>Anneli Svensson</dc:creator>
-<dc:creator>Pia Dahlberg</dc:creator>
-<dc:creator>Nina E Hasselberg</dc:creator>
-<dc:creator>Andrea Di Marco</dc:creator>
-<dc:creator>Paloma Jordà</dc:creator>
-<dc:creator>Elena Arbelo</dc:creator>
-<dc:creator>Zoraida Moreno Weidmann</dc:creator>
-<dc:creator>Karolina Borowiec</dc:creator>
-<dc:creator>Antoine Delinière</dc:creator>
-<dc:creator>Elżbieta K Biernacka</dc:creator>
-<dc:creator>J Peter van Tintelen</dc:creator>
-<dc:creator>Pyotr G Platonov</dc:creator>
-<dc:creator>Iacopo Olivotto</dc:creator>
-<dc:creator>Ardan M Saguner</dc:creator>
-<dc:creator>Kristina H Haugaa</dc:creator>
-<dc:creator>Moniek Cox</dc:creator>
-<dc:creator>Claudio Tondo</dc:creator>
-<dc:creator>Marco Merlo</dc:creator>
-<dc:creator>Andrew D Krahn</dc:creator>
-<dc:creator>Anneline S J M Te Riele</dc:creator>
-<dc:creator>Katherine C Wu</dc:creator>
-<dc:creator>Hugh Calkins</dc:creator>
-<dc:creator>Cynthia A James</dc:creator>
-<dc:creator>Julia Cadrin-Tourigny</dc:creator>
-<dc:date>2024-01-09</dc:date>
-<dc:source>European heart journal</dc:source>
-<dc:title>Implantable cardioverter defibrillator use in arrhythmogenic right ventricular cardiomyopathy in North America and Europe</dc:title>
-<dc:identifier>pmid:38195003</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehad799</dc:identifier>
-</item>
-<item>
-<title>Immune evasion, infectivity, and fusogenicity of SARS-CoV-2 BA.2.86 and FLip variants</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38194968/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
-      <description>Evolution of SARS-CoV-2 requires the reassessment of current vaccine measures. Here, we characterized BA.2.86 and XBB-derived variant FLip by investigating their neutralization alongside D614G, BA.1, BA.2, BA.4/5, XBB.1.5, and EG.5.1 by sera from 3-dose-vaccinated and bivalent-vaccinated healthcare workers, XBB.1.5-wave-infected first responders, and monoclonal antibody (mAb) S309. We assessed the biology of the variant spikes by measuring viral infectivity and membrane fusogenicity. BA.2.86 is...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Jan 3:S0092-8674(23)01400-9. doi: 10.1016/j.cell.2023.12.026. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Evolution of SARS-CoV-2 requires the reassessment of current vaccine measures. Here, we characterized BA.2.86 and XBB-derived variant FLip by investigating their neutralization alongside D614G, BA.1, BA.2, BA.4/5, XBB.1.5, and EG.5.1 by sera from 3-dose-vaccinated and bivalent-vaccinated healthcare workers, XBB.1.5-wave-infected first responders, and monoclonal antibody (mAb) S309. We assessed the biology of the variant spikes by measuring viral infectivity and membrane fusogenicity. BA.2.86 is less immune evasive compared to FLip and other XBB variants, consistent with antigenic distances. Importantly, distinct from XBB variants, mAb S309 was unable to neutralize BA.2.86, likely due to a D339H mutation based on modeling. BA.2.86 had relatively high fusogenicity and infectivity in CaLu-3 cells but low fusion and infectivity in 293T-ACE2 cells compared to some XBB variants, suggesting a potentially different conformational stability of BA.2.86 spike. Overall, our study underscores the importance of SARS-CoV-2 variant surveillance and the need for updated COVID-19 vaccines.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38194968/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38194968</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2023.12.026>10.1016/j.cell.2023.12.026</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38194968</guid>
-<pubDate>Tue, 09 Jan 2024 06:00:00 -0500</pubDate>
-<dc:creator>Panke Qu</dc:creator>
-<dc:creator>Kai Xu</dc:creator>
-<dc:creator>Julia N Faraone</dc:creator>
-<dc:creator>Negin Goodarzi</dc:creator>
-<dc:creator>Yi-Min Zheng</dc:creator>
-<dc:creator>Claire Carlin</dc:creator>
-<dc:creator>Joseph S Bednash</dc:creator>
-<dc:creator>Jeffrey C Horowitz</dc:creator>
-<dc:creator>Rama K Mallampalli</dc:creator>
-<dc:creator>Linda J Saif</dc:creator>
-<dc:creator>Eugene M Oltz</dc:creator>
-<dc:creator>Daniel Jones</dc:creator>
-<dc:creator>Richard J Gumina</dc:creator>
-<dc:creator>Shan-Lu Liu</dc:creator>
-<dc:date>2024-01-09</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>Immune evasion, infectivity, and fusogenicity of SARS-CoV-2 BA.2.86 and FLip variants</dc:title>
-<dc:identifier>pmid:38194968</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2023.12.026</dc:identifier>
-</item>
-<item>
-<title>Human fetal brain self-organizes into long-term expanding organoids</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38194967/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
-      <description>Human brain development involves an orchestrated, massive neural progenitor expansion while a multi-cellular tissue architecture is established. Continuously expanding organoids can be grown directly from multiple somatic tissues, yet to date, brain organoids can solely be established from pluripotent stem cells. Here, we show that healthy human fetal brain in vitro self-organizes into organoids (FeBOs), phenocopying aspects of in vivo cellular heterogeneity and complex organization. FeBOs can...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Jan 4:S0092-8674(23)01344-2. doi: 10.1016/j.cell.2023.12.012. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Human brain development involves an orchestrated, massive neural progenitor expansion while a multi-cellular tissue architecture is established. Continuously expanding organoids can be grown directly from multiple somatic tissues, yet to date, brain organoids can solely be established from pluripotent stem cells. Here, we show that healthy human fetal brain in vitro self-organizes into organoids (FeBOs), phenocopying aspects of in vivo cellular heterogeneity and complex organization. FeBOs can be expanded over long time periods. FeBO growth requires maintenance of tissue integrity, which ensures production of a tissue-like extracellular matrix (ECM) niche, ultimately endowing FeBO expansion. FeBO lines derived from different areas of the central nervous system (CNS), including dorsal and ventral forebrain, preserve their regional identity and allow to probe aspects of positional identity. Using CRISPR-Cas9, we showcase the generation of syngeneic mutant FeBO lines for the study of brain cancer. Taken together, FeBOs constitute a complementary CNS organoid platform.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38194967/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38194967</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2023.12.012>10.1016/j.cell.2023.12.012</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38194967</guid>
-<pubDate>Tue, 09 Jan 2024 06:00:00 -0500</pubDate>
-<dc:creator>Delilah Hendriks</dc:creator>
-<dc:creator>Anna Pagliaro</dc:creator>
-<dc:creator>Francesco Andreatta</dc:creator>
-<dc:creator>Ziliang Ma</dc:creator>
-<dc:creator>Joey van Giessen</dc:creator>
-<dc:creator>Simone Massalini</dc:creator>
-<dc:creator>Carmen López-Iglesias</dc:creator>
-<dc:creator>Gijs J F van Son</dc:creator>
-<dc:creator>Jeff DeMartino</dc:creator>
-<dc:creator>J Mirjam A Damen</dc:creator>
-<dc:creator>Iris Zoutendijk</dc:creator>
-<dc:creator>Nadzeya Staliarova</dc:creator>
-<dc:creator>Annelien L Bredenoord</dc:creator>
-<dc:creator>Frank C P Holstege</dc:creator>
-<dc:creator>Peter J Peters</dc:creator>
-<dc:creator>Thanasis Margaritis</dc:creator>
-<dc:creator>Susana Chuva de Sousa Lopes</dc:creator>
-<dc:creator>Wei Wu</dc:creator>
-<dc:creator>Hans Clevers</dc:creator>
-<dc:creator>Benedetta Artegiani</dc:creator>
-<dc:date>2024-01-09</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>Human fetal brain self-organizes into long-term expanding organoids</dc:title>
-<dc:identifier>pmid:38194967</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2023.12.012</dc:identifier>
-</item>
-<item>
-<title>SARS-CoV-2 BA.2.86 enters lung cells and evades neutralizing antibodies with high efficiency</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38194966/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
-      <description>BA.2.86, a recently identified descendant of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron BA.2 sublineage, contains ∼35 mutations in the spike (S) protein and spreads in multiple countries. Here, we investigated whether the virus exhibits altered biological traits, focusing on S protein-driven viral entry. Employing pseudotyped particles, we show that BA.2.86, unlike other Omicron sublineages, enters Calu-3 lung cells with high efficiency and in a serine- but not...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Jan 5:S0092-8674(23)01399-5. doi: 10.1016/j.cell.2023.12.025. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BA.2.86, a recently identified descendant of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron BA.2 sublineage, contains ∼35 mutations in the spike (S) protein and spreads in multiple countries. Here, we investigated whether the virus exhibits altered biological traits, focusing on S protein-driven viral entry. Employing pseudotyped particles, we show that BA.2.86, unlike other Omicron sublineages, enters Calu-3 lung cells with high efficiency and in a serine- but not cysteine-protease-dependent manner. Robust lung cell infection was confirmed with authentic BA.2.86, but the virus exhibited low specific infectivity. Further, BA.2.86 was highly resistant against all therapeutic antibodies tested, efficiently evading neutralization by antibodies induced by non-adapted vaccines. In contrast, BA.2.86 and the currently circulating EG.5.1 sublineage were appreciably neutralized by antibodies induced by the XBB.1.5-adapted vaccine. Collectively, BA.2.86 has regained a trait characteristic of early SARS-CoV-2 lineages, robust lung cell entry, and evades neutralizing antibodies. However, BA.2.86 exhibits low specific infectivity, which might limit transmissibility.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38194966/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38194966</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2023.12.025>10.1016/j.cell.2023.12.025</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38194966</guid>
-<pubDate>Tue, 09 Jan 2024 06:00:00 -0500</pubDate>
-<dc:creator>Lu Zhang</dc:creator>
-<dc:creator>Amy Kempf</dc:creator>
-<dc:creator>Inga Nehlmeier</dc:creator>
-<dc:creator>Anne Cossmann</dc:creator>
-<dc:creator>Anja Richter</dc:creator>
-<dc:creator>Najat Bdeir</dc:creator>
-<dc:creator>Luise Graichen</dc:creator>
-<dc:creator>Anna-Sophie Moldenhauer</dc:creator>
-<dc:creator>Alexandra Dopfer-Jablonka</dc:creator>
-<dc:creator>Metodi V Stankov</dc:creator>
-<dc:creator>Etienne Simon-Loriere</dc:creator>
-<dc:creator>Sebastian R Schulz</dc:creator>
-<dc:creator>Hans-Martin Jäck</dc:creator>
-<dc:creator>Luka Čičin-Šain</dc:creator>
-<dc:creator>Georg M N Behrens</dc:creator>
-<dc:creator>Christian Drosten</dc:creator>
-<dc:creator>Markus Hoffmann</dc:creator>
-<dc:creator>Stefan Pöhlmann</dc:creator>
-<dc:date>2024-01-09</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>SARS-CoV-2 BA.2.86 enters lung cells and evades neutralizing antibodies with high efficiency</dc:title>
-<dc:identifier>pmid:38194966</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2023.12.025</dc:identifier>
-</item>
-<item>
-<title>Machine learning interpretable models of cell mechanics from protein images</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38194965/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
-      <description>Cellular form and function emerge from complex mechanochemical systems within the cytoplasm. Currently, no systematic strategy exists to infer large-scale physical properties of a cell from its molecular components. This is an obstacle to understanding processes such as cell adhesion and migration. Here, we develop a data-driven modeling pipeline to learn the mechanical behavior of adherent cells. We first train neural networks to predict cellular forces from images of cytoskeletal proteins....</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Jan 1:S0092-8674(23)01331-4. doi: 10.1016/j.cell.2023.11.041. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Cellular form and function emerge from complex mechanochemical systems within the cytoplasm. Currently, no systematic strategy exists to infer large-scale physical properties of a cell from its molecular components. This is an obstacle to understanding processes such as cell adhesion and migration. Here, we develop a data-driven modeling pipeline to learn the mechanical behavior of adherent cells. We first train neural networks to predict cellular forces from images of cytoskeletal proteins. Strikingly, experimental images of a single focal adhesion (FA) protein, such as zyxin, are sufficient to predict forces and can generalize to unseen biological regimes. Using this observation, we develop two approaches-one constrained by physics and the other agnostic-to construct data-driven continuum models of cellular forces. Both reveal how cellular forces are encoded by two distinct length scales. Beyond adherent cell mechanics, our work serves as a case study for integrating neural networks into predictive models for cell biology.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38194965/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38194965</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2023.11.041>10.1016/j.cell.2023.11.041</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38194965</guid>
-<pubDate>Tue, 09 Jan 2024 06:00:00 -0500</pubDate>
-<dc:creator>Matthew S Schmitt</dc:creator>
-<dc:creator>Jonathan Colen</dc:creator>
-<dc:creator>Stefano Sala</dc:creator>
-<dc:creator>John Devany</dc:creator>
-<dc:creator>Shailaja Seetharaman</dc:creator>
-<dc:creator>Alexia Caillier</dc:creator>
-<dc:creator>Margaret L Gardel</dc:creator>
-<dc:creator>Patrick W Oakes</dc:creator>
-<dc:creator>Vincenzo Vitelli</dc:creator>
-<dc:date>2024-01-09</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>Machine learning interpretable models of cell mechanics from protein images</dc:title>
-<dc:identifier>pmid:38194965</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2023.11.041</dc:identifier>
-</item>
-<item>
-<title>Direct observation of a condensate effect on super-enhancer controlled gene bursting</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38194964/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
-      <description>Enhancers are distal DNA elements believed to loop and contact promoters to control gene expression. Recently, we found diffraction-sized transcriptional condensates at genes controlled by clusters of enhancers (super-enhancers). However, a direct function of endogenous condensates in controlling gene expression remains elusive. Here, we develop live-cell super-resolution and multi-color 3D-imaging approaches to investigate putative roles of endogenous condensates in the regulation of...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2023 Dec 29:S0092-8674(23)01337-5. doi: 10.1016/j.cell.2023.12.005. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Enhancers are distal DNA elements believed to loop and contact promoters to control gene expression. Recently, we found diffraction-sized transcriptional condensates at genes controlled by clusters of enhancers (super-enhancers). However, a direct function of endogenous condensates in controlling gene expression remains elusive. Here, we develop live-cell super-resolution and multi-color 3D-imaging approaches to investigate putative roles of endogenous condensates in the regulation of super-enhancer controlled gene Sox2. In contrast to enhancer distance, we find instead that the condensate's positional dynamics are a better predictor of gene expression. A basal gene bursting occurs when the condensate is far (>;1 μm), but burst size and frequency are enhanced when the condensate moves in proximity (&lt;1 μm). Perturbations of cohesin and local DNA elements do not prevent basal bursting but affect the condensate and its burst enhancement. We propose a three-way kissing model whereby the condensate interacts transiently with gene locus and regulatory DNA elements to control gene bursting.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38194964/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38194964</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2023.12.005>10.1016/j.cell.2023.12.005</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38194964</guid>
-<pubDate>Tue, 09 Jan 2024 06:00:00 -0500</pubDate>
-<dc:creator>Manyu Du</dc:creator>
-<dc:creator>Simon Hendrik Stitzinger</dc:creator>
-<dc:creator>Jan-Hendrik Spille</dc:creator>
-<dc:creator>Won-Ki Cho</dc:creator>
-<dc:creator>Choongman Lee</dc:creator>
-<dc:creator>Mohammed Hijaz</dc:creator>
-<dc:creator>Andrea Quintana</dc:creator>
-<dc:creator>Ibrahim I Cissé</dc:creator>
-<dc:date>2024-01-09</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>Direct observation of a condensate effect on super-enhancer controlled gene bursting</dc:title>
-<dc:identifier>pmid:38194964</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2023.12.005</dc:identifier>
-</item>
-<item>
-<title>Value Creation Through Artificial Intelligence and Cardiovascular Imaging: A Scientific Statement From the American Heart Association</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38193315/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
-      <description>Multiple applications for machine learning and artificial intelligence (AI) in cardiovascular imaging are being proposed and developed. However, the processes involved in implementing AI in cardiovascular imaging are highly diverse, varying by imaging modality, patient subtype, features to be extracted and analyzed, and clinical application. This article establishes a framework that defines value from an organizational perspective, followed by value chain analysis to identify the activities in...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Jan 9. doi: 10.1161/CIR.0000000000001202. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Multiple applications for machine learning and artificial intelligence (AI) in cardiovascular imaging are being proposed and developed. However, the processes involved in implementing AI in cardiovascular imaging are highly diverse, varying by imaging modality, patient subtype, features to be extracted and analyzed, and clinical application. This article establishes a framework that defines value from an organizational perspective, followed by value chain analysis to identify the activities in which AI might produce the greatest incremental value creation. The various perspectives that should be considered are highlighted, including clinicians, imagers, hospitals, patients, and payers. Integrating the perspectives of all health care stakeholders is critical for creating value and ensuring the successful deployment of AI tools in a real-world setting. Different AI tools are summarized, along with the unique aspects of AI applications to various cardiac imaging modalities, including cardiac computed tomography, magnetic resonance imaging, and positron emission tomography. AI is applicable and has the potential to add value to cardiovascular imaging at every step along the patient journey, from selecting the more appropriate test to optimizing image acquisition and analysis, interpreting the results for classification and diagnosis, and predicting the risk for major adverse cardiac events.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38193315/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38193315</a> | DOI:<a href=https://doi.org/10.1161/CIR.0000000000001202>10.1161/CIR.0000000000001202</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38193315</guid>
-<pubDate>Tue, 09 Jan 2024 06:00:00 -0500</pubDate>
-<dc:creator>Kate Hanneman</dc:creator>
-<dc:creator>David Playford</dc:creator>
-<dc:creator>Damini Dey</dc:creator>
-<dc:creator>Marly van Assen</dc:creator>
-<dc:creator>Domenico Mastrodicasa</dc:creator>
-<dc:creator>Tessa S Cook</dc:creator>
-<dc:creator>Judy Wawira Gichoya</dc:creator>
-<dc:creator>Eric E Williamson</dc:creator>
-<dc:creator>Geoffrey D Rubin</dc:creator>
-<dc:creator>American Heart Association Council on Cardiovascular Radiology and Intervention; and Council on Lifelong Congenital Heart Disease and Heart Health in the Young</dc:creator>
-<dc:date>2024-01-09</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Value Creation Through Artificial Intelligence and Cardiovascular Imaging: A Scientific Statement From the American Heart Association</dc:title>
-<dc:identifier>pmid:38193315</dc:identifier>
-<dc:identifier>doi:10.1161/CIR.0000000000001202</dc:identifier>
-</item>
-<item>
-<title>Letter by Čulić Regarding Article, "Extreme Temperature Events, Fine Particulate Matter, and Myocardial Infarction Mortality"</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38190452/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Jan 9;149(2):167. doi: 10.1161/CIRCULATIONAHA.123.066736. Epub 2024 Jan 8.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38190452/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38190452</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.066736>10.1161/CIRCULATIONAHA.123.066736</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38190452</guid>
-<pubDate>Mon, 08 Jan 2024 06:00:00 -0500</pubDate>
-<dc:creator>Viktor Čulić</dc:creator>
-<dc:date>2024-01-08</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Letter by Čulić Regarding Article, "Extreme Temperature Events, Fine Particulate Matter, and Myocardial Infarction Mortality"</dc:title>
-<dc:identifier>pmid:38190452</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.123.066736</dc:identifier>
-</item>
-<item>
-<title>Is it a Twofer?</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38190451/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Jan 9;149(2):160-163. doi: 10.1161/CIRCULATIONAHA.123.067610. Epub 2024 Jan 8.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38190451/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38190451</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.067610>10.1161/CIRCULATIONAHA.123.067610</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38190451</guid>
-<pubDate>Mon, 08 Jan 2024 06:00:00 -0500</pubDate>
-<dc:creator>Pablo Raposo Salas</dc:creator>
-<dc:creator>Pablo Elpidio García-Granja</dc:creator>
-<dc:creator>Emilio Garcia-Morán</dc:creator>
-<dc:date>2024-01-08</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Is it a Twofer?</dc:title>
-<dc:identifier>pmid:38190451</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.123.067610</dc:identifier>
-</item>
-<item>
-<title>The American Heart Association Journals Centennial Collection</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38190449/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240110231038&amp;v=2.18.0
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Jan 9;149(2):77. doi: 10.1161/CIRCULATIONAHA.123.068161. Epub 2024 Jan 8.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38190449/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240110231038&v=2.18.0">38190449</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.068161>10.1161/CIRCULATIONAHA.123.068161</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38190449</guid>
-<pubDate>Mon, 08 Jan 2024 06:00:00 -0500</pubDate>
-<dc:creator>Joseph A Hill</dc:creator>
-<dc:creator>Editors-in-Chief of the American Heart Association Journals</dc:creator>
-<dc:date>2024-01-08</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>The American Heart Association Journals Centennial Collection</dc:title>
-<dc:identifier>pmid:38190449</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.123.068161</dc:identifier>
 </item>
 
 

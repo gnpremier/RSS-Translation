@@ -1,20 +1,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>心血管高分期刊</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.18.0&amp;ff=20240206231018&amp;utm_source=Chrome&amp;fc=20230708114047&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-
+<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;ff=20240207011044&amp;utm_campaign=pubmed-2&amp;utm_source=Chrome&amp;fc=20230708114047&amp;v=2.18.0&amp;utm_medium=rss
     <description>心血管高分期刊: Latest results from PubMed</description>
-<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.18.0&amp;ff=20240206231018&amp;utm_source=Chrome&amp;fc=20230708114047&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-" rel="self"></atom:link>
+<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;ff=20240207011044&amp;utm_campaign=pubmed-2&amp;utm_source=Chrome&amp;fc=20230708114047&amp;v=2.18.0&amp;utm_medium=rss" rel="self"></atom:link>
 <docs>http://www.rssboard.org/rss-specification</docs>
 <generator>PubMed RSS feeds (2.18.0)</generator>
 <language>en</language>
-<lastbuilddate>Wed, 07 Feb 2024 04:10:19 +0000</lastbuilddate>
+<lastbuilddate>Wed, 07 Feb 2024 06:10:46 +0000</lastbuilddate>
 <pubDate>Tue, 06 Feb 2024 06:00:00 -0500</pubDate>
 <ttl>120</ttl>
 <item>
-<title>Lipoprotein(a) association with residual risk: what has inflammation got to do with it?</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38320259/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
+<title>Human papilloma virus and atherosclerotic cardiovascular disease</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38321363/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Feb 6:ehae045. doi: 10.1093/eurheartj/ehae045. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38320259/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38320259</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae045>10.1093/eurheartj/ehae045</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Feb 7:ehad829. doi: 10.1093/eurheartj/ehad829. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38321363/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38321363</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehad829>10.1093/eurheartj/ehad829</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38321363</guid>
+<pubDate>Tue, 06 Feb 2024 06:00:00 -0500</pubDate>
+<dc:creator>Noel C Chan</dc:creator>
+<dc:creator>James S Lawson</dc:creator>
+<dc:creator>Jack Hirsh</dc:creator>
+<dc:date>2024-02-06</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Human papilloma virus and atherosclerotic cardiovascular disease</dc:title>
+<dc:identifier>pmid:38321363</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehad829</dc:identifier>
+</item>
+<item>
+<title>Human papillomavirus infection and cardiovascular mortality: a cohort study</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38321359/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
+      <description>CONCLUSIONS: In this cohort study of young and middle-aged Korean women, at low risks for CVD mortality, those with HR-HPV infection had higher death rates from CVD, specifically ASCVD and IHD, with a more pronounced trend in obese individuals.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Feb 7:ehae020. doi: 10.1093/eurheartj/ehae020. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND AND AIMS: High-risk human papillomavirus (HR-HPV) infection-a well-established risk factor for cervical cancer-has associations with cardiovascular disease (CVD). However, its relationship with CVD mortality remains uncertain. This study examined the associations between HR-HPV infection and CVD mortality.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: As part of a health examination, 163 250 CVD-free Korean women (mean age: 40.2 years) underwent HR-HPV screening and were tracked for up to 17 years (median: 8.6 years). National death records identified the CVD mortality cases. Hazard ratios (HRs) and 95% confidence intervals (CIs) for CVD mortality were estimated using Cox proportional hazard regression analyses.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: During 1 380 953 person-years of follow-up, 134 CVD deaths occurred, with a mortality rate of 9.1 per 105 person-years for HR-HPV(-) women and 14.9 per 105 person-years for HR-HPV(+) women. After adjustment for traditional CVD risk factors and confounders, the HRs (95% CI) for atherosclerotic CVD (ASCVD), ischaemic heart disease (IHD), and stroke mortality in women with HR-HPV infection compared with those without infection were 3.91 (1.85-8.26), 3.74 (1.53-9.14), and 5.86 (0.86-40.11), respectively. The association between HR-HPV infection and ASCVD mortality was stronger in women with obesity than in those without (P for interaction = .006), with corresponding HRs (95% CI) of 4.81 (1.55-14.93) for obese women and 2.86 (1.04-7.88) for non-obese women.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: In this cohort study of young and middle-aged Korean women, at low risks for CVD mortality, those with HR-HPV infection had higher death rates from CVD, specifically ASCVD and IHD, with a more pronounced trend in obese individuals.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38321359/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38321359</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae020>10.1093/eurheartj/ehae020</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38321359</guid>
+<pubDate>Tue, 06 Feb 2024 06:00:00 -0500</pubDate>
+<dc:creator>Hae Suk Cheong</dc:creator>
+<dc:creator>Yoosoo Chang</dc:creator>
+<dc:creator>Yejin Kim</dc:creator>
+<dc:creator>Min-Jung Kwon</dc:creator>
+<dc:creator>Yoosun Cho</dc:creator>
+<dc:creator>Bomi Kim</dc:creator>
+<dc:creator>Eun-Jeong Joo</dc:creator>
+<dc:creator>Young Ho Bae</dc:creator>
+<dc:creator>Chanmin Kim</dc:creator>
+<dc:creator>Seungho Ryu</dc:creator>
+<dc:date>2024-02-06</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Human papillomavirus infection and cardiovascular mortality: a cohort study</dc:title>
+<dc:identifier>pmid:38321359</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae020</dc:identifier>
+</item>
+<item>
+<title>PARP1-DNA co-condensation drives DNA repair site assembly to prevent disjunction of broken DNA ends</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38320550/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
+      <description>DNA double-strand breaks (DSBs) are repaired at DSB sites. How DSB sites assemble and how broken DNA is prevented from separating is not understood. Here we uncover that the synapsis of broken DNA is mediated by the DSB sensor protein poly(ADP-ribose) (PAR) polymerase 1 (PARP1). Using bottom-up biochemistry, we reconstitute functional DSB sites and show that DSB sites form through co-condensation of PARP1 multimers with DNA. The co-condensates exert mechanical forces to keep DNA ends together...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Jan 31:S0092-8674(24)00052-7. doi: 10.1016/j.cell.2024.01.015. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">DNA double-strand breaks (DSBs) are repaired at DSB sites. How DSB sites assemble and how broken DNA is prevented from separating is not understood. Here we uncover that the synapsis of broken DNA is mediated by the DSB sensor protein poly(ADP-ribose) (PAR) polymerase 1 (PARP1). Using bottom-up biochemistry, we reconstitute functional DSB sites and show that DSB sites form through co-condensation of PARP1 multimers with DNA. The co-condensates exert mechanical forces to keep DNA ends together and become enzymatically active for PAR synthesis. PARylation promotes release of PARP1 from DNA ends and the recruitment of effectors, such as Fused in Sarcoma, which stabilizes broken DNA ends against separation, revealing a finely orchestrated order of events that primes broken DNA for repair. We provide a comprehensive model for the hierarchical assembly of DSB condensates to explain DNA end synapsis and the recruitment of effector proteins for DNA damage repair.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38320550/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38320550</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.015>10.1016/j.cell.2024.01.015</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38320550</guid>
+<pubDate>Tue, 06 Feb 2024 06:00:00 -0500</pubDate>
+<dc:creator>Nagaraja Chappidi</dc:creator>
+<dc:creator>Thomas Quail</dc:creator>
+<dc:creator>Simon Doll</dc:creator>
+<dc:creator>Laura T Vogel</dc:creator>
+<dc:creator>Radoslav Aleksandrov</dc:creator>
+<dc:creator>Suren Felekyan</dc:creator>
+<dc:creator>Ralf Kühnemuth</dc:creator>
+<dc:creator>Stoyno Stoynov</dc:creator>
+<dc:creator>Claus A M Seidel</dc:creator>
+<dc:creator>Jan Brugués</dc:creator>
+<dc:creator>Marcus Jahnel</dc:creator>
+<dc:creator>Titus M Franzmann</dc:creator>
+<dc:creator>Simon Alberti</dc:creator>
+<dc:date>2024-02-06</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>PARP1-DNA co-condensation drives DNA repair site assembly to prevent disjunction of broken DNA ends</dc:title>
+<dc:identifier>pmid:38320550</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.015</dc:identifier>
+</item>
+<item>
+<title>A synthetic differentiation circuit in Escherichia coli for suppressing mutant takeover</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38320549/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
+      <description>Differentiation is crucial for multicellularity. However, it is inherently susceptible to mutant cells that fail to differentiate. These mutants outcompete normal cells by excessive self-renewal. It remains unclear what mechanisms can resist such mutant expansion. Here, we demonstrate a solution by engineering a synthetic differentiation circuit in Escherichia coli that selects against these mutants via a biphasic fitness strategy. The circuit provides tunable production of synthetic analogs of...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Jan 31:S0092-8674(24)00061-8. doi: 10.1016/j.cell.2024.01.024. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Differentiation is crucial for multicellularity. However, it is inherently susceptible to mutant cells that fail to differentiate. These mutants outcompete normal cells by excessive self-renewal. It remains unclear what mechanisms can resist such mutant expansion. Here, we demonstrate a solution by engineering a synthetic differentiation circuit in Escherichia coli that selects against these mutants via a biphasic fitness strategy. The circuit provides tunable production of synthetic analogs of stem, progenitor, and differentiated cells. It resists mutations by coupling differentiation to the production of an essential enzyme, thereby disadvantaging non-differentiating mutants. The circuit selected for and maintained a positive differentiation rate in long-term evolution. Surprisingly, this rate remained constant across vast changes in growth conditions. We found that transit-amplifying cells (fast-growing progenitors) underlie this environmental robustness. Our results provide insight into the stability of differentiation and demonstrate a powerful method for engineering evolutionarily stable multicellular consortia.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38320549/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38320549</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.024>10.1016/j.cell.2024.01.024</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38320549</guid>
+<pubDate>Tue, 06 Feb 2024 06:00:00 -0500</pubDate>
+<dc:creator>David S Glass</dc:creator>
+<dc:creator>Anat Bren</dc:creator>
+<dc:creator>Elizabeth Vaisbourd</dc:creator>
+<dc:creator>Avi Mayo</dc:creator>
+<dc:creator>Uri Alon</dc:creator>
+<dc:date>2024-02-06</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>A synthetic differentiation circuit in Escherichia coli for suppressing mutant takeover</dc:title>
+<dc:identifier>pmid:38320549</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.024</dc:identifier>
+</item>
+<item>
+<title>Lipoprotein(a) association with residual risk: what has inflammation got to do with it?</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38320259/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Feb 6:ehae045. doi: 10.1093/eurheartj/ehae045. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38320259/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38320259</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae045>10.1093/eurheartj/ehae045</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38320259</guid>
 <pubDate>Tue, 06 Feb 2024 06:00:00 -0500</pubDate>
 <dc:creator>Zareen M Farukhi</dc:creator>
@@ -27,9 +110,9 @@
 </item>
 <item>
 <title>Multimodality imaging of acute intramyocardial dissecting haematoma and its dynamic progression</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38320253/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38320253/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Feb 6:ehae035. doi: 10.1093/eurheartj/ehae035. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38320253/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38320253</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae035>10.1093/eurheartj/ehae035</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Feb 6:ehae035. doi: 10.1093/eurheartj/ehae035. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38320253/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38320253</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae035>10.1093/eurheartj/ehae035</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38320253</guid>
 <pubDate>Tue, 06 Feb 2024 06:00:00 -0500</pubDate>
 <dc:creator>Wan-Yu Hu</dc:creator>
@@ -43,9 +126,9 @@
 </item>
 <item>
 <title>Scoring systems developed by machine learning: intelligent but simple to use?</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38320252/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38320252/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Feb 6:ehae053. doi: 10.1093/eurheartj/ehae053. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38320252/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38320252</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae053>10.1093/eurheartj/ehae053</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Feb 6:ehae053. doi: 10.1093/eurheartj/ehae053. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38320252/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38320252</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae053>10.1093/eurheartj/ehae053</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38320252</guid>
 <pubDate>Tue, 06 Feb 2024 06:00:00 -0500</pubDate>
 <dc:creator>Abhirup Banerjee</dc:creator>
@@ -58,9 +141,9 @@
 </item>
 <item>
 <title>A paradigm change in sudden cardiac death risk prediction: 'static' goes out, 'dynamic' comes in</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38320251/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38320251/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Feb 6:ehae051. doi: 10.1093/eurheartj/ehae051. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38320251/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38320251</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae051>10.1093/eurheartj/ehae051</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Feb 6:ehae051. doi: 10.1093/eurheartj/ehae051. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38320251/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38320251</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae051>10.1093/eurheartj/ehae051</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38320251</guid>
 <pubDate>Tue, 06 Feb 2024 06:00:00 -0500</pubDate>
 <dc:creator>Peter J Schwartz</dc:creator>
@@ -73,9 +156,9 @@
 </item>
 <item>
 <title>Clonal haematopoiesis and cardiac arrythmias: rhythm-altering mutations</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38320247/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38320247/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Feb 6:ehae052. doi: 10.1093/eurheartj/ehae052. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38320247/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38320247</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae052>10.1093/eurheartj/ehae052</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Feb 6:ehae052. doi: 10.1093/eurheartj/ehae052. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38320247/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38320247</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae052>10.1093/eurheartj/ehae052</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38320247</guid>
 <pubDate>Tue, 06 Feb 2024 06:00:00 -0500</pubDate>
 <dc:creator>María A Zuriaga</dc:creator>
@@ -89,9 +172,9 @@
 </item>
 <item>
 <title>Lowering dietary sodium intake to reduce blood pressure: cum grano salis</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38320239/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38320239/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Feb 6:ehae065. doi: 10.1093/eurheartj/ehae065. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38320239/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38320239</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae065>10.1093/eurheartj/ehae065</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Feb 6:ehae065. doi: 10.1093/eurheartj/ehae065. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38320239/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38320239</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae065>10.1093/eurheartj/ehae065</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38320239</guid>
 <pubDate>Tue, 06 Feb 2024 06:00:00 -0500</pubDate>
 <dc:creator>Rocco Vergallo</dc:creator>
@@ -104,9 +187,9 @@
 </item>
 <item>
 <title>Mineralocorticoid receptor antagonists for the prevention of atrial fibrillation in patients with and without heart failure: one more beneficial effect?</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38319069/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38319069/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Feb 6:ehae040. doi: 10.1093/eurheartj/ehae040. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38319069/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38319069</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae040>10.1093/eurheartj/ehae040</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Feb 6:ehae040. doi: 10.1093/eurheartj/ehae040. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38319069/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38319069</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae040>10.1093/eurheartj/ehae040</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38319069</guid>
 <pubDate>Tue, 06 Feb 2024 06:00:00 -0500</pubDate>
 <dc:creator>Daniela Zurkan</dc:creator>
@@ -120,9 +203,9 @@
 </item>
 <item>
 <title>Less Obvious Than One Might Think: Why Is There Grouped Beating?</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38315765/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38315765/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Feb 6;149(6):481-483. doi: 10.1161/CIRCULATIONAHA.123.068252. Epub 2024 Feb 5.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38315765/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38315765</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.068252>10.1161/CIRCULATIONAHA.123.068252</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Feb 6;149(6):481-483. doi: 10.1161/CIRCULATIONAHA.123.068252. Epub 2024 Feb 5.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38315765/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38315765</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.068252>10.1161/CIRCULATIONAHA.123.068252</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38315765</guid>
 <pubDate>Mon, 05 Feb 2024 06:00:00 -0500</pubDate>
 <dc:creator>Adrian M Petzl</dc:creator>
@@ -136,9 +219,9 @@
 </item>
 <item>
 <title>Giants Hiding in Small Places: A Case of New Onset Heart Failure, Atrioventricular Block, and Ventricular Arrhythmias</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38315764/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38315764/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Feb 6;149(6):475-480. doi: 10.1161/CIRCULATIONAHA.123.066747. Epub 2024 Feb 5.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38315764/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38315764</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.066747>10.1161/CIRCULATIONAHA.123.066747</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Feb 6;149(6):475-480. doi: 10.1161/CIRCULATIONAHA.123.066747. Epub 2024 Feb 5.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38315764/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38315764</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.066747>10.1161/CIRCULATIONAHA.123.066747</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38315764</guid>
 <pubDate>Mon, 05 Feb 2024 06:00:00 -0500</pubDate>
 <dc:creator>Reynaldo H Sanchez</dc:creator>
@@ -153,9 +236,9 @@
 </item>
 <item>
 <title>The Electrocardiogram at 100 Years: History and Future</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38315763/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38315763/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Feb 6;149(6):411-413. doi: 10.1161/CIRCULATIONAHA.123.065489. Epub 2024 Feb 5.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38315763/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38315763</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.065489>10.1161/CIRCULATIONAHA.123.065489</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Feb 6;149(6):411-413. doi: 10.1161/CIRCULATIONAHA.123.065489. Epub 2024 Feb 5.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38315763/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38315763</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.065489>10.1161/CIRCULATIONAHA.123.065489</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38315763</guid>
 <pubDate>Mon, 05 Feb 2024 06:00:00 -0500</pubDate>
 <dc:creator>Paul A Friedman</dc:creator>
@@ -167,9 +250,9 @@
 </item>
 <item>
 <title>Aldosterone Synthase Inhibitors and Mineralocorticoid Receptor Antagonists: Competitors or Collaborators?</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38315762/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38315762/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Feb 6;149(6):414-416. doi: 10.1161/CIRCULATIONAHA.123.066314. Epub 2024 Feb 5.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38315762/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38315762</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.066314>10.1161/CIRCULATIONAHA.123.066314</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Feb 6;149(6):414-416. doi: 10.1161/CIRCULATIONAHA.123.066314. Epub 2024 Feb 5.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38315762/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38315762</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.066314>10.1161/CIRCULATIONAHA.123.066314</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38315762</guid>
 <pubDate>Mon, 05 Feb 2024 06:00:00 -0500</pubDate>
 <dc:creator>Bertram Pitt</dc:creator>
@@ -182,9 +265,9 @@
 </item>
 <item>
 <title>If Action is Delayed, Is Survival Denied? Management of Severe Hypercholesterolemia Is Important and Urgent</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38315761/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38315761/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Feb 6;149(6):427-429. doi: 10.1161/CIRCULATIONAHA.123.068039. Epub 2024 Feb 5.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38315761/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38315761</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.068039>10.1161/CIRCULATIONAHA.123.068039</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Feb 6;149(6):427-429. doi: 10.1161/CIRCULATIONAHA.123.068039. Epub 2024 Feb 5.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38315761/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38315761</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.068039>10.1161/CIRCULATIONAHA.123.068039</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38315761</guid>
 <pubDate>Mon, 05 Feb 2024 06:00:00 -0500</pubDate>
 <dc:creator>Neil J Stone</dc:creator>
@@ -197,9 +280,9 @@
 </item>
 <item>
 <title>Blood pressure variability: no longer a mASCOT for research nerds</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38315171/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38315171/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Feb 5:ehae023. doi: 10.1093/eurheartj/ehae023. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38315171/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38315171</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae023>10.1093/eurheartj/ehae023</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Feb 5:ehae023. doi: 10.1093/eurheartj/ehae023. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38315171/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38315171</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae023>10.1093/eurheartj/ehae023</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38315171</guid>
 <pubDate>Mon, 05 Feb 2024 06:00:00 -0500</pubDate>
 <dc:creator>Gianfranco Parati</dc:creator>
@@ -213,9 +296,9 @@
 </item>
 <item>
 <title>Inactivation of Malic Enzyme 1 in Endothelial Cells Alleviates Pulmonary Hypertension</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38314588/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38314588/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
       <description>CONCLUSIONS: Our findings indicate that ME1 upregulation in endothelial cells plays a causative role in PH development by negatively regulating adenosine production and subsequently dysregulating endothelial functions. Our findings also suggest that ME1 may represent as a novel pharmacological target for upregulating protective adenosine signaling in PH therapy.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Feb 5. doi: 10.1161/CIRCULATIONAHA.123.067579. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Pulmonary hypertension (PH) is a progressive cardiopulmonary disease with a high mortality rate. Although growing evidence has revealed the importance of dysregulated energetic metabolism in the pathogenesis of PH, the underlying cellular and molecular mechanisms are not fully understood. In this study, we focused on ME1 (malic enzyme 1), a key enzyme linking glycolysis to the tricarboxylic acid cycle. We aimed to determine the role and mechanistic action of ME1 in PH.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Global and endothelial-specific <i>ME1</i> knockout mice were used to investigate the role of ME1 in hypoxia- and SU5416/hypoxia (SuHx)-induced PH. Small hairpin RNA and ME1 enzymatic inhibitor (ME1*) were used to study the mechanism of ME1 in pulmonary artery endothelial cells. Downstream key metabolic pathways and mediators of ME1 were identified by metabolomics analysis in vivo and ME1-mediated energetic alterations were examined by Seahorse metabolic analysis in vitro. The pharmacological effect of ME1* on PH treatment was evaluated in PH animal models induced by SuHx.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: We found that ME1 protein level and enzymatic activity were highly elevated in lung tissues of patients and mice with PH, primarily in vascular endothelial cells. Global knockout of <i>ME1</i> protected mice from developing hypoxia- or SuHx-induced PH. Endothelial-specific <i>ME1</i> deletion similarly attenuated pulmonary vascular remodeling and PH development in mice, suggesting a critical role of endothelial ME1 in PH. Mechanistic studies revealed that ME1 inhibition promoted downstream adenosine production and activated A<sub>2A</sub>R-mediated adenosine signaling, which leads to an increase in nitric oxide generation and a decrease in proinflammatory molecule expression in endothelial cells. ME1 inhibition activated adenosine production in an ATP-dependent manner through regulating malate-aspartate NADH (nicotinamide adenine dinucleotide plus hydrogen) shuttle and thereby balancing oxidative phosphorylation and glycolysis. Pharmacological inactivation of ME1 attenuated the progression of PH in both preventive and therapeutic settings by promoting adenosine production in vivo.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Our findings indicate that ME1 upregulation in endothelial cells plays a causative role in PH development by negatively regulating adenosine production and subsequently dysregulating endothelial functions. Our findings also suggest that ME1 may represent as a novel pharmacological target for upregulating protective adenosine signaling in PH therapy.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38314588/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38314588</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.067579>10.1161/CIRCULATIONAHA.123.067579</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Feb 5. doi: 10.1161/CIRCULATIONAHA.123.067579. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Pulmonary hypertension (PH) is a progressive cardiopulmonary disease with a high mortality rate. Although growing evidence has revealed the importance of dysregulated energetic metabolism in the pathogenesis of PH, the underlying cellular and molecular mechanisms are not fully understood. In this study, we focused on ME1 (malic enzyme 1), a key enzyme linking glycolysis to the tricarboxylic acid cycle. We aimed to determine the role and mechanistic action of ME1 in PH.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Global and endothelial-specific <i>ME1</i> knockout mice were used to investigate the role of ME1 in hypoxia- and SU5416/hypoxia (SuHx)-induced PH. Small hairpin RNA and ME1 enzymatic inhibitor (ME1*) were used to study the mechanism of ME1 in pulmonary artery endothelial cells. Downstream key metabolic pathways and mediators of ME1 were identified by metabolomics analysis in vivo and ME1-mediated energetic alterations were examined by Seahorse metabolic analysis in vitro. The pharmacological effect of ME1* on PH treatment was evaluated in PH animal models induced by SuHx.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: We found that ME1 protein level and enzymatic activity were highly elevated in lung tissues of patients and mice with PH, primarily in vascular endothelial cells. Global knockout of <i>ME1</i> protected mice from developing hypoxia- or SuHx-induced PH. Endothelial-specific <i>ME1</i> deletion similarly attenuated pulmonary vascular remodeling and PH development in mice, suggesting a critical role of endothelial ME1 in PH. Mechanistic studies revealed that ME1 inhibition promoted downstream adenosine production and activated A<sub>2A</sub>R-mediated adenosine signaling, which leads to an increase in nitric oxide generation and a decrease in proinflammatory molecule expression in endothelial cells. ME1 inhibition activated adenosine production in an ATP-dependent manner through regulating malate-aspartate NADH (nicotinamide adenine dinucleotide plus hydrogen) shuttle and thereby balancing oxidative phosphorylation and glycolysis. Pharmacological inactivation of ME1 attenuated the progression of PH in both preventive and therapeutic settings by promoting adenosine production in vivo.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Our findings indicate that ME1 upregulation in endothelial cells plays a causative role in PH development by negatively regulating adenosine production and subsequently dysregulating endothelial functions. Our findings also suggest that ME1 may represent as a novel pharmacological target for upregulating protective adenosine signaling in PH therapy.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38314588/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38314588</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.067579>10.1161/CIRCULATIONAHA.123.067579</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38314588</guid>
 <pubDate>Mon, 05 Feb 2024 06:00:00 -0500</pubDate>
 <dc:creator>Ya Luo</dc:creator>
@@ -251,9 +334,9 @@
 </item>
 <item>
 <title>Pediatric ECG-Based Deep Learning to Predict Left Ventricular Dysfunction and Remodeling</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38314583/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38314583/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
       <description>CONCLUSIONS: This externally validated algorithm shows promise to inexpensively screen for LV dysfunction and remodeling in children, which may facilitate improved access to care by democratizing the expertise of pediatric cardiologists.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Feb 5. doi: 10.1161/CIRCULATIONAHA.123.067750. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Artificial intelligence-enhanced ECG analysis shows promise to detect ventricular dysfunction and remodeling in adult populations. However, its application to pediatric populations remains underexplored.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: A convolutional neural network was trained on paired ECG-echocardiograms (≤2 days apart) from patients ≤18 years of age without major congenital heart disease to detect human expert-classified greater than mild left ventricular (LV) dysfunction, hypertrophy, and dilation (individually and as a composite outcome). Model performance was evaluated on single ECG-echocardiogram pairs per patient at Boston Children's Hospital and externally at Mount Sinai Hospital using area under the receiver operating characteristic curve (AUROC) and area under the precision-recall curve (AUPRC).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: The training cohort comprised 92 377 ECG-echocardiogram pairs (46 261 patients; median age, 8.2 years). Test groups included internal testing (12 631 patients; median age, 8.8 years; 4.6% composite outcomes), emergency department (2830 patients; median age, 7.7 years; 10.0% composite outcomes), and external validation (5088 patients; median age, 4.3 years; 6.1% composite outcomes) cohorts. Model performance was similar on internal test and emergency department cohorts, with model predictions of LV hypertrophy outperforming the pediatric cardiologist expert benchmark. Adding age and sex to the model added no benefit to model performance. When using quantitative outcome cutoffs, model performance was similar between internal testing (composite outcome: AUROC, 0.88, AUPRC, 0.43; LV dysfunction: AUROC, 0.92, AUPRC, 0.23; LV hypertrophy: AUROC, 0.88, AUPRC, 0.28; LV dilation: AUROC, 0.91, AUPRC, 0.47) and external validation (composite outcome: AUROC, 0.86, AUPRC, 0.39; LV dysfunction: AUROC, 0.94, AUPRC, 0.32; LV hypertrophy: AUROC, 0.84, AUPRC, 0.25; LV dilation: AUROC, 0.87, AUPRC, 0.33), with composite outcome negative predictive values of 99.0% and 99.2%, respectively. Saliency mapping highlighted ECG components that influenced model predictions (precordial QRS complexes for all outcomes; T waves for LV dysfunction). High-risk ECG features include lateral T-wave inversion (LV dysfunction), deep S waves in V1 and V2 and tall R waves in V5 and V6 (LV hypertrophy), and tall R waves in V4 through V6 (LV dilation).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: This externally validated algorithm shows promise to inexpensively screen for LV dysfunction and remodeling in children, which may facilitate improved access to care by democratizing the expertise of pediatric cardiologists.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38314583/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38314583</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.067750>10.1161/CIRCULATIONAHA.123.067750</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Feb 5. doi: 10.1161/CIRCULATIONAHA.123.067750. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Artificial intelligence-enhanced ECG analysis shows promise to detect ventricular dysfunction and remodeling in adult populations. However, its application to pediatric populations remains underexplored.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: A convolutional neural network was trained on paired ECG-echocardiograms (≤2 days apart) from patients ≤18 years of age without major congenital heart disease to detect human expert-classified greater than mild left ventricular (LV) dysfunction, hypertrophy, and dilation (individually and as a composite outcome). Model performance was evaluated on single ECG-echocardiogram pairs per patient at Boston Children's Hospital and externally at Mount Sinai Hospital using area under the receiver operating characteristic curve (AUROC) and area under the precision-recall curve (AUPRC).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: The training cohort comprised 92 377 ECG-echocardiogram pairs (46 261 patients; median age, 8.2 years). Test groups included internal testing (12 631 patients; median age, 8.8 years; 4.6% composite outcomes), emergency department (2830 patients; median age, 7.7 years; 10.0% composite outcomes), and external validation (5088 patients; median age, 4.3 years; 6.1% composite outcomes) cohorts. Model performance was similar on internal test and emergency department cohorts, with model predictions of LV hypertrophy outperforming the pediatric cardiologist expert benchmark. Adding age and sex to the model added no benefit to model performance. When using quantitative outcome cutoffs, model performance was similar between internal testing (composite outcome: AUROC, 0.88, AUPRC, 0.43; LV dysfunction: AUROC, 0.92, AUPRC, 0.23; LV hypertrophy: AUROC, 0.88, AUPRC, 0.28; LV dilation: AUROC, 0.91, AUPRC, 0.47) and external validation (composite outcome: AUROC, 0.86, AUPRC, 0.39; LV dysfunction: AUROC, 0.94, AUPRC, 0.32; LV hypertrophy: AUROC, 0.84, AUPRC, 0.25; LV dilation: AUROC, 0.87, AUPRC, 0.33), with composite outcome negative predictive values of 99.0% and 99.2%, respectively. Saliency mapping highlighted ECG components that influenced model predictions (precordial QRS complexes for all outcomes; T waves for LV dysfunction). High-risk ECG features include lateral T-wave inversion (LV dysfunction), deep S waves in V1 and V2 and tall R waves in V5 and V6 (LV hypertrophy), and tall R waves in V4 through V6 (LV dilation).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: This externally validated algorithm shows promise to inexpensively screen for LV dysfunction and remodeling in children, which may facilitate improved access to care by democratizing the expertise of pediatric cardiologists.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38314583/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38314583</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.067750>10.1161/CIRCULATIONAHA.123.067750</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38314583</guid>
 <pubDate>Mon, 05 Feb 2024 06:00:00 -0500</pubDate>
 <dc:creator>Joshua Mayourian</dc:creator>
@@ -275,9 +358,9 @@
 </item>
 <item>
 <title>A Galectin-9-Driven CD11c&lt;sup>;high&lt;/sup>; Decidual Macrophage Subset Suppresses Uterine Vascular Remodeling in Preeclampsia</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38314577/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38314577/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
       <description>CONCLUSIONS: These findings highlight a key role of a distinct perivascular inflammatory CD11c^(high) dMφ subpopulation in the pathogenesis of preeclampsia. CD11c^(high) dMφ activated by increased galectin-9 from trophoblasts suppresses uterine spiral artery remodeling, contributing to preeclampsia. Increased circulating galectin-9 may be a biomarker for preeclampsia prediction and intervention.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Feb 5. doi: 10.1161/CIRCULATIONAHA.123.064391. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Preeclampsia is a serious disease of pregnancy that lacks early diagnosis methods or effective treatment, except delivery. Dysregulated uterine immune cells and spiral arteries are implicated in preeclampsia, but the mechanistic link remains unclear.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Single-cell RNA sequencing and spatial transcriptomics were used to identify immune cell subsets associated with preeclampsia. Cell-based studies and animal models including conditional knockout mice and a new preeclampsia mouse model induced by recombinant mouse galectin-9 were applied to validate the pathogenic role of a CD11c<sup>high</sup> subpopulation of decidual macrophages (dMφ) and to determine its underlying regulatory mechanisms in preeclampsia. A retrospective preeclampsia cohort study was performed to determine the value of circulating galectin-9 in predicting preeclampsia.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: We discovered a distinct CD11c<sup>high</sup> dMφ subset that inhibits spiral artery remodeling in preeclampsia. The proinflammatory CD11c<sup>high</sup> dMφ exhibits perivascular enrichment in the decidua from patients with preeclampsia. We also showed that trophoblast-derived galectin-9 activates CD11c<sup>high</sup> dMφ by means of CD44 binding to suppress spiral artery remodeling. In 3 independent preeclampsia mouse models, placental and plasma galectin-9 levels were elevated. Galectin-9 administration in mice induces preeclampsia-like phenotypes with increased CD11c<sup>high</sup> dMφ and defective spiral arteries, whereas galectin-9 blockade or macrophage-specific CD44 deletion prevents such phenotypes. In pregnant women, increased circulating galectin-9 levels in the first trimester and at 16 to 20 gestational weeks can predict subsequent preeclampsia onset.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: These findings highlight a key role of a distinct perivascular inflammatory CD11c<sup>high</sup> dMφ subpopulation in the pathogenesis of preeclampsia. CD11c<sup>high</sup> dMφ activated by increased galectin-9 from trophoblasts suppresses uterine spiral artery remodeling, contributing to preeclampsia. Increased circulating galectin-9 may be a biomarker for preeclampsia prediction and intervention.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38314577/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38314577</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.064391>10.1161/CIRCULATIONAHA.123.064391</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Feb 5. doi: 10.1161/CIRCULATIONAHA.123.064391. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Preeclampsia is a serious disease of pregnancy that lacks early diagnosis methods or effective treatment, except delivery. Dysregulated uterine immune cells and spiral arteries are implicated in preeclampsia, but the mechanistic link remains unclear.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Single-cell RNA sequencing and spatial transcriptomics were used to identify immune cell subsets associated with preeclampsia. Cell-based studies and animal models including conditional knockout mice and a new preeclampsia mouse model induced by recombinant mouse galectin-9 were applied to validate the pathogenic role of a CD11c<sup>high</sup> subpopulation of decidual macrophages (dMφ) and to determine its underlying regulatory mechanisms in preeclampsia. A retrospective preeclampsia cohort study was performed to determine the value of circulating galectin-9 in predicting preeclampsia.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: We discovered a distinct CD11c<sup>high</sup> dMφ subset that inhibits spiral artery remodeling in preeclampsia. The proinflammatory CD11c<sup>high</sup> dMφ exhibits perivascular enrichment in the decidua from patients with preeclampsia. We also showed that trophoblast-derived galectin-9 activates CD11c<sup>high</sup> dMφ by means of CD44 binding to suppress spiral artery remodeling. In 3 independent preeclampsia mouse models, placental and plasma galectin-9 levels were elevated. Galectin-9 administration in mice induces preeclampsia-like phenotypes with increased CD11c<sup>high</sup> dMφ and defective spiral arteries, whereas galectin-9 blockade or macrophage-specific CD44 deletion prevents such phenotypes. In pregnant women, increased circulating galectin-9 levels in the first trimester and at 16 to 20 gestational weeks can predict subsequent preeclampsia onset.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: These findings highlight a key role of a distinct perivascular inflammatory CD11c<sup>high</sup> dMφ subpopulation in the pathogenesis of preeclampsia. CD11c<sup>high</sup> dMφ activated by increased galectin-9 from trophoblasts suppresses uterine spiral artery remodeling, contributing to preeclampsia. Increased circulating galectin-9 may be a biomarker for preeclampsia prediction and intervention.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38314577/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38314577</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.064391>10.1161/CIRCULATIONAHA.123.064391</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38314577</guid>
 <pubDate>Mon, 05 Feb 2024 06:00:00 -0500</pubDate>
 <dc:creator>Yanhong Li</dc:creator>
@@ -310,9 +393,9 @@
 </item>
 <item>
 <title>Pharmacological Management of Cardiac Arrhythmias in the Fetal and Neonatal Periods: A Scientific Statement From the American Heart Association</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38314551/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
+<link/>https://pubmed.ncbi.nlm.nih.gov/38314551/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240207011044&amp;v=2.18.0
       <description>Disorders of the cardiac rhythm may occur in both the fetus and neonate. Because of the immature myocardium, the hemodynamic consequences of either bradyarrhythmias or tachyarrhythmias may be far more significant than in mature physiological states. Treatment options are limited in the fetus and neonate because of limited vascular access, patient size, and the significant risk/benefit ratio of any intervention. In addition, exposure of the fetus or neonate to either persistent arrhythmias or...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Feb 5. doi: 10.1161/CIR.0000000000001206. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Disorders of the cardiac rhythm may occur in both the fetus and neonate. Because of the immature myocardium, the hemodynamic consequences of either bradyarrhythmias or tachyarrhythmias may be far more significant than in mature physiological states. Treatment options are limited in the fetus and neonate because of limited vascular access, patient size, and the significant risk/benefit ratio of any intervention. In addition, exposure of the fetus or neonate to either persistent arrhythmias or antiarrhythmic medications may have yet-to-be-determined long-term developmental consequences. This scientific statement discusses the mechanism of arrhythmias, pharmacological treatment options, and distinct aspects of pharmacokinetics for the fetus and neonate. From the available current data, subjects of apparent consistency/consensus are presented, as well as future directions for research in terms of aspects of care for which evidence has not been established.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38314551/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38314551</a> | DOI:<a href=https://doi.org/10.1161/CIR.0000000000001206>10.1161/CIR.0000000000001206</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Feb 5. doi: 10.1161/CIR.0000000000001206. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Disorders of the cardiac rhythm may occur in both the fetus and neonate. Because of the immature myocardium, the hemodynamic consequences of either bradyarrhythmias or tachyarrhythmias may be far more significant than in mature physiological states. Treatment options are limited in the fetus and neonate because of limited vascular access, patient size, and the significant risk/benefit ratio of any intervention. In addition, exposure of the fetus or neonate to either persistent arrhythmias or antiarrhythmic medications may have yet-to-be-determined long-term developmental consequences. This scientific statement discusses the mechanism of arrhythmias, pharmacological treatment options, and distinct aspects of pharmacokinetics for the fetus and neonate. From the available current data, subjects of apparent consistency/consensus are presented, as well as future directions for research in terms of aspects of care for which evidence has not been established.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38314551/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240207011044&v=2.18.0">38314551</a> | DOI:<a href=https://doi.org/10.1161/CIR.0000000000001206>10.1161/CIR.0000000000001206</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38314551</guid>
 <pubDate>Mon, 05 Feb 2024 06:00:00 -0500</pubDate>
 <dc:creator>Anjan S Batra</dc:creator>
@@ -331,150 +414,6 @@
 <dc:title>Pharmacological Management of Cardiac Arrhythmias in the Fetal and Neonatal Periods: A Scientific Statement From the American Heart Association</dc:title>
 <dc:identifier>pmid:38314551</dc:identifier>
 <dc:identifier>doi:10.1161/CIR.0000000000001206</dc:identifier>
-</item>
-<item>
-<title>Microglia maintain structural integrity during fetal brain morphogenesis</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38309258/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
-      <description>Microglia (MG), the brain-resident macrophages, play major roles in health and disease via a diversity of cellular states. While embryonic MG display a large heterogeneity of cellular distribution and transcriptomic states, their functions remain poorly characterized. Here, we uncovered a role for MG in the maintenance of structural integrity at two fetal cortical boundaries. At these boundaries between structures that grow in distinct directions, embryonic MG accumulate, display a state...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Jan 31:S0092-8674(24)00044-8. doi: 10.1016/j.cell.2024.01.012. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Microglia (MG), the brain-resident macrophages, play major roles in health and disease via a diversity of cellular states. While embryonic MG display a large heterogeneity of cellular distribution and transcriptomic states, their functions remain poorly characterized. Here, we uncovered a role for MG in the maintenance of structural integrity at two fetal cortical boundaries. At these boundaries between structures that grow in distinct directions, embryonic MG accumulate, display a state resembling post-natal axon-tract-associated microglia (ATM) and prevent the progression of microcavities into large cavitary lesions, in part via a mechanism involving the ATM-factor Spp1. MG and Spp1 furthermore contribute to the rapid repair of lesions, collectively highlighting protective functions that preserve the fetal brain from physiological morphogenetic stress and injury. Our study thus highlights key major roles for embryonic MG and Spp1 in maintaining structural integrity during morphogenesis, with major implications for our understanding of MG functions and brain development.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38309258/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38309258</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.012>10.1016/j.cell.2024.01.012</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38309258</guid>
-<pubDate>Sat, 03 Feb 2024 06:00:00 -0500</pubDate>
-<dc:creator>Akindé René Lawrence</dc:creator>
-<dc:creator>Alice Canzi</dc:creator>
-<dc:creator>Cécile Bridlance</dc:creator>
-<dc:creator>Nicolas Olivié</dc:creator>
-<dc:creator>Claire Lansonneur</dc:creator>
-<dc:creator>Clarissa Catale</dc:creator>
-<dc:creator>Lara Pizzamiglio</dc:creator>
-<dc:creator>Benoit Kloeckner</dc:creator>
-<dc:creator>Aymeric Silvin</dc:creator>
-<dc:creator>David A D Munro</dc:creator>
-<dc:creator>Aurélien Fortoul</dc:creator>
-<dc:creator>Davide Boido</dc:creator>
-<dc:creator>Feriel Zehani</dc:creator>
-<dc:creator>Hugues Cartonnet</dc:creator>
-<dc:creator>Sarah Viguier</dc:creator>
-<dc:creator>Guillaume Oller</dc:creator>
-<dc:creator>Paola Squarzoni</dc:creator>
-<dc:creator>Adrien Candat</dc:creator>
-<dc:creator>Julie Helft</dc:creator>
-<dc:creator>Cécile Allet</dc:creator>
-<dc:creator>Francoise Watrin</dc:creator>
-<dc:creator>Jean-Bernard Manent</dc:creator>
-<dc:creator>Pierre Paoletti</dc:creator>
-<dc:creator>Denis Thieffry</dc:creator>
-<dc:creator>Laura Cantini</dc:creator>
-<dc:creator>Clare Pridans</dc:creator>
-<dc:creator>Josef Priller</dc:creator>
-<dc:creator>Antoinette Gélot</dc:creator>
-<dc:creator>Paolo Giacobini</dc:creator>
-<dc:creator>Luisa Ciobanu</dc:creator>
-<dc:creator>Florent Ginhoux</dc:creator>
-<dc:creator>Morgane Sonia Thion</dc:creator>
-<dc:creator>Ludmilla Lokmane</dc:creator>
-<dc:creator>Sonia Garel</dc:creator>
-<dc:date>2024-02-03</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>Microglia maintain structural integrity during fetal brain morphogenesis</dc:title>
-<dc:identifier>pmid:38309258</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2024.01.012</dc:identifier>
-</item>
-<item>
-<title>A multi-tissue metabolome atlas of primate pregnancy</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38306985/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
-      <description>Pregnancy induces dramatic metabolic changes in females; yet, the intricacies of this metabolic reprogramming remain poorly understood, especially in primates. Using cynomolgus monkeys, we constructed a comprehensive multi-tissue metabolome atlas, analyzing 273 samples from 23 maternal tissues during pregnancy. We discovered a decline in metabolic coupling between tissues as pregnancy progressed. Core metabolic pathways that were rewired during primate pregnancy included steroidogenesis, fatty...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 1;187(3):764-781.e14. doi: 10.1016/j.cell.2023.11.043.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Pregnancy induces dramatic metabolic changes in females; yet, the intricacies of this metabolic reprogramming remain poorly understood, especially in primates. Using cynomolgus monkeys, we constructed a comprehensive multi-tissue metabolome atlas, analyzing 273 samples from 23 maternal tissues during pregnancy. We discovered a decline in metabolic coupling between tissues as pregnancy progressed. Core metabolic pathways that were rewired during primate pregnancy included steroidogenesis, fatty acid metabolism, and arachidonic acid metabolism. Our atlas revealed 91 pregnancy-adaptive metabolites changing consistently across 23 tissues, whose roles we verified in human cell models and patient samples. Corticosterone and palmitoyl-carnitine regulated placental maturation and maternal tissue progenitors, respectively, with implications for maternal preeclampsia, diabetes, cardiac hypertrophy, and muscle and liver regeneration. Moreover, we found that corticosterone deficiency induced preeclampsia-like inflammation, indicating the atlas's potential clinical value. Overall, our multi-tissue metabolome atlas serves as a framework for elucidating the role of metabolic regulation in female health during pregnancy.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38306985/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38306985</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2023.11.043>10.1016/j.cell.2023.11.043</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38306985</guid>
-<pubDate>Fri, 02 Feb 2024 06:00:00 -0500</pubDate>
-<dc:creator>Dainan Yu</dc:creator>
-<dc:creator>Haifeng Wan</dc:creator>
-<dc:creator>Chao Tong</dc:creator>
-<dc:creator>Lu Guang</dc:creator>
-<dc:creator>Gang Chen</dc:creator>
-<dc:creator>Jiali Su</dc:creator>
-<dc:creator>Lan Zhang</dc:creator>
-<dc:creator>Yue Wang</dc:creator>
-<dc:creator>Zhenyu Xiao</dc:creator>
-<dc:creator>Jinglei Zhai</dc:creator>
-<dc:creator>Long Yan</dc:creator>
-<dc:creator>Wenwu Ma</dc:creator>
-<dc:creator>Kun Liang</dc:creator>
-<dc:creator>Taoyan Liu</dc:creator>
-<dc:creator>Yuefan Wang</dc:creator>
-<dc:creator>Zehang Peng</dc:creator>
-<dc:creator>Lanfang Luo</dc:creator>
-<dc:creator>Ruoxuan Yu</dc:creator>
-<dc:creator>Wei Li</dc:creator>
-<dc:creator>Hongbo Qi</dc:creator>
-<dc:creator>Hongmei Wang</dc:creator>
-<dc:creator>Ng Shyh-Chang</dc:creator>
-<dc:date>2024-02-02</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>A multi-tissue metabolome atlas of primate pregnancy</dc:title>
-<dc:identifier>pmid:38306985</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2023.11.043</dc:identifier>
-</item>
-<item>
-<title>Xist ribonucleoproteins promote female sex-biased autoimmunity</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38306984/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
-      <description>Autoimmune diseases disproportionately affect females more than males. The XX sex chromosome complement is strongly associated with susceptibility to autoimmunity. Xist long non-coding RNA (lncRNA) is expressed only in females to randomly inactivate one of the two X chromosomes to achieve gene dosage compensation. Here, we show that the Xist ribonucleoprotein (RNP) complex comprising numerous autoantigenic components is an important driver of sex-biased autoimmunity. Inducible transgenic...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 1;187(3):733-749.e16. doi: 10.1016/j.cell.2023.12.037.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Autoimmune diseases disproportionately affect females more than males. The XX sex chromosome complement is strongly associated with susceptibility to autoimmunity. Xist long non-coding RNA (lncRNA) is expressed only in females to randomly inactivate one of the two X chromosomes to achieve gene dosage compensation. Here, we show that the Xist ribonucleoprotein (RNP) complex comprising numerous autoantigenic components is an important driver of sex-biased autoimmunity. Inducible transgenic expression of a non-silencing form of Xist in male mice introduced Xist RNP complexes and sufficed to produce autoantibodies. Male SJL/J mice expressing transgenic Xist developed more severe multi-organ pathology in a pristane-induced lupus model than wild-type males. Xist expression in males reprogrammed T and B cell populations and chromatin states to more resemble wild-type females. Human patients with autoimmune diseases displayed significant autoantibodies to multiple components of XIST RNP. Thus, a sex-specific lncRNA scaffolds ubiquitous RNP components to drive sex-biased immunity.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38306984/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38306984</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2023.12.037>10.1016/j.cell.2023.12.037</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38306984</guid>
-<pubDate>Fri, 02 Feb 2024 06:00:00 -0500</pubDate>
-<dc:creator>Diana R Dou</dc:creator>
-<dc:creator>Yanding Zhao</dc:creator>
-<dc:creator>Julia A Belk</dc:creator>
-<dc:creator>Yang Zhao</dc:creator>
-<dc:creator>Kerriann M Casey</dc:creator>
-<dc:creator>Derek C Chen</dc:creator>
-<dc:creator>Rui Li</dc:creator>
-<dc:creator>Bingfei Yu</dc:creator>
-<dc:creator>Suhas Srinivasan</dc:creator>
-<dc:creator>Brian T Abe</dc:creator>
-<dc:creator>Katerina Kraft</dc:creator>
-<dc:creator>Ceke Hellström</dc:creator>
-<dc:creator>Ronald Sjöberg</dc:creator>
-<dc:creator>Sarah Chang</dc:creator>
-<dc:creator>Allan Feng</dc:creator>
-<dc:creator>Daniel W Goldman</dc:creator>
-<dc:creator>Ami A Shah</dc:creator>
-<dc:creator>Michelle Petri</dc:creator>
-<dc:creator>Lorinda S Chung</dc:creator>
-<dc:creator>David F Fiorentino</dc:creator>
-<dc:creator>Emma K Lundberg</dc:creator>
-<dc:creator>Anton Wutz</dc:creator>
-<dc:creator>Paul J Utz</dc:creator>
-<dc:creator>Howard Y Chang</dc:creator>
-<dc:date>2024-02-02</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>Xist ribonucleoproteins promote female sex-biased autoimmunity</dc:title>
-<dc:identifier>pmid:38306984</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2023.12.037</dc:identifier>
-</item>
-<item>
-<title>Brain-wide neural activity underlying memory-guided movement</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38306983/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240206231018&amp;v=2.18.0
-      <description>Behavior relies on activity in structured neural circuits that are distributed across the brain, but most experiments probe neurons in a single area at a time. Using multiple Neuropixels probes, we recorded from multi-regional loops connected to the anterior lateral motor cortex (ALM), a circuit node mediating memory-guided directional licking. Neurons encoding sensory stimuli, choices, and actions were distributed across the brain. However, choice coding was concentrated in the ALM and...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 1;187(3):676-691.e16. doi: 10.1016/j.cell.2023.12.035.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Behavior relies on activity in structured neural circuits that are distributed across the brain, but most experiments probe neurons in a single area at a time. Using multiple Neuropixels probes, we recorded from multi-regional loops connected to the anterior lateral motor cortex (ALM), a circuit node mediating memory-guided directional licking. Neurons encoding sensory stimuli, choices, and actions were distributed across the brain. However, choice coding was concentrated in the ALM and subcortical areas receiving input from the ALM in an ALM-dependent manner. Diverse orofacial movements were encoded in the hindbrain; midbrain; and, to a lesser extent, forebrain. Choice signals were first detected in the ALM and the midbrain, followed by the thalamus and other brain areas. At movement initiation, choice-selective activity collapsed across the brain, followed by new activity patterns driving specific actions. Our experiments provide the foundation for neural circuit models of decision-making and movement initiation.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38306983/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240206231018&v=2.18.0">38306983</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2023.12.035>10.1016/j.cell.2023.12.035</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38306983</guid>
-<pubDate>Fri, 02 Feb 2024 06:00:00 -0500</pubDate>
-<dc:creator>Susu Chen</dc:creator>
-<dc:creator>Yi Liu</dc:creator>
-<dc:creator>Ziyue Aiden Wang</dc:creator>
-<dc:creator>Jennifer Colonell</dc:creator>
-<dc:creator>Liu D Liu</dc:creator>
-<dc:creator>Han Hou</dc:creator>
-<dc:creator>Nai-Wen Tien</dc:creator>
-<dc:creator>Tim Wang</dc:creator>
-<dc:creator>Timothy Harris</dc:creator>
-<dc:creator>Shaul Druckmann</dc:creator>
-<dc:creator>Nuo Li</dc:creator>
-<dc:creator>Karel Svoboda</dc:creator>
-<dc:date>2024-02-02</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>Brain-wide neural activity underlying memory-guided movement</dc:title>
-<dc:identifier>pmid:38306983</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2023.12.035</dc:identifier>
 </item>
 
 

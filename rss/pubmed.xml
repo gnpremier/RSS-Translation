@@ -1,408 +1,508 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>心血管高分期刊</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.18.0.post9+e462414&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;fc=20230708114047&amp;ff=20240302090726&amp;utm_source=Chrome&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-
+<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_source=Chrome&amp;utm_medium=rss&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414&amp;utm_campaign=pubmed-2
     <description>心血管高分期刊: Latest results from PubMed</description>
-<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.18.0.post9+e462414&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;fc=20230708114047&amp;ff=20240302090726&amp;utm_source=Chrome&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-" rel="self"></atom:link>
+<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_source=Chrome&amp;utm_medium=rss&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414&amp;utm_campaign=pubmed-2" rel="self"></atom:link>
 <docs>http://www.rssboard.org/rss-specification</docs>
 <generator>PubMed RSS feeds (2.18.0.post9+e462414)</generator>
 <language>en</language>
-<lastbuilddate>Sat, 02 Mar 2024 14:07:28 +0000</lastbuilddate>
+<lastbuilddate>Sat, 02 Mar 2024 16:09:29 +0000</lastbuilddate>
 <pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
 <ttl>120</ttl>
 <item>
-<title>Ischaemic heart disease: prevention, management, mechanisms, and new therapeutic targets</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38427947/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
+<title>Correction to: Conventional heart failure therapy in cardiac ATTR amyloidosis</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428942/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Mar 1;45(9):637-641. doi: 10.1093/eurheartj/ehae114.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38427947/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38427947</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae114>10.1093/eurheartj/ehae114</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38427947</guid>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Mar 1:ehae140. doi: 10.1093/eurheartj/ehae140. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428942/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428942</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae140>10.1093/eurheartj/ehae140</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428942</guid>
 <pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
-<dc:creator>Filippo Crea</dc:creator>
 <dc:date>2024-03-01</dc:date>
 <dc:source>European heart journal</dc:source>
-<dc:title>Ischaemic heart disease: prevention, management, mechanisms, and new therapeutic targets</dc:title>
-<dc:identifier>pmid:38427947</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehae114</dc:identifier>
+<dc:title>Correction to: Conventional heart failure therapy in cardiac ATTR amyloidosis</dc:title>
+<dc:identifier>pmid:38428942</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae140</dc:identifier>
 </item>
 <item>
-<title>First in man: blocking the false lumen backflow of aortic dissection after thoracic endovascular aortic repair by an off-the-shelf EndoSeal™ system</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38427788/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Mar 1:ehae117. doi: 10.1093/eurheartj/ehae117. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38427788/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38427788</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae117>10.1093/eurheartj/ehae117</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38427788</guid>
+<title>Underdetected dispersal and extensive local transmission drove the 2022 mpox epidemic</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428425/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>The World Health Organization declared mpox a public health emergency of international concern in July 2022. To investigate global mpox transmission and population-level changes associated with controlling spread, we built phylogeographic and phylodynamic models to analyze MPXV genomes from five global regions together with air traffic and epidemiological data. Our models reveal community transmission prior to detection, changes in case reporting throughout the epidemic, and a large degree of...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 23:S0092-8674(24)00124-7. doi: 10.1016/j.cell.2024.02.003. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The World Health Organization declared mpox a public health emergency of international concern in July 2022. To investigate global mpox transmission and population-level changes associated with controlling spread, we built phylogeographic and phylodynamic models to analyze MPXV genomes from five global regions together with air traffic and epidemiological data. Our models reveal community transmission prior to detection, changes in case reporting throughout the epidemic, and a large degree of transmission heterogeneity. We find that viral introductions played a limited role in prolonging spread after initial dissemination, suggesting that travel bans would have had only a minor impact. We find that mpox transmission in North America began declining before more than 10% of high-risk individuals in the USA had vaccine-induced immunity. Our findings highlight the importance of broader routine specimen screening surveillance for emerging infectious diseases and of joint integration of genomic and epidemiological information for early outbreak control.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428425/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428425</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.02.003>10.1016/j.cell.2024.02.003</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428425</guid>
 <pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
-<dc:creator>Yangyang Ge</dc:creator>
-<dc:creator>Hongpeng Zhang</dc:creator>
+<dc:creator>Miguel I Paredes</dc:creator>
+<dc:creator>Nashwa Ahmed</dc:creator>
+<dc:creator>Marlin Figgins</dc:creator>
+<dc:creator>Vittoria Colizza</dc:creator>
+<dc:creator>Philippe Lemey</dc:creator>
+<dc:creator>John T McCrone</dc:creator>
+<dc:creator>Nicola Müller</dc:creator>
+<dc:creator>Cécile Tran-Kiem</dc:creator>
+<dc:creator>Trevor Bedford</dc:creator>
+<dc:date>2024-03-01</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Underdetected dispersal and extensive local transmission drove the 2022 mpox epidemic</dc:title>
+<dc:identifier>pmid:38428425</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.02.003</dc:identifier>
+</item>
+<item>
+<title>Structurally divergent and recurrently mutated regions of primate genomes</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428424/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>We sequenced and assembled using multiple long-read sequencing technologies the genomes of chimpanzee, bonobo, gorilla, orangutan, gibbon, macaque, owl monkey, and marmoset. We identified 1,338,997 lineage-specific fixed structural variants (SVs) disrupting 1,561 protein-coding genes and 136,932 regulatory elements, including the most complete set of human-specific fixed differences. We estimate that 819.47 Mbp or ∼27% of the genome has been affected by SVs across primate evolution. We identify...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 23:S0092-8674(24)00121-1. doi: 10.1016/j.cell.2024.01.052. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">We sequenced and assembled using multiple long-read sequencing technologies the genomes of chimpanzee, bonobo, gorilla, orangutan, gibbon, macaque, owl monkey, and marmoset. We identified 1,338,997 lineage-specific fixed structural variants (SVs) disrupting 1,561 protein-coding genes and 136,932 regulatory elements, including the most complete set of human-specific fixed differences. We estimate that 819.47 Mbp or ∼27% of the genome has been affected by SVs across primate evolution. We identify 1,607 structurally divergent regions wherein recurrent structural variation contributes to creating SV hotspots where genes are recurrently lost (e.g., CARD, C4, and OLAH gene families) and additional lineage-specific genes are generated (e.g., CKAP2, VPS36, ACBD7, and NEK5 paralogs), becoming targets of rapid chromosomal diversification and positive selection (e.g., RGPD gene family). High-fidelity long-read sequencing has made these dynamic regions of the genome accessible for sequence-level analyses within and between primate species.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428424/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428424</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.052>10.1016/j.cell.2024.01.052</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428424</guid>
+<pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
+<dc:creator>Yafei Mao</dc:creator>
+<dc:creator>William T Harvey</dc:creator>
+<dc:creator>David Porubsky</dc:creator>
+<dc:creator>Katherine M Munson</dc:creator>
+<dc:creator>Kendra Hoekzema</dc:creator>
+<dc:creator>Alexandra P Lewis</dc:creator>
+<dc:creator>Peter A Audano</dc:creator>
+<dc:creator>Allison Rozanski</dc:creator>
+<dc:creator>Xiangyu Yang</dc:creator>
+<dc:creator>Shilong Zhang</dc:creator>
+<dc:creator>DongAhn Yoo</dc:creator>
+<dc:creator>David S Gordon</dc:creator>
+<dc:creator>Tyler Fair</dc:creator>
+<dc:creator>Xiaoxi Wei</dc:creator>
+<dc:creator>Glennis A Logsdon</dc:creator>
+<dc:creator>Marina Haukness</dc:creator>
+<dc:creator>Philip C Dishuck</dc:creator>
+<dc:creator>Hyeonsoo Jeong</dc:creator>
+<dc:creator>Ricardo Del Rosario</dc:creator>
+<dc:creator>Vanessa L Bauer</dc:creator>
+<dc:creator>Will T Fattor</dc:creator>
+<dc:creator>Gregory K Wilkerson</dc:creator>
+<dc:creator>Yuxiang Mao</dc:creator>
+<dc:creator>Yongyong Shi</dc:creator>
+<dc:creator>Qiang Sun</dc:creator>
+<dc:creator>Qing Lu</dc:creator>
+<dc:creator>Benedict Paten</dc:creator>
+<dc:creator>Trygve E Bakken</dc:creator>
+<dc:creator>Alex A Pollen</dc:creator>
+<dc:creator>Guoping Feng</dc:creator>
+<dc:creator>Sara L Sawyer</dc:creator>
+<dc:creator>Wesley C Warren</dc:creator>
+<dc:creator>Lucia Carbone</dc:creator>
+<dc:creator>Evan E Eichler</dc:creator>
+<dc:date>2024-03-01</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Structurally divergent and recurrently mutated regions of primate genomes</dc:title>
+<dc:identifier>pmid:38428424</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.052</dc:identifier>
+</item>
+<item>
+<title>Structure-based design of non-hypertrophic apelin receptor modulator</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428423/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>Apelin is a key hormone in cardiovascular homeostasis that activates the apelin receptor (APLNR), which is regarded as a promising therapeutic target for cardiovascular disease. However, adverse effects through the β-arrestin pathway limit its pharmacological use. Here, we report cryoelectron microscopy (cryo-EM) structures of APLNR-G(i1) complexes bound to three agonists with divergent signaling profiles. Combined with functional assays, we have identified "twin hotspots" in APLNR as key...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 23:S0092-8674(24)00125-9. doi: 10.1016/j.cell.2024.02.004. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Apelin is a key hormone in cardiovascular homeostasis that activates the apelin receptor (APLNR), which is regarded as a promising therapeutic target for cardiovascular disease. However, adverse effects through the β-arrestin pathway limit its pharmacological use. Here, we report cryoelectron microscopy (cryo-EM) structures of APLNR-G<sub>i1</sub> complexes bound to three agonists with divergent signaling profiles. Combined with functional assays, we have identified "twin hotspots" in APLNR as key determinants for signaling bias, guiding the rational design of two exclusive G-protein-biased agonists WN353 and WN561. Cryo-EM structures of WN353- and WN561-stimulated APLNR-G protein complexes further confirm that the designed ligands adopt the desired poses. Pathophysiological experiments have provided evidence that WN561 demonstrates superior therapeutic effects against cardiac hypertrophy and reduced adverse effects compared with the established APLNR agonists. In summary, our designed APLNR modulator may facilitate the development of next-generation cardiovascular medications.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428423/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428423</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.02.004>10.1016/j.cell.2024.02.004</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428423</guid>
+<pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
+<dc:creator>Wei-Wei Wang</dc:creator>
+<dc:creator>Su-Yu Ji</dc:creator>
+<dc:creator>Wenjia Zhang</dc:creator>
+<dc:creator>Junxia Zhang</dc:creator>
+<dc:creator>Chenxi Cai</dc:creator>
+<dc:creator>Rubi Hu</dc:creator>
+<dc:creator>Shao-Kun Zang</dc:creator>
+<dc:creator>Luwei Miao</dc:creator>
+<dc:creator>Haomang Xu</dc:creator>
+<dc:creator>Li-Nan Chen</dc:creator>
+<dc:creator>Zongkuai Yang</dc:creator>
+<dc:creator>Jia Guo</dc:creator>
+<dc:creator>Jiao Qin</dc:creator>
+<dc:creator>Dan-Dan Shen</dc:creator>
+<dc:creator>Ping Liang</dc:creator>
+<dc:creator>Yan Zhang</dc:creator>
+<dc:creator>Yan Zhang</dc:creator>
+<dc:date>2024-03-01</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Structure-based design of non-hypertrophic apelin receptor modulator</dc:title>
+<dc:identifier>pmid:38428423</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.02.004</dc:identifier>
+</item>
+<item>
+<title>Maternal inflammation regulates fetal emergency myelopoiesis</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428422/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>Neonates are highly susceptible to inflammation and infection. Here, we investigate how late fetal liver (FL) mouse hematopoietic stem and progenitor cells (HSPCs) respond to inflammation, testing the hypothesis that deficits in the engagement of emergency myelopoiesis (EM) pathways limit neutrophil output and contribute to perinatal neutropenia. We show that fetal HSPCs have limited production of myeloid cells at steady state and fail to activate a classical adult-like EM transcriptional...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 23:S0092-8674(24)00123-5. doi: 10.1016/j.cell.2024.02.002. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Neonates are highly susceptible to inflammation and infection. Here, we investigate how late fetal liver (FL) mouse hematopoietic stem and progenitor cells (HSPCs) respond to inflammation, testing the hypothesis that deficits in the engagement of emergency myelopoiesis (EM) pathways limit neutrophil output and contribute to perinatal neutropenia. We show that fetal HSPCs have limited production of myeloid cells at steady state and fail to activate a classical adult-like EM transcriptional program. Moreover, we find that fetal HSPCs can respond to EM-inducing inflammatory stimuli in vitro but are restricted by maternal anti-inflammatory factors, primarily interleukin-10 (IL-10), from activating EM pathways in utero. Accordingly, we demonstrate that the loss of maternal IL-10 restores EM activation in fetal HSPCs but at the cost of fetal demise. These results reveal the evolutionary trade-off inherent in maternal anti-inflammatory responses that maintain pregnancy but render the fetus unresponsive to EM activation signals and susceptible to infection.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428422/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428422</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.02.002>10.1016/j.cell.2024.02.002</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428422</guid>
+<pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
+<dc:creator>Amélie Collins</dc:creator>
+<dc:creator>James W Swann</dc:creator>
+<dc:creator>Melissa A Proven</dc:creator>
+<dc:creator>Chandani M Patel</dc:creator>
+<dc:creator>Carl A Mitchell</dc:creator>
+<dc:creator>Monica Kasbekar</dc:creator>
+<dc:creator>Paul V Dellorusso</dc:creator>
+<dc:creator>Emmanuelle Passegué</dc:creator>
+<dc:date>2024-03-01</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Maternal inflammation regulates fetal emergency myelopoiesis</dc:title>
+<dc:identifier>pmid:38428422</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.02.002</dc:identifier>
+</item>
+<item>
+<title>SnapShot: Eukaryotic ribosome biogenesis II</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428399/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>Ribosome production is essential for cell growth. Approximately 200 assembly factors drive this complicated pathway that starts in the nucleolus and ends in the cytoplasm. A large number of structural snapshots of the pre-60S pathway have revealed the principles behind large subunit synthesis. To view this SnapShot, open or download the PDF.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 29;187(5):1314-1314.e1. doi: 10.1016/j.cell.2024.01.043.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Ribosome production is essential for cell growth. Approximately 200 assembly factors drive this complicated pathway that starts in the nucleolus and ends in the cytoplasm. A large number of structural snapshots of the pre-60S pathway have revealed the principles behind large subunit synthesis. To view this SnapShot, open or download the PDF.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428399/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428399</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.043>10.1016/j.cell.2024.01.043</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428399</guid>
+<pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
+<dc:creator>Ed Hurt</dc:creator>
+<dc:creator>Janet Iwasa</dc:creator>
+<dc:creator>Roland Beckmann</dc:creator>
+<dc:date>2024-03-01</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>SnapShot: Eukaryotic ribosome biogenesis II</dc:title>
+<dc:identifier>pmid:38428399</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.043</dc:identifier>
+</item>
+<item>
+<title>Loss of epigenetic information as a cause of mammalian aging</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428398/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 29;187(5):1312-1313. doi: 10.1016/j.cell.2024.01.049.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428398/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428398</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.049>10.1016/j.cell.2024.01.049</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428398</guid>
+<pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
+<dc:creator>Jae-Hyun Yang</dc:creator>
+<dc:creator>Motoshi Hayano</dc:creator>
+<dc:creator>Patrick T Griffin</dc:creator>
+<dc:creator>João A Amorim</dc:creator>
+<dc:creator>Michael S Bonkowski</dc:creator>
+<dc:creator>John K Apostolides</dc:creator>
+<dc:creator>Elias L Salfati</dc:creator>
+<dc:creator>Marco Blanchette</dc:creator>
+<dc:creator>Elizabeth M Munding</dc:creator>
+<dc:creator>Mital Bhakta</dc:creator>
+<dc:creator>Yap Ching Chew</dc:creator>
 <dc:creator>Wei Guo</dc:creator>
+<dc:creator>Xiaojing Yang</dc:creator>
+<dc:creator>Sun Maybury-Lewis</dc:creator>
+<dc:creator>Xiao Tian</dc:creator>
+<dc:creator>Jaime M Ross</dc:creator>
+<dc:creator>Giuseppe Coppotelli</dc:creator>
+<dc:creator>Margarita V Meer</dc:creator>
+<dc:creator>Ryan Rogers-Hammond</dc:creator>
+<dc:creator>Daniel L Vera</dc:creator>
+<dc:creator>Yuancheng Ryan Lu</dc:creator>
+<dc:creator>Jeffrey W Pippin</dc:creator>
+<dc:creator>Michael L Creswell</dc:creator>
+<dc:creator>Zhixun Dou</dc:creator>
+<dc:creator>Caiyue Xu</dc:creator>
+<dc:creator>Sarah J Mitchell</dc:creator>
+<dc:creator>Abhirup Das</dc:creator>
+<dc:creator>Brendan L O'Connell</dc:creator>
+<dc:creator>Sachin Thakur</dc:creator>
+<dc:creator>Alice E Kane</dc:creator>
+<dc:creator>Qiao Su</dc:creator>
+<dc:creator>Yasuaki Mohri</dc:creator>
+<dc:creator>Emi K Nishimura</dc:creator>
+<dc:creator>Laura Schaevitz</dc:creator>
+<dc:creator>Neha Garg</dc:creator>
+<dc:creator>Ana-Maria Balta</dc:creator>
+<dc:creator>Meghan A Rego</dc:creator>
+<dc:creator>Meredith Gregory-Ksander</dc:creator>
+<dc:creator>Tatjana C Jakobs</dc:creator>
+<dc:creator>Lei Zhong</dc:creator>
+<dc:creator>Hiroko Wakimoto</dc:creator>
+<dc:creator>Jihad El Andari</dc:creator>
+<dc:creator>Dirk Grimm</dc:creator>
+<dc:creator>Raul Mostoslavsky</dc:creator>
+<dc:creator>Amy J Wagers</dc:creator>
+<dc:creator>Kazuo Tsubota</dc:creator>
+<dc:creator>Stephen J Bonasera</dc:creator>
+<dc:creator>Carlos M Palmeira</dc:creator>
+<dc:creator>Jonathan G Seidman</dc:creator>
+<dc:creator>Christine E Seidman</dc:creator>
+<dc:creator>Norman S Wolf</dc:creator>
+<dc:creator>Jill A Kreiling</dc:creator>
+<dc:creator>John M Sedivy</dc:creator>
+<dc:creator>George F Murphy</dc:creator>
+<dc:creator>Richard E Green</dc:creator>
+<dc:creator>Benjamin A Garcia</dc:creator>
+<dc:creator>Shelley L Berger</dc:creator>
+<dc:creator>Philipp Oberdoerffer</dc:creator>
+<dc:creator>Stuart J Shankland</dc:creator>
+<dc:creator>Vadim N Gladyshev</dc:creator>
+<dc:creator>Bruce R Ksander</dc:creator>
+<dc:creator>Andreas R Pfenning</dc:creator>
+<dc:creator>Luis A Rajman</dc:creator>
+<dc:creator>David A Sinclair</dc:creator>
 <dc:date>2024-03-01</dc:date>
-<dc:source>European heart journal</dc:source>
-<dc:title>First in man: blocking the false lumen backflow of aortic dissection after thoracic endovascular aortic repair by an off-the-shelf EndoSeal™ system</dc:title>
-<dc:identifier>pmid:38427788</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehae117</dc:identifier>
+<dc:source>Cell</dc:source>
+<dc:title>Loss of epigenetic information as a cause of mammalian aging</dc:title>
+<dc:identifier>pmid:38428398</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.049</dc:identifier>
 </item>
 <item>
-<title>First case of symptomatic transthyretin cardiac amyloidosis with rare Tyr78Phe variant, normal left ventricular wall thickness, and no cardiac uptake on scintigraphy</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38427778/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Mar 1:ehae120. doi: 10.1093/eurheartj/ehae120. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38427778/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38427778</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae120>10.1093/eurheartj/ehae120</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38427778</guid>
+<title>Rapid simulation of glycoprotein structures by grafting and steric exclusion of glycan conformer libraries</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428397/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>Most membrane proteins are modified by covalent addition of complex sugars through N- and O-glycosylation. Unlike proteins, glycans do not typically adopt specific secondary structures and remain very mobile, shielding potentially large fractions of protein surface. High glycan conformational freedom hinders complete structural elucidation of glycoproteins. Computer simulations may be used to model glycosylated proteins but require hundreds of thousands of computing hours on supercomputers, thus...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 29;187(5):1296-1311.e26. doi: 10.1016/j.cell.2024.01.034.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Most membrane proteins are modified by covalent addition of complex sugars through N- and O-glycosylation. Unlike proteins, glycans do not typically adopt specific secondary structures and remain very mobile, shielding potentially large fractions of protein surface. High glycan conformational freedom hinders complete structural elucidation of glycoproteins. Computer simulations may be used to model glycosylated proteins but require hundreds of thousands of computing hours on supercomputers, thus limiting routine use. Here, we describe GlycoSHIELD, a reductionist method that can be implemented on personal computers to graft realistic ensembles of glycan conformers onto static protein structures in minutes. Using molecular dynamics simulation, small-angle X-ray scattering, cryoelectron microscopy, and mass spectrometry, we show that this open-access toolkit provides enhanced models of glycoprotein structures. Focusing on N-cadherin, human coronavirus spike proteins, and gamma-aminobutyric acid receptors, we show that GlycoSHIELD can shed light on the impact of glycans on the conformation and activity of complex glycoproteins.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428397/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428397</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.034>10.1016/j.cell.2024.01.034</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428397</guid>
 <pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
-<dc:creator>Elsa Beard</dc:creator>
-<dc:creator>Claire Bouleti</dc:creator>
-<dc:creator>Benjamin Alos</dc:creator>
+<dc:creator>Yu-Xi Tsai</dc:creator>
+<dc:creator>Ning-En Chang</dc:creator>
+<dc:creator>Klaus Reuter</dc:creator>
+<dc:creator>Hao-Ting Chang</dc:creator>
+<dc:creator>Tzu-Jing Yang</dc:creator>
+<dc:creator>Sören von Bülow</dc:creator>
+<dc:creator>Vidhi Sehrawat</dc:creator>
+<dc:creator>Noémie Zerrouki</dc:creator>
+<dc:creator>Matthieu Tuffery</dc:creator>
+<dc:creator>Michael Gecht</dc:creator>
+<dc:creator>Isabell Louise Grothaus</dc:creator>
+<dc:creator>Lucio Colombi Ciacchi</dc:creator>
+<dc:creator>Yong-Sheng Wang</dc:creator>
+<dc:creator>Min-Feng Hsu</dc:creator>
+<dc:creator>Kay-Hooi Khoo</dc:creator>
+<dc:creator>Gerhard Hummer</dc:creator>
+<dc:creator>Shang-Te Danny Hsu</dc:creator>
+<dc:creator>Cyril Hanus</dc:creator>
+<dc:creator>Mateusz Sikora</dc:creator>
 <dc:date>2024-03-01</dc:date>
-<dc:source>European heart journal</dc:source>
-<dc:title>First case of symptomatic transthyretin cardiac amyloidosis with rare Tyr78Phe variant, normal left ventricular wall thickness, and no cardiac uptake on scintigraphy</dc:title>
-<dc:identifier>pmid:38427778</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehae120</dc:identifier>
+<dc:source>Cell</dc:source>
+<dc:title>Rapid simulation of glycoprotein structures by grafting and steric exclusion of glycan conformer libraries</dc:title>
+<dc:identifier>pmid:38428397</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.034</dc:identifier>
 </item>
 <item>
-<title>Rheumatoid arthritis and cardiovascular complications during delivery: a United States inpatient analysis</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38427130/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: Pregnant persons with RA had higher risk of preeclampsia, peripartum cardiomyopathy, arrhythmias, acute kidney injury, and venous thromboembolism during delivery hospitalizations. Furthermore, cardiometabolic risk factors among pregnant individuals with RA rose over this 15-year period.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Mar 1:ehae108. doi: 10.1093/eurheartj/ehae108. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND AND AIMS: Persons with rheumatoid arthritis (RA) have an increased risk of obstetric-associated complications, as well as long-term cardiovascular (CV) risk. Hence, the aim was to evaluate the association of RA with acute CV complications during delivery admissions.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Data from the National Inpatient Sample (2004-2019) were queried utilizing ICD-9 or ICD-10 codes to identify delivery hospitalizations and a diagnosis of RA.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: A total of 12 789 722 delivery hospitalizations were identified, of which 0.1% were among persons with RA (n = 11 979). Individuals with RA, vs. those without, were older (median 31 vs. 28 years, P &lt; .01) and had a higher prevalence of chronic hypertension, chronic diabetes, gestational diabetes mellitus, obesity, and dyslipidaemia (P &lt; .01). After adjustment for age, race/ethnicity, comorbidities, insurance, and income, RA remained an independent risk factor for peripartum CV complications including preeclampsia [adjusted odds ratio (aOR) 1.37 (95% confidence interval 1.27-1.47)], peripartum cardiomyopathy [aOR 2.10 (1.11-3.99)], and arrhythmias [aOR 2.00 (1.68-2.38)] compared with no RA. Likewise, the risk of acute kidney injury and venous thromboembolism was higher with RA. An overall increasing trend of obesity, gestational diabetes mellitus, and acute CV complications was also observed among individuals with RA from 2004-2019. For resource utilization, length of stay and cost of hospitalization were higher for deliveries among persons with RA.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Pregnant persons with RA had higher risk of preeclampsia, peripartum cardiomyopathy, arrhythmias, acute kidney injury, and venous thromboembolism during delivery hospitalizations. Furthermore, cardiometabolic risk factors among pregnant individuals with RA rose over this 15-year period.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38427130/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38427130</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae108>10.1093/eurheartj/ehae108</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38427130</guid>
+<title>The CARD8 inflammasome dictates HIV/SIV pathogenesis and disease progression</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428396/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>While CD4^(+) T cell depletion is key to disease progression in people living with HIV and SIV-infected macaques, the mechanisms underlying this depletion remain incompletely understood, with most cell death involving uninfected cells. In contrast, SIV infection of "natural" hosts such as sooty mangabeys does not cause CD4^(+) depletion and AIDS despite high-level viremia. Here, we report that the CARD8 inflammasome is activated immediately after HIV entry by the viral protease encapsulated in...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 29;187(5):1223-1237.e16. doi: 10.1016/j.cell.2024.01.048.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">While CD4<sup>+</sup> T cell depletion is key to disease progression in people living with HIV and SIV-infected macaques, the mechanisms underlying this depletion remain incompletely understood, with most cell death involving uninfected cells. In contrast, SIV infection of "natural" hosts such as sooty mangabeys does not cause CD4<sup>+</sup> depletion and AIDS despite high-level viremia. Here, we report that the CARD8 inflammasome is activated immediately after HIV entry by the viral protease encapsulated in incoming virions. Sensing of HIV protease activity by CARD8 leads to rapid pyroptosis of quiescent cells without productive infection, while T cell activation abolishes CARD8 function and increases permissiveness to infection. In humanized mice reconstituted with CARD8-deficient cells, CD4<sup>+</sup> depletion is delayed despite high viremia. Finally, we discovered loss-of-function mutations in CARD8 from "natural hosts," which may explain the peculiarly non-pathogenic nature of these infections. Our study suggests that CARD8 drives CD4<sup>+</sup> T cell depletion during pathogenic HIV/SIV infections.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428396/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428396</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.048>10.1016/j.cell.2024.01.048</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428396</guid>
 <pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
-<dc:creator>Salman Zahid</dc:creator>
-<dc:creator>Mohamed S Mohamed</dc:creator>
-<dc:creator>Aardra Rajendran</dc:creator>
-<dc:creator>Anum S Minhas</dc:creator>
-<dc:creator>Muhammad Zia Khan</dc:creator>
-<dc:creator>Noreen T Nazir</dc:creator>
-<dc:creator>Anthony J Ocon</dc:creator>
-<dc:creator>Brittany N Weber</dc:creator>
-<dc:creator>Ijeoma Isiadinso</dc:creator>
-<dc:creator>Erin D Michos</dc:creator>
+<dc:creator>Qiankun Wang</dc:creator>
+<dc:creator>Kolin M Clark</dc:creator>
+<dc:creator>Ritudhwaj Tiwari</dc:creator>
+<dc:creator>Nagarajan Raju</dc:creator>
+<dc:creator>Gregory K Tharp</dc:creator>
+<dc:creator>Jeffrey Rogers</dc:creator>
+<dc:creator>R Alan Harris</dc:creator>
+<dc:creator>Muthuswamy Raveendran</dc:creator>
+<dc:creator>Steven E Bosinger</dc:creator>
+<dc:creator>Tricia H Burdo</dc:creator>
+<dc:creator>Guido Silvestri</dc:creator>
+<dc:creator>Liang Shan</dc:creator>
 <dc:date>2024-03-01</dc:date>
-<dc:source>European heart journal</dc:source>
-<dc:title>Rheumatoid arthritis and cardiovascular complications during delivery: a United States inpatient analysis</dc:title>
-<dc:identifier>pmid:38427130</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehae108</dc:identifier>
+<dc:source>Cell</dc:source>
+<dc:title>The CARD8 inflammasome dictates HIV/SIV pathogenesis and disease progression</dc:title>
+<dc:identifier>pmid:38428396</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.048</dc:identifier>
 </item>
 <item>
-<title>Cardiomyopathies in children and adolescents: aetiology, management, and outcomes in the European Society of Cardiology EURObservational Research Programme Cardiomyopathy and Myocarditis Registry</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38427064/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: The findings confirm the heterogeneous aetiology of childhood cardiomyopathies and show a high frequency of familial disease. Outcomes differed by cardiomyopathy subtype, highlighting a need for disease-specific evaluation and treatment.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Mar 1:ehae109. doi: 10.1093/eurheartj/ehae109. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND AND AIMS: Childhood-onset cardiomyopathies are rare and poorly characterized. This study examined the baseline characteristics and 1-year follow-up of children with cardiomyopathy in the first European Cardiomyopathy Registry.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Prospective data were collected on individuals aged 1-&lt;18 years enrolled in the European Society of Cardiology EURObservational Research Programme Cardiomyopathy and Myocarditis long-term registry (June 2014-December 2016).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: A total of 633 individuals aged ≤18 years with hypertrophic [HCM; n = 388 (61.3%)], dilated [DCM; n = 206 (32.5%)], restrictive [RCM; n = 28 (4.4%)], and arrhythmogenic right ventricular cardiomyopathy [ARVC; n = 11 (1.7%)] were enrolled by 23 referral centres in 14 countries. Median age at diagnosis was 4.0 [interquartile range (IQR) 0-10] years, and there was a male predominance [n = 372 (58.8%)] across all subtypes, with the exception of DCM diagnosed &lt;10 years of age; 621 (98.1%) patients were receiving cardiac medication and 80 (12.6%) had an implantable cardioverter-defibrillator. A total of 253 patients (253/535, 47.3%) had familial disease. Genetic testing was performed in 414 (67.8%) patients with a pathogenic or likely pathogenic variant reported in 250 (60.4%). Rare disease phenocopies were reported in 177 patients (28.0%) and were most frequent in patients under 10 years [142 (30.9%) vs. 35 (19.6%); P = .003]. Over a median follow-up of 12.5 months (IQR 11.3-15.3 months), 18 patients (3.3%) died [HCM n = 9 (2.6%), DCM n = 5 (3.0%), RCM n = 4 (16.0%)]. Heart failure events were most frequent in RCM patients (36.0%).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: The findings confirm the heterogeneous aetiology of childhood cardiomyopathies and show a high frequency of familial disease. Outcomes differed by cardiomyopathy subtype, highlighting a need for disease-specific evaluation and treatment.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38427064/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38427064</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae109>10.1093/eurheartj/ehae109</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38427064</guid>
+<title>A cryptic plasmid is among the most numerous genetic elements in the human gut</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428395/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>Plasmids are extrachromosomal genetic elements that often encode fitness-enhancing features. However, many bacteria carry "cryptic" plasmids that do not confer clear beneficial functions. We identified one such cryptic plasmid, pBI143, which is ubiquitous across industrialized gut microbiomes and is 14 times as numerous as crAssphage, currently established as the most abundant extrachromosomal genetic element in the human gut. The majority of mutations in pBI143 accumulate in specific positions...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 29;187(5):1206-1222.e16. doi: 10.1016/j.cell.2024.01.039.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Plasmids are extrachromosomal genetic elements that often encode fitness-enhancing features. However, many bacteria carry "cryptic" plasmids that do not confer clear beneficial functions. We identified one such cryptic plasmid, pBI143, which is ubiquitous across industrialized gut microbiomes and is 14 times as numerous as crAssphage, currently established as the most abundant extrachromosomal genetic element in the human gut. The majority of mutations in pBI143 accumulate in specific positions across thousands of metagenomes, indicating strong purifying selection. pBI143 is monoclonal in most individuals, likely due to the priority effect of the version first acquired, often from one's mother. pBI143 can transfer between Bacteroidales, and although it does not appear to impact bacterial host fitness in vivo, it can transiently acquire additional genetic content. We identified important practical applications of pBI143, including its use in identifying human fecal contamination and its potential as an alternative approach to track human colonic inflammatory states.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428395/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428395</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.039>10.1016/j.cell.2024.01.039</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428395</guid>
 <pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
-<dc:creator>Juan Pablo Kaski</dc:creator>
-<dc:creator>Gabrielle Norrish</dc:creator>
-<dc:creator>Juan Ramon Gimeno Blanes</dc:creator>
-<dc:creator>Philippe Charron</dc:creator>
-<dc:creator>Perry Elliott</dc:creator>
-<dc:creator>Luigi Tavazzi</dc:creator>
-<dc:creator>Michal Tendera</dc:creator>
-<dc:creator>Cécile Laroche</dc:creator>
-<dc:creator>Aldo P Maggioni</dc:creator>
-<dc:creator>Anwar Baban</dc:creator>
-<dc:creator>Diala Khraiche</dc:creator>
-<dc:creator>Lidia Ziolkowska</dc:creator>
-<dc:creator>Giuseppe Limongelli</dc:creator>
-<dc:creator>Tiina Ojala</dc:creator>
-<dc:creator>Matthias Gorenflo</dc:creator>
-<dc:creator>Aris Anastasakis</dc:creator>
-<dc:creator>Shaimaa Mostafa</dc:creator>
-<dc:creator>Alida L P Caforio</dc:creator>
-<dc:creator>EORP Paediatric Cardiomyopathy Registry Investigators</dc:creator>
+<dc:creator>Emily C Fogarty</dc:creator>
+<dc:creator>Matthew S Schechter</dc:creator>
+<dc:creator>Karen Lolans</dc:creator>
+<dc:creator>Madeline L Sheahan</dc:creator>
+<dc:creator>Iva Veseli</dc:creator>
+<dc:creator>Ryan M Moore</dc:creator>
+<dc:creator>Evan Kiefl</dc:creator>
+<dc:creator>Thomas Moody</dc:creator>
+<dc:creator>Phoebe A Rice</dc:creator>
+<dc:creator>Michael K Yu</dc:creator>
+<dc:creator>Mark Mimee</dc:creator>
+<dc:creator>Eugene B Chang</dc:creator>
+<dc:creator>Hans-Joachim Ruscheweyh</dc:creator>
+<dc:creator>Shinichi Sunagawa</dc:creator>
+<dc:creator>Sandra L Mclellan</dc:creator>
+<dc:creator>Amy D Willis</dc:creator>
+<dc:creator>Laurie E Comstock</dc:creator>
+<dc:creator>A Murat Eren</dc:creator>
 <dc:date>2024-03-01</dc:date>
-<dc:source>European heart journal</dc:source>
-<dc:title>Cardiomyopathies in children and adolescents: aetiology, management, and outcomes in the European Society of Cardiology EURObservational Research Programme Cardiomyopathy and Myocarditis Registry</dc:title>
-<dc:identifier>pmid:38427064</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehae109</dc:identifier>
+<dc:source>Cell</dc:source>
+<dc:title>A cryptic plasmid is among the most numerous genetic elements in the human gut</dc:title>
+<dc:identifier>pmid:38428395</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.039</dc:identifier>
 </item>
 <item>
-<title>Inadvertent intracoronary pacemaker lead implantation</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38427041/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Mar 1:ehae116. doi: 10.1093/eurheartj/ehae116. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38427041/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38427041</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae116>10.1093/eurheartj/ehae116</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38427041</guid>
+<title>Structure of the plant plastid-encoded RNA polymerase</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428394/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>Chloroplast genes encoding photosynthesis-associated proteins are predominantly transcribed by the plastid-encoded RNA polymerase (PEP). PEP is a multi-subunit complex composed of plastid-encoded subunits similar to bacterial RNA polymerases (RNAPs) stably bound to a set of nuclear-encoded PEP-associated proteins (PAPs). PAPs are essential to PEP activity and chloroplast biogenesis, but their roles are poorly defined. Here, we present cryoelectron microscopy (cryo-EM) structures of native...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 29;187(5):1145-1159.e21. doi: 10.1016/j.cell.2024.01.036.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Chloroplast genes encoding photosynthesis-associated proteins are predominantly transcribed by the plastid-encoded RNA polymerase (PEP). PEP is a multi-subunit complex composed of plastid-encoded subunits similar to bacterial RNA polymerases (RNAPs) stably bound to a set of nuclear-encoded PEP-associated proteins (PAPs). PAPs are essential to PEP activity and chloroplast biogenesis, but their roles are poorly defined. Here, we present cryoelectron microscopy (cryo-EM) structures of native 21-subunit PEP and a PEP transcription elongation complex from white mustard (Sinapis alba). We identify that PAPs encase the core polymerase, forming extensive interactions that likely promote complex assembly and stability. During elongation, PAPs interact with DNA downstream of the transcription bubble and with the nascent mRNA. The models reveal details of the superoxide dismutase, lysine methyltransferase, thioredoxin, and amino acid ligase enzymes that are subunits of PEP. Collectively, these data provide a foundation for the mechanistic understanding of chloroplast transcription and its role in plant growth and adaptation.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428394/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428394</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.036>10.1016/j.cell.2024.01.036</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428394</guid>
 <pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
-<dc:creator>Tilman Perrin</dc:creator>
-<dc:creator>Gerrit Hellige</dc:creator>
-<dc:creator>Rolf Vogel</dc:creator>
+<dc:creator>Ángel Vergara-Cruces</dc:creator>
+<dc:creator>Ishika Pramanick</dc:creator>
+<dc:creator>David Pearce</dc:creator>
+<dc:creator>Vinod K Vogirala</dc:creator>
+<dc:creator>Matthew J Byrne</dc:creator>
+<dc:creator>Jason K K Low</dc:creator>
+<dc:creator>Michael W Webster</dc:creator>
 <dc:date>2024-03-01</dc:date>
-<dc:source>European heart journal</dc:source>
-<dc:title>Inadvertent intracoronary pacemaker lead implantation</dc:title>
-<dc:identifier>pmid:38427041</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehae116</dc:identifier>
+<dc:source>Cell</dc:source>
+<dc:title>Structure of the plant plastid-encoded RNA polymerase</dc:title>
+<dc:identifier>pmid:38428394</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.036</dc:identifier>
 </item>
 <item>
-<title>Leadless pacemakers at 5-year follow-up: the Micra transcatheter pacing system post-approval registry</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38426911/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: Long-term outcomes with the Micra leadless pacemaker continue to demonstrate low rates of major complications and system revisions and an extremely low incidence of infection.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Mar 1:ehae101. doi: 10.1093/eurheartj/ehae101. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND AND AIMS: Prior reports have demonstrated a favourable safety and efficacy profile of the Micra leadless pacemaker over mid-term follow-up; however, long-term outcomes in real-world clinical practice remain unknown. Updated performance of the Micra VR leadless pacemaker through five years from the worldwide post-approval registry (PAR) was assessed.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: All Micra PAR patients undergoing implant attempts were included. Endpoints included system- or procedure-related major complications and system revision rate for any cause through 60 months post-implant. Rates were compared through 36 months post-implant to a reference dataset of 2667 transvenous pacemaker patients using Fine-Gray competing risk models.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: 1809 patients were enrolled between July 2015 and March 2018 and underwent implant attempts from 179 centres in 23 countries with a median follow-up period of 51.1 months (IQR: 21.6-64.2). The major complication rate at 60 months was 4.5% [95% confidence interval (CI): 3.6%-5.5%] and was 4.1% at 36 months, which was significantly lower than the 8.5% rate observed for transvenous systems (HR: .47, 95% CI: .36-.61; P &lt; .001). The all-cause system revision rate at 60 months was 4.9% (95% CI: 3.9%-6.1%). System revisions among Micra patients were mostly for device upgrades (41.2%) or elevated thresholds (30.6%). There were no Micra removals due to infection noted over the duration of follow-up. At 36 months, the system revision rate was significantly lower with Micra vs. transvenous systems (3.2% vs. 6.6%, P &lt; .001).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Long-term outcomes with the Micra leadless pacemaker continue to demonstrate low rates of major complications and system revisions and an extremely low incidence of infection.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38426911/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38426911</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae101>10.1093/eurheartj/ehae101</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38426911</guid>
+<title>Cryo-EM structures of the plant plastid-encoded RNA polymerase</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428393/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>Chloroplasts are green plastids in the cytoplasm of eukaryotic algae and plants responsible for photosynthesis. The plastid-encoded RNA polymerase (PEP) plays an essential role during chloroplast biogenesis from proplastids and functions as the predominant RNA polymerase in mature chloroplasts. The PEP-centered transcription apparatus comprises a bacterial-origin PEP core and more than a dozen eukaryotic-origin PEP-associated proteins (PAPs) encoded in the nucleus. Here, we determined the...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 29;187(5):1127-1144.e21. doi: 10.1016/j.cell.2024.01.026.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Chloroplasts are green plastids in the cytoplasm of eukaryotic algae and plants responsible for photosynthesis. The plastid-encoded RNA polymerase (PEP) plays an essential role during chloroplast biogenesis from proplastids and functions as the predominant RNA polymerase in mature chloroplasts. The PEP-centered transcription apparatus comprises a bacterial-origin PEP core and more than a dozen eukaryotic-origin PEP-associated proteins (PAPs) encoded in the nucleus. Here, we determined the cryo-EM structures of Nicotiana tabacum (tobacco) PEP-PAP apoenzyme and PEP-PAP transcription elongation complexes at near-atomic resolutions. Our data show the PEP core adopts a typical fold as bacterial RNAP. Fifteen PAPs bind at the periphery of the PEP core, facilitate assembling the PEP-PAP supercomplex, protect the complex from oxidation damage, and likely couple gene transcription with RNA processing. Our results report the high-resolution architecture of the chloroplast transcription apparatus and provide the structural basis for the mechanistic and functional study of transcription regulation in chloroplasts.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428393/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428393</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.026>10.1016/j.cell.2024.01.026</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428393</guid>
 <pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
-<dc:creator>Mikhael F El-Chami</dc:creator>
-<dc:creator>Christophe Garweg</dc:creator>
-<dc:creator>Nicolas Clementy</dc:creator>
-<dc:creator>Faisal Al-Samadi</dc:creator>
-<dc:creator>Saverio Iacopino</dc:creator>
-<dc:creator>Jose Luis Martinez-Sande</dc:creator>
-<dc:creator>Paul R Roberts</dc:creator>
-<dc:creator>Claudio Tondo</dc:creator>
-<dc:creator>Jens Brock Johansen</dc:creator>
-<dc:creator>Xavier Vinolas-Prat</dc:creator>
-<dc:creator>Yong-Mei Cha</dc:creator>
-<dc:creator>Eric Grubman</dc:creator>
-<dc:creator>Pierre Bordachar</dc:creator>
-<dc:creator>Kurt Stromberg</dc:creator>
-<dc:creator>Dedra H Fagan</dc:creator>
-<dc:creator>Jonathan P Piccini</dc:creator>
+<dc:creator>Xiao-Xian Wu</dc:creator>
+<dc:creator>Wen-Hui Mu</dc:creator>
+<dc:creator>Fan Li</dc:creator>
+<dc:creator>Shu-Yi Sun</dc:creator>
+<dc:creator>Chao-Jun Cui</dc:creator>
+<dc:creator>Chanhong Kim</dc:creator>
+<dc:creator>Fei Zhou</dc:creator>
+<dc:creator>Yu Zhang</dc:creator>
 <dc:date>2024-03-01</dc:date>
-<dc:source>European heart journal</dc:source>
-<dc:title>Leadless pacemakers at 5-year follow-up: the Micra transcatheter pacing system post-approval registry</dc:title>
-<dc:identifier>pmid:38426911</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehae101</dc:identifier>
+<dc:source>Cell</dc:source>
+<dc:title>Cryo-EM structures of the plant plastid-encoded RNA polymerase</dc:title>
+<dc:identifier>pmid:38428393</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.026</dc:identifier>
 </item>
 <item>
-<title>Arm and ankle blood pressure indices, and peripheral artery disease, and mortality: a cohort study</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38426892/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: Ankle BP indices including the ankle SBP and the APPD best predicted PAD and mortality.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Mar 1:ehae087. doi: 10.1093/eurheartj/ehae087. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND AND AIMS: Few studies have compared arm and ankle blood pressures (BPs) with regard to peripheral artery disease (PAD) and mortality. These relationships were assessed using data from three large prospective clinical trials.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Baseline BP indices included arm systolic BP (SBP), diastolic BP (DBP), pulse pressure (arm SBP minus DBP), ankle SBP, ankle-brachial index (ABI, ankle SBP divided by arm SBP), and ankle-pulse pressure difference (APPD, ankle SBP minus arm pulse pressure). These measurements were categorized into four groups using quartiles. The outcomes were PAD (the first occurrence of either peripheral revascularization or lower-limb amputation for vascular disease), the composite of PAD or death, and all-cause death.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Among 40 747 participants without baseline PAD (age 65.6 years, men 68.3%, diabetes 50.2%) from 53 countries, 1071 (2.6%) developed PAD, and 4955 (12.2%) died during 5 years of follow-up. Incident PAD progressively rose with higher arm BP indices and fell with ankle BP indices. The strongest relationships were noted for ankle BP indices. Compared with people whose ankle BP indices were in the highest fourth, adjusted hazard ratios (95% confidence interval) for each lower fourth were 1.64 (1.31-2.04), 2.59 (2.10-3.20), and 4.23 (3.44-5.21) for ankle SBP; 1.19 (0.95-1.50), 1.66 (1.34-2.05), and 3.34 (2.75-4.06) for ABI; and 1.41 (1.11-1.78), 2.04 (1.64-2.54), and 3.63 (2.96-4.45) for APPD. Similar patterns were observed for mortality. Ankle BP indices provided the highest c-statistics and classification indices in predicting future PAD beyond established risk factors.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Ankle BP indices including the ankle SBP and the APPD best predicted PAD and mortality.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38426892/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38426892</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae087>10.1093/eurheartj/ehae087</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38426892</guid>
+<title>An RNA polymerase that became a Swiss army knife</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428392/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>RNA polymerases (RNAPs) control the first step of gene expression in all forms of life by transferring genetic information from DNA to RNA, a process known as transcription. In this issue of Cell, Webster et al. and Wu et al. report three-dimensional structures of RNAP complexes from chloroplasts.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 29;187(5):1106-1108. doi: 10.1016/j.cell.2024.01.044.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RNA polymerases (RNAPs) control the first step of gene expression in all forms of life by transferring genetic information from DNA to RNA, a process known as transcription. In this issue of Cell, Webster et al. and Wu et al. report three-dimensional structures of RNAP complexes from chloroplasts.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428392/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428392</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.044>10.1016/j.cell.2024.01.044</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428392</guid>
 <pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
-<dc:creator>Kamel Mohammedi</dc:creator>
-<dc:creator>Marie Pigeyre</dc:creator>
-<dc:creator>Jackie Bosch</dc:creator>
-<dc:creator>Salim Yusuf</dc:creator>
-<dc:creator>Hertzel C Gerstein</dc:creator>
+<dc:creator>F Vanessa Loiacono</dc:creator>
+<dc:creator>Ralph Bock</dc:creator>
 <dc:date>2024-03-01</dc:date>
-<dc:source>European heart journal</dc:source>
-<dc:title>Arm and ankle blood pressure indices, and peripheral artery disease, and mortality: a cohort study</dc:title>
-<dc:identifier>pmid:38426892</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehae087</dc:identifier>
+<dc:source>Cell</dc:source>
+<dc:title>An RNA polymerase that became a Swiss army knife</dc:title>
+<dc:identifier>pmid:38428392</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.044</dc:identifier>
 </item>
 <item>
-<title>Transcatheter treatment of the tricuspid valve: current status and perspectives</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38426859/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>Transcatheter tricuspid valve interventions (TTVI) are emerging as alternatives to surgery in high-risk patients with isolated or concomitant tricuspid regurgitation. The development of new minimally invasive solutions potentially more adapted to this largely undertreated population of patients, has fuelled the interest for the tricuspid valve. Growing evidence and new concepts have contributed to revise obsolete and misleading perceptions around the right side of the heart. New definitions,...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Mar 1:ehae082. doi: 10.1093/eurheartj/ehae082. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Transcatheter tricuspid valve interventions (TTVI) are emerging as alternatives to surgery in high-risk patients with isolated or concomitant tricuspid regurgitation. The development of new minimally invasive solutions potentially more adapted to this largely undertreated population of patients, has fuelled the interest for the tricuspid valve. Growing evidence and new concepts have contributed to revise obsolete and misleading perceptions around the right side of the heart. New definitions, classifications, and a better understanding of the disease pathophysiology and phenotypes, as well as their associated patient journeys have profoundly and durably changed the landscape of tricuspid disease. A number of registries and a recent randomized controlled pivotal trial provide preliminary guidance for decision-making. TTVI seem to be very safe and effective in selected patients, although clinical benefits beyond improved quality of life remain to be demonstrated. Even if more efforts are needed, increased disease awareness is gaining momentum in the community and supports the establishment of dedicated expert valve centres. This review is summarizing the achievements in the field and provides perspectives for a less invasive management of a no-more-forgotten disease.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38426859/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38426859</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae082>10.1093/eurheartj/ehae082</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38426859</guid>
+<title>Response to: The information theory of aging has not been tested</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428391/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 29;187(5):1103-1105. doi: 10.1016/j.cell.2024.01.014.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428391/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428391</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.014>10.1016/j.cell.2024.01.014</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428391</guid>
 <pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
-<dc:creator>Francesco Maisano</dc:creator>
-<dc:creator>Rebecca Hahn</dc:creator>
-<dc:creator>Paul Sorajja</dc:creator>
-<dc:creator>Fabien Praz</dc:creator>
-<dc:creator>Philipp Lurz</dc:creator>
+<dc:creator>Jae-Hyun Yang</dc:creator>
+<dc:creator>Motoshi Hayano</dc:creator>
+<dc:creator>Luis A Rajman</dc:creator>
+<dc:creator>David A Sinclair</dc:creator>
 <dc:date>2024-03-01</dc:date>
-<dc:source>European heart journal</dc:source>
-<dc:title>Transcatheter treatment of the tricuspid valve: current status and perspectives</dc:title>
-<dc:identifier>pmid:38426859</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehae082</dc:identifier>
+<dc:source>Cell</dc:source>
+<dc:title>Response to: The information theory of aging has not been tested</dc:title>
+<dc:identifier>pmid:38428391</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.014</dc:identifier>
 </item>
 <item>
-<title>Kidney replacement therapy: trends in incidence, treatment, and outcomes of myocardial infarction and stroke in a nationwide Scottish study</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38426727/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: The incidence of myocardial infarction and stroke has halved in patients with kidney failure over the past 20 years but remains significantly higher than in the general population. Despite improvements in treatment and outcomes, the prognosis of these patients following myocardial infarction and stroke remains poor.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Mar 1:ehae080. doi: 10.1093/eurheartj/ehae080. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND AND AIMS: Patients with kidney failure have a higher risk of cardiovascular disease compared with the general population. Whilst temporal trends of myocardial infarction and stroke are declining in the general population, these have not been evaluated in patients with kidney failure. This study aimed to describe national trends in the incidence, treatment, and outcomes of myocardial infarction and stroke in patients with kidney failure (i.e. on dialysis or with a kidney transplant) over a 20-year period, stratified by age and sex.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: In this retrospective national data linkage study, all patients with kidney failure in Scotland (UK) receiving kidney replacement therapy between January 1996 and December 2016 were linked to national hospitalization, prescribing, and death records. The primary outcomes were the incidence of myocardial infarction and stroke, and subsequent cardiovascular death. Generalized additive models were constructed to estimate age-standardized, sex-stratified incidence rates and trends in cardiovascular and all-cause death.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Amongst 16 050 patients with kidney failure [52 (SD 15) years; 41.5% women], there were 1992 [66 (SD 12) years; 34.8% women] and 996 [65 (SD 13) years; 45.1% women] incident myocardial infarctions and strokes, respectively, between January 1996 and December 2016. During this period, the age-standardized incidence of myocardial infarction per 100 000 decreased in men {from 4376 [95% confidence interval (CI) 3998-4785] to 1835 (95% CI 1692-1988)} and women [from 3268 (95% CI 2982-3593) to 1369 (95% CI 1257-1491)]. Similarly, the age-standardized incidence of stroke per 100 000 also decreased in men [from 1978 (95% CI 1795-2175) to 799 (95% CI 729-875)] and women [from 2234 (95% CI 2031-2468) to 903 (95% CI 824-990)]. Compared with the general population, the incidence of myocardial infarction was four- to eight-fold higher in patients with kidney failure, whilst for stroke it was two- to four-fold higher. The use of evidence-based cardioprotective treatment increased over the study period, and the predicted probability of cardiovascular death within 1 year of myocardial infarction for a 66-year-old patient with kidney failure (mean age of the cohort) fell in men (76.6% to 38.6%) and women (76.8% to 38.8%), and also decreased in both sexes following stroke (men, from 63.5% to 41.4%; women, from 67.6% to 45.8%).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: The incidence of myocardial infarction and stroke has halved in patients with kidney failure over the past 20 years but remains significantly higher than in the general population. Despite improvements in treatment and outcomes, the prognosis of these patients following myocardial infarction and stroke remains poor.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38426727/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38426727</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae080>10.1093/eurheartj/ehae080</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38426727</guid>
+<title>The information theory of aging has not been tested</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428390/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 29;187(5):1101-1102. doi: 10.1016/j.cell.2024.01.013.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428390/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428390</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.013>10.1016/j.cell.2024.01.013</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428390</guid>
 <pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
-<dc:creator>Peter J Gallacher</dc:creator>
-<dc:creator>David Yeung</dc:creator>
-<dc:creator>Samira Bell</dc:creator>
-<dc:creator>Anoop S V Shah</dc:creator>
-<dc:creator>Nicholas L Mills</dc:creator>
-<dc:creator>Neeraj Dhaun</dc:creator>
+<dc:creator>James A Timmons</dc:creator>
+<dc:creator>Charles Brenner</dc:creator>
 <dc:date>2024-03-01</dc:date>
-<dc:source>European heart journal</dc:source>
-<dc:title>Kidney replacement therapy: trends in incidence, treatment, and outcomes of myocardial infarction and stroke in a nationwide Scottish study</dc:title>
-<dc:identifier>pmid:38426727</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehae080</dc:identifier>
+<dc:source>Cell</dc:source>
+<dc:title>The information theory of aging has not been tested</dc:title>
+<dc:identifier>pmid:38428390</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.013</dc:identifier>
 </item>
 <item>
-<title>MBNL1 Regulates Programmed Postnatal Switching Between Regenerative and Differentiated Cardiac States</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38426339/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: Here, MBNL1 was identified as an essential regulator of cardiomyocyte differentiated states, their developmental switch from hyperplastic to hypertrophic growth, and their regenerative potential through controlling an entire maturation program by stabilizing adult myocyte mRNAs during postnatal development and throughout adulthood. Targeting loss of cardiomyocyte maturity and downregulation of cell cycle inhibitors through MBNL1 deletion was not sufficient to promote adult...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Mar 1. doi: 10.1161/CIRCULATIONAHA.123.066860. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Discovering determinants of cardiomyocyte maturity is critical for deeply understanding the maintenance of differentiated states and potentially reawakening endogenous regenerative programs in adult mammalian hearts as a therapeutic strategy. Forced dedifferentiation paired with oncogene expression is sufficient to drive cardiac regeneration, but elucidation of endogenous developmental regulators of the switch between regenerative and mature cardiomyocyte cell states is necessary for optimal design of regenerative approaches for heart disease. MBNL1 (muscleblind-like 1) regulates fibroblast, thymocyte, and erythroid differentiation and proliferation. Hence, we examined whether MBNL1 promotes and maintains mature cardiomyocyte states while antagonizing cardiomyocyte proliferation.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: MBNL1 gain- and loss-of-function mouse models were studied at several developmental time points and in surgical models of heart regeneration. Multi-omics approaches were combined with biochemical, histological, and in vitro assays to determine the mechanisms through which MBNL1 exerts its effects.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: MBNL1 is coexpressed with a maturation-association genetic program in the heart and is regulated by the MEIS1/calcineurin signaling axis. Targeted MBNL1 overexpression early in development prematurely transitioned cardiomyocytes to hypertrophic growth, hypoplasia, and dysfunction, whereas loss of MBNL1 function increased cardiomyocyte cell cycle entry and proliferation through altered cell cycle inhibitor transcript stability. Moreover, MBNL1-dependent stabilization of estrogen-related receptor signaling was essential for maintaining cardiomyocyte maturity in adult myocytes. In accordance with these data, modulating MBNL1 dose tuned the temporal window of neonatal cardiac regeneration, where increased MBNL1 expression arrested myocyte proliferation and regeneration and MBNL1 deletion promoted regenerative states with prolonged myocyte proliferation. However, MBNL1 deficiency was insufficient to promote regeneration in the adult heart because of cell cycle checkpoint activation.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Here, MBNL1 was identified as an essential regulator of cardiomyocyte differentiated states, their developmental switch from hyperplastic to hypertrophic growth, and their regenerative potential through controlling an entire maturation program by stabilizing adult myocyte mRNAs during postnatal development and throughout adulthood. Targeting loss of cardiomyocyte maturity and downregulation of cell cycle inhibitors through MBNL1 deletion was not sufficient to promote adult regeneration.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38426339/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38426339</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.066860>10.1161/CIRCULATIONAHA.123.066860</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38426339</guid>
+<title>Past, present, and future of CRISPR genome editing technologies</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428389/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>Genome editing has been a transformative force in the life sciences and human medicine, offering unprecedented opportunities to dissect complex biological processes and treat the underlying causes of many genetic diseases. CRISPR-based technologies, with their remarkable efficiency and easy programmability, stand at the forefront of this revolution. In this Review, we discuss the current state of CRISPR gene editing technologies in both research and therapy, highlighting limitations that...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 29;187(5):1076-1100. doi: 10.1016/j.cell.2024.01.042.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Genome editing has been a transformative force in the life sciences and human medicine, offering unprecedented opportunities to dissect complex biological processes and treat the underlying causes of many genetic diseases. CRISPR-based technologies, with their remarkable efficiency and easy programmability, stand at the forefront of this revolution. In this Review, we discuss the current state of CRISPR gene editing technologies in both research and therapy, highlighting limitations that constrain them and the technological innovations that have been developed in recent years to address them. Additionally, we examine and summarize the current landscape of gene editing applications in the context of human health and therapeutics. Finally, we outline potential future developments that could shape gene editing technologies and their applications in the coming years.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428389/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428389</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.042>10.1016/j.cell.2024.01.042</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428389</guid>
 <pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
-<dc:creator>Logan R J Bailey</dc:creator>
-<dc:creator>Darrian Bugg</dc:creator>
-<dc:creator>Isabella M Reichardt</dc:creator>
-<dc:creator>C Dessirée Ortaç</dc:creator>
-<dc:creator>Abigail Nagle</dc:creator>
-<dc:creator>Jagadambika Gunaje</dc:creator>
-<dc:creator>Amy Martinson</dc:creator>
-<dc:creator>Richard Johnson</dc:creator>
-<dc:creator>Michael J MacCoss</dc:creator>
-<dc:creator>Tomoya Sakamoto</dc:creator>
-<dc:creator>Daniel P Kelly</dc:creator>
-<dc:creator>Michael Regnier</dc:creator>
-<dc:creator>Jennifer M Davis</dc:creator>
+<dc:creator>Martin Pacesa</dc:creator>
+<dc:creator>Oana Pelea</dc:creator>
+<dc:creator>Martin Jinek</dc:creator>
 <dc:date>2024-03-01</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>MBNL1 Regulates Programmed Postnatal Switching Between Regenerative and Differentiated Cardiac States</dc:title>
-<dc:identifier>pmid:38426339</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.123.066860</dc:identifier>
+<dc:source>Cell</dc:source>
+<dc:title>Past, present, and future of CRISPR genome editing technologies</dc:title>
+<dc:identifier>pmid:38428389</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.042</dc:identifier>
 </item>
 <item>
-<title>Ponatinib-Induced Cardiomyocyte Toxicity: Dark Side of the Integrated Stress Response</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38422183/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
+<title>Genetic and molecular architecture of complex traits</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428388/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>Human genetics has emerged as one of the most dynamic areas of biology, with a broadening societal impact. In this review, we discuss recent achievements, ongoing efforts, and future challenges in the field. Advances in technology, statistical methods, and the growing scale of research efforts have all provided many insights into the processes that have given rise to the current patterns of genetic variation. Vast maps of genetic associations with human traits and diseases have allowed...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 29;187(5):1059-1075. doi: 10.1016/j.cell.2024.01.023.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Human genetics has emerged as one of the most dynamic areas of biology, with a broadening societal impact. In this review, we discuss recent achievements, ongoing efforts, and future challenges in the field. Advances in technology, statistical methods, and the growing scale of research efforts have all provided many insights into the processes that have given rise to the current patterns of genetic variation. Vast maps of genetic associations with human traits and diseases have allowed characterization of their genetic architecture. Finally, studies of molecular and cellular effects of genetic variants have provided insights into biological processes underlying disease. Many outstanding questions remain, but the field is well poised for groundbreaking discoveries as it increases the use of genetic data to understand both the history of our species and its applications to improve human health.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428388/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428388</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.023>10.1016/j.cell.2024.01.023</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428388</guid>
+<pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
+<dc:creator>Tuuli Lappalainen</dc:creator>
+<dc:creator>Yang I Li</dc:creator>
+<dc:creator>Sohini Ramachandran</dc:creator>
+<dc:creator>Alexander Gusev</dc:creator>
+<dc:date>2024-03-01</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Genetic and molecular architecture of complex traits</dc:title>
+<dc:identifier>pmid:38428388</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.023</dc:identifier>
+</item>
+<item>
+<title>Ancient genomes and the evolutionary path of modern humans</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428387/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>Growing evidence from archaic and early modern human genomes brings new insights to the emergence of modern humans. We recount recent information collected from ancient DNA studies that inform us about the evolutionary pathway to modern humanity. These findings point to both individual- and population-level advantages underlying modern human expansion.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 29;187(5):1042-1046. doi: 10.1016/j.cell.2024.01.047.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Growing evidence from archaic and early modern human genomes brings new insights to the emergence of modern humans. We recount recent information collected from ancient DNA studies that inform us about the evolutionary pathway to modern humanity. These findings point to both individual- and population-level advantages underlying modern human expansion.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428387/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428387</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.047>10.1016/j.cell.2024.01.047</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428387</guid>
+<pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
+<dc:creator>E Andrew Bennett</dc:creator>
+<dc:creator>Qiaomei Fu</dc:creator>
+<dc:date>2024-03-01</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Ancient genomes and the evolutionary path of modern humans</dc:title>
+<dc:identifier>pmid:38428387</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.047</dc:identifier>
+</item>
+<item>
+<title>From genomic threat assessment to conservation action</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428386/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>Genomic approaches have the potential to play a pivotal role in conservation, both to detect threats to species and populations and to restore biodiversity through actions. We here separate these approaches into two subdisciplines, vulnerability and restoration genomics, and discuss current applications, outstanding questions, and future potential.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 29;187(5):1038-1041. doi: 10.1016/j.cell.2024.01.038.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Genomic approaches have the potential to play a pivotal role in conservation, both to detect threats to species and populations and to restore biodiversity through actions. We here separate these approaches into two subdisciplines, vulnerability and restoration genomics, and discuss current applications, outstanding questions, and future potential.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428386/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428386</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.038>10.1016/j.cell.2024.01.038</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428386</guid>
+<pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
+<dc:creator>Tom van der Valk</dc:creator>
+<dc:creator>Love Dalèn</dc:creator>
+<dc:date>2024-03-01</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>From genomic threat assessment to conservation action</dc:title>
+<dc:identifier>pmid:38428386</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.038</dc:identifier>
+</item>
+<item>
+<title>Paul Berg and the origins of recombinant DNA</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428385/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
+      <description>In fall 1972, Paul Berg's laboratory published articles in PNAS describing two methods for constructing recombinant DNAs in vitro. He received half of the 1980 Nobel Prize in Chemistry for this landmark accomplishment. Here, we describe how this discovery came about, revolutionizing both biological research and the pharmaceutical industry.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 29;187(5):1019-1023. doi: 10.1016/j.cell.2024.01.007.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">In fall 1972, Paul Berg's laboratory published articles in PNAS describing two methods for constructing recombinant DNAs in vitro. He received half of the 1980 Nobel Prize in Chemistry for this landmark accomplishment. Here, we describe how this discovery came about, revolutionizing both biological research and the pharmaceutical industry.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428385/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428385</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.007>10.1016/j.cell.2024.01.007</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428385</guid>
+<pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
+<dc:creator>Doogab Yi</dc:creator>
+<dc:creator>Janet E Mertz</dc:creator>
+<dc:date>2024-03-01</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Paul Berg and the origins of recombinant DNA</dc:title>
+<dc:identifier>pmid:38428385</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.007</dc:identifier>
+</item>
+<item>
+<title>Five decades of genetics and genomics</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38428384/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302110927&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Mar;134(5):502-504. doi: 10.1161/CIRCRESAHA.124.324164. Epub 2024 Feb 29.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38422183/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38422183</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.124.324164>10.1161/CIRCRESAHA.124.324164</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38422183</guid>
-<pubDate>Thu, 29 Feb 2024 06:00:00 -0500</pubDate>
-<dc:creator>Felix G Liang</dc:creator>
-<dc:creator>Javid Moslehi</dc:creator>
-<dc:creator>Richard N Kitsis</dc:creator>
-<dc:date>2024-02-29</dc:date>
-<dc:source>Circulation research</dc:source>
-<dc:title>Ponatinib-Induced Cardiomyocyte Toxicity: Dark Side of the Integrated Stress Response</dc:title>
-<dc:identifier>pmid:38422183</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCRESAHA.124.324164</dc:identifier>
-</item>
-<item>
-<title>B-Cell Immune Checkpoints Come of Age in Cardio-oncology</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38422182/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Mar;134(5):569-571. doi: 10.1161/CIRCRESAHA.124.324243. Epub 2024 Feb 29.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38422182/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38422182</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.124.324243>10.1161/CIRCRESAHA.124.324243</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38422182</guid>
-<pubDate>Thu, 29 Feb 2024 06:00:00 -0500</pubDate>
-<dc:creator>Alan Gutierrez</dc:creator>
-<dc:creator>Javid J Moslehi</dc:creator>
-<dc:date>2024-02-29</dc:date>
-<dc:source>Circulation research</dc:source>
-<dc:title>B-Cell Immune Checkpoints Come of Age in Cardio-oncology</dc:title>
-<dc:identifier>pmid:38422182</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCRESAHA.124.324243</dc:identifier>
-</item>
-<item>
-<title>Correction to: Unleashing the Power of Genetics: PLN Ablation, Phospholambanopathies and Evolving Challenges</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38422181/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Mar;134(5):e16. doi: 10.1161/RES.0000000000000660. Epub 2024 Feb 29.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38422181/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38422181</a> | DOI:<a href=https://doi.org/10.1161/RES.0000000000000660>10.1161/RES.0000000000000660</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38422181</guid>
-<pubDate>Thu, 29 Feb 2024 06:00:00 -0500</pubDate>
-<dc:date>2024-02-29</dc:date>
-<dc:source>Circulation research</dc:source>
-<dc:title>Correction to: Unleashing the Power of Genetics: PLN Ablation, Phospholambanopathies and Evolving Challenges</dc:title>
-<dc:identifier>pmid:38422181</dc:identifier>
-<dc:identifier>doi:10.1161/RES.0000000000000660</dc:identifier>
-</item>
-<item>
-<title>Unveiling the Spatiotemporal Diversity of the Endothelium in Development: A Multi-Omics Approach</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38422180/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Mar;134(5):547-549. doi: 10.1161/CIRCRESAHA.124.324328. Epub 2024 Feb 29.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38422180/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38422180</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.124.324328>10.1161/CIRCRESAHA.124.324328</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38422180</guid>
-<pubDate>Thu, 29 Feb 2024 06:00:00 -0500</pubDate>
-<dc:creator>Roy Jung</dc:creator>
-<dc:creator>Chinmay M Trivedi</dc:creator>
-<dc:date>2024-02-29</dc:date>
-<dc:source>Circulation research</dc:source>
-<dc:title>Unveiling the Spatiotemporal Diversity of the Endothelium in Development: A Multi-Omics Approach</dc:title>
-<dc:identifier>pmid:38422180</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCRESAHA.124.324328</dc:identifier>
-</item>
-<item>
-<title>Early Career Research Support From the American Heart Association: to the Second Century and Beyond</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38422179/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Mar;134(5):478-481. doi: 10.1161/CIRCRESAHA.123.323060. Epub 2024 Feb 29.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38422179/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38422179</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.123.323060>10.1161/CIRCRESAHA.123.323060</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38422179</guid>
-<pubDate>Thu, 29 Feb 2024 06:00:00 -0500</pubDate>
-<dc:creator>Jessica Pfleger</dc:creator>
-<dc:creator>Ronald J Vagnozzi</dc:creator>
-<dc:date>2024-02-29</dc:date>
-<dc:source>Circulation research</dc:source>
-<dc:title>Early Career Research Support From the American Heart Association: to the Second Century and Beyond</dc:title>
-<dc:identifier>pmid:38422179</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCRESAHA.123.323060</dc:identifier>
-</item>
-<item>
-<title>Preventing the Fatty Acid-Transporter CD36 From Taking its Toll on the Heart</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38422178/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Mar;134(5):526-528. doi: 10.1161/CIRCRESAHA.123.323945. Epub 2024 Feb 29.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38422178/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38422178</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.123.323945>10.1161/CIRCRESAHA.123.323945</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38422178</guid>
-<pubDate>Thu, 29 Feb 2024 06:00:00 -0500</pubDate>
-<dc:creator>Mathias Mericskay</dc:creator>
-<dc:date>2024-02-29</dc:date>
-<dc:source>Circulation research</dc:source>
-<dc:title>Preventing the Fatty Acid-Transporter CD36 From Taking its Toll on the Heart</dc:title>
-<dc:identifier>pmid:38422178</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCRESAHA.123.323945</dc:identifier>
-</item>
-<item>
-<title>Glycolysis-Mediated Activation of v-ATPase by Nicotinamide Mononucleotide Ameliorates Lipid-Induced Cardiomyopathy by Repressing the CD36-TLR4 Axis</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38422177/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSION: NMN preserves heart function during lipid overload by preventing v-ATPase disassembly.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Mar;134(5):505-525. doi: 10.1161/CIRCRESAHA.123.322910. Epub 2024 Feb 7.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Chronic overconsumption of lipids followed by their excessive accumulation in the heart leads to cardiomyopathy. The cause of lipid-induced cardiomyopathy involves a pivotal role for the proton-pump vacuolar-type H<sup>+</sup>-ATPase (v-ATPase), which acidifies endosomes, and for lipid-transporter CD36, which is stored in acidified endosomes. During lipid overexposure, an increased influx of lipids into cardiomyocytes is sensed by v-ATPase, which then disassembles, causing endosomal de-acidification and expulsion of stored CD36 from the endosomes toward the sarcolemma. Once at the sarcolemma, CD36 not only increases lipid uptake but also interacts with inflammatory receptor TLR4 (Toll-like receptor 4), together resulting in lipid-induced insulin resistance, inflammation, fibrosis, and cardiac dysfunction. Strategies inducing v-ATPase reassembly, that is, to achieve CD36 reinternalization, may correct these maladaptive alterations. For this, we used NAD<sup>+</sup> (nicotinamide adenine dinucleotide)-precursor nicotinamide mononucleotide (NMN), inducing v-ATPase reassembly by stimulating glycolytic enzymes to bind to v-ATPase.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Rats/mice on cardiomyopathy-inducing high-fat diets were supplemented with NMN and for comparison with a cocktail of lysine/leucine/arginine (mTORC1 [mechanistic target of rapamycin complex 1]-mediated v-ATPase reassembly). We used the following methods: RNA sequencing, mRNA/protein expression analysis, immunofluorescence microscopy, (co)immunoprecipitation/proximity ligation assay (v-ATPase assembly), myocellular uptake of [<sup>3</sup>H]chloroquine (endosomal pH), and [<sup>14</sup>C]palmitate, targeted lipidomics, and echocardiography. To confirm the involvement of v-ATPase in the beneficial effects of both supplementations, mTORC1/v-ATPase inhibitors (rapamycin/bafilomycin A1) were administered. Additionally, 2 heart-specific v-ATPase-knockout mouse models (subunits V<sub>1</sub>G1/V<sub>0</sub>d2) were subjected to these measurements. Mechanisms were confirmed in pharmacologically/genetically manipulated cardiomyocyte models of lipid overload.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: NMN successfully preserved endosomal acidification during myocardial lipid overload by maintaining v-ATPase activity and subsequently prevented CD36-mediated lipid accumulation, CD36-TLR4 interaction toward inflammation, fibrosis, cardiac dysfunction, and whole-body insulin resistance. Lipidomics revealed C18:1-enriched diacylglycerols as lipid class prominently increased by high-fat diet and subsequently reversed/preserved by lysine/leucine/arginine/NMN treatment. Studies with mTORC1/v-ATPase inhibitors and heart-specific v-ATPase-knockout mice further confirmed the pivotal roles of v-ATPase in these beneficial actions.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSION: NMN preserves heart function during lipid overload by preventing v-ATPase disassembly.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38422177/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38422177</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.123.322910>10.1161/CIRCRESAHA.123.322910</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38422177</guid>
-<pubDate>Thu, 29 Feb 2024 06:00:00 -0500</pubDate>
-<dc:creator>Shujin Wang</dc:creator>
-<dc:creator>Yinying Han</dc:creator>
-<dc:creator>Ruimin Liu</dc:creator>
-<dc:creator>Mengqian Hou</dc:creator>
-<dc:creator>Dietbert Neumann</dc:creator>
-<dc:creator>Jun Zhang</dc:creator>
-<dc:creator>Fang Wang</dc:creator>
-<dc:creator>Yumeng Li</dc:creator>
-<dc:creator>Xueya Zhao</dc:creator>
-<dc:creator>Francesco Schianchi</dc:creator>
-<dc:creator>Chao Dai</dc:creator>
-<dc:creator>Lizhong Liu</dc:creator>
-<dc:creator>Miranda Nabben</dc:creator>
-<dc:creator>Jan F C Glatz</dc:creator>
-<dc:creator>Xin Wu</dc:creator>
-<dc:creator>Xifeng Lu</dc:creator>
-<dc:creator>Xi Li</dc:creator>
-<dc:creator>Joost J F P Luiken</dc:creator>
-<dc:date>2024-02-29</dc:date>
-<dc:source>Circulation research</dc:source>
-<dc:title>Glycolysis-Mediated Activation of v-ATPase by Nicotinamide Mononucleotide Ameliorates Lipid-Induced Cardiomyopathy by Repressing the CD36-TLR4 Axis</dc:title>
-<dc:identifier>pmid:38422177</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCRESAHA.123.322910</dc:identifier>
-</item>
-<item>
-<title>Cardiovascular Consequences of Uremic Metabolites: an Overview of the Involved Signaling Pathways</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38422175/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>The crosstalk of the heart with distant organs such as the lung, liver, gut, and kidney has been intensively approached lately. The kidney is involved in (1) the production of systemic relevant products, such as renin, as part of the most essential vasoregulatory system of the human body, and (2) in the clearance of metabolites with systemic and organ effects. Metabolic residue accumulation during kidney dysfunction is known to determine cardiovascular pathologies such as endothelial...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Mar;134(5):592-613. doi: 10.1161/CIRCRESAHA.123.324001. Epub 2024 Feb 29.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The crosstalk of the heart with distant organs such as the lung, liver, gut, and kidney has been intensively approached lately. The kidney is involved in (1) the production of systemic relevant products, such as renin, as part of the most essential vasoregulatory system of the human body, and (2) in the clearance of metabolites with systemic and organ effects. Metabolic residue accumulation during kidney dysfunction is known to determine cardiovascular pathologies such as endothelial activation/dysfunction, atherosclerosis, cardiomyocyte apoptosis, cardiac fibrosis, and vascular and valvular calcification, leading to hypertension, arrhythmias, myocardial infarction, and cardiomyopathies. However, this review offers an overview of the uremic metabolites and details their signaling pathways involved in cardiorenal syndrome and the development of heart failure. A holistic view of the metabolites, but more importantly, an exhaustive crosstalk of their known signaling pathways, is important for depicting new therapeutic strategies in the cardiovascular field.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38422175/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38422175</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.123.324001>10.1161/CIRCRESAHA.123.324001</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38422175</guid>
-<pubDate>Thu, 29 Feb 2024 06:00:00 -0500</pubDate>
-<dc:creator>Adelina Curaj</dc:creator>
-<dc:creator>Raymond Vanholder</dc:creator>
-<dc:creator>Joseph Loscalzo</dc:creator>
-<dc:creator>Kaiseng Quach</dc:creator>
-<dc:creator>Zhuojun Wu</dc:creator>
-<dc:creator>Vera Jankowski</dc:creator>
-<dc:creator>Joachim Jankowski</dc:creator>
-<dc:date>2024-02-29</dc:date>
-<dc:source>Circulation research</dc:source>
-<dc:title>Cardiovascular Consequences of Uremic Metabolites: an Overview of the Involved Signaling Pathways</dc:title>
-<dc:identifier>pmid:38422175</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCRESAHA.123.324001</dc:identifier>
-</item>
-<item>
-<title>Meet the First Authors</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38422174/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Mar;134(5):476-477. doi: 10.1161/RES.0000000000000665. Epub 2024 Feb 29.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38422174/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38422174</a> | DOI:<a href=https://doi.org/10.1161/RES.0000000000000665>10.1161/RES.0000000000000665</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38422174</guid>
-<pubDate>Thu, 29 Feb 2024 06:00:00 -0500</pubDate>
-<dc:date>2024-02-29</dc:date>
-<dc:source>Circulation research</dc:source>
-<dc:title>Meet the First Authors</dc:title>
-<dc:identifier>pmid:38422174</dc:identifier>
-<dc:identifier>doi:10.1161/RES.0000000000000665</dc:identifier>
-</item>
-<item>
-<title>PIEZO Ion Channels in Cardiovascular Functions and Diseases</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38422173/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240302090726&amp;v=2.18.0.post9+e462414
-      <description>The cardiovascular system provides blood supply throughout the body and as such is perpetually applying mechanical forces to cells and tissues. Thus, this system is primed with mechanosensory structures that respond and adapt to changes in mechanical stimuli. Since their discovery in 2010, PIEZO ion channels have dominated the field of mechanobiology. These have been proposed as the long-sought-after mechanosensitive excitatory channels involved in touch and proprioception in mammals. However,...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Mar;134(5):572-591. doi: 10.1161/CIRCRESAHA.123.322798. Epub 2024 Feb 29.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The cardiovascular system provides blood supply throughout the body and as such is perpetually applying mechanical forces to cells and tissues. Thus, this system is primed with mechanosensory structures that respond and adapt to changes in mechanical stimuli. Since their discovery in 2010, PIEZO ion channels have dominated the field of mechanobiology. These have been proposed as the long-sought-after mechanosensitive excitatory channels involved in touch and proprioception in mammals. However, more and more pieces of evidence point to the importance of PIEZO channels in cardiovascular activities and disease development. PIEZO channel-related cardiac functions include transducing hemodynamic forces in endothelial and vascular cells, red blood cell homeostasis, platelet aggregation, and arterial blood pressure regulation, among others. PIEZO channels contribute to pathological conditions including cardiac hypertrophy and pulmonary hypertension and congenital syndromes such as generalized lymphatic dysplasia and xerocytosis. In this review, we highlight recent advances in understanding the role of PIEZO channels in cardiovascular functions and diseases. Achievements in this quickly expanding field should open a new road for efficient control of PIEZO-related diseases in cardiovascular functions.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38422173/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302090726&v=2.18.0.post9+e462414">38422173</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.123.322798>10.1161/CIRCRESAHA.123.322798</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38422173</guid>
-<pubDate>Thu, 29 Feb 2024 06:00:00 -0500</pubDate>
-<dc:creator>Bertrand Coste</dc:creator>
-<dc:creator>Patrick Delmas</dc:creator>
-<dc:date>2024-02-29</dc:date>
-<dc:source>Circulation research</dc:source>
-<dc:title>PIEZO Ion Channels in Cardiovascular Functions and Diseases</dc:title>
-<dc:identifier>pmid:38422173</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCRESAHA.123.322798</dc:identifier>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Feb 29;187(5):1017-1018. doi: 10.1016/j.cell.2024.01.051.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38428384/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240302110927&v=2.18.0.post9+e462414">38428384</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.01.051>10.1016/j.cell.2024.01.051</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38428384</guid>
+<pubDate>Fri, 01 Mar 2024 06:00:00 -0500</pubDate>
+<dc:creator>Cell Editorial Team</dc:creator>
+<dc:date>2024-03-01</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Five decades of genetics and genomics</dc:title>
+<dc:identifier>pmid:38428384</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.01.051</dc:identifier>
 </item>
 
 

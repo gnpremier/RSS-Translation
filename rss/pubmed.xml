@@ -1,20 +1,426 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>心血管高分期刊</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_source=Chrome&amp;ff=20240425001454&amp;utm_medium=rss&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_campaign=pubmed-2&amp;v=2.18.0.post9+e462414&amp;fc=20230708114047
+<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;ff=20240425021131&amp;utm_source=Chrome&amp;fc=20230708114047&amp;v=2.18.0.post9+e462414&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_campaign=pubmed-2
     <description>心血管高分期刊: Latest results from PubMed</description>
-<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_source=Chrome&amp;ff=20240425001454&amp;utm_medium=rss&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_campaign=pubmed-2&amp;v=2.18.0.post9+e462414&amp;fc=20230708114047" rel="self"></atom:link>
+<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;ff=20240425021131&amp;utm_source=Chrome&amp;fc=20230708114047&amp;v=2.18.0.post9+e462414&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_campaign=pubmed-2" rel="self"></atom:link>
 <docs>http://www.rssboard.org/rss-specification</docs>
 <generator>PubMed RSS feeds (2.18.0.post9+e462414)</generator>
 <language>en</language>
-<lastbuilddate>Thu, 25 Apr 2024 04:14:55 +0000</lastbuilddate>
+<lastbuilddate>Thu, 25 Apr 2024 06:11:33 +0000</lastbuilddate>
 <pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
 <ttl>120</ttl>
 <item>
-<title>Atrial Fibrillation Ablation in Heart Failure-More Data Are Needed</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38656536/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
+<title>Correction</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38658111/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Apr 24. doi: 10.1001/jamacardio.2024.0684. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38656536/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38656536</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.0684>10.1001/jamacardio.2024.0684</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Apr 30;83(17):1716. doi: 10.1016/j.jacc.2024.03.399.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38658111/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38658111</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.03.399>10.1016/j.jacc.2024.03.399</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38658111</guid>
+<pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
+<dc:date>2024-04-24</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Correction</dc:title>
+<dc:identifier>pmid:38658111</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2024.03.399</dc:identifier>
+</item>
+<item>
+<title>Evidence Supporting Criteria for Periprocedural Myocardial Infarction in Patients Undergoing Elective Percutaneous Coronary Intervention</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38658110/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Apr 30;83(17):1713-1715. doi: 10.1016/j.jacc.2024.02.038.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38658110/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38658110</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.02.038>10.1016/j.jacc.2024.02.038</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38658110</guid>
+<pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
+<dc:creator>Raffaele Piccolo</dc:creator>
+<dc:creator>Domenico Angellotti</dc:creator>
+<dc:creator>Fiorenzo Simonetti</dc:creator>
+<dc:creator>Attilio Leone</dc:creator>
+<dc:creator>Marisa Avvedimento</dc:creator>
+<dc:creator>Luca Bardi</dc:creator>
+<dc:creator>Giuliana Fortunato</dc:creator>
+<dc:creator>Carmen Anna Maria Spaccarotella</dc:creator>
+<dc:creator>Anna Franzone</dc:creator>
+<dc:creator>Giovanni Esposito</dc:creator>
+<dc:date>2024-04-24</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Evidence Supporting Criteria for Periprocedural Myocardial Infarction in Patients Undergoing Elective Percutaneous Coronary Intervention</dc:title>
+<dc:identifier>pmid:38658110</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2024.02.038</dc:identifier>
+</item>
+<item>
+<title>Cardiovascular Disease in Hispanic Women: JACC Review Topic of the Week</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38658109/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
+      <description>Cardiovascular disease affects 37% of Hispanic women and is the leading cause of death among Hispanic women in the United States. Hispanic women have a higher burden of cardiovascular risk factors, are disproportionally affected by social determinants of health, and face additional barriers related to immigration, such as discrimination, language proficiency, and acculturation. Despite this, Hispanic women show lower rates of cardiovascular disease and mortality compared with non-Hispanic White...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Apr 30;83(17):1702-1712. doi: 10.1016/j.jacc.2024.02.039.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Cardiovascular disease affects 37% of Hispanic women and is the leading cause of death among Hispanic women in the United States. Hispanic women have a higher burden of cardiovascular risk factors, are disproportionally affected by social determinants of health, and face additional barriers related to immigration, such as discrimination, language proficiency, and acculturation. Despite this, Hispanic women show lower rates of cardiovascular disease and mortality compared with non-Hispanic White women. However, this "Hispanic paradox" is challenged by recent studies that account for the diversity in culture, race, genetic background, country of origin, and social determinants of health within Hispanic subpopulations. This review provides a comprehensive overview of the cardiovascular risk factors in Hispanic women, emphasizing the role of social determinants, and proposes a multipronged approach for equitable care.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38658109/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38658109</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.02.039>10.1016/j.jacc.2024.02.039</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38658109</guid>
+<pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
+<dc:creator>Odayme Quesada</dc:creator>
+<dc:creator>Daniela Crousillat</dc:creator>
+<dc:creator>Fatima Rodriguez</dc:creator>
+<dc:creator>Katia Bravo-Jaimes</dc:creator>
+<dc:creator>Joan Briller</dc:creator>
+<dc:creator>Modele O Ogunniyi</dc:creator>
+<dc:creator>Deirdre J Mattina</dc:creator>
+<dc:creator>Niti R Aggarwal</dc:creator>
+<dc:creator>Carlos J Rodriguez</dc:creator>
+<dc:creator>Glaucia Maria Moraes De Oliveira</dc:creator>
+<dc:creator>Gladys Velarde</dc:creator>
+<dc:date>2024-04-24</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Cardiovascular Disease in Hispanic Women: JACC Review Topic of the Week</dc:title>
+<dc:identifier>pmid:38658109</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2024.02.039</dc:identifier>
+</item>
+<item>
+<title>Malignant Hypertension:A Systemic Cardiovascular Disease: JACC Review Topic of the Week</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38658108/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
+      <description>Malignant hypertension (MHT) is a hypertensive emergency with excessive blood pressure (BP) elevation and accelerated disease progression. MHT is characterized by acute microvascular damage and autoregulation failure affecting the retina, brain, heart, kidney, and vascular tree. BP must be lowered within hours to mitigate patient risk. Both absolute BP levels and the pace of BP rise determine risk of target-organ damage. Nonadherence to the antihypertensive regimen remains the most common cause...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Apr 30;83(17):1688-1701. doi: 10.1016/j.jacc.2024.02.037.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Malignant hypertension (MHT) is a hypertensive emergency with excessive blood pressure (BP) elevation and accelerated disease progression. MHT is characterized by acute microvascular damage and autoregulation failure affecting the retina, brain, heart, kidney, and vascular tree. BP must be lowered within hours to mitigate patient risk. Both absolute BP levels and the pace of BP rise determine risk of target-organ damage. Nonadherence to the antihypertensive regimen remains the most common cause for MHT, although antiangiogenic and immunosuppressant therapy can also trigger hypertensive emergencies. Depending on the clinical presentation, parenteral or oral therapy can be used to initiate BP lowering. Evidence-based outcome data are spotty or lacking in MHT. With effective treatment, the prognosis for MHT has improved; however, patients remain at high risk of adverse cardiovascular and kidney outcomes. In this review, we summarize current viewpoints on the epidemiology, pathogenesis, and management of MHT; highlight research gaps; and propose strategies to improve outcomes.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38658108/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38658108</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.02.037>10.1016/j.jacc.2024.02.037</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38658108</guid>
+<pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
+<dc:creator>Romain Boulestreau</dc:creator>
+<dc:creator>Mateusz Śpiewak</dc:creator>
+<dc:creator>Andrzej Januszewicz</dc:creator>
+<dc:creator>Reinhold Kreutz</dc:creator>
+<dc:creator>Tomasz J Guzik</dc:creator>
+<dc:creator>Magdalena Januszewicz</dc:creator>
+<dc:creator>Maria Lorenza Muiesan</dc:creator>
+<dc:creator>Alexandre Persu</dc:creator>
+<dc:creator>Pantelis Sarafidis</dc:creator>
+<dc:creator>Massimo Volpe</dc:creator>
+<dc:creator>Anna Zaleska-Żmijewska</dc:creator>
+<dc:creator>Bert-Jan H van den Born</dc:creator>
+<dc:creator>Franz H Messerli</dc:creator>
+<dc:date>2024-04-24</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Malignant Hypertension:A Systemic Cardiovascular Disease: JACC Review Topic of the Week</dc:title>
+<dc:identifier>pmid:38658108</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2024.02.037</dc:identifier>
+</item>
+<item>
+<title>Low Delta Wave Activity During Sleep Promotes Cardiovascular Disease Risk: What's Next?</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38658107/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Apr 30;83(17):1685-1687. doi: 10.1016/j.jacc.2024.03.358.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38658107/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38658107</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.03.358>10.1016/j.jacc.2024.03.358</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38658107</guid>
+<pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
+<dc:creator>Tianyi Huang</dc:creator>
+<dc:date>2024-04-24</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Low Delta Wave Activity During Sleep Promotes Cardiovascular Disease Risk: What's Next?</dc:title>
+<dc:identifier>pmid:38658107</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2024.03.358</dc:identifier>
+</item>
+<item>
+<title>Risks and Benefits of Concomitant Tricuspid Surgery at the Time of Mitral Intervention</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38658106/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Apr 30;83(17):1669-1670. doi: 10.1016/j.jacc.2024.03.378.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38658106/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38658106</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.03.378>10.1016/j.jacc.2024.03.378</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38658106</guid>
+<pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
+<dc:creator>Pavan Atluri</dc:creator>
+<dc:creator>Amit Iyengar</dc:creator>
+<dc:creator>David Rekhtman</dc:creator>
+<dc:date>2024-04-24</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Risks and Benefits of Concomitant Tricuspid Surgery at the Time of Mitral Intervention</dc:title>
+<dc:identifier>pmid:38658106</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2024.03.378</dc:identifier>
+</item>
+<item>
+<title>Permanent Pacemaker Implantation and Long-Term Outcomes of Patients Undergoing Concomitant Mitral and Tricuspid Valve Surgery</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38658105/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS: Compared to isolated MVr, adding TA to MVr was associated with a higher risk of 90-day PPM implantation. In both surgical groups, PPM implantation was associated with an increase in mortality, HFH, and endocarditis.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Apr 30;83(17):1656-1668. doi: 10.1016/j.jacc.2024.02.042.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Tricuspid valve annuloplasty (TA) during mitral valve repair (MVr) is associated with increased risk of permanent pacemaker (PPM) implantation, but the magnitude of risk and long-term clinical consequences have not been firmly established.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVES: This study assesses the incidence rates of PPM implantation after isolated MVr and following MVr with TA as well as the associated long-term clinical consequences of PPM implantation.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: State-mandated hospital discharge databases of New York and California were queried for patients undergoing MVr (isolated or with concomitant TA) between 2004 and 2019. Patients were stratified by whether or not they received a PPM within 90 days of index surgery. After weighting by propensity score, survival, heart failure hospitalizations (HFHs), endocarditis, stroke, and reoperation were compared between patients with or without PPM.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: A total of 32,736 patients underwent isolated MVr (n = 28,003) or MVr + TA (n = 4,733). Annual MVr + TA volumes increased throughout the study period (P &lt; 0.001, trend), and PPM rates decreased (P &lt; 0.001, trend). The incidence of PPM implantation &lt;90 days after surgery was 7.7% for MVr and 14.0% for MVr + TA. In 90-day conditional landmark-weighted analyses, PPMs were associated with reduced long-term survival among MVr (HR: 1.96; 95% CI: 1.75-2.19; P &lt; 0.001) and MVr + TA recipients (HR: 1.65; 95% CI: 1.28-2.14; P &lt; 0.001). In both surgical groups, PPMs were also associated with an increased risk of HFH (HR: 1.56; 95% CI: 1.27-1.90; P &lt; 0.001) and endocarditis (HR: 1.95; 95% CI: 1.52-2.51; P &lt; 0.001), but not with stroke or reoperation.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Compared to isolated MVr, adding TA to MVr was associated with a higher risk of 90-day PPM implantation. In both surgical groups, PPM implantation was associated with an increase in mortality, HFH, and endocarditis.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38658105/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38658105</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.02.042>10.1016/j.jacc.2024.02.042</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38658105</guid>
+<pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
+<dc:creator>Alexander Iribarne</dc:creator>
+<dc:creator>Sundos H Alabbadi</dc:creator>
+<dc:creator>Alan J Moskowitz</dc:creator>
+<dc:creator>Gorav Ailawadi</dc:creator>
+<dc:creator>Vinay Badhwar</dc:creator>
+<dc:creator>Marc Gillinov</dc:creator>
+<dc:creator>Vinod H Thourani</dc:creator>
+<dc:creator>Keith B Allen</dc:creator>
+<dc:creator>Michael E Halkos</dc:creator>
+<dc:creator>Nirav C Patel</dc:creator>
+<dc:creator>Robert S Kramer</dc:creator>
+<dc:creator>David D'Alessandro</dc:creator>
+<dc:creator>Samantha Raymond</dc:creator>
+<dc:creator>Helena L Chang</dc:creator>
+<dc:creator>Lopa Gupta</dc:creator>
+<dc:creator>Kathleen N Fenton</dc:creator>
+<dc:creator>Wendy C Taddei-Peters</dc:creator>
+<dc:creator>Michael W A Chu</dc:creator>
+<dc:creator>Volkmar Falk</dc:creator>
+<dc:creator>Joanna Chikwe</dc:creator>
+<dc:creator>Neal Jeffries</dc:creator>
+<dc:creator>Emilia Bagiella</dc:creator>
+<dc:creator>Patrick T O'Gara</dc:creator>
+<dc:creator>Annetine C Gelijns</dc:creator>
+<dc:creator>Natalia N Egorova</dc:creator>
+<dc:date>2024-04-24</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Permanent Pacemaker Implantation and Long-Term Outcomes of Patients Undergoing Concomitant Mitral and Tricuspid Valve Surgery</dc:title>
+<dc:identifier>pmid:38658105</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2024.02.042</dc:identifier>
+</item>
+<item>
+<title>Predicting the Development of Dilated Cardiomyopathy in Kindred With Genetic Risk: Family Matters</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38658104/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Apr 30;83(17):1652-1655. doi: 10.1016/j.jacc.2024.03.381.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38658104/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38658104</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.03.381>10.1016/j.jacc.2024.03.381</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38658104</guid>
+<pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
+<dc:creator>C Anwar A Chahal</dc:creator>
+<dc:creator>Andrew P Landstrom</dc:creator>
+<dc:date>2024-04-24</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Predicting the Development of Dilated Cardiomyopathy in Kindred With Genetic Risk: Family Matters</dc:title>
+<dc:identifier>pmid:38658104</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2024.03.381</dc:identifier>
+</item>
+<item>
+<title>Penetrance of Dilated Cardiomyopathy in Genotype-Positive Relatives</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38658103/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS: Following a first negative screening, approximately 11% of G+ relatives developed DCM during a median follow-up of 3 years. Older age, an abnormal electrocardiogram, lower left ventricular ejection fraction, increased left ventricular end-diastolic diameter, motor sarcomeric genetic variants, and late gadolinium enhancement are associated with a higher risk of developing DCM.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Apr 30;83(17):1640-1651. doi: 10.1016/j.jacc.2024.02.036.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Disease penetrance in genotype-positive (G+) relatives of families with dilated cardiomyopathy (DCM) and the characteristics associated with DCM onset in these individuals are unknown.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVES: This study sought to determine the penetrance of new DCM diagnosis in G+ relatives and to identify factors associated with DCM development.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: The authors evaluated 779 G+ patients (age 35.8 ± 17.3 years; 459 [59%] females; 367 [47%] with variants in TTN) without DCM followed at 25 Spanish centers.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: After a median follow-up of 37.1 months (Q1-Q3: 16.3-63.8 months), 85 individuals (10.9%) developed DCM (incidence rate of 2.9 per 100 person-years; 95% CI: 2.3-3.5 per 100 person-years). DCM penetrance and age at DCM onset was different according to underlying gene group (log-rank P = 0.015 and P &lt;0.01, respectively). In a multivariable model excluding CMR parameters, independent predictors of DCM development were: older age (HR per 1-year increase: 1.02; 95% CI: 1.0-1.04), an abnormal electrocardiogram (HR: 2.13; 95% CI: 1.38-3.29); presence of variants in motor sarcomeric genes (HR: 1.92; 95% CI: 1.05-3.50); lower left ventricular ejection fraction (HR per 1% increase: 0.86; 95% CI: 0.82-0.90) and larger left ventricular end-diastolic diameter (HR per 1-mm increase: 1.10; 95% CI: 1.06-1.13). Multivariable analysis in individuals with cardiac magnetic resonance and late gadolinium enhancement assessment (n = 360, 45%) identified late gadolinium enhancement as an additional independent predictor of DCM development (HR: 2.52; 95% CI: 1.43-4.45).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Following a first negative screening, approximately 11% of G+ relatives developed DCM during a median follow-up of 3 years. Older age, an abnormal electrocardiogram, lower left ventricular ejection fraction, increased left ventricular end-diastolic diameter, motor sarcomeric genetic variants, and late gadolinium enhancement are associated with a higher risk of developing DCM.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38658103/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38658103</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.02.036>10.1016/j.jacc.2024.02.036</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38658103</guid>
+<pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
+<dc:creator>Eva Cabrera-Romero</dc:creator>
+<dc:creator>Juan Pablo Ochoa</dc:creator>
+<dc:creator>Roberto Barriales-Villa</dc:creator>
+<dc:creator>Francisco José Bermúdez-Jiménez</dc:creator>
+<dc:creator>Vicente Climent-Payá</dc:creator>
+<dc:creator>Esther Zorio</dc:creator>
+<dc:creator>María Angeles Espinosa</dc:creator>
+<dc:creator>María Gallego-Delgado</dc:creator>
+<dc:creator>Marina Navarro-Peñalver</dc:creator>
+<dc:creator>Xabier Arana-Achaga</dc:creator>
+<dc:creator>Jesús Piqueras-Flores</dc:creator>
+<dc:creator>Victoria Espejo-Bares</dc:creator>
+<dc:creator>José F Rodríguez-Palomares</dc:creator>
+<dc:creator>Gemma Lacuey-Lecumberri</dc:creator>
+<dc:creator>Javier López</dc:creator>
+<dc:creator>Coloma Tiron</dc:creator>
+<dc:creator>María Luisa Peña-Peña</dc:creator>
+<dc:creator>Jose M García-Pinilla</dc:creator>
+<dc:creator>Rebeca Lorca</dc:creator>
+<dc:creator>Tomas Ripoll-Vera</dc:creator>
+<dc:creator>Carles Díez-López</dc:creator>
+<dc:creator>María Victoria Mogollon</dc:creator>
+<dc:creator>Ana García-Álvarez</dc:creator>
+<dc:creator>Luis Martínez-Dolz</dc:creator>
+<dc:creator>María Brion</dc:creator>
+<dc:creator>Jose María Larrañaga-Moreira</dc:creator>
+<dc:creator>Juan Jiménez-Jáimez</dc:creator>
+<dc:creator>María Isabel García-Álvarez</dc:creator>
+<dc:creator>Silvia Vilches</dc:creator>
+<dc:creator>Eduardo Villacorta</dc:creator>
+<dc:creator>María Sabater-Molina</dc:creator>
+<dc:creator>Itziar Solla-Ruiz</dc:creator>
+<dc:creator>Ana Royuela</dc:creator>
+<dc:creator>Fernando Domínguez</dc:creator>
+<dc:creator>Jesús G Mirelis</dc:creator>
+<dc:creator>Pablo Garcia-Pavia</dc:creator>
+<dc:date>2024-04-24</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Penetrance of Dilated Cardiomyopathy in Genotype-Positive Relatives</dc:title>
+<dc:identifier>pmid:38658103</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2024.02.036</dc:identifier>
+</item>
+<item>
+<title>THEMIS: Justice Delayed</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38658102/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Apr 30;83(17):1637-1639. doi: 10.1016/j.jacc.2024.03.383.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38658102/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38658102</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.03.383>10.1016/j.jacc.2024.03.383</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38658102</guid>
+<pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
+<dc:creator>Subhash Banerjee</dc:creator>
+<dc:creator>Zachary P Rosol</dc:creator>
+<dc:date>2024-04-24</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>THEMIS: Justice Delayed</dc:title>
+<dc:identifier>pmid:38658102</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2024.03.383</dc:identifier>
+</item>
+<item>
+<title>Limb Outcomes With Ticagrelor Plus Aspirin in Patients With Diabetes Mellitus and Atherosclerosis</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38658101/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS: Patients with T2DM and atherosclerosis are at high risk of limb events. Ticagrelor decreased this risk, but increased bleeding. Future trials evaluating the combination of ticagrelor and aspirin would further elucidate the benefit/risk of such therapy in patients with PAD, including those without coronary artery disease. (A Study Comparing Cardiovascular Effects of Ticagrelor Versus Placebo in Patients With Type 2 Diabetes Mellitus [THEMIS]: NCT01991795).</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Apr 30;83(17):1627-1636. doi: 10.1016/j.jacc.2024.03.377.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Ticagrelor reduced major adverse cardiovascular events (MACE) and increased bleeding in patients with type 2 diabetes mellitus (T2DM) and coronary artery disease. Limb events including revascularization, acute limb ischemia (ALI), and amputation are major morbidities in patients with T2DM and atherosclerosis.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVES: This study sought to determine the effect of ticagrelor on limb events.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Patients were randomized to ticagrelor or placebo on top of aspirin and followed for a median of 3 years. MACE (cardiovascular death, myocardial infarction, or stroke), limb events (ALI, amputation, revascularization), and bleeding were adjudicated by an independent and blinded clinical events committee. The presence of peripheral artery disease (PAD) was reported at baseline.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Of 19,220 patients randomized, 1,687 (8.8%) had PAD at baseline. In patients receiving placebo, PAD was associated with higher MACE (10.7% vs 7.3%; HR: 1.48; P &lt; 0.001) and limb (9.5% vs 0.8%; HR: 10.67; P &lt; 0.001) risk. Ticagrelor reduced limb events (1.6% vs 1.3%; HR: 0.77; 95% CI: 0.61-0.96; P = 0.022) with significant reductions for revascularization (HR: 0.79; 95% CI: 0.62-0.99; P = 0.044) and ALI (HR: 0.24; 95% CI: 0.08-0.70; P = 0.009). The benefit was consistent with or without PAD (HR: 0.80; 95% CI: 0.58-1.11; and HR: 0.76; 95% CI: 0.55-1.05, respectively; P<sub>interaction</sub> = 0.81). There was no effect modification of ticagrelor vs placebo based on PAD for MACE (P<sub>interaction</sub> = 0.40) or TIMI major bleeding (P<sub>interaction</sub> = 0.3239).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Patients with T2DM and atherosclerosis are at high risk of limb events. Ticagrelor decreased this risk, but increased bleeding. Future trials evaluating the combination of ticagrelor and aspirin would further elucidate the benefit/risk of such therapy in patients with PAD, including those without coronary artery disease. (A Study Comparing Cardiovascular Effects of Ticagrelor Versus Placebo in Patients With Type 2 Diabetes Mellitus [THEMIS]: NCT01991795).</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38658101/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38658101</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.03.377>10.1016/j.jacc.2024.03.377</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38658101</guid>
+<pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
+<dc:creator>Marc P Bonaca</dc:creator>
+<dc:creator>Deepak L Bhatt</dc:creator>
+<dc:creator>Tabassome Simon</dc:creator>
+<dc:creator>Kim Michael Fox</dc:creator>
+<dc:creator>Shamir Mehta</dc:creator>
+<dc:creator>Robert A Harrington</dc:creator>
+<dc:creator>Lawrence A Leiter</dc:creator>
+<dc:creator>Warren H Capell</dc:creator>
+<dc:creator>Claes Held</dc:creator>
+<dc:creator>Anders Himmelmann</dc:creator>
+<dc:creator>Wilhelm Ridderstråle</dc:creator>
+<dc:creator>Jersey Chen</dc:creator>
+<dc:creator>Jane J Lee</dc:creator>
+<dc:creator>Yang Song</dc:creator>
+<dc:creator>Marielle Andersson</dc:creator>
+<dc:creator>Jayne Prats</dc:creator>
+<dc:creator>Mikhail Kosiborod</dc:creator>
+<dc:creator>Darren K McGuire</dc:creator>
+<dc:creator>Ph Gabriel Steg</dc:creator>
+<dc:date>2024-04-24</dc:date>
+<dc:source>Journal of the American College of Cardiology</dc:source>
+<dc:title>Limb Outcomes With Ticagrelor Plus Aspirin in Patients With Diabetes Mellitus and Atherosclerosis</dc:title>
+<dc:identifier>pmid:38658101</dc:identifier>
+<dc:identifier>doi:10.1016/j.jacc.2024.03.377</dc:identifier>
+</item>
+<item>
+<title>Synthetic protein circuits for programmable control of mammalian cell death</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38657604/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
+      <description>Natural cell death pathways such as apoptosis and pyroptosis play dual roles: they eliminate harmful cells and modulate the immune system by dampening or stimulating inflammation. Synthetic protein circuits capable of triggering specific death programs in target cells could similarly remove harmful cells while appropriately modulating immune responses. However, cells actively influence their death modes in response to natural signals, making it challenging to control death modes. Here, we...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Apr 16:S0092-8674(24)00347-7. doi: 10.1016/j.cell.2024.03.031. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Natural cell death pathways such as apoptosis and pyroptosis play dual roles: they eliminate harmful cells and modulate the immune system by dampening or stimulating inflammation. Synthetic protein circuits capable of triggering specific death programs in target cells could similarly remove harmful cells while appropriately modulating immune responses. However, cells actively influence their death modes in response to natural signals, making it challenging to control death modes. Here, we introduce naturally inspired "synpoptosis" circuits that proteolytically regulate engineered executioner proteins and mammalian cell death. These circuits direct cell death modes, respond to combinations of protease inputs, and selectively eliminate target cells. Furthermore, synpoptosis circuits can be transmitted intercellularly, offering a foundation for engineering synthetic killer cells that induce desired death programs in target cells without self-destruction. Together, these results lay the groundwork for programmable control of mammalian cell death.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38657604/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38657604</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.03.031>10.1016/j.cell.2024.03.031</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38657604</guid>
+<pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
+<dc:creator>Shiyu Xia</dc:creator>
+<dc:creator>Andrew C Lu</dc:creator>
+<dc:creator>Victoria Tobin</dc:creator>
+<dc:creator>Kaiwen Luo</dc:creator>
+<dc:creator>Lukas Moeller</dc:creator>
+<dc:creator>D Judy Shon</dc:creator>
+<dc:creator>Rongrong Du</dc:creator>
+<dc:creator>James M Linton</dc:creator>
+<dc:creator>Margaret Sui</dc:creator>
+<dc:creator>Felix Horns</dc:creator>
+<dc:creator>Michael B Elowitz</dc:creator>
+<dc:date>2024-04-24</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Synthetic protein circuits for programmable control of mammalian cell death</dc:title>
+<dc:identifier>pmid:38657604</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.03.031</dc:identifier>
+</item>
+<item>
+<title>3D reconstruction of a gastrulating human embryo</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38657603/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
+      <description>Progress in understanding early human development has been impeded by the scarcity of reference datasets from natural embryos, particularly those with spatial information during crucial stages like gastrulation. We conducted high-resolution spatial transcriptomics profiling on 38,562 spots from 62 transverse sections of an intact Carnegie stage (CS) 8 human embryo. From this spatial transcriptomic dataset, we constructed a 3D model of the CS8 embryo, in which a range of cell subtypes are...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Apr 17:S0092-8674(24)00357-X. doi: 10.1016/j.cell.2024.03.041. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Progress in understanding early human development has been impeded by the scarcity of reference datasets from natural embryos, particularly those with spatial information during crucial stages like gastrulation. We conducted high-resolution spatial transcriptomics profiling on 38,562 spots from 62 transverse sections of an intact Carnegie stage (CS) 8 human embryo. From this spatial transcriptomic dataset, we constructed a 3D model of the CS8 embryo, in which a range of cell subtypes are identified, based on gene expression patterns and positional register, along the anterior-posterior, medial-lateral, and dorsal-ventral axis in the embryo. We further characterized the lineage trajectories of embryonic and extra-embryonic tissues and associated regulons and the regionalization of signaling centers and signaling activities that underpin lineage progression and tissue patterning during gastrulation. Collectively, the findings of this study provide insights into gastrulation and post-gastrulation development of the human embryo.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38657603/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38657603</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.03.041>10.1016/j.cell.2024.03.041</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38657603</guid>
+<pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
+<dc:creator>Zhenyu Xiao</dc:creator>
+<dc:creator>Lina Cui</dc:creator>
+<dc:creator>Yang Yuan</dc:creator>
+<dc:creator>Nannan He</dc:creator>
+<dc:creator>Xinwei Xie</dc:creator>
+<dc:creator>Sirui Lin</dc:creator>
+<dc:creator>Xiaolong Yang</dc:creator>
+<dc:creator>Xin Zhang</dc:creator>
+<dc:creator>Peifu Shi</dc:creator>
+<dc:creator>Zhifeng Wei</dc:creator>
+<dc:creator>Yang Li</dc:creator>
+<dc:creator>Hongmei Wang</dc:creator>
+<dc:creator>Xiaoyan Wang</dc:creator>
+<dc:creator>Yulei Wei</dc:creator>
+<dc:creator>Jingtao Guo</dc:creator>
+<dc:creator>Leqian Yu</dc:creator>
+<dc:date>2024-04-24</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>3D reconstruction of a gastrulating human embryo</dc:title>
+<dc:identifier>pmid:38657603</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.03.041</dc:identifier>
+</item>
+<item>
+<title>IGSF8 is an innate immune checkpoint and cancer immunotherapy target</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38657602/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
+      <description>Antigen presentation defects in tumors are prevalent mechanisms of adaptive immune evasion and resistance to cancer immunotherapy, whereas how tumors evade innate immunity is less clear. Using CRISPR screens, we discovered that IGSF8 expressed on tumors suppresses NK cell function by interacting with human KIR3DL2 and mouse Klra9 receptors on NK cells. IGSF8 is normally expressed in neuronal tissues and is not required for cell survival in vitro or in vivo. It is overexpressed and associated...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Apr 18:S0092-8674(24)00355-6. doi: 10.1016/j.cell.2024.03.039. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Antigen presentation defects in tumors are prevalent mechanisms of adaptive immune evasion and resistance to cancer immunotherapy, whereas how tumors evade innate immunity is less clear. Using CRISPR screens, we discovered that IGSF8 expressed on tumors suppresses NK cell function by interacting with human KIR3DL2 and mouse Klra9 receptors on NK cells. IGSF8 is normally expressed in neuronal tissues and is not required for cell survival in vitro or in vivo. It is overexpressed and associated with low antigen presentation, low immune infiltration, and worse clinical outcomes in many tumors. An antibody that blocks IGSF8-NK receptor interaction enhances NK cell killing of malignant cells in vitro and upregulates antigen presentation, NK cell-mediated cytotoxicity, and T cell signaling in vivo. In syngeneic tumor models, anti-IGSF8 alone, or in combination with anti-PD1, inhibits tumor growth. Our results indicate that IGSF8 is an innate immune checkpoint that could be exploited as a therapeutic target.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38657602/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38657602</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.03.039>10.1016/j.cell.2024.03.039</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38657602</guid>
+<pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
+<dc:creator>Yulong Li</dc:creator>
+<dc:creator>Xiangyang Wu</dc:creator>
+<dc:creator>Caibin Sheng</dc:creator>
+<dc:creator>Hailing Liu</dc:creator>
+<dc:creator>Huizhu Liu</dc:creator>
+<dc:creator>Yixuan Tang</dc:creator>
+<dc:creator>Chao Liu</dc:creator>
+<dc:creator>Qingyang Ding</dc:creator>
+<dc:creator>Bin Xie</dc:creator>
+<dc:creator>Xi Xiao</dc:creator>
+<dc:creator>Rongbin Zheng</dc:creator>
+<dc:creator>Quan Yu</dc:creator>
+<dc:creator>Zengdan Guo</dc:creator>
+<dc:creator>Jian Ma</dc:creator>
+<dc:creator>Jin Wang</dc:creator>
+<dc:creator>Jinghong Gao</dc:creator>
+<dc:creator>Mei Tian</dc:creator>
+<dc:creator>Wei Wang</dc:creator>
+<dc:creator>Jia Zhou</dc:creator>
+<dc:creator>Li Jiang</dc:creator>
+<dc:creator>Mengmeng Gu</dc:creator>
+<dc:creator>Sailing Shi</dc:creator>
+<dc:creator>Michael Paull</dc:creator>
+<dc:creator>Guanhua Yang</dc:creator>
+<dc:creator>Wei Yang</dc:creator>
+<dc:creator>Steve Landau</dc:creator>
+<dc:creator>Xingfeng Bao</dc:creator>
+<dc:creator>Xihao Hu</dc:creator>
+<dc:creator>X Shirley Liu</dc:creator>
+<dc:creator>Tengfei Xiao</dc:creator>
+<dc:date>2024-04-24</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>IGSF8 is an innate immune checkpoint and cancer immunotherapy target</dc:title>
+<dc:identifier>pmid:38657602</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.03.039</dc:identifier>
+</item>
+<item>
+<title>Hematopoietic stem cell niche generation and maintenance are distinguishable by an epitranscriptomic program</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38657601/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
+      <description>The niche is typically considered as a pre-established structure sustaining stem cells. Therefore, the regulation of its formation remains largely unexplored. Whether distinct molecular mechanisms control the establishment versus maintenance of a stem cell niche is unknown. To address this, we compared perinatal and adult bone marrow mesenchymal stromal cells (MSCs), a key component of the hematopoietic stem cell (HSC) niche. MSCs exhibited enrichment in genes mediating m⁶A mRNA methylation at...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Apr 13:S0092-8674(24)00348-9. doi: 10.1016/j.cell.2024.03.032. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The niche is typically considered as a pre-established structure sustaining stem cells. Therefore, the regulation of its formation remains largely unexplored. Whether distinct molecular mechanisms control the establishment versus maintenance of a stem cell niche is unknown. To address this, we compared perinatal and adult bone marrow mesenchymal stromal cells (MSCs), a key component of the hematopoietic stem cell (HSC) niche. MSCs exhibited enrichment in genes mediating m<sup>6</sup>A mRNA methylation at the perinatal stage and downregulated the expression of Mettl3, the m<sup>6</sup>A methyltransferase, shortly after birth. Deletion of Mettl3 from developing MSCs but not osteoblasts led to excessive osteogenic differentiation and a severe HSC niche formation defect, which was significantly rescued by deletion of Klf2, an m<sup>6</sup>A target. In contrast, deletion of Mettl3 from MSCs postnatally did not affect HSC niche. Stem cell niche generation and maintenance thus depend on divergent molecular mechanisms, which may be exploited for regenerative medicine.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38657601/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38657601</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.03.032>10.1016/j.cell.2024.03.032</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38657601</guid>
+<pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
+<dc:creator>Longfei Gao</dc:creator>
+<dc:creator>Heather Lee</dc:creator>
+<dc:creator>Joshua H Goodman</dc:creator>
+<dc:creator>Lei Ding</dc:creator>
+<dc:date>2024-04-24</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Hematopoietic stem cell niche generation and maintenance are distinguishable by an epitranscriptomic program</dc:title>
+<dc:identifier>pmid:38657601</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.03.032</dc:identifier>
+</item>
+<item>
+<title>Continuous germinal center invasion contributes to the diversity of the immune response</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38657600/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Apr 23:S0092-8674(24)00399-4. doi: 10.1016/j.cell.2024.04.004. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38657600/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38657600</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.04.004>10.1016/j.cell.2024.04.004</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38657600</guid>
+<pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
+<dc:creator>Thomas Hägglöf</dc:creator>
+<dc:creator>Melissa Cipolla</dc:creator>
+<dc:creator>Maximilian Loewe</dc:creator>
+<dc:creator>Spencer T Chen</dc:creator>
+<dc:creator>Ervin E Kara</dc:creator>
+<dc:creator>Luka Mesin</dc:creator>
+<dc:creator>Harald Hartweger</dc:creator>
+<dc:creator>Mohamed A ElTanbouly</dc:creator>
+<dc:creator>Alice Cho</dc:creator>
+<dc:creator>Anna Gazumyan</dc:creator>
+<dc:creator>Victor Ramos</dc:creator>
+<dc:creator>Leonidas Stamatatos</dc:creator>
+<dc:creator>Thiago Y Oliveira</dc:creator>
+<dc:creator>Michel C Nussenzweig</dc:creator>
+<dc:creator>Charlotte Viant</dc:creator>
+<dc:date>2024-04-24</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Continuous germinal center invasion contributes to the diversity of the immune response</dc:title>
+<dc:identifier>pmid:38657600</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.04.004</dc:identifier>
+</item>
+<item>
+<title>Atrial Fibrillation Ablation in Heart Failure-More Data Are Needed</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38656536/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Apr 24. doi: 10.1001/jamacardio.2024.0684. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38656536/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38656536</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.0684>10.1001/jamacardio.2024.0684</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38656536</guid>
 <pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
 <dc:creator>Kristen K Patton</dc:creator>
@@ -27,9 +433,9 @@
 </item>
 <item>
 <title>Reversals in the Decline of Heart Failure Mortality in the US, 1999 to 2021</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38656398/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/38656398/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Apr 24. doi: 10.1001/jamacardio.2024.0615. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38656398/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38656398</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.0615>10.1001/jamacardio.2024.0615</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Apr 24. doi: 10.1001/jamacardio.2024.0615. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38656398/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38656398</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.0615>10.1001/jamacardio.2024.0615</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38656398</guid>
 <pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
 <dc:creator>Ahmed Sayed</dc:creator>
@@ -47,9 +453,9 @@
 </item>
 <item>
 <title>Fontan Junctional Rhythm-Innocent Bystander or Silent Killer?</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38656381/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/38656381/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Apr 24. doi: 10.1001/jamacardio.2024.0689. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38656381/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38656381</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.0689>10.1001/jamacardio.2024.0689</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Apr 24. doi: 10.1001/jamacardio.2024.0689. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38656381/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38656381</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.0689>10.1001/jamacardio.2024.0689</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38656381</guid>
 <pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
 <dc:creator>Seshadri Balaji</dc:creator>
@@ -63,9 +469,9 @@
 </item>
 <item>
 <title>Atrial Fibrillation Ablation in Heart Failure With Reduced vs Preserved Ejection Fraction: A Systematic Review and Meta-Analysis</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38656292/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/38656292/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
       <description>CONCLUSIONS AND RELEVANCE: This study found that catheter ablation for AF was associated with reduced risk of HF events in patients with HFrEF but had limited or no benefit in HFpEF. Results from ongoing trials may further elucidate the role of catheter ablation for AF in HFpEF.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Apr 24. doi: 10.1001/jamacardio.2024.0675. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">IMPORTANCE: Catheter ablation is associated with reduced heart failure (HF) hospitalization and death in select patients with atrial fibrillation (AF) and heart failure with reduced ejection fraction (HFrEF). However, the benefit in patients with HF with preserved ejection fraction (HFpEF) is uncertain.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVE: To investigate whether catheter ablation for AF is associated with reduced HF-related outcomes according to HF phenotype.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">DATA SOURCE: A systematic search of MEDLINE, Embase, and Cochrane Central was conducted among studies published from inception to September 2023.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">STUDY SELECTION: Parallel-group randomized clinical trials (RCTs) comparing catheter ablation with conventional rate or rhythm control therapies in patients with HF, New York Heart Association functional class II or greater, and a history of paroxysmal or persistent AF were included. Pairs of independent reviewers screened 7531 titles and abstracts, of which 12 RCTs and 4 substudies met selection criteria.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">DATA EXTRACTION AND SYNTHESIS: Data were abstracted in duplicate according to the Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) reporting guideline. Pooled effect estimates were calculated using random-effects Mantel-Haenszel models. Interaction P values were used to test for subgroup differences.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">MAIN OUTCOMES AND MEASURES: The primary outcome was HF events, defined as HF hospitalization, clinically significant worsening of HF, or unscheduled visits to a clinician for treatment intensification. Secondary outcomes included cardiovascular and all-cause mortality.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: A total of 12 RCTs with 2465 participants (mean [SD] age, 65.3 [9.7] years; 658 females [26.7%]) were included; there were 1552 participants with HFrEF and 913 participants with HFpEF. Compared with conventional rate or rhythm control, catheter ablation was associated with reduced risk of HF events in HFrEF (risk ratio [RR], 0.59; 95% CI, 0.48-0.72), while there was no benefit in patients with HFpEF (RR, 0.93; 95% CI, 0.65-1.32) (P for interaction = .03). Catheter ablation was associated with reduced risk of cardiovascular death compared with conventional therapies in HFrEF (RR, 0.49; 95% CI, 0.34-0.70) but a differential association was not detected in HFpEF (RR, 0.91; 95% CI, 0.46-1.79) (P for interaction = .12). Similarly, no difference in the association of catheter ablation with all-cause mortality was found between HFrEF (RR vs conventional therapies, 0.63; 95% CI, 0.47-0.86) and HFpEF (RR vs conventional therapies, 0.95; 95% CI, 0.39-2.30) groups (P for interaction = .39).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS AND RELEVANCE: This study found that catheter ablation for AF was associated with reduced risk of HF events in patients with HFrEF but had limited or no benefit in HFpEF. Results from ongoing trials may further elucidate the role of catheter ablation for AF in HFpEF.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38656292/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38656292</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.0675>10.1001/jamacardio.2024.0675</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Apr 24. doi: 10.1001/jamacardio.2024.0675. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">IMPORTANCE: Catheter ablation is associated with reduced heart failure (HF) hospitalization and death in select patients with atrial fibrillation (AF) and heart failure with reduced ejection fraction (HFrEF). However, the benefit in patients with HF with preserved ejection fraction (HFpEF) is uncertain.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVE: To investigate whether catheter ablation for AF is associated with reduced HF-related outcomes according to HF phenotype.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">DATA SOURCE: A systematic search of MEDLINE, Embase, and Cochrane Central was conducted among studies published from inception to September 2023.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">STUDY SELECTION: Parallel-group randomized clinical trials (RCTs) comparing catheter ablation with conventional rate or rhythm control therapies in patients with HF, New York Heart Association functional class II or greater, and a history of paroxysmal or persistent AF were included. Pairs of independent reviewers screened 7531 titles and abstracts, of which 12 RCTs and 4 substudies met selection criteria.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">DATA EXTRACTION AND SYNTHESIS: Data were abstracted in duplicate according to the Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) reporting guideline. Pooled effect estimates were calculated using random-effects Mantel-Haenszel models. Interaction P values were used to test for subgroup differences.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">MAIN OUTCOMES AND MEASURES: The primary outcome was HF events, defined as HF hospitalization, clinically significant worsening of HF, or unscheduled visits to a clinician for treatment intensification. Secondary outcomes included cardiovascular and all-cause mortality.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: A total of 12 RCTs with 2465 participants (mean [SD] age, 65.3 [9.7] years; 658 females [26.7%]) were included; there were 1552 participants with HFrEF and 913 participants with HFpEF. Compared with conventional rate or rhythm control, catheter ablation was associated with reduced risk of HF events in HFrEF (risk ratio [RR], 0.59; 95% CI, 0.48-0.72), while there was no benefit in patients with HFpEF (RR, 0.93; 95% CI, 0.65-1.32) (P for interaction = .03). Catheter ablation was associated with reduced risk of cardiovascular death compared with conventional therapies in HFrEF (RR, 0.49; 95% CI, 0.34-0.70) but a differential association was not detected in HFpEF (RR, 0.91; 95% CI, 0.46-1.79) (P for interaction = .12). Similarly, no difference in the association of catheter ablation with all-cause mortality was found between HFrEF (RR vs conventional therapies, 0.63; 95% CI, 0.47-0.86) and HFpEF (RR vs conventional therapies, 0.95; 95% CI, 0.39-2.30) groups (P for interaction = .39).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS AND RELEVANCE: This study found that catheter ablation for AF was associated with reduced risk of HF events in patients with HFrEF but had limited or no benefit in HFpEF. Results from ongoing trials may further elucidate the role of catheter ablation for AF in HFpEF.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38656292/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38656292</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.0675>10.1001/jamacardio.2024.0675</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38656292</guid>
 <pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
 <dc:creator>Alireza Oraii</dc:creator>
@@ -88,9 +494,9 @@
 </item>
 <item>
 <title>Contribution of VEGF-B-Induced Endocardial Endothelial Cell Lineage in Physiological Versus Pathological Cardiac Hypertrophy</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38655691/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/38655691/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425021131&amp;v=2.18.0.post9+e462414
       <description>CONCLUSIONS: Paracrine and autocrine secretions of VEGF-B induce expansion of a specific endocardium-derived endothelial cell population with distinct angiogenic markers. However, autocrine VEGF-B signaling fails to promote VEGF-B-induced endothelial cell migration and contribution to myocardial capillaries, predisposing to septal defects and inducing a mismatch between angiogenesis and myocardial growth, which results in pathological cardiac hypertrophy.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Apr 24. doi: 10.1161/CIRCRESAHA.123.324136. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Preclinical studies have shown the therapeutic potential of VEGF-B (vascular endothelial growth factor B) in revascularization of the ischemic myocardium, but the associated cardiac hypertrophy and adverse side effects remain a concern. To understand the importance of endothelial proliferation and migration for the beneficial versus adverse effects of VEGF-B in the heart, we explored the cardiac effects of autocrine versus paracrine VEGF-B expression in transgenic and gene-transduced mice.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: We used single-cell RNA sequencing to compare cardiac endothelial gene expression in VEGF-B transgenic mouse models. Lineage tracing was used to identify the origin of a VEGF-B-induced novel endothelial cell population and adeno-associated virus-mediated gene delivery to compare the effects of VEGF-B isoforms. Cardiac function was investigated using echocardiography, magnetic resonance imaging, and micro-computed tomography.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Unlike in physiological cardiac hypertrophy driven by a cardiomyocyte-specific VEGF-B transgene (myosin heavy chain alpha-VEGF-B), autocrine VEGF-B expression in cardiac endothelium (aP2 [adipocyte protein 2]-VEGF-B) was associated with septal defects and failure to increase perfused subendocardial capillaries postnatally. Paracrine VEGF-B led to robust proliferation and myocardial migration of a novel cardiac endothelial cell lineage (VEGF-B-induced endothelial cells) of endocardial origin, whereas autocrine VEGF-B increased proliferation of VEGF-B-induced endothelial cells but failed to promote their migration and efficient contribution to myocardial capillaries. The surviving aP2-VEGF-B offspring showed an altered ratio of secreted VEGF-B isoforms and developed massive pathological cardiac hypertrophy with a distinct cardiac vessel pattern. In the normal heart, we found a small VEGF-B-induced endothelial cell population that was only minimally expanded during myocardial infarction but not during physiological cardiac hypertrophy associated with mouse pregnancy.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Paracrine and autocrine secretions of VEGF-B induce expansion of a specific endocardium-derived endothelial cell population with distinct angiogenic markers. However, autocrine VEGF-B signaling fails to promote VEGF-B-induced endothelial cell migration and contribution to myocardial capillaries, predisposing to septal defects and inducing a mismatch between angiogenesis and myocardial growth, which results in pathological cardiac hypertrophy.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38655691/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38655691</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.123.324136>10.1161/CIRCRESAHA.123.324136</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Apr 24. doi: 10.1161/CIRCRESAHA.123.324136. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Preclinical studies have shown the therapeutic potential of VEGF-B (vascular endothelial growth factor B) in revascularization of the ischemic myocardium, but the associated cardiac hypertrophy and adverse side effects remain a concern. To understand the importance of endothelial proliferation and migration for the beneficial versus adverse effects of VEGF-B in the heart, we explored the cardiac effects of autocrine versus paracrine VEGF-B expression in transgenic and gene-transduced mice.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: We used single-cell RNA sequencing to compare cardiac endothelial gene expression in VEGF-B transgenic mouse models. Lineage tracing was used to identify the origin of a VEGF-B-induced novel endothelial cell population and adeno-associated virus-mediated gene delivery to compare the effects of VEGF-B isoforms. Cardiac function was investigated using echocardiography, magnetic resonance imaging, and micro-computed tomography.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Unlike in physiological cardiac hypertrophy driven by a cardiomyocyte-specific VEGF-B transgene (myosin heavy chain alpha-VEGF-B), autocrine VEGF-B expression in cardiac endothelium (aP2 [adipocyte protein 2]-VEGF-B) was associated with septal defects and failure to increase perfused subendocardial capillaries postnatally. Paracrine VEGF-B led to robust proliferation and myocardial migration of a novel cardiac endothelial cell lineage (VEGF-B-induced endothelial cells) of endocardial origin, whereas autocrine VEGF-B increased proliferation of VEGF-B-induced endothelial cells but failed to promote their migration and efficient contribution to myocardial capillaries. The surviving aP2-VEGF-B offspring showed an altered ratio of secreted VEGF-B isoforms and developed massive pathological cardiac hypertrophy with a distinct cardiac vessel pattern. In the normal heart, we found a small VEGF-B-induced endothelial cell population that was only minimally expanded during myocardial infarction but not during physiological cardiac hypertrophy associated with mouse pregnancy.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Paracrine and autocrine secretions of VEGF-B induce expansion of a specific endocardium-derived endothelial cell population with distinct angiogenic markers. However, autocrine VEGF-B signaling fails to promote VEGF-B-induced endothelial cell migration and contribution to myocardial capillaries, predisposing to septal defects and inducing a mismatch between angiogenesis and myocardial growth, which results in pathological cardiac hypertrophy.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38655691/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425021131&v=2.18.0.post9+e462414">38655691</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.123.324136>10.1161/CIRCRESAHA.123.324136</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:38655691</guid>
 <pubDate>Wed, 24 Apr 2024 06:00:00 -0400</pubDate>
 <dc:creator>Ibrahim Sultan</dc:creator>
@@ -113,429 +519,6 @@
 <dc:title>Contribution of VEGF-B-Induced Endocardial Endothelial Cell Lineage in Physiological Versus Pathological Cardiac Hypertrophy</dc:title>
 <dc:identifier>pmid:38655691</dc:identifier>
 <dc:identifier>doi:10.1161/CIRCRESAHA.123.324136</dc:identifier>
-</item>
-<item>
-<title>RNA-based therapies targeting APOC3 lower triglyceride levels in patients with hypertriglyceridaemia</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38654089/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2024 Apr 23. doi: 10.1038/s41569-024-01034-w. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38654089/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38654089</a> | DOI:<a href=https://doi.org/10.1038/s41569-024-01034-w>10.1038/s41569-024-01034-w</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38654089</guid>
-<pubDate>Tue, 23 Apr 2024 06:00:00 -0400</pubDate>
-<dc:creator>Karina Huynh</dc:creator>
-<dc:date>2024-04-23</dc:date>
-<dc:source>Nature reviews. Cardiology</dc:source>
-<dc:title>RNA-based therapies targeting APOC3 lower triglyceride levels in patients with hypertriglyceridaemia</dc:title>
-<dc:identifier>pmid:38654089</dc:identifier>
-<dc:identifier>doi:10.1038/s41569-024-01034-w</dc:identifier>
-</item>
-<item>
-<title>Heart pump increases survival in STEMI-related cardiogenic shock</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38654088/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2024 Apr 23. doi: 10.1038/s41569-024-01035-9. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38654088/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38654088</a> | DOI:<a href=https://doi.org/10.1038/s41569-024-01035-9>10.1038/s41569-024-01035-9</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38654088</guid>
-<pubDate>Tue, 23 Apr 2024 06:00:00 -0400</pubDate>
-<dc:creator>Jennifer Harman</dc:creator>
-<dc:date>2024-04-23</dc:date>
-<dc:source>Nature reviews. Cardiology</dc:source>
-<dc:title>Heart pump increases survival in STEMI-related cardiogenic shock</dc:title>
-<dc:identifier>pmid:38654088</dc:identifier>
-<dc:identifier>doi:10.1038/s41569-024-01035-9</dc:identifier>
-</item>
-<item>
-<title>Benefits of ninerafaxstat in non-obstructive hypertrophic cardiomyopathy</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38654087/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2024 Apr 23. doi: 10.1038/s41569-024-01032-y. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38654087/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38654087</a> | DOI:<a href=https://doi.org/10.1038/s41569-024-01032-y>10.1038/s41569-024-01032-y</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38654087</guid>
-<pubDate>Tue, 23 Apr 2024 06:00:00 -0400</pubDate>
-<dc:creator>Gregory B Lim</dc:creator>
-<dc:date>2024-04-23</dc:date>
-<dc:source>Nature reviews. Cardiology</dc:source>
-<dc:title>Benefits of ninerafaxstat in non-obstructive hypertrophic cardiomyopathy</dc:title>
-<dc:identifier>pmid:38654087</dc:identifier>
-<dc:identifier>doi:10.1038/s41569-024-01032-y</dc:identifier>
-</item>
-<item>
-<title>Strategies for the delivery of sex-based equity in cardiovascular clinical trials</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38654086/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2024 Apr 23. doi: 10.1038/s41569-024-01025-x. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38654086/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38654086</a> | DOI:<a href=https://doi.org/10.1038/s41569-024-01025-x>10.1038/s41569-024-01025-x</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38654086</guid>
-<pubDate>Tue, 23 Apr 2024 06:00:00 -0400</pubDate>
-<dc:creator>Julie Sanders</dc:creator>
-<dc:creator>Tim Clayton</dc:creator>
-<dc:creator>Stacey Matthews</dc:creator>
-<dc:creator>Sarah Murray</dc:creator>
-<dc:creator>Lynn Laidlaw</dc:creator>
-<dc:creator>Richard Evans</dc:creator>
-<dc:creator>Rochelle Wynne</dc:creator>
-<dc:date>2024-04-23</dc:date>
-<dc:source>Nature reviews. Cardiology</dc:source>
-<dc:title>Strategies for the delivery of sex-based equity in cardiovascular clinical trials</dc:title>
-<dc:identifier>pmid:38654086</dc:identifier>
-<dc:identifier>doi:10.1038/s41569-024-01025-x</dc:identifier>
-</item>
-<item>
-<title>BCAA-nitrogen flux in brown fat controls metabolic health independent of thermogenesis</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38653240/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
-      <description>Brown adipose tissue (BAT) is best known for thermogenesis. Rodent studies demonstrated that enhanced BAT thermogenesis is tightly associated with increased energy expenditure, reduced body weight, and improved glucose homeostasis. However, human BAT is protective against type 2 diabetes, independent of body weight. The mechanism underlying this dissociation remains unclear. Here, we report that impaired mitochondrial catabolism of branched-chain amino acids (BCAAs) in BAT, by deleting...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Apr 17:S0092-8674(24)00346-5. doi: 10.1016/j.cell.2024.03.030. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Brown adipose tissue (BAT) is best known for thermogenesis. Rodent studies demonstrated that enhanced BAT thermogenesis is tightly associated with increased energy expenditure, reduced body weight, and improved glucose homeostasis. However, human BAT is protective against type 2 diabetes, independent of body weight. The mechanism underlying this dissociation remains unclear. Here, we report that impaired mitochondrial catabolism of branched-chain amino acids (BCAAs) in BAT, by deleting mitochondrial BCAA carriers (MBCs), caused systemic insulin resistance without affecting energy expenditure and body weight. Brown adipocytes catabolized BCAA in the mitochondria as nitrogen donors for the biosynthesis of non-essential amino acids and glutathione. Impaired mitochondrial BCAA-nitrogen flux in BAT resulted in increased oxidative stress, decreased hepatic insulin signaling, and decreased circulating BCAA-derived metabolites. A high-fat diet attenuated BCAA-nitrogen flux and metabolite synthesis in BAT, whereas cold-activated BAT enhanced the synthesis. This work uncovers a metabolite-mediated pathway through which BAT controls metabolic health beyond thermogenesis.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38653240/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38653240</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.03.030>10.1016/j.cell.2024.03.030</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38653240</guid>
-<pubDate>Tue, 23 Apr 2024 06:00:00 -0400</pubDate>
-<dc:creator>Anthony R P Verkerke</dc:creator>
-<dc:creator>Dandan Wang</dc:creator>
-<dc:creator>Naofumi Yoshida</dc:creator>
-<dc:creator>Zachary H Taxin</dc:creator>
-<dc:creator>Xu Shi</dc:creator>
-<dc:creator>Shuning Zheng</dc:creator>
-<dc:creator>Yuka Li</dc:creator>
-<dc:creator>Christopher Auger</dc:creator>
-<dc:creator>Satoshi Oikawa</dc:creator>
-<dc:creator>Jin-Seon Yook</dc:creator>
-<dc:creator>Melia Granath-Panelo</dc:creator>
-<dc:creator>Wentao He</dc:creator>
-<dc:creator>Guo-Fang Zhang</dc:creator>
-<dc:creator>Mami Matsushita</dc:creator>
-<dc:creator>Masayuki Saito</dc:creator>
-<dc:creator>Robert E Gerszten</dc:creator>
-<dc:creator>Evanna L Mills</dc:creator>
-<dc:creator>Alexander S Banks</dc:creator>
-<dc:creator>Yasushi Ishihama</dc:creator>
-<dc:creator>Phillip J White</dc:creator>
-<dc:creator>Robert W McGarrah</dc:creator>
-<dc:creator>Takeshi Yoneshiro</dc:creator>
-<dc:creator>Shingo Kajimura</dc:creator>
-<dc:date>2024-04-23</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>BCAA-nitrogen flux in brown fat controls metabolic health independent of thermogenesis</dc:title>
-<dc:identifier>pmid:38653240</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2024.03.030</dc:identifier>
-</item>
-<item>
-<title>Gut symbionts alleviate MASH through a secondary bile acid biosynthetic pathway</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38653239/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
-      <description>The gut microbiota has been found to play an important role in the progression of metabolic dysfunction-associated steatohepatitis (MASH), but the mechanisms have not been established. Here, by developing a click-chemistry-based enrichment strategy, we identified several microbial-derived bile acids, including the previously uncharacterized 3-succinylated cholic acid (3-sucCA), which is negatively correlated with liver damage in patients with liver-tissue-biopsy-proven metabolic...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Apr 17:S0092-8674(24)00350-7. doi: 10.1016/j.cell.2024.03.034. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The gut microbiota has been found to play an important role in the progression of metabolic dysfunction-associated steatohepatitis (MASH), but the mechanisms have not been established. Here, by developing a click-chemistry-based enrichment strategy, we identified several microbial-derived bile acids, including the previously uncharacterized 3-succinylated cholic acid (3-sucCA), which is negatively correlated with liver damage in patients with liver-tissue-biopsy-proven metabolic dysfunction-associated fatty liver disease (MAFLD). By screening human bacterial isolates, we identified Bacteroides uniformis strains as effective producers of 3-sucCA both in vitro and in vivo. By activity-based protein purification and identification, we identified an enzyme annotated as β-lactamase in B. uniformis responsible for 3-sucCA biosynthesis. Furthermore, we found that 3-sucCA is a lumen-restricted metabolite and alleviates MASH by promoting the growth of Akkermansia muciniphila. Together, our data offer new insights into the gut microbiota-liver axis that may be leveraged to augment the management of MASH.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38653239/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38653239</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.03.034>10.1016/j.cell.2024.03.034</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38653239</guid>
-<pubDate>Tue, 23 Apr 2024 06:00:00 -0400</pubDate>
-<dc:creator>Qixing Nie</dc:creator>
-<dc:creator>Xi Luo</dc:creator>
-<dc:creator>Kai Wang</dc:creator>
-<dc:creator>Yong Ding</dc:creator>
-<dc:creator>Shumi Jia</dc:creator>
-<dc:creator>Qixiang Zhao</dc:creator>
-<dc:creator>Meng Li</dc:creator>
-<dc:creator>Jinxin Zhang</dc:creator>
-<dc:creator>Yingying Zhuo</dc:creator>
-<dc:creator>Jun Lin</dc:creator>
-<dc:creator>Chenghao Guo</dc:creator>
-<dc:creator>Zhiwei Zhang</dc:creator>
-<dc:creator>Huiying Liu</dc:creator>
-<dc:creator>Guangyi Zeng</dc:creator>
-<dc:creator>Jie You</dc:creator>
-<dc:creator>Lulu Sun</dc:creator>
-<dc:creator>Hua Lu</dc:creator>
-<dc:creator>Ming Ma</dc:creator>
-<dc:creator>Yanxing Jia</dc:creator>
-<dc:creator>Ming-Hua Zheng</dc:creator>
-<dc:creator>Yanli Pang</dc:creator>
-<dc:creator>Jie Qiao</dc:creator>
-<dc:creator>Changtao Jiang</dc:creator>
-<dc:date>2024-04-23</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>Gut symbionts alleviate MASH through a secondary bile acid biosynthetic pathway</dc:title>
-<dc:identifier>pmid:38653239</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2024.03.034</dc:identifier>
-</item>
-<item>
-<title>Alanyl-tRNA synthetase, AARS1, is a lactate sensor and lactyltransferase that lactylates p53 and contributes to tumorigenesis</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38653238/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
-      <description>Lysine lactylation is a post-translational modification that links cellular metabolism to protein function. Here, we find that AARS1 functions as a lactate sensor that mediates global lysine lacylation in tumor cells. AARS1 binds to lactate and catalyzes the formation of lactate-AMP, followed by transfer of lactate to the lysince acceptor residue. Proteomics studies reveal a large number of AARS1 targets, including p53 where lysine 120 and lysine 139 in the DNA binding domain are lactylated....</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Apr 17:S0092-8674(24)00397-0. doi: 10.1016/j.cell.2024.04.002. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Lysine lactylation is a post-translational modification that links cellular metabolism to protein function. Here, we find that AARS1 functions as a lactate sensor that mediates global lysine lacylation in tumor cells. AARS1 binds to lactate and catalyzes the formation of lactate-AMP, followed by transfer of lactate to the lysince acceptor residue. Proteomics studies reveal a large number of AARS1 targets, including p53 where lysine 120 and lysine 139 in the DNA binding domain are lactylated. Generation and utilization of p53 variants carrying constitutively lactylated lysine residues revealed that AARS1 lactylation of p53 hinders its liquid-liquid phase separation, DNA binding, and transcriptional activation. AARS1 expression and p53 lacylation correlate with poor prognosis among cancer patients carrying wild type p53. β-alanine disrupts lactate binding to AARS1, reduces p53 lacylation, and mitigates tumorigenesis in animal models. We propose that AARS1 contributes to tumorigenesis by coupling tumor cell metabolism to proteome alteration.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38653238/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38653238</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.04.002>10.1016/j.cell.2024.04.002</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38653238</guid>
-<pubDate>Tue, 23 Apr 2024 06:00:00 -0400</pubDate>
-<dc:creator>Zhi Zong</dc:creator>
-<dc:creator>Feng Xie</dc:creator>
-<dc:creator>Shuai Wang</dc:creator>
-<dc:creator>Xiaojin Wu</dc:creator>
-<dc:creator>Zhenyu Zhang</dc:creator>
-<dc:creator>Bing Yang</dc:creator>
-<dc:creator>Fangfang Zhou</dc:creator>
-<dc:date>2024-04-23</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>Alanyl-tRNA synthetase, AARS1, is a lactate sensor and lactyltransferase that lactylates p53 and contributes to tumorigenesis</dc:title>
-<dc:identifier>pmid:38653238</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2024.04.002</dc:identifier>
-</item>
-<item>
-<title>DrugMap: A quantitative pan-cancer analysis of cysteine ligandability</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38653237/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
-      <description>Cysteine-focused chemical proteomic platforms have accelerated the clinical development of covalent inhibitors for a wide range of targets in cancer. However, how different oncogenic contexts influence cysteine targeting remains unknown. To address this question, we have developed "DrugMap," an atlas of cysteine ligandability compiled across 416 cancer cell lines. We unexpectedly find that cysteine ligandability varies across cancer cell lines, and we attribute this to differences in cellular...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Apr 17:S0092-8674(24)00318-0. doi: 10.1016/j.cell.2024.03.027. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Cysteine-focused chemical proteomic platforms have accelerated the clinical development of covalent inhibitors for a wide range of targets in cancer. However, how different oncogenic contexts influence cysteine targeting remains unknown. To address this question, we have developed "DrugMap," an atlas of cysteine ligandability compiled across 416 cancer cell lines. We unexpectedly find that cysteine ligandability varies across cancer cell lines, and we attribute this to differences in cellular redox states, protein conformational changes, and genetic mutations. Leveraging these findings, we identify actionable cysteines in NF-κB1 and SOX10 and develop corresponding covalent ligands that block the activity of these transcription factors. We demonstrate that the NF-κB1 probe blocks DNA binding, whereas the SOX10 ligand increases SOX10-SOX10 interactions and disrupts melanoma transcriptional signaling. Our findings reveal heterogeneity in cysteine ligandability across cancers, pinpoint cell-intrinsic features driving cysteine targeting, and illustrate the use of covalent probes to disrupt oncogenic transcription-factor activity.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38653237/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38653237</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.03.027>10.1016/j.cell.2024.03.027</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38653237</guid>
-<pubDate>Tue, 23 Apr 2024 06:00:00 -0400</pubDate>
-<dc:creator>Mariko Takahashi</dc:creator>
-<dc:creator>Harrison B Chong</dc:creator>
-<dc:creator>Siwen Zhang</dc:creator>
-<dc:creator>Tzu-Yi Yang</dc:creator>
-<dc:creator>Matthew J Lazarov</dc:creator>
-<dc:creator>Stefan Harry</dc:creator>
-<dc:creator>Michelle Maynard</dc:creator>
-<dc:creator>Brendan Hilbert</dc:creator>
-<dc:creator>Ryan D White</dc:creator>
-<dc:creator>Heather E Murrey</dc:creator>
-<dc:creator>Chih-Chiang Tsou</dc:creator>
-<dc:creator>Kira Vordermark</dc:creator>
-<dc:creator>Jonathan Assaad</dc:creator>
-<dc:creator>Magdy Gohar</dc:creator>
-<dc:creator>Benedikt R Dürr</dc:creator>
-<dc:creator>Marianne Richter</dc:creator>
-<dc:creator>Himani Patel</dc:creator>
-<dc:creator>Gregory Kryukov</dc:creator>
-<dc:creator>Natasja Brooijmans</dc:creator>
-<dc:creator>Aliyu Sidi Omar Alghali</dc:creator>
-<dc:creator>Karla Rubio</dc:creator>
-<dc:creator>Antonio Villanueva</dc:creator>
-<dc:creator>Junbing Zhang</dc:creator>
-<dc:creator>Maolin Ge</dc:creator>
-<dc:creator>Farah Makram</dc:creator>
-<dc:creator>Hanna Griesshaber</dc:creator>
-<dc:creator>Drew Harrison</dc:creator>
-<dc:creator>Ann-Sophie Koglin</dc:creator>
-<dc:creator>Samuel Ojeda</dc:creator>
-<dc:creator>Barbara Karakyriakou</dc:creator>
-<dc:creator>Alexander Healy</dc:creator>
-<dc:creator>George Popoola</dc:creator>
-<dc:creator>Inbal Rachmin</dc:creator>
-<dc:creator>Neha Khandelwal</dc:creator>
-<dc:creator>Jason R Neil</dc:creator>
-<dc:creator>Pei-Chieh Tien</dc:creator>
-<dc:creator>Nicholas Chen</dc:creator>
-<dc:creator>Tobias Hosp</dc:creator>
-<dc:creator>Sanne van den Ouweland</dc:creator>
-<dc:creator>Toshiro Hara</dc:creator>
-<dc:creator>Lillian Bussema</dc:creator>
-<dc:creator>Rui Dong</dc:creator>
-<dc:creator>Lei Shi</dc:creator>
-<dc:creator>Martin Q Rasmussen</dc:creator>
-<dc:creator>Ana Carolina Domingues</dc:creator>
-<dc:creator>Aleigha Lawless</dc:creator>
-<dc:creator>Jacy Fang</dc:creator>
-<dc:creator>Satoshi Yoda</dc:creator>
-<dc:creator>Linh Phuong Nguyen</dc:creator>
-<dc:creator>Sarah Marie Reeves</dc:creator>
-<dc:creator>Farrah Nicole Wakefield</dc:creator>
-<dc:creator>Adam Acker</dc:creator>
-<dc:creator>Sarah Elizabeth Clark</dc:creator>
-<dc:creator>Taronish Dubash</dc:creator>
-<dc:creator>John Kastanos</dc:creator>
-<dc:creator>Eugene Oh</dc:creator>
-<dc:creator>David E Fisher</dc:creator>
-<dc:creator>Shyamala Maheswaran</dc:creator>
-<dc:creator>Daniel A Haber</dc:creator>
-<dc:creator>Genevieve M Boland</dc:creator>
-<dc:creator>Moshe Sade-Feldman</dc:creator>
-<dc:creator>Russell W Jenkins</dc:creator>
-<dc:creator>Aaron N Hata</dc:creator>
-<dc:creator>Nabeel M Bardeesy</dc:creator>
-<dc:creator>Mario L Suvà</dc:creator>
-<dc:creator>Brent R Martin</dc:creator>
-<dc:creator>Brian B Liau</dc:creator>
-<dc:creator>Christopher J Ott</dc:creator>
-<dc:creator>Miguel N Rivera</dc:creator>
-<dc:creator>Michael S Lawrence</dc:creator>
-<dc:creator>Liron Bar-Peled</dc:creator>
-<dc:date>2024-04-23</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>DrugMap: A quantitative pan-cancer analysis of cysteine ligandability</dc:title>
-<dc:identifier>pmid:38653237</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2024.03.027</dc:identifier>
-</item>
-<item>
-<title>Integrative spatial analysis reveals a multi-layered organization of glioblastoma</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38653236/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
-      <description>Glioma contains malignant cells in diverse states. Here, we combine spatial transcriptomics, spatial proteomics, and computational approaches to define glioma cellular states and uncover their organization. We find three prominent modes of organization. First, gliomas are composed of small local environments, each typically enriched with one major cellular state. Second, specific pairs of states preferentially reside in proximity across multiple scales. This pairing of states is consistent...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Apr 16:S0092-8674(24)00320-9. doi: 10.1016/j.cell.2024.03.029. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Glioma contains malignant cells in diverse states. Here, we combine spatial transcriptomics, spatial proteomics, and computational approaches to define glioma cellular states and uncover their organization. We find three prominent modes of organization. First, gliomas are composed of small local environments, each typically enriched with one major cellular state. Second, specific pairs of states preferentially reside in proximity across multiple scales. This pairing of states is consistent across tumors. Third, these pairwise interactions collectively define a global architecture composed of five layers. Hypoxia appears to drive the layers, as it is associated with a long-range organization that includes all cancer cell states. Accordingly, tumor regions distant from any hypoxic/necrotic foci and tumors that lack hypoxia such as low-grade IDH-mutant glioma are less organized. In summary, we provide a conceptual framework for the organization of cellular states in glioma, highlighting hypoxia as a long-range tissue organizer.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38653236/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38653236</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.03.029>10.1016/j.cell.2024.03.029</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38653236</guid>
-<pubDate>Tue, 23 Apr 2024 06:00:00 -0400</pubDate>
-<dc:creator>Alissa C Greenwald</dc:creator>
-<dc:creator>Noam Galili Darnell</dc:creator>
-<dc:creator>Rouven Hoefflin</dc:creator>
-<dc:creator>Dor Simkin</dc:creator>
-<dc:creator>Christopher W Mount</dc:creator>
-<dc:creator>L Nicolas Gonzalez Castro</dc:creator>
-<dc:creator>Yotam Harnik</dc:creator>
-<dc:creator>Sydney Dumont</dc:creator>
-<dc:creator>Dana Hirsch</dc:creator>
-<dc:creator>Masashi Nomura</dc:creator>
-<dc:creator>Tom Talpir</dc:creator>
-<dc:creator>Merav Kedmi</dc:creator>
-<dc:creator>Inna Goliand</dc:creator>
-<dc:creator>Gioele Medici</dc:creator>
-<dc:creator>Julie Laffy</dc:creator>
-<dc:creator>Baoguo Li</dc:creator>
-<dc:creator>Vamsi Mangena</dc:creator>
-<dc:creator>Hadas Keren-Shaul</dc:creator>
-<dc:creator>Michael Weller</dc:creator>
-<dc:creator>Yoseph Addadi</dc:creator>
-<dc:creator>Marian C Neidert</dc:creator>
-<dc:creator>Mario L Suvà</dc:creator>
-<dc:creator>Itay Tirosh</dc:creator>
-<dc:date>2024-04-23</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>Integrative spatial analysis reveals a multi-layered organization of glioblastoma</dc:title>
-<dc:identifier>pmid:38653236</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2024.03.029</dc:identifier>
-</item>
-<item>
-<title>Evasion of NKG2D-mediated cytotoxic immunity by sarbecoviruses</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38653235/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
-      <description>SARS-CoV-2 and other sarbecoviruses continue to threaten humanity, highlighting the need to characterize common mechanisms of viral immune evasion for pandemic preparedness. Cytotoxic lymphocytes are vital for antiviral immunity and express NKG2D, an activating receptor conserved among mammals that recognizes infection-induced stress ligands (e.g., MIC-A/B). We found that SARS-CoV-2 evades NKG2D recognition by surface downregulation of MIC-A/B via shedding, observed in human lung tissue and...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Apr 11:S0092-8674(24)00317-9. doi: 10.1016/j.cell.2024.03.026. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">SARS-CoV-2 and other sarbecoviruses continue to threaten humanity, highlighting the need to characterize common mechanisms of viral immune evasion for pandemic preparedness. Cytotoxic lymphocytes are vital for antiviral immunity and express NKG2D, an activating receptor conserved among mammals that recognizes infection-induced stress ligands (e.g., MIC-A/B). We found that SARS-CoV-2 evades NKG2D recognition by surface downregulation of MIC-A/B via shedding, observed in human lung tissue and COVID-19 patient serum. Systematic testing of SARS-CoV-2 proteins revealed that ORF6, an accessory protein uniquely conserved among sarbecoviruses, was responsible for MIC-A/B downregulation via shedding. Further investigation demonstrated that natural killer (NK) cells efficiently killed SARS-CoV-2-infected cells and limited viral spread. However, inhibition of MIC-A/B shedding with a monoclonal antibody, 7C6, further enhanced NK-cell activity toward SARS-CoV-2-infected cells. Our findings unveil a strategy employed by SARS-CoV-2 to evade cytotoxic immunity, identify the culprit immunevasin shared among sarbecoviruses, and suggest a potential novel antiviral immunotherapy.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38653235/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38653235</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.03.026>10.1016/j.cell.2024.03.026</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38653235</guid>
-<pubDate>Tue, 23 Apr 2024 06:00:00 -0400</pubDate>
-<dc:creator>Jordan A Hartmann</dc:creator>
-<dc:creator>Marcella R Cardoso</dc:creator>
-<dc:creator>Maria Cecilia Ramiro Talarico</dc:creator>
-<dc:creator>Devin J Kenney</dc:creator>
-<dc:creator>Madison R Leone</dc:creator>
-<dc:creator>Dagny C Reese</dc:creator>
-<dc:creator>Jacquelyn Turcinovic</dc:creator>
-<dc:creator>Aoife K O'Connell</dc:creator>
-<dc:creator>Hans P Gertje</dc:creator>
-<dc:creator>Caitlin Marino</dc:creator>
-<dc:creator>Pedro E Ojeda</dc:creator>
-<dc:creator>Erich V De Paula</dc:creator>
-<dc:creator>Fernanda A Orsi</dc:creator>
-<dc:creator>Licio Augusto Velloso</dc:creator>
-<dc:creator>Thomas R Cafiero</dc:creator>
-<dc:creator>John H Connor</dc:creator>
-<dc:creator>Alexander Ploss</dc:creator>
-<dc:creator>Angelique Hoelzemer</dc:creator>
-<dc:creator>Mary Carrington</dc:creator>
-<dc:creator>Amy K Barczak</dc:creator>
-<dc:creator>Nicholas A Crossland</dc:creator>
-<dc:creator>Florian Douam</dc:creator>
-<dc:creator>Julie Boucau</dc:creator>
-<dc:creator>Wilfredo F Garcia-Beltran</dc:creator>
-<dc:date>2024-04-23</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>Evasion of NKG2D-mediated cytotoxic immunity by sarbecoviruses</dc:title>
-<dc:identifier>pmid:38653235</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2024.03.026</dc:identifier>
-</item>
-<item>
-<title>No benefit of β-blockers after myocardial infarction with preserved ejection fraction</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38649758/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2024 Apr 22. doi: 10.1038/s41569-024-01030-0. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38649758/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38649758</a> | DOI:<a href=https://doi.org/10.1038/s41569-024-01030-0>10.1038/s41569-024-01030-0</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38649758</guid>
-<pubDate>Mon, 22 Apr 2024 06:00:00 -0400</pubDate>
-<dc:creator>Gregory B Lim</dc:creator>
-<dc:date>2024-04-22</dc:date>
-<dc:source>Nature reviews. Cardiology</dc:source>
-<dc:title>No benefit of β-blockers after myocardial infarction with preserved ejection fraction</dc:title>
-<dc:identifier>pmid:38649758</dc:identifier>
-<dc:identifier>doi:10.1038/s41569-024-01030-0</dc:identifier>
-</item>
-<item>
-<title>Mediating Metabolism: Inhibition of Malic Enzyme 1 (ME1) Restores Endothelial Bioenergetics and Adenosine Signaling in Pulmonary Hypertension</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38648276/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Apr 23;149(17):1372-1374. doi: 10.1161/CIRCULATIONAHA.124.068738. Epub 2024 Apr 22.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38648276/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38648276</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.068738>10.1161/CIRCULATIONAHA.124.068738</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38648276</guid>
-<pubDate>Mon, 22 Apr 2024 06:00:00 -0400</pubDate>
-<dc:creator>Rashmi J Rao</dc:creator>
-<dc:creator>Stephen Y Chan</dc:creator>
-<dc:date>2024-04-22</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Mediating Metabolism: Inhibition of Malic Enzyme 1 (ME1) Restores Endothelial Bioenergetics and Adenosine Signaling in Pulmonary Hypertension</dc:title>
-<dc:identifier>pmid:38648276</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.068738</dc:identifier>
-</item>
-<item>
-<title>Much Ado About Nothing? CABG or PCI for Left Main Coronary Artery Disease</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38648275/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Apr 23;149(17):1339-1340. doi: 10.1161/CIRCULATIONAHA.124.069354. Epub 2024 Apr 22.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38648275/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38648275</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.069354>10.1161/CIRCULATIONAHA.124.069354</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38648275</guid>
-<pubDate>Mon, 22 Apr 2024 06:00:00 -0400</pubDate>
-<dc:creator>Jay Giri</dc:creator>
-<dc:creator>Tsuyoshi Kaneko</dc:creator>
-<dc:date>2024-04-22</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Much Ado About Nothing? CABG or PCI for Left Main Coronary Artery Disease</dc:title>
-<dc:identifier>pmid:38648275</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.069354</dc:identifier>
-</item>
-<item>
-<title>Sifting for Gold in Terabytes of Data: Illuminating Cardiovascular Biology in the 'Omics Age</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38648274/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Apr 23;149(17):1323-1325. doi: 10.1161/CIRCULATIONAHA.123.066988. Epub 2024 Apr 22.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38648274/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38648274</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.066988>10.1161/CIRCULATIONAHA.123.066988</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38648274</guid>
-<pubDate>Mon, 22 Apr 2024 06:00:00 -0400</pubDate>
-<dc:creator>Svati H Shah</dc:creator>
-<dc:creator>Robert E Gerszten</dc:creator>
-<dc:date>2024-04-22</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Sifting for Gold in Terabytes of Data: Illuminating Cardiovascular Biology in the 'Omics Age</dc:title>
-<dc:identifier>pmid:38648274</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.123.066988</dc:identifier>
-</item>
-<item>
-<title>Trends in Age, Sex, and Racial Differences in the Incidence of Infective Endocarditis in Florida and New York</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38648273/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Apr 23;149(17):1391-1393. doi: 10.1161/CIRCULATIONAHA.123.066921. Epub 2024 Apr 22.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38648273/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38648273</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.066921>10.1161/CIRCULATIONAHA.123.066921</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38648273</guid>
-<pubDate>Mon, 22 Apr 2024 06:00:00 -0400</pubDate>
-<dc:creator>Anderson Anuforo</dc:creator>
-<dc:creator>Ehimen Aneni</dc:creator>
-<dc:creator>Emmanuel Akintoye</dc:creator>
-<dc:creator>Nnabuchi Anikpezie</dc:creator>
-<dc:creator>Smit D Patel</dc:creator>
-<dc:creator>Ayorinde Soipe</dc:creator>
-<dc:creator>Eloho Olojakpoke</dc:creator>
-<dc:creator>Devin Burke</dc:creator>
-<dc:creator>Julius Gene Latorre</dc:creator>
-<dc:creator>Priyank Khandelwal</dc:creator>
-<dc:creator>Seemant Chaturvedi</dc:creator>
-<dc:creator>Bruce Ovbiagele</dc:creator>
-<dc:creator>Fadar Oliver Otite</dc:creator>
-<dc:date>2024-04-22</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Trends in Age, Sex, and Racial Differences in the Incidence of Infective Endocarditis in Florida and New York</dc:title>
-<dc:identifier>pmid:38648273</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.123.066921</dc:identifier>
-</item>
-<item>
-<title>Autonomic Dysfunction Linked to Inhibition of the Na&lt;sub>;v&lt;/sub>;1.7 Sodium Channel</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/38648272/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240425001454&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Apr 23;149(17):1394-1396. doi: 10.1161/CIRCULATIONAHA.123.067331. Epub 2024 Apr 22.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38648272/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">38648272</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC11027978/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240425001454&v=2.18.0.post9+e462414">PMC11027978</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.067331>10.1161/CIRCULATIONAHA.123.067331</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:38648272</guid>
-<pubDate>Mon, 22 Apr 2024 06:00:00 -0400</pubDate>
-<dc:creator>Christopher P Regan</dc:creator>
-<dc:creator>Pierre Morissette</dc:creator>
-<dc:creator>Richard L Kraus</dc:creator>
-<dc:creator>Erjia Wang</dc:creator>
-<dc:creator>Leticia Arrington</dc:creator>
-<dc:creator>Marissa Vavrek</dc:creator>
-<dc:creator>Jan de Hoon</dc:creator>
-<dc:creator>Marleen Depre</dc:creator>
-<dc:creator>Thomas Lodeweyck</dc:creator>
-<dc:creator>Ignace Demeyer</dc:creator>
-<dc:creator>Tine Laethem</dc:creator>
-<dc:creator>Aubrey Stoch</dc:creator>
-<dc:creator>Arie Struyk</dc:creator>
-<dc:date>2024-04-22</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Autonomic Dysfunction Linked to Inhibition of the Na&lt;sub>;v&lt;/sub>;1.7 Sodium Channel</dc:title>
-<dc:identifier>pmid:38648272</dc:identifier>
-<dc:identifier>pmc:PMC11027978</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.123.067331</dc:identifier>
 </item>
 
 

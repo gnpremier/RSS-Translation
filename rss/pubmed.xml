@@ -1,1 +1,595 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>心血管出版物</title><link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_campaign=pubmed-2&amp;utm_medium=rss&amp;v=2.18.0.post9+e462414&amp;fc=20230 7081第14047章Chrome&amp;ff =20240508121119<description>心血管亮点：PubMed 的最新结果</description><atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_campaign=pubmed-2&amp;utm_medium=rss&amp;v=2.18.0.post9+e462414&amp;fc=20230708114047&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_source=Chrome&amp;ff=20240508121119" rel="self"></atom:link><docs> http://www.rssboard.org/rss-specification</docs><generator> PubMed RSS 源 (2.18.0.post9+e462414)</generator><language> zh</language><lastbuilddate> 2024 年 5 月 8 日星期三 16:11:21 +0000</lastbuilddate><pubDate> Tue, 07 May 2024 06:00:00 -0400</pubDate><ttl> 120</ttl><item><title>使用单细胞转录组学和蛋白质组学成像绘制人类骨髓生态位的细胞生物地理学</title><link/>https://pubmed.ncbi.nlm.nih.gov/38714197/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>非造血细胞是造血的重要贡献者，但人类骨髓中这些细胞的异质性和空间组织在很大程度上仍未得到表征。我们使用单细胞 RNA 测序 (scRNA-seq) 分析了 29,325 个非造血细胞，并发现了 9 个转录细胞。我们同时分析了 53,417 个造血细胞，并预测了它们与非造血细胞亚型的相互作用。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>细胞</b>2024 年 5 月 2 日：S0092-8674(24)00408-​​2。打印前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">非造血细胞是造血的重要贡献者，但人类骨髓中这些细胞的异质性和空间组织在很大程度上仍未得到表征。我们使用单细胞 RNA 测序 (scRNA-seq) 分析了 29,325 个非造血细胞，并发现了 9 个转录细胞。我们同时分析了 53,417 个造血细胞，并预测了它们与非造血亚群的相互作用。我们采用索引联合检测 (CODEX) 对超过 120 万个细胞进行了空间分析，并整合了 scRNA-seq 和 CODEX 数据来链接预测的细胞信号传导。我们的分析揭示了早期骨髓生成的高氧动脉内膜邻域，以及早期造血干细胞和祖细胞 (HSPC) 的脂肪细胞定位。我们使用我们的 CODEX 图集来注释新图像并发现间充质基质细胞 (MSC) 扩张。急性髓系白血病 (AML) 患者样本中白血病母细胞和间充质干细胞的空间邻域共同富集。这张空间解析的人类骨髓多组图谱为研究驱动造血的细胞相互作用提供了参考。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38714197/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38714197</a> | DOI： <a href=https://doi.org/10.1016/j.cell.2024.04.013>10.1016/j.cell.2024.04.013</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38714197</guid><pubDate> Tue, 07 May 2024 06:00:00 -0400</pubDate><dc:creator>肖维克·班迪帕迪亚</dc:creator><dc:creator>迈克尔·P·达菲</dc:creator><dc:creator>安京镇</dc:creator><dc:creator>乔纳森·H·萨斯曼</dc:creator><dc:creator>庞敏兴</dc:creator><dc:creator>大卫·史密斯</dc:creator><dc:creator>格温多林·邓肯</dc:creator><dc:creator>张虹</dc:creator><dc:creator>杰弗里·黄</dc:creator><dc:creator>林玉烈</dc:creator><dc:creator>熊芭芭拉</dc:creator><dc:creator>塔姆吉德·伊姆蒂亚兹</dc:creator><dc:creator>陈家辉</dc:creator><dc:creator>阿努莎·萨迪</dc:creator><dc:creator>陈昌亚</dc:creator><dc:creator>徐杰森</dc:creator><dc:creator>梅丽莎·雷查特</dc:creator><dc:creator>扎卡里·马丁内斯</dc:creator><dc:creator>卡罗琳·迪奥里奥</dc:creator><dc:creator>陈启德</dc:creator><dc:creator>维诺德·皮莱</dc:creator><dc:creator>奥兰·斯奈斯</dc:creator><dc:creator>德里克·奥尔德里奇</dc:creator><dc:creator>悉达多·巴塔查亚</dc:creator><dc:creator>伊万·美拉德</dc:creator><dc:creator>马丁·卡罗尔</dc:creator><dc:creator>查尔斯·纳尔逊</dc:creator><dc:creator>凌勤</dc:creator><dc:creator>凯坦</dc:creator><dc:date>2024-05-07</dc:date><dc:source>细胞</dc:source><dc:title>使用单细胞转录组学和蛋白质组学成像绘制人类骨髓生态位的细胞生物地理学</dc:title><dc:identifier>下午：38714197</dc:identifier><dc:identifier> doi:10.1016/j.cell.2024.04.013</dc:identifier></item><item><title>非传统危险因素：谷歌街景评估的建筑环境、梅毒、类风湿性关节炎</title><link/>https://pubmed.ncbi.nlm.nih.gov/38713840/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp; ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>无摘要</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2024 年 5 月 7 日；45(17)：1489-1493 doi：10.1093/eurheartj/ehae261。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38713840/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38713840</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae261>10.1093/eurheartj/ehae261</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38713840</guid><pubDate> Tue, 07 May 2024 06:00:00 -0400</pubDate><dc:creator>菲利波·克雷亚</dc:creator><dc:date>2024-05-07</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>非传统危险因素：谷歌街景评估的建筑环境、梅毒、类风湿性关节炎</dc:title><dc:identifier>下午：38713840</dc:identifier><dc:identifier> doi:10.1093/eurheartj/ehae261</dc:identifier></item><item><title>类风湿性关节炎和围产期心血管并发症：关注非传统心血管危险因素以改善孕产妇结局</title><link/>https://pubmed.ncbi.nlm.nih.gov/38713839/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp; ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>无摘要</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2024 年 5 月 7 日；45(17):1537-1539 doi: 10.1093/eurheartj/ehae164。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38713839/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38713839</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae164>10.1093/eurheartj/ehae164</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38713839</guid><pubDate> Tue, 07 May 2024 06:00:00 -0400</pubDate><dc:creator>莎拉·戈德斯坦</dc:creator><dc:creator>凯瑟琳·林德利</dc:creator><dc:date>2024-05-07</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>类风湿性关节炎和围产期心血管并发症：关注非传统心血管危险因素以改善孕产妇结局</dc:title><dc:identifier>下午:38713839</dc:identifier><dc:identifier> doi:10.1093/eurheartj/ehae164</dc:identifier></item><item><title>脾脏抗炎途径的超声神经调节可改善实验性肺动脉高压</title><link/>https://pubmed.ncbi.nlm.nih.gov/38712557/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>结论：sFUS 导致 2 种实验性肺动脉高压模型的血流动力学、自主神经、实验室和病理表现出现剂量依赖性持续改善。从机制上讲，sFUS 使脾脏中的免疫细胞群正常化，并下调肺部的炎症基因和通路。与人类疾病相关。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> Circ Res. 2024 年 5 月 7 日。doi：10.1161/CIRCRESAHA.123.323679。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">背景：炎症在病理上与肺动脉高压有关；然而，我们尚未在治疗上充分靶向炎症，研究了使用脾脏的无创聚焦超声刺激（sFUS）是否可以改善涉及脾神经的抗炎神经免疫通路。实验性肺动脉高压。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">方法：通过注射 Sugen 5416（20 mg/kg SQ），然后进行 21（或 35）天缺氧（sugen/缺氧模型）或注射野百合碱（60 mg/kg IP）诱导大鼠肺动脉高压（动物被随机接受每天 12 分钟的 sFUS 或假刺激，持续 14 天。治疗后进行细胞 RNA 测序以评估 sFUS 的效果。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结果：在诱导肺动脉高压之前去脾神经会导致更严重的疾病表型，在 sugen/缺氧和野百合碱模型中，与假治疗相比，sFUS 治疗可将右心室收缩压降低 25% 至 30%，且不影响全身压力。 sFUS 可减少肺小动脉壁厚度、细胞凋亡和增殖，抑制肺部 CD3 <sup>+</sup>和 CD68 <sup>+</sup>细胞浸润以及右心室纤维化和肥大，并降低 BNP（脑钠肽）。 sFUS 停止后持续数周，并且通过早期和长期治疗消除 sFUS 的治疗效果，效果更加强劲。 sFUS 部分使脾脏中的 CD68 <sup>+</sup>和 CD8 <sup>+</sup> T 细胞计数正常化，并下调非经典和经典单核细胞中的一些炎症基因和通路。这些细胞类型中的差异表达基因显着富集与肺动脉高压相关的基因。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结论：sFUS 导致 2 种实验性肺动脉高压模型的血流动力学、自主神经、实验室和病理表现出现剂量依赖性持续改善。从机制上讲，sFUS 使脾脏中的免疫细胞群正常化，并下调肺部的炎症基因和通路。与人类疾病相关。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38712557/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38712557</a> | DOI： <a href=https://doi.org/10.1161/CIRCRESAHA.123.323679>10.1161/CIRCRESAHA.123.323679</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38712557</guid><pubDate> Tue, 07 May 2024 06:00:00 -0400</pubDate><dc:creator>斯特凡诺斯·扎菲罗普洛斯</dc:creator><dc:creator>乌迈尔·艾哈迈德</dc:creator><dc:creator>亚历山德拉·贝基亚里杜</dc:creator><dc:creator>纳文·贾亚普拉卡什</dc:creator><dc:creator>易卜拉欣·T·穆格拉比</dc:creator><dc:creator>纳菲谢·萨勒内扎德</dc:creator><dc:creator>克里斯托·查德威克</dc:creator><dc:creator>安娜戴兹</dc:creator><dc:creator>佐藤泉</dc:creator><dc:creator>耶米尔·阿蒂什-弗雷戈索</dc:creator><dc:creator>凯特琳·卡罗尔</dc:creator><dc:creator>尤瑟夫·阿贝德</dc:creator><dc:creator>马拉·福迪姆</dc:creator><dc:creator>克里斯托弗·普莱奥</dc:creator><dc:creator>乔治·詹纳库拉斯</dc:creator><dc:creator>马克·尼科尔斯</dc:creator><dc:creator>贝蒂·戴蒙德</dc:creator><dc:creator>斯塔夫罗斯·扎诺斯</dc:creator><dc:date>2024-05-07</dc:date><dc:source>流通研究</dc:source><dc:title>脾脏抗炎途径的超声神经调节可改善实验性肺动脉高压</dc:title><dc:identifier>下午:38712557</dc:identifier><dc:identifier> doi:10.1161/CIRCRESAHA.123.323679</dc:identifier></item><item><title>血运重建的幻想：有人在经皮冠状动脉介入治疗期间实现了最佳血运重建吗？</title><link/> https://pubmed.ncbi.nlm.nih.gov/38710772/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp; ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>这篇《Perspective》文章是一种“仿制品”，其灵感来自于 Lincoff 和 Topol 1993 年题为“再灌注错觉”的评论，并探讨了他们的概念如何继续应用于冠状动脉疾病和缺血患者的经皮血运重建术。和 Topol 认为，急性心肌梗塞的再灌注面临着未解决的障碍，阻碍了 1993 年的临床成功，我们认为具有挑战性的问题同样危及…… </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> Nat Rev Cardiol。2024 年 5 月 7 日。doi：10.1038/s41569-024-01014-0。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">这篇《Perspective》文章是一种“仿制品”，其灵感来自于 Lincoff 和 Topol 1993 年题为“再灌注错觉”的评论，并探讨了他们的概念如何继续应用于冠状动脉疾病和缺血患者的经皮血运重建术。和 Topol 认为，急性心肌梗死的再灌注在 1993 年面临着阻碍临床成功的未解决的障碍，通过分析经皮冠状动脉介入治疗 (PCI) 的适当性和有效性，我们认为这些具有挑战性的问题同样危及基于支架的血管成形术的潜在益处。 ）），我们强调仅依靠视觉血管造影指导的局限性，这经常导致多达三分之一的患者出现不适当的支架置入和过度治疗，以及相关的围手术期心肌梗死风险增加，在一半的患者中观察到缺乏最佳的血运重建。接受 PCI 的患者存在 PCI 后生理状况不佳、残余心绞痛和长期支架相关事件等风险，估计有 76% 的患者存在“血运重建的幻觉”。这些结果凸显了需要通过整合来完善我们的诊断工具。通过有针对性的冠状动脉内成像和新兴策略（例如人工智能增强的联合配准系统和基于血管造影的计算方法）进行生理评估，以实现最佳的血运重建结果。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38710772/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38710772</a> | DOI： <a href=https://doi.org/10.1038/s41569-024-01014-0>10.1038/s41569-024-01014-0</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38710772</guid><pubDate> Mon, 06 May 2024 06:00:00 -0400</pubDate><dc:creator>西蒙娜·费兹</dc:creator><dc:creator>丁大新</dc:creator><dc:creator>菲利克斯·马哈福德</dc:creator><dc:creator>黄家跃</dc:creator><dc:creator>亚历山德拉·J·兰斯基</dc:creator><dc:creator>涂胜贤</dc:creator><dc:creator>威廉·韦恩斯</dc:creator><dc:date>2024-05-06</dc:date><dc:source>自然评论。</dc:source><dc:title>血运重建的幻想：有人在经皮冠状动脉介入治疗期间实现了最佳血运重建吗？</dc:title><dc:identifier>下午：38710772</dc:identifier><dc:identifier> doi:10.1038/s41569-024-01014-0</dc:identifier></item><item><title>更正：2024 年心脏病和中风统计数据：美国心脏协会的美国和全球数据报告</title><link/>https://pubmed.ncbi.nlm.nih.gov/38709844/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp; ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>无摘要</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 2024 年 5 月 7 日<b>发行</b>；149(19)：e1164。2024 年 5 月 6 日。10.1161/CIR.0000000000001247。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38709844/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38709844</a> | DOI： <a href=https://doi.org/10.1161/CIR.0000000000001247>10.1161/CIR.0000000000001247</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38709844</guid><pubDate> Mon, 06 May 2024 06:00:00 -0400</pubDate><dc:date> 2024-05-06</dc:date><dc:source>循环</dc:source><dc:title>更正：2024 年心脏病和中风统计数据：美国心脏协会的美国和全球数据报告</dc:title><dc:identifier>下午：38709844</dc:identifier><dc:identifier>号码：10.1161/CIR.0000000000001247</dc:identifier></item><item><title>解锁改善慢性心力衰竭心脏功能的途径：酮是关键吗？</title><link/> https://pubmed.ncbi.nlm.nih.gov/38709843/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp; ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>无摘要</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 2024 年 5 月 7 日<b>发行</b>；149(19)：1490-1492。 doi：10.1161/CIRCULATIONAHA.124.069256。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38709843/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38709843</a> | DOI： <a href=https://doi.org/10.1161/CIRCULATIONAHA.124.069256>10.1161/循环AHA.124.069256</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38709843</guid><pubDate> Mon, 06 May 2024 06:00:00 -0400</pubDate><dc:creator>萨蒂扬萨尔玛</dc:creator><dc:creator>贾森·RB·戴克</dc:creator><dc:date>2024-05-06</dc:date><dc:source>循环</dc:source><dc:title>解锁改善慢性心力衰竭心脏功能的途径：酮是关键吗？</dc:title><dc:identifier>下午：38709843</dc:identifier><dc:identifier> doi:10.1161/循环AHA.124.069256</dc:identifier></item><item><title>通过核面积和体积识别心肌细胞倍性</title><link/>https://pubmed.ncbi.nlm.nih.gov/38709842/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp; ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>无摘要</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 2024 年 5 月 7 日<b>发行</b>；149(19):1540-1542。 doi: 10.1161/CIRCULATIONAHA.123.065507。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38709842/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38709842</a> | DOI： <a href=https://doi.org/10.1161/CIRCULATIONAHA.123.065507>10.1161/循环AHA.123.065507</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38709842</guid><pubDate> Mon, 06 May 2024 06:00:00 -0400</pubDate><dc:creator>姚泽豪</dc:creator><dc:creator>白丽娜</dc:creator><dc:creator>窦克非</dc:creator><dc:creator>于聂</dc:creator><dc:date>2024-05-06</dc:date><dc:source>循环</dc:source><dc:title>通过核面积和体积识别心肌细胞倍性</dc:title><dc:identifier>下午：38709842</dc:identifier><dc:identifier> doi:10.1161/循环AHA.123.065507</dc:identifier></item><item><title>艾滋病毒会让非洲人心碎吗？</title><link/> https://pubmed.ncbi.nlm.nih.gov/38709841/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp; ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>无摘要</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 2024 年 5 月 7 日<b>发行</b>；149(19)：1471-1473。 doi：10.1161/CIRCULATIONAHA.123.065836。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38709841/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38709841</a> | PMC： <a href="https://www.ncbi.nlm.nih.gov/pmc/PMC11076003/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">PMC11076003</a> | DOI： <a href=https://doi.org/10.1161/CIRCULATIONAHA.123.065836>10.1161/CIRCULATIONAHA.123.065836</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38709841</guid><pubDate> Mon, 06 May 2024 06:00:00 -0400</pubDate><dc:creator>罗杰·J·贝迪莫</dc:creator><dc:creator>菲奥娜·施特拉瑟金</dc:creator><dc:creator>巴勃罗·特巴斯</dc:creator><dc:date>2024-05-06</dc:date><dc:source>循环</dc:source><dc:title>艾滋病毒会让非洲人心碎吗？</dc:title><dc:identifier>下午：38709841</dc:identifier><dc:identifier> PMC：PMC11076003</dc:identifier><dc:identifier> doi:10.1161/循环AHA.123.065836</dc:identifier></item><item><title>美国心脏协会成立以来的中风科学与护理</title><link/>https://pubmed.ncbi.nlm.nih.gov/38709839/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp; ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>无摘要</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 2024 年 5 月 7 日<b>发行</b>；149(19)：1469-1470。 doi：10.1161/CIRCULATIONAHA.123.065471。Epub 2024 年 5 月 6 日。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38709839/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38709839</a> | DOI： <a href=https://doi.org/10.1161/CIRCULATIONAHA.123.065471>10.1161/循环AHA.123.065471</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38709839</guid><pubDate> Mon, 06 May 2024 06:00:00 -0400</pubDate><dc:creator>米切尔·SV·埃尔金德</dc:creator><dc:date>2024-05-06</dc:date><dc:source>循环</dc:source><dc:title>美国心脏协会成立以来的中风科学与护理</dc:title><dc:identifier>下午:38709839</dc:identifier><dc:identifier> doi:10.1161/循环AHA.123.065471</dc:identifier></item><item><title>低剂量利伐沙班加阿司匹林治疗患有或不伴有冠状动脉疾病的外周动脉疾病患者进行下肢血运重建：来自 VOYAGER PAD 的见解</title><link/>https://pubmed.ncbi.nlm.nih.gov/38709838/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp; ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>无摘要</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 2024 年 5 月 7 日<b>发行</b>；149(19)：1536-1539。 doi：10.1161/CIRCULATIONAHA.124.068080。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38709838/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38709838</a> | DOI： <a href=https://doi.org/10.1161/CIRCULATIONAHA.124.068080>10.1161/循环AHA.124.068080</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38709838</guid><pubDate> Mon, 06 May 2024 06:00:00 -0400</pubDate><dc:creator>贾斯汀·莫里森</dc:creator><dc:creator>马里奥·恩里科·卡尼科</dc:creator><dc:creator>索尼娅·阿南德</dc:creator><dc:creator>马内什·R·帕特尔</dc:creator><dc:creator>艾克·塞巴斯蒂安·德布斯</dc:creator><dc:creator>马克·R·内勒</dc:creator><dc:creator>康妮·N·赫斯</dc:creator><dc:creator>夏朱迪思</dc:creator><dc:creator>沃伦·H·卡佩尔</dc:creator><dc:creator>伊娃·米尔霍弗</dc:creator><dc:creator>劳埃德·哈斯克尔</dc:creator><dc:creator>斯科特·D·伯科维茨</dc:creator><dc:creator>鲁珀特·鲍尔萨克斯</dc:creator><dc:creator>马克·P·博纳卡</dc:creator><dc:date>2024-05-06</dc:date><dc:source>循环</dc:source><dc:title>低剂量利伐沙班加阿司匹林治疗患有或不伴有冠状动脉疾病的外周动脉疾病患者进行下肢血运重建：来自 VOYAGER PAD 的见解</dc:title><dc:identifier>下午：38709838</dc:identifier><dc:identifier> doi:10.1161/循环AHA.124.068080</dc:identifier></item><item><title>内收蛋白调节心肌细胞有丝分裂期间的肌节分解</title><link/>https://pubmed.ncbi.nlm.nih.gov/38708635/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>结论：这些结果强调了心肌细胞有丝分裂过程中协调细胞骨架形态变化的重要机制。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 2024 年 5 月 6 日<b>发行</b>。doi：10.1161/CIRCULATIONAHA.122.059102。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">背景：最近人们对了解心肌细胞周期的兴趣是由心肌病的潜在治疗应用引起的。然而，尽管最近取得了进展，但心肌细胞有丝分裂仍然是一个知之甚少的过程，例如，尚不清楚肌节在有丝分裂过程中是如何分解的。女儿心肌细胞。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">方法：在这里，我们使用蛋白质组学筛选来鉴定内收蛋白（一种以前未在心肌细胞中研究过的肌动蛋白加帽蛋白）作为肌节分解的调节剂，我们生成了许多腺相关病毒和心肌细胞特异性遗传功能获得模型来检查。内收蛋白在体外和体内新生儿和成人心肌细胞中的作用。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结果：我们确定内收蛋白是哺乳动物心肌细胞有丝分裂过程中肌节分解的调节剂，α/γ-内收蛋白在新生有丝分裂心肌细胞中选择性表达，其后其水平在心肌细胞特异性过度表达各种α剪接亚型和磷酸亚型。 α-内收蛋白短亚型的 Thr445/Thr480 磷酸化是新生儿心肌细胞肌节分解的有效诱导剂，该 α-内收蛋白变体与 γ-内收蛋白的同时过度表达导致内收蛋白复合物的稳定和持续的肌节分解。在成年小鼠中，这是通过与 α-肌动蛋白相互作用介导的。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结论：这些结果强调了心肌细胞有丝分裂过程中协调细胞骨架形态变化的重要机制。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38708635/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38708635</a> | DOI： <a href=https://doi.org/10.1161/CIRCULATIONAHA.122.059102>10.1161/循环AHA.122.059102</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38708635</guid><pubDate> Mon, 06 May 2024 06:00:00 -0400</pubDate><dc:creator>萧风</dc:creator><dc:creator>玉渊尼阮</dc:creator><dc:creator>王平</dc:creator><dc:creator>李淑娟</dc:creator><dc:creator>许庆成</dc:creator><dc:creator>苏旺尼泰特</dc:creator><dc:creator>木村涉</dc:creator><dc:creator>罗翔</dc:creator><dc:creator>林俊杰</dc:creator><dc:creator>伊万·梅内德斯-蒙特斯</dc:creator><dc:creator>瓦利德·埃赫拉利</dc:creator><dc:creator>阿利松·坎波斯·卡多佐</dc:creator><dc:creator>安娜·海伦娜·马塞多·佩雷拉</dc:creator><dc:creator>罗希特·辛格</dc:creator><dc:creator>萨克蒂维尔·萨达亚潘</dc:creator><dc:creator>穆罕默德·坎奇瓦拉</dc:creator><dc:creator>潮兴</dc:creator><dc:creator>费里亚·拉达</dc:creator><dc:creator>J·特拉维斯·辛森</dc:creator><dc:creator>罗杰·J·哈贾尔</dc:creator><dc:creator>约瑟夫·希尔</dc:creator><dc:creator>希沙姆·萨德克</dc:creator><dc:date>2024-05-06</dc:date><dc:source>循环</dc:source><dc:title>内收蛋白调节心肌细胞有丝分裂期间的肌节分解</dc:title><dc:identifier>下午：38708635</dc:identifier><dc:identifier> doi:10.1161/循环AHA.122.059102</dc:identifier></item><item><title>缺血/再灌注损伤中 Hmbox1 的抑制通过 Gck 激活促进心肌细胞存活和葡萄糖代谢</title><link/>https://pubmed.ncbi.nlm.nih.gov/38708602/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp; ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>结论：我们的研究揭示了转录抑制因子 Hmbox1 在运动诱导的生理性心脏生长中的新作用，还强调了靶向 Hmbox1 在改善 I/R 损伤后心肌存活和葡萄糖代谢方面的治疗潜力。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 2024 年 5 月 6 日<b>发行</b>。doi：10.1161/CIRCULATIONAHA.123.067592。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">背景：运动诱导的生理性心脏生长调节剂可以保护心脏免受缺血/再灌注 (I/R) 损伤，同源盒家族成员同源盒 1 (Hmbox1) 已被确定为假定的转录抑制因子，并在心脏中下调。然而，其在运动引起的生理性心脏生长中的作用及其对心脏缺血再灌注损伤的潜在保护作用仍有待进一步研究。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">方法：我们研究了 Hmbox1 在小鼠游泳运动 4 周后运动诱导的生理性心脏生长中的功能，然后评估了心肌梗死死亡患者的人类心脏样本和动物心脏 I/R 损伤模型中的 Hmbox1 表达。我们在腺相关病毒 9 (AAV9) 载体介导的 Hmbox1 敲低小鼠和心肌细胞特异性 Hmbox1 消融小鼠中检查了其在心脏 I/R 损伤中的作用，并进行了 RNA 测序、启动子预测和结合测定并进行了鉴定。葡萄糖激酶 (Gck) 作为 Hmbox1 的下游效应子 在心肌细胞中检查 Hmbox1 与 Gck 的作用，以评估其细胞大小、增殖、凋亡、线粒体呼吸和糖酵解。研究了 Hmbox1 上游调节因子 ETS1 的功能。通过ETS1在心脏I/R小鼠体内的过度表达。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结果：我们证明，Hmbox1 下调是运动诱导的生理性心脏生长所必需的。抑制 Hmbox1 会增加分离的新生大鼠心肌细胞和人胚胎干细胞来源的心肌细胞的心肌细胞大小，但不会影响心肌细胞增殖。在病理条件下，Hmbox1 上调。此外，在 I/R 后施用 sh-Hmbox1 AAV9 时，观察到心肌细胞特异性 Hmbox1 敲除和 AAV9 介导的 Hmbox1 敲除可预防心脏 I/R 损伤和心力衰竭。抑制 Hmbox1 会激活 Akt/mTOR/P70S6K 通路并上调 Gck，从而减少心肌细胞中的细胞凋亡并改善线粒体呼吸和糖酵解，ETS1 充当 Hmbox1 转录的上游负调节因子，其过度表达对心脏 I 具有保护作用。 /R伤害。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结论：我们的研究揭示了转录抑制因子 Hmbox1 在运动诱导的生理性心脏生长中的新作用，还强调了靶向 Hmbox1 在改善 I/R 损伤后心肌存活和葡萄糖代谢方面的治疗潜力。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38708602/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38708602</a> | DOI： <a href=https://doi.org/10.1161/CIRCULATIONAHA.123.067592>10.1161/循环AHA.123.067592</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38708602</guid><pubDate> Mon, 06 May 2024 06:00:00 -0400</pubDate><dc:creator>贝一华</dc:creator><dc:creator>朱玉娇</dc:creator><dc:creator>周静文</dc:creator><dc:creator>艾松伟</dc:creator><dc:creator>姚建华</dc:creator><dc:creator>殷明明</dc:creator><dc:creator>胡美玉</dc:creator><dc:creator>齐伟同</dc:creator><dc:creator>米凯尔·斯帕诺斯</dc:creator><dc:creator>林莉</dc:creator><dc:creator>孟伟</dc:creator><dc:creator>黄珍珍</dc:creator><dc:creator>高娟</dc:creator><dc:creator>刘畅</dc:creator><dc:creator>佩特拉·H·范德克拉克</dc:creator><dc:creator>李国平</dc:creator><dc:creator>雷志勇</dc:creator><dc:creator>约斯特 PG 斯鲁伊特</dc:creator><dc:creator>肖俊杰</dc:creator><dc:date>2024-05-06</dc:date><dc:source>循环</dc:source><dc:title>缺血/再灌注损伤中 Hmbox1 的抑制通过 Gck 激活促进心肌细胞存活和葡萄糖代谢</dc:title><dc:identifier>下午：38708602</dc:identifier><dc:identifier> doi:10.1161/循环AHA.123.067592</dc:identifier></item><item><title>医生改良的六血管开窗覆膜支架用于治疗胸主动脉夹层动脉瘤和巨大腹主动脉瘤</title><link/>https://pubmed.ncbi.nlm.nih.gov/38703144/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp; ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>无摘要</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> Eur Heart J. 2024 年 5 月 4 日：ehae214。 doi：10.1093/eurheartj/ehae214。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38703144/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38703144</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae214>10.1093/eurheartj/ehae214</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38703144</guid><pubDate> Sat, 04 May 2024 06:00:00 -0400</pubDate><dc:creator>刘伟</dc:creator><dc:creator>赤翠</dc:creator><dc:creator>王碧思</dc:creator><dc:date>2024-05-04</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>医生改良的六血管开窗覆膜支架用于治疗胸主动脉夹层动脉瘤和巨大腹主动脉瘤</dc:title><dc:identifier>下午：38703144</dc:identifier><dc:identifier> doi:10.1093/eurheartj/ehae214</dc:identifier></item><item><title>停用肾素-血管紧张素系统抑制剂对严重慢性肾脏病没有任何益处</title><link/>https://pubmed.ncbi.nlm.nih.gov/38703142/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp; ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>无摘要</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> Eur Heart J. 2024 年 5 月 4 日：ehae248。 doi：10.1093/eurheartj/ehae248。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38703142/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38703142</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae248>10.1093/eurheartj/ehae248</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38703142</guid><pubDate> Sat, 04 May 2024 06:00:00 -0400</pubDate><dc:creator>马西莫·沃尔普</dc:creator><dc:creator>卡罗·帕特罗诺</dc:creator><dc:date>2024-05-04</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>停用肾素-血管紧张素系统抑制剂对严重慢性肾脏病没有任何益处</dc:title><dc:identifier>下午：38703142</dc:identifier><dc:identifier> doi:10.1093/eurheartj/ehae248</dc:identifier></item><item><title>每周期刊扫描：指导经皮冠状动脉介入治疗的血管内成像准备好迎接黄金时段了吗？</title><link/> https://pubmed.ncbi.nlm.nih.gov/38703139/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp; ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>无摘要</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> Eur Heart J. 2024 年 5 月 4 日：ehae242。 doi：10.1093/eurheartj/ehae242。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38703139/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38703139</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae242>10.1093/eurheartj/ehae242</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38703139</guid><pubDate> Sat, 04 May 2024 06:00:00 -0400</pubDate><dc:creator>罗科·维加洛</dc:creator><dc:creator>卡罗·帕特罗诺</dc:creator><dc:date>2024-05-04</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>每周期刊扫描：指导经皮冠状动脉介入治疗的血管内成像准备好迎接黄金时段了吗？</dc:title><dc:identifier>下午:38703139</dc:identifier><dc:identifier> doi:10.1093/eurheartj/ehae242</dc:identifier></item><item><title>长期房颤混合消融术后出现孤立性右侧心包积液</title><link/>https://pubmed.ncbi.nlm.nih.gov/38703137/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>无摘要</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> Eur Heart J. 2024 年 5 月 4 日：ehae210。 doi：10.1093/eurheartj/ehae210。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38703137/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38703137</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae210>10.1093/eurheartj/ehae210</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38703137</guid><pubDate> Sat, 04 May 2024 06:00:00 -0400</pubDate><dc:creator>谭雅航</dc:creator><dc:creator>陶一饶</dc:creator><dc:creator>王哲</dc:creator><dc:date>2024-05-04</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>长期房颤混合消融术后出现孤立性右侧心包积液</dc:title><dc:identifier>下午:38703137</dc:identifier><dc:identifier> doi:10.1093/eurheartj/ehae210</dc:identifier></item><item><title>心肌梗死后输注 apoA-I 无益处</title><link/>https://pubmed.ncbi.nlm.nih.gov/38702389/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp; ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>无摘要</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> Nat Rev Cardiol。2024 年 5 月 3 日。doi：10.1038/s41569-024-01031-z。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38702389/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38702389</a> | DOI： <a href=https://doi.org/10.1038/s41569-024-01031-z>10.1038/s41569-024-01031-z</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38702389</guid><pubDate> Fri, 03 May 2024 06:00:00 -0400</pubDate><dc:creator>格雷戈里·B·林</dc:creator><dc:date>2024-05-03</dc:date><dc:source>自然评论。</dc:source><dc:title>心肌梗死后输注 apoA-I 无益处</dc:title><dc:identifier>下午:38702389</dc:identifier><dc:identifier> doi:10.1038/s41569-024-01031-z</dc:identifier></item><item><title> FLT3L 控制人类和小鼠部分重叠的造血谱系的发育</title><link/>https://pubmed.ncbi.nlm.nih.gov/38701783/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp; ff= 20240508121119&amp;v=2.18.0.post9+e462414<description> FMS 相关酪氨酸激酶 3 配体 (FLT3L) 由 FLT3LG 编码，是小鼠自然杀伤 (NK) 细胞、B 细胞和树突状细胞 (DC) 发育所必需的造血因子。功能丧失的 FLT3LG 变异体，有各种反复感染史，包括严重的皮肤疣，患者的骨髓 (BM) 发育不良，造血祖细胞水平低，特别是骨髓和 B 细胞前体细胞计数。 。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>细胞</b>2024 年 5 月 2 日：S0092-8674(24)00404-5。打印前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one"> FMS 相关酪氨酸激酶 3 配体 (FLT3L) 由 FLT3LG 编码，是小鼠自然杀伤 (NK) 细胞、B 细胞和树突状细胞 (DC) 发育所必需的造血因子。功能丧失的 FLT3LG 变异体，有各种反复感染史，包括严重的皮肤疣，患者的骨髓 (BM) 发育不良，造血祖细胞水平低，特别是骨髓和 B 细胞前体细胞计数。患者血液中的单核细胞和 DC 含量较低，而其他血液亚群（包括 NK 细胞）仅受到中度影响（如果有的话）。患者皮肤中的朗格汉斯细胞 (LC) 和真皮巨噬细胞计数正常，但缺乏。因此，小鼠和人类的 B 细胞和 DC 发育需要 FLT3L，但与小鼠对应物不同，单核细胞的发育需要人类 FLT3L，但 NK 细胞则不需要。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38701783/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38701783</a> | DOI： <a href=https://doi.org/10.1016/j.cell.2024.04.009>10.1016/j.cell.2024.04.009</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38701783</guid><pubDate> Fri, 03 May 2024 06:00:00 -0400</pubDate><dc:creator>玛娜·莫梅尼兰迪</dc:creator><dc:creator>罗曼·利维</dc:creator><dc:creator>斯泰西·索布里诺</dc:creator><dc:creator>李经纬</dc:creator><dc:creator>尚塔尔·拉格雷斯·佩鲁</dc:creator><dc:creator>侯赛因·埃斯梅尔扎德</dc:creator><dc:creator>安托万·法延德</dc:creator><dc:creator>科朗坦·勒弗洛克</dc:creator><dc:creator>安托万·盖兰</dc:creator><dc:creator>埃里卡·德拉·米娜</dc:creator><dc:creator>黛布拉·希勒</dc:creator><dc:creator>奥塔维亚·M·德尔蒙特</dc:creator><dc:creator>艾哈迈德·亚蒂姆</dc:creator><dc:creator>凯文·穆德</dc:creator><dc:creator>马蒂厄·曼西尼</dc:creator><dc:creator>达拉万·林猜</dc:creator><dc:creator>艾德琳·丹尼斯</dc:creator><dc:creator>安娜·莱娜·尼胡斯</dc:creator><dc:creator>卡拉·巴洛</dc:creator><dc:creator>莎拉·布伦德尔</dc:creator><dc:creator>哈桑·罗克尼·扎德</dc:creator><dc:creator>马吉德·樟宜-阿什蒂亚尼</dc:creator><dc:creator>约安·西勒斯纳</dc:creator><dc:creator>卡罗琳·德瓦特</dc:creator><dc:creator>鲍里斯·贝索特</dc:creator><dc:creator>卡桑德尔·克雷马德斯</dc:creator><dc:creator>玛丽·马特纳</dc:creator><dc:creator>阿克塞尔·塞德霍尔姆</dc:creator><dc:creator>大岸正人</dc:creator><dc:creator>昆汀·菲利普</dc:creator><dc:creator>奥马尔·贝加诺维奇</dc:creator><dc:creator>马尼娅·阿克曼</dc:creator><dc:creator>玛格丽塔·乌伊茨</dc:creator><dc:creator>陶希夫·汗</dc:creator><dc:creator>塞巴斯蒂安·富埃雷</dc:creator><dc:creator>弗洛里安·赫姆斯</dc:creator><dc:creator>约翰·香纳尔</dc:creator><dc:creator>波阿斯帕特勒</dc:creator><dc:creator>朱莉·布鲁诺</dc:creator><dc:creator>蒂埃里·J·莫利纳</dc:creator><dc:creator>斯蒂芬妮·勒克莱尔·梅西埃</dc:creator><dc:creator>让-吕克·普雷泰</dc:creator><dc:creator>莱拉·优素福安</dc:creator><dc:creator>哈桑·瓦希德内扎德</dc:creator><dc:creator>尼玛·帕尔瓦内</dc:creator><dc:creator>克里斯特尔·G·克莱斯</dc:creator><dc:creator>里克·施赖弗斯</dc:creator><dc:creator>玛丽娜·卢卡</dc:creator><dc:creator>菲利普·佩罗</dc:creator><dc:creator>雅克·富尔若</dc:creator><dc:creator>席琳·努里森</dc:creator><dc:creator>菲利普·普瓦里尔</dc:creator><dc:creator>埃曼纽尔·朱安吉</dc:creator><dc:creator>斯蒂芬妮·布瓦松-杜普伊斯</dc:creator><dc:creator>杰辛塔·布斯塔曼特</dc:creator><dc:creator>路易吉·D·诺塔兰吉洛</dc:creator><dc:creator>尼尔·克里斯滕森</dc:creator><dc:creator>尼尔斯·兰德格伦</dc:creator><dc:creator>洛朗·阿贝尔</dc:creator><dc:creator>尼科·马尔</dc:creator><dc:creator>艾曼纽六号</dc:creator><dc:creator>大卫·朗格莱斯</dc:creator><dc:creator>蒂姆·沃特博尔</dc:creator><dc:creator>弗洛朗·吉豪</dc:creator><dc:creator>马辛迪</dc:creator><dc:creator>斯图尔特·G·唐耶</dc:creator><dc:creator>伊莎贝尔·梅茨</dc:creator><dc:creator>尼科·拉赫曼</dc:creator><dc:creator>胡家芬</dc:creator><dc:creator>穆罕默德·沙鲁伊</dc:creator><dc:creator>泽维尔·博叙伊</dc:creator><dc:creator>让·洛朗·卡萨诺瓦</dc:creator><dc:creator>维维安·贝齐亚特</dc:creator><dc:date>2024-05-03</dc:date><dc:source>细胞</dc:source><dc:title>FLT3L 控制人类和小鼠部分重叠的造血谱系的发育</dc:title><dc:identifier>下午：38701783</dc:identifier><dc:identifier> doi:10.1016/j.cell.2024.04.009</dc:identifier></item><item><title>小分子诱导的表观遗传复兴促进SREBP浓缩并克服中枢神经系统髓磷脂再生的障碍</title><link/>https://pubmed.ncbi.nlm.nih.gov/38701782/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp; ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>多发性硬化症（MS）等疾病中的髓鞘再生失败被认为与少突胶质细胞前体的成熟受到抑制有关；然而，少突胶质细胞存在于多发性硬化症病变中，但缺乏髓鞘质的产生，我们发现病变中的少突胶质细胞在表观遗传上被沉默。通过少突胶质细胞进行表型筛选，我们发现了一种小分子表观遗传沉默抑制剂 (ESI1)，它可以增强髓磷脂的产生并... </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>细胞</b>2024 年 4 月 25 日：S0092-8674(24)00400-8。打印前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">多发性硬化症（MS）等疾病中的髓鞘再生失败被认为与少突胶质细胞前体的成熟受到抑制有关；然而，少突胶质细胞存在于多发性硬化症病变中，但缺乏髓鞘质的产生，我们发现病变中的少突胶质细胞在表观遗传上被沉默。通过对少突胶质细胞进行表型筛选，我们发现了一种小分子表观遗传沉默抑制剂 (ESI1)，它可以增强脱髓鞘动物模型中的髓鞘生成和髓鞘再生，并在 ESI1 处理延长的中枢神经系统轴突上实现髓鞘再生。人类 iPSC 衍生的类器官和增强老年小鼠的髓鞘形成，同时逆转与年龄相关的认知衰退。脂质代谢调节因子 SREBP1/2，集中转录共激活因子来驱动脂质/胆固醇生物合成。我们的研究强调了靶向表观遗传沉默使中枢神经系统髓鞘再生在脱髓鞘疾病和衰老中的潜力。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38701782/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38701782</a> | DOI： <a href=https://doi.org/10.1016/j.cell.2024.04.005>10.1016/j.cell.2024.04.005</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38701782</guid><pubDate> Fri, 03 May 2024 06:00:00 -0400</pubDate><dc:creator>刘学兆</dc:creator><dc:creator>辛大专</dc:creator><dc:creator>钟小文</dc:creator><dc:creator>赵春涛</dc:creator><dc:creator>李志丹</dc:creator><dc:creator>张立国</dc:creator><dc:creator>亚当·J·杜尔森</dc:creator><dc:creator>林赛·李</dc:creator><dc:creator>施瑞亚·米什拉</dc:creator><dc:creator>阿尔曼·巴亚特</dc:creator><dc:creator>伊娃·尼克尔森</dc:creator><dc:creator>威廉·塞贝尔</dc:creator><dc:creator>严秉芳</dc:creator><dc:creator>乔尔·梅森</dc:creator><dc:creator>布拉德利·J·特纳</dc:creator><dc:creator>大卫·G·冈萨尔维斯</dc:creator><dc:creator>王威廉</dc:creator><dc:creator>周星彦</dc:creator><dc:creator>巴拉拉姆·戈什</dc:creator><dc:creator>尹成玉</dc:creator><dc:creator>美心</dc:creator><dc:creator>何志刚</dc:creator><dc:creator>杰森·乔</dc:creator><dc:creator>迈克尔·韦格纳</dc:creator><dc:creator>克劳斯-阿明·纳夫</dc:creator><dc:creator>罗宾·J·M·富兰克林</dc:creator><dc:creator>兰詹·杜塔</dc:creator><dc:creator>布鲁斯·D·特拉普</dc:creator><dc:creator>胡明</dc:creator><dc:creator>马修·史密斯</dc:creator><dc:creator>迈克尔·扬科斯基</dc:creator><dc:creator>萨曼莎·K·巴顿</dc:creator><dc:creator>何雪莲</dc:creator><dc:creator>问理查德卢</dc:creator><dc:date>2024-05-03</dc:date><dc:source>细胞</dc:source><dc:title>小分子诱导的表观遗传复兴促进SREBP浓缩并克服中枢神经系统髓磷脂再生的障碍</dc:title><dc:identifier>下午：38701782</dc:identifier><dc:identifier> doi:10.1016/j.cell.2024.04.005</dc:identifier></item><item><title>一种非常罕见的并发症：Ecpella 治疗 6 天后 Amplatzer 隔膜封堵器移位</title><link/>https://pubmed.ncbi.nlm.nih.gov/38701047/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp; ff= 20240508121119&amp;v=2.18.0.post9+e462414<description>无摘要</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> Eur Heart J. 2024 年 5 月 3 日：ehae238。 doi：10.1093/eurheartj/ehae238。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/38701047/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508121119&v=2.18.0.post9+e462414">38701047</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae238>10.1093/eurheartj/ehae238</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：38701047</guid><pubDate> Fri, 03 May 2024 06:00:00 -0400</pubDate><dc:creator>庄玉川</dc:creator><dc:creator>刘尊瑞</dc:creator><dc:creator>林伟文</dc:creator><dc:date>2024-05-03</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>一种非常罕见的并发症：Ecpella 治疗 6 天后 Amplatzer 隔膜封堵器移位</dc:title><dc:identifier>下午：38701047</dc:identifier><dc:identifier> doi:10.1093/eurheartj/ehae238</dc:identifier></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>心血管高分期刊</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_source=Chrome&amp;v=2.18.0.post9+e462414&amp;utm_campaign=pubmed-2&amp;utm_medium=rss&amp;ff=20240508141154&amp;fc=20230708114047
+    <description>心血管高分期刊: Latest results from PubMed</description>
+<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_source=Chrome&amp;v=2.18.0.post9+e462414&amp;utm_campaign=pubmed-2&amp;utm_medium=rss&amp;ff=20240508141154&amp;fc=20230708114047" rel="self"></atom:link>
+<docs>http://www.rssboard.org/rss-specification</docs>
+<generator>PubMed RSS feeds (2.18.0.post9+e462414)</generator>
+<language>en</language>
+<lastbuilddate>Wed, 08 May 2024 18:11:55 +0000</lastbuilddate>
+<pubDate>Wed, 08 May 2024 06:00:00 -0400</pubDate>
+<ttl>120</ttl>
+<item>
+<title>Underrepresentation of Women in Revascularization Trials</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38717765/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 May 8. doi: 10.1001/jamacardio.2024.0768. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38717765/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38717765</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.0768>10.1001/jamacardio.2024.0768</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38717765</guid>
+<pubDate>Wed, 08 May 2024 06:00:00 -0400</pubDate>
+<dc:creator>Celina M Yong</dc:creator>
+<dc:creator>William F Fearon</dc:creator>
+<dc:date>2024-05-08</dc:date>
+<dc:source>JAMA cardiology</dc:source>
+<dc:title>Underrepresentation of Women in Revascularization Trials</dc:title>
+<dc:identifier>pmid:38717765</dc:identifier>
+<dc:identifier>doi:10.1001/jamacardio.2024.0768</dc:identifier>
+</item>
+<item>
+<title>Complete vs Culprit-Only Revascularization in Older Patients With Myocardial Infarction and High Bleeding Risk: A Randomized Clinical Trial</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38717753/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS AND RELEVANCE: HBR status is prevalent among older patients with MI, significantly increasing the likelihood of adverse events. Physiology-guided complete revascularization emerges as an effective strategy, in comparison with culprit-only revascularization, for mitigating ischemic adverse events, including cardiovascular death and MI.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 May 8. doi: 10.1001/jamacardio.2024.0804. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">IMPORTANCE: Patients with high bleeding risk (HBR) have a poor prognosis, and it is not known if they may benefit from complete revascularization after myocardial infarction (MI).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVE: To investigate the benefit of physiology-guided complete revascularization vs a culprit-only strategy in patients with HBR, MI, and multivessel disease.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">DESIGN, SETTING, AND PARTICIPANTS: This was a prespecified analysis of the Functional Assessment in Elderly MI Patients With Multivessel Disease (FIRE) randomized clinical trial data. FIRE was an investigator-initiated, open-label, multicenter trial. Patients 75 years or older with MI and multivessel disease were enrolled at 34 European centers from July 2019 through October 2021. Physiology treatment was performed either by angiography- or wire-based assessment. Patients were divided into HBR or non-HBR categories in accordance with the Academic Research Consortium HBR document.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">INTERVENTIONS: Patients were randomized to either physiology-guided complete revascularization or culprit-only strategy.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">MAIN OUTCOMES AND MEASURES: The primary outcome comprised a composite of death, MI, stroke, or revascularization at 1 year. Secondary outcomes included a composite of cardiovascular death or MI and Bleeding Academic Research Consortium (BARC) types 3 to 5.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Among 1445 patients (mean [SD] age, 81 [5] years; 917 male [63%]), 1025 (71%) met HBR criteria. Patients with HBR were at higher risk for the primary end point (hazard ratio [HR], 2.01; 95% CI, 1.47-2.76), cardiovascular death or MI (HR, 1.89; 95% CI, 1.26-2.83), and BARC types 3 to 5 (HR, 3.28; 95% CI, 1.40-7.64). The primary end point was significantly reduced with physiology-guided complete revascularization as compared with culprit-only strategy in patients with HBR (HR, 0.73; 95% CI, 0.55-0.96). No indication of interaction was noted between revascularization strategy and HBR status for primary and secondary end points.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS AND RELEVANCE: HBR status is prevalent among older patients with MI, significantly increasing the likelihood of adverse events. Physiology-guided complete revascularization emerges as an effective strategy, in comparison with culprit-only revascularization, for mitigating ischemic adverse events, including cardiovascular death and MI.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT03772743.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38717753/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38717753</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.0804>10.1001/jamacardio.2024.0804</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38717753</guid>
+<pubDate>Wed, 08 May 2024 06:00:00 -0400</pubDate>
+<dc:creator>Andrea Erriquez</dc:creator>
+<dc:creator>Gianluca Campo</dc:creator>
+<dc:creator>Vincenzo Guiducci</dc:creator>
+<dc:creator>Javier Escaned</dc:creator>
+<dc:creator>Raul Moreno</dc:creator>
+<dc:creator>Gianni Casella</dc:creator>
+<dc:creator>Mila Menozzi</dc:creator>
+<dc:creator>Enrico Cerrato</dc:creator>
+<dc:creator>Giorgio Sacchetta</dc:creator>
+<dc:creator>Alberto Menozzi</dc:creator>
+<dc:creator>Ignacio Amat Santos</dc:creator>
+<dc:creator>Enrique Gutiérrez Ibañes</dc:creator>
+<dc:creator>Roberto Scarsini</dc:creator>
+<dc:creator>Giuseppe Vadalà</dc:creator>
+<dc:creator>Giuseppe Andò</dc:creator>
+<dc:creator>José Luis Díez-Gil</dc:creator>
+<dc:creator>Sergio Musto d'Amore</dc:creator>
+<dc:creator>Alessandro Capecchi</dc:creator>
+<dc:creator>Iginio Colaiori</dc:creator>
+<dc:creator>Francesco Gallo</dc:creator>
+<dc:creator>Rita Pavasini</dc:creator>
+<dc:creator>Andrea Marrone</dc:creator>
+<dc:creator>Graziella Pompei</dc:creator>
+<dc:creator>Valerio Lanzilotti</dc:creator>
+<dc:creator>Dariusz Dudek</dc:creator>
+<dc:creator>Emanuele Barbato</dc:creator>
+<dc:creator>Matteo Tebaldi</dc:creator>
+<dc:creator>Simone Biscaglia</dc:creator>
+<dc:date>2024-05-08</dc:date>
+<dc:source>JAMA cardiology</dc:source>
+<dc:title>Complete vs Culprit-Only Revascularization in Older Patients With Myocardial Infarction and High Bleeding Risk: A Randomized Clinical Trial</dc:title>
+<dc:identifier>pmid:38717753</dc:identifier>
+<dc:identifier>doi:10.1001/jamacardio.2024.0804</dc:identifier>
+</item>
+<item>
+<title>Error in Table 1</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38717750/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 May 8. doi: 10.1001/jamacardio.2024.1123. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38717750/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38717750</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.1123>10.1001/jamacardio.2024.1123</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38717750</guid>
+<pubDate>Wed, 08 May 2024 06:00:00 -0400</pubDate>
+<dc:date>2024-05-08</dc:date>
+<dc:source>JAMA cardiology</dc:source>
+<dc:title>Error in Table 1</dc:title>
+<dc:identifier>pmid:38717750</dc:identifier>
+<dc:identifier>doi:10.1001/jamacardio.2024.1123</dc:identifier>
+</item>
+<item>
+<title>Cardiac biomarkers for diagnosing Takotsubo syndrome</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38717630/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 May 8:ehae231. doi: 10.1093/eurheartj/ehae231. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38717630/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38717630</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae231>10.1093/eurheartj/ehae231</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38717630</guid>
+<pubDate>Wed, 08 May 2024 06:00:00 -0400</pubDate>
+<dc:creator>Victor Schweiger</dc:creator>
+<dc:creator>Davide Di Vece</dc:creator>
+<dc:creator>Victoria L Cammann</dc:creator>
+<dc:creator>Iva Koleva</dc:creator>
+<dc:creator>Michael Würdinger</dc:creator>
+<dc:creator>Thomas Gilhofer</dc:creator>
+<dc:creator>Katja Rajman</dc:creator>
+<dc:creator>Konrad A Szawan</dc:creator>
+<dc:creator>David Niederseer</dc:creator>
+<dc:creator>Rodolfo Citro</dc:creator>
+<dc:creator>Carmine Vecchione</dc:creator>
+<dc:creator>Eduardo Bossone</dc:creator>
+<dc:creator>Sebastiano Gili</dc:creator>
+<dc:creator>Michael Neuhaus</dc:creator>
+<dc:creator>Jennifer Franke</dc:creator>
+<dc:creator>Benjamin Meder</dc:creator>
+<dc:creator>Miłosz Jaguszewski</dc:creator>
+<dc:creator>Michel Noutsias</dc:creator>
+<dc:creator>Maike Knorr</dc:creator>
+<dc:creator>Thomas Jansen</dc:creator>
+<dc:creator>Fabrizio D'Ascenzo</dc:creator>
+<dc:creator>Francesco Bruno</dc:creator>
+<dc:creator>Ovidio De Filippo</dc:creator>
+<dc:creator>Giulio Stefanini</dc:creator>
+<dc:creator>Gianluca Campo</dc:creator>
+<dc:creator>Wojciech Wanha</dc:creator>
+<dc:creator>Sergio Raposeiras Roubin</dc:creator>
+<dc:creator>Wolfgang Dichtl</dc:creator>
+<dc:creator>Dirk von Lewinski</dc:creator>
+<dc:creator>Christof Burgdorf</dc:creator>
+<dc:creator>Behrouz Kherad</dc:creator>
+<dc:creator>Carsten Tschöpe</dc:creator>
+<dc:creator>Annahita Sarcon</dc:creator>
+<dc:creator>Jerold Shinbane</dc:creator>
+<dc:creator>Lawrence Rajan</dc:creator>
+<dc:creator>Guido Michels</dc:creator>
+<dc:creator>Roman Pfister</dc:creator>
+<dc:creator>Alessandro Cuneo</dc:creator>
+<dc:creator>Claudius Jacobshagen</dc:creator>
+<dc:creator>Mahir Karakas</dc:creator>
+<dc:creator>Wolfgang Koenig</dc:creator>
+<dc:creator>Alexander Pott</dc:creator>
+<dc:creator>Philippe Meyer</dc:creator>
+<dc:creator>Marco Roffi</dc:creator>
+<dc:creator>Adrian Banning</dc:creator>
+<dc:creator>Mathias Wolfrum</dc:creator>
+<dc:creator>Florim Cuculi</dc:creator>
+<dc:creator>Richard Kobza</dc:creator>
+<dc:creator>Thomas A Fischer</dc:creator>
+<dc:creator>Tuija Vasankari</dc:creator>
+<dc:creator>K E Juhani Airaksinen</dc:creator>
+<dc:creator>L Christian Napp</dc:creator>
+<dc:creator>Rafal Dworakowski</dc:creator>
+<dc:creator>Philip MacCarthy</dc:creator>
+<dc:creator>Christoph Kaiser</dc:creator>
+<dc:creator>Stefan Osswald</dc:creator>
+<dc:creator>Leonarda Galiuto</dc:creator>
+<dc:creator>Christina Chan</dc:creator>
+<dc:creator>Paul Bridgman</dc:creator>
+<dc:creator>Daniel Beug</dc:creator>
+<dc:creator>Clément Delmas</dc:creator>
+<dc:creator>Olivier Lairez</dc:creator>
+<dc:creator>Ekaterina Gilyarova</dc:creator>
+<dc:creator>Alexandra Shilova</dc:creator>
+<dc:creator>Mikhail Gilyarov</dc:creator>
+<dc:creator>Ibrahim El-Battrawy</dc:creator>
+<dc:creator>Ibrahim Akin</dc:creator>
+<dc:creator>Karolina Poledniková</dc:creator>
+<dc:creator>Petr Toušek</dc:creator>
+<dc:creator>David E Winchester</dc:creator>
+<dc:creator>Michael Massoomi</dc:creator>
+<dc:creator>Jan Galuszka</dc:creator>
+<dc:creator>Christian Ukena</dc:creator>
+<dc:creator>Gregor Poglajen</dc:creator>
+<dc:creator>Pedro Carrilho-Ferreira</dc:creator>
+<dc:creator>Christian Hauck</dc:creator>
+<dc:creator>Carla Paolini</dc:creator>
+<dc:creator>Claudio Bilato</dc:creator>
+<dc:creator>Yoshio Kobayashi</dc:creator>
+<dc:creator>Ken Kato</dc:creator>
+<dc:creator>Iwao Ishibashi</dc:creator>
+<dc:creator>Toshiharu Himi</dc:creator>
+<dc:creator>Jehangir Din</dc:creator>
+<dc:creator>Ali Al-Shammari</dc:creator>
+<dc:creator>Abhiram Prasad</dc:creator>
+<dc:creator>Charanjit S Rihal</dc:creator>
+<dc:creator>Kan Liu</dc:creator>
+<dc:creator>P Christian Schulze</dc:creator>
+<dc:creator>Matteo Bianco</dc:creator>
+<dc:creator>Lucas Jörg</dc:creator>
+<dc:creator>Hans Rickli</dc:creator>
+<dc:creator>Gonçalo Pestana</dc:creator>
+<dc:creator>Thanh H Nguyen</dc:creator>
+<dc:creator>Michael Böhm</dc:creator>
+<dc:creator>Lars S Maier</dc:creator>
+<dc:creator>Fausto J Pinto</dc:creator>
+<dc:creator>Petr Widimský</dc:creator>
+<dc:creator>Stephan B Felix</dc:creator>
+<dc:creator>Ruediger C Braun-Dullaeus</dc:creator>
+<dc:creator>Wolfgang Rottbauer</dc:creator>
+<dc:creator>Gerd Hasenfuß</dc:creator>
+<dc:creator>Burkert M Pieske</dc:creator>
+<dc:creator>Heribert Schunkert</dc:creator>
+<dc:creator>Monika Budnik</dc:creator>
+<dc:creator>Grzegorz Opolski</dc:creator>
+<dc:creator>Holger Thiele</dc:creator>
+<dc:creator>Johann Bauersachs</dc:creator>
+<dc:creator>John D Horowitz</dc:creator>
+<dc:creator>Carlo Di Mario</dc:creator>
+<dc:creator>William Kong</dc:creator>
+<dc:creator>Mayank Dalakoti</dc:creator>
+<dc:creator>Yoichi Imori</dc:creator>
+<dc:creator>Thomas Münzel</dc:creator>
+<dc:creator>Jeroen J Bax</dc:creator>
+<dc:creator>Thomas F Lüscher</dc:creator>
+<dc:creator>Filippo Crea</dc:creator>
+<dc:creator>Frank Ruschitzka</dc:creator>
+<dc:creator>Jelena R Ghadri</dc:creator>
+<dc:creator>Christian Templin</dc:creator>
+<dc:date>2024-05-08</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Cardiac biomarkers for diagnosing Takotsubo syndrome</dc:title>
+<dc:identifier>pmid:38717630</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae231</dc:identifier>
+</item>
+<item>
+<title>JAMA Cardiology</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38717512/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 May 1;9(5). doi: 10.1001/jamacardio.2023.3659.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38717512/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38717512</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2023.3659>10.1001/jamacardio.2023.3659</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38717512</guid>
+<pubDate>Wed, 08 May 2024 06:00:00 -0400</pubDate>
+<dc:date>2024-05-08</dc:date>
+<dc:source>JAMA cardiology</dc:source>
+<dc:title>JAMA Cardiology</dc:title>
+<dc:identifier>pmid:38717512</dc:identifier>
+<dc:identifier>doi:10.1001/jamacardio.2023.3659</dc:identifier>
+</item>
+<item>
+<title>Mapping the cellular biogeography of human bone marrow niches using single-cell transcriptomics and proteomic imaging</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38714197/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>Non-hematopoietic cells are essential contributors to hematopoiesis. However, heterogeneity and spatial organization of these cells in human bone marrow remain largely uncharacterized. We used single-cell RNA sequencing (scRNA-seq) to profile 29,325 non-hematopoietic cells and discovered nine transcriptionally distinct subtypes. We simultaneously profiled 53,417 hematopoietic cells and predicted their interactions with non-hematopoietic subsets. We employed co-detection by indexing (CODEX) to...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 May 2:S0092-8674(24)00408-2. doi: 10.1016/j.cell.2024.04.013. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Non-hematopoietic cells are essential contributors to hematopoiesis. However, heterogeneity and spatial organization of these cells in human bone marrow remain largely uncharacterized. We used single-cell RNA sequencing (scRNA-seq) to profile 29,325 non-hematopoietic cells and discovered nine transcriptionally distinct subtypes. We simultaneously profiled 53,417 hematopoietic cells and predicted their interactions with non-hematopoietic subsets. We employed co-detection by indexing (CODEX) to spatially profile over 1.2 million cells. We integrated scRNA-seq and CODEX data to link predicted cellular signaling with spatial proximity. Our analysis revealed a hyperoxygenated arterio-endosteal neighborhood for early myelopoiesis, and an adipocytic localization for early hematopoietic stem and progenitor cells (HSPCs). We used our CODEX atlas to annotate new images and uncovered mesenchymal stromal cell (MSC) expansion and spatial neighborhoods co-enriched for leukemic blasts and MSCs in acute myeloid leukemia (AML) patient samples. This spatially resolved, multiomic atlas of human bone marrow provides a reference for investigation of cellular interactions that drive hematopoiesis.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38714197/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38714197</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.04.013>10.1016/j.cell.2024.04.013</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38714197</guid>
+<pubDate>Tue, 07 May 2024 06:00:00 -0400</pubDate>
+<dc:creator>Shovik Bandyopadhyay</dc:creator>
+<dc:creator>Michael P Duffy</dc:creator>
+<dc:creator>Kyung Jin Ahn</dc:creator>
+<dc:creator>Jonathan H Sussman</dc:creator>
+<dc:creator>Minxing Pang</dc:creator>
+<dc:creator>David Smith</dc:creator>
+<dc:creator>Gwendolyn Duncan</dc:creator>
+<dc:creator>Iris Zhang</dc:creator>
+<dc:creator>Jeffrey Huang</dc:creator>
+<dc:creator>Yulieh Lin</dc:creator>
+<dc:creator>Barbara Xiong</dc:creator>
+<dc:creator>Tamjid Imtiaz</dc:creator>
+<dc:creator>Chia-Hui Chen</dc:creator>
+<dc:creator>Anusha Thadi</dc:creator>
+<dc:creator>Changya Chen</dc:creator>
+<dc:creator>Jason Xu</dc:creator>
+<dc:creator>Melissa Reichart</dc:creator>
+<dc:creator>Zachary Martinez</dc:creator>
+<dc:creator>Caroline Diorio</dc:creator>
+<dc:creator>Chider Chen</dc:creator>
+<dc:creator>Vinodh Pillai</dc:creator>
+<dc:creator>Oraine Snaith</dc:creator>
+<dc:creator>Derek Oldridge</dc:creator>
+<dc:creator>Siddharth Bhattacharyya</dc:creator>
+<dc:creator>Ivan Maillard</dc:creator>
+<dc:creator>Martin Carroll</dc:creator>
+<dc:creator>Charles Nelson</dc:creator>
+<dc:creator>Ling Qin</dc:creator>
+<dc:creator>Kai Tan</dc:creator>
+<dc:date>2024-05-07</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Mapping the cellular biogeography of human bone marrow niches using single-cell transcriptomics and proteomic imaging</dc:title>
+<dc:identifier>pmid:38714197</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.04.013</dc:identifier>
+</item>
+<item>
+<title>Non-traditional risk factors: built environment assessed by Google Street View, syphilis, and rheumatoid arthritis</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38713840/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 May 7;45(17):1489-1493. doi: 10.1093/eurheartj/ehae261.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38713840/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38713840</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae261>10.1093/eurheartj/ehae261</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38713840</guid>
+<pubDate>Tue, 07 May 2024 06:00:00 -0400</pubDate>
+<dc:creator>Filippo Crea</dc:creator>
+<dc:date>2024-05-07</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Non-traditional risk factors: built environment assessed by Google Street View, syphilis, and rheumatoid arthritis</dc:title>
+<dc:identifier>pmid:38713840</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae261</dc:identifier>
+</item>
+<item>
+<title>Rheumatoid arthritis and peripartum cardiovascular complications: focusing on non-traditional cardiovascular risk factors to improve maternal outcomes</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38713839/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 May 7;45(17):1537-1539. doi: 10.1093/eurheartj/ehae164.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38713839/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38713839</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae164>10.1093/eurheartj/ehae164</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38713839</guid>
+<pubDate>Tue, 07 May 2024 06:00:00 -0400</pubDate>
+<dc:creator>Sarah Goldstein</dc:creator>
+<dc:creator>Kathryn Lindley</dc:creator>
+<dc:date>2024-05-07</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Rheumatoid arthritis and peripartum cardiovascular complications: focusing on non-traditional cardiovascular risk factors to improve maternal outcomes</dc:title>
+<dc:identifier>pmid:38713839</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae164</dc:identifier>
+</item>
+<item>
+<title>Ultrasound Neuromodulation of an Anti-Inflammatory Pathway at the Spleen Improves Experimental Pulmonary Hypertension</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38712557/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS: sFUS causes dose-dependent, sustained improvement of hemodynamic, autonomic, laboratory, and pathological manifestations in 2 models of experimental pulmonary hypertension. Mechanistically, sFUS normalizes immune cell populations in the spleen and downregulates inflammatory genes and pathways in the lung, many of which are relevant in human disease.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 May 7. doi: 10.1161/CIRCRESAHA.123.323679. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Inflammation is pathogenically implicated in pulmonary arterial hypertension; however, it has not been adequately targeted therapeutically. We investigated whether neuromodulation of an anti-inflammatory neuroimmune pathway involving the splenic nerve using noninvasive, focused ultrasound stimulation of the spleen (sFUS) can improve experimental pulmonary hypertension.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Pulmonary hypertension was induced in rats either by Sugen 5416 (20 mg/kg SQ) injection, followed by 21 (or 35) days of hypoxia (sugen/hypoxia model), or by monocrotaline (60 mg/kg IP) injection (monocrotaline model). Animals were randomized to receive either 12-minute-long sessions of sFUS daily or sham stimulation for 14 days. Catheterizations, echocardiography, indices of autonomic function, lung and heart histology and immunohistochemistry, spleen flow cytometry, and lung single-cell RNA sequencing were performed after treatment to assess the effects of sFUS.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Splenic denervation right before induction of pulmonary hypertension results in a more severe disease phenotype. In both sugen/hypoxia and monocrotaline models, sFUS treatment reduces right ventricular systolic pressure by 25% to 30% compared with sham treatment, without affecting systemic pressure, and improves right ventricular function and autonomic indices. sFUS reduces wall thickness, apoptosis, and proliferation in small pulmonary arterioles, suppresses CD3<sup>+</sup> and CD68<sup>+</sup> cell infiltration in lungs and right ventricular fibrosis and hypertrophy and lowers BNP (brain natriuretic peptide). Beneficial effects persist for weeks after sFUS discontinuation and are more robust with early and longer treatment. Splenic denervation abolishes sFUS therapeutic benefits. sFUS partially normalizes CD68<sup>+</sup> and CD8<sup>+</sup> T-cell counts in the spleen and downregulates several inflammatory genes and pathways in nonclassical and classical monocytes and macrophages in the lung. Differentially expressed genes in those cell types are significantly enriched for human pulmonary arterial hypertension-associated genes.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: sFUS causes dose-dependent, sustained improvement of hemodynamic, autonomic, laboratory, and pathological manifestations in 2 models of experimental pulmonary hypertension. Mechanistically, sFUS normalizes immune cell populations in the spleen and downregulates inflammatory genes and pathways in the lung, many of which are relevant in human disease.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38712557/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38712557</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.123.323679>10.1161/CIRCRESAHA.123.323679</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38712557</guid>
+<pubDate>Tue, 07 May 2024 06:00:00 -0400</pubDate>
+<dc:creator>Stefanos Zafeiropoulos</dc:creator>
+<dc:creator>Umair Ahmed</dc:creator>
+<dc:creator>Alexandra Bekiaridou</dc:creator>
+<dc:creator>Naveen Jayaprakash</dc:creator>
+<dc:creator>Ibrahim T Mughrabi</dc:creator>
+<dc:creator>Nafiseh Saleknezhad</dc:creator>
+<dc:creator>Chrystal Chadwick</dc:creator>
+<dc:creator>Anna Daytz</dc:creator>
+<dc:creator>Izumi Kurata-Sato</dc:creator>
+<dc:creator>Yemil Atish-Fregoso</dc:creator>
+<dc:creator>Kaitlin Carroll</dc:creator>
+<dc:creator>Yousef Al-Abed</dc:creator>
+<dc:creator>Marat Fudim</dc:creator>
+<dc:creator>Christopher Puleo</dc:creator>
+<dc:creator>George Giannakoulas</dc:creator>
+<dc:creator>Mark Nicolls</dc:creator>
+<dc:creator>Betty Diamond</dc:creator>
+<dc:creator>Stavros Zanos</dc:creator>
+<dc:date>2024-05-07</dc:date>
+<dc:source>Circulation research</dc:source>
+<dc:title>Ultrasound Neuromodulation of an Anti-Inflammatory Pathway at the Spleen Improves Experimental Pulmonary Hypertension</dc:title>
+<dc:identifier>pmid:38712557</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCRESAHA.123.323679</dc:identifier>
+</item>
+<item>
+<title>Illusion of revascularization: does anyone achieve optimal revascularization during percutaneous coronary intervention?</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38710772/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>This Perspective article is a form of 'pastiche', inspired by the 1993 review by Lincoff and Topol entitled 'Illusion of reperfusion', and explores how their concept continues to apply to percutaneous revascularization in patients with coronary artery disease and ischaemia. Just as Lincoff and Topol argued that reperfusion of acute myocardial infarction was facing unresolved obstacles that hampered clinical success in 1993, we propose that challenging issues are similarly jeopardizing the...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2024 May 7. doi: 10.1038/s41569-024-01014-0. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">This Perspective article is a form of 'pastiche', inspired by the 1993 review by Lincoff and Topol entitled 'Illusion of reperfusion', and explores how their concept continues to apply to percutaneous revascularization in patients with coronary artery disease and ischaemia. Just as Lincoff and Topol argued that reperfusion of acute myocardial infarction was facing unresolved obstacles that hampered clinical success in 1993, we propose that challenging issues are similarly jeopardizing the potential benefits of stent-based angioplasty today. By analysing the appropriateness and efficacy of percutaneous coronary intervention (PCI), we emphasize the limitations of relying solely on visual angiographic guidance, which frequently leads to inappropriate stenting and overtreatment in up to one-third of patients and the associated increased risk of periprocedural myocardial infarction. The lack of optimal revascularization observed in half of patients undergoing PCI confers risks such as suboptimal physiology after PCI, residual angina and long-term stent-related events, leaving an estimated 76% of patients with an 'illusion of revascularization'. These outcomes highlight the need to refine our diagnostic tools by integrating physiological assessments with targeted intracoronary imaging and emerging strategies, such as co-registration systems and angiography-based computational methods enhanced by artificial intelligence, to achieve optimal revascularization outcomes.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38710772/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38710772</a> | DOI:<a href=https://doi.org/10.1038/s41569-024-01014-0>10.1038/s41569-024-01014-0</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38710772</guid>
+<pubDate>Mon, 06 May 2024 06:00:00 -0400</pubDate>
+<dc:creator>Simone Fezzi</dc:creator>
+<dc:creator>Daixin Ding</dc:creator>
+<dc:creator>Felix Mahfoud</dc:creator>
+<dc:creator>Jiayue Huang</dc:creator>
+<dc:creator>Alexandra J Lansky</dc:creator>
+<dc:creator>Shengxian Tu</dc:creator>
+<dc:creator>William Wijns</dc:creator>
+<dc:date>2024-05-06</dc:date>
+<dc:source>Nature reviews. Cardiology</dc:source>
+<dc:title>Illusion of revascularization: does anyone achieve optimal revascularization during percutaneous coronary intervention?</dc:title>
+<dc:identifier>pmid:38710772</dc:identifier>
+<dc:identifier>doi:10.1038/s41569-024-01014-0</dc:identifier>
+</item>
+<item>
+<title>Correction to: 2024 Heart Disease and Stroke Statistics: A Report of US and Global Data From the American Heart Association</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38709844/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 May 7;149(19):e1164. doi: 10.1161/CIR.0000000000001247. Epub 2024 May 6.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38709844/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38709844</a> | DOI:<a href=https://doi.org/10.1161/CIR.0000000000001247>10.1161/CIR.0000000000001247</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38709844</guid>
+<pubDate>Mon, 06 May 2024 06:00:00 -0400</pubDate>
+<dc:date>2024-05-06</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Correction to: 2024 Heart Disease and Stroke Statistics: A Report of US and Global Data From the American Heart Association</dc:title>
+<dc:identifier>pmid:38709844</dc:identifier>
+<dc:identifier>doi:10.1161/CIR.0000000000001247</dc:identifier>
+</item>
+<item>
+<title>Unlocking Pathways That Improve Cardiac Function in Chronic Heart Failure: Are Ketones the Key?</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38709843/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 May 7;149(19):1490-1492. doi: 10.1161/CIRCULATIONAHA.124.069256. Epub 2024 May 6.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38709843/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38709843</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.069256>10.1161/CIRCULATIONAHA.124.069256</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38709843</guid>
+<pubDate>Mon, 06 May 2024 06:00:00 -0400</pubDate>
+<dc:creator>Satyam Sarma</dc:creator>
+<dc:creator>Jason R B Dyck</dc:creator>
+<dc:date>2024-05-06</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Unlocking Pathways That Improve Cardiac Function in Chronic Heart Failure: Are Ketones the Key?</dc:title>
+<dc:identifier>pmid:38709843</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.069256</dc:identifier>
+</item>
+<item>
+<title>Identifying Cardiomyocyte Ploidy With Nuclear Area and Volume</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38709842/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 May 7;149(19):1540-1542. doi: 10.1161/CIRCULATIONAHA.123.065507. Epub 2024 May 6.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38709842/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38709842</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.065507>10.1161/CIRCULATIONAHA.123.065507</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38709842</guid>
+<pubDate>Mon, 06 May 2024 06:00:00 -0400</pubDate>
+<dc:creator>Zehao Yao</dc:creator>
+<dc:creator>Lina Bai</dc:creator>
+<dc:creator>Kefei Dou</dc:creator>
+<dc:creator>Yu Nie</dc:creator>
+<dc:date>2024-05-06</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Identifying Cardiomyocyte Ploidy With Nuclear Area and Volume</dc:title>
+<dc:identifier>pmid:38709842</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.123.065507</dc:identifier>
+</item>
+<item>
+<title>Will HIV Break the Heart of Africans?</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38709841/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 May 7;149(19):1471-1473. doi: 10.1161/CIRCULATIONAHA.123.065836. Epub 2024 May 6.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38709841/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38709841</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC11076003/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">PMC11076003</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.065836>10.1161/CIRCULATIONAHA.123.065836</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38709841</guid>
+<pubDate>Mon, 06 May 2024 06:00:00 -0400</pubDate>
+<dc:creator>Roger J Bedimo</dc:creator>
+<dc:creator>Fiona Strasserking</dc:creator>
+<dc:creator>Pablo Tebas</dc:creator>
+<dc:date>2024-05-06</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Will HIV Break the Heart of Africans?</dc:title>
+<dc:identifier>pmid:38709841</dc:identifier>
+<dc:identifier>pmc:PMC11076003</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.123.065836</dc:identifier>
+</item>
+<item>
+<title>Stroke Science and Care Since the Founding of the American Heart Association</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38709839/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 May 7;149(19):1469-1470. doi: 10.1161/CIRCULATIONAHA.123.065471. Epub 2024 May 6.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38709839/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38709839</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.065471>10.1161/CIRCULATIONAHA.123.065471</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38709839</guid>
+<pubDate>Mon, 06 May 2024 06:00:00 -0400</pubDate>
+<dc:creator>Mitchell S V Elkind</dc:creator>
+<dc:date>2024-05-06</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Stroke Science and Care Since the Founding of the American Heart Association</dc:title>
+<dc:identifier>pmid:38709839</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.123.065471</dc:identifier>
+</item>
+<item>
+<title>Low-Dose Rivaroxaban Plus Aspirin in Patients With Peripheral Artery Disease Undergoing Lower Extremity Revascularization With and Without Concomitant Coronary Artery Disease: Insights From VOYAGER PAD</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38709838/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 May 7;149(19):1536-1539. doi: 10.1161/CIRCULATIONAHA.124.068080. Epub 2024 May 6.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38709838/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38709838</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.068080>10.1161/CIRCULATIONAHA.124.068080</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38709838</guid>
+<pubDate>Mon, 06 May 2024 06:00:00 -0400</pubDate>
+<dc:creator>Justin T Morrison</dc:creator>
+<dc:creator>Mario Enrico Canonico</dc:creator>
+<dc:creator>Sonia S Anand</dc:creator>
+<dc:creator>Manesh R Patel</dc:creator>
+<dc:creator>Eike Sebastian Debus</dc:creator>
+<dc:creator>Mark R Nehler</dc:creator>
+<dc:creator>Connie N Hess</dc:creator>
+<dc:creator>Judith Hsia</dc:creator>
+<dc:creator>Warren H Capell</dc:creator>
+<dc:creator>Eva Muehlhofer</dc:creator>
+<dc:creator>Lloyd P Haskell</dc:creator>
+<dc:creator>Scott D Berkowitz</dc:creator>
+<dc:creator>Rupert M Bauersachs</dc:creator>
+<dc:creator>Marc P Bonaca</dc:creator>
+<dc:date>2024-05-06</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Low-Dose Rivaroxaban Plus Aspirin in Patients With Peripheral Artery Disease Undergoing Lower Extremity Revascularization With and Without Concomitant Coronary Artery Disease: Insights From VOYAGER PAD</dc:title>
+<dc:identifier>pmid:38709838</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.068080</dc:identifier>
+</item>
+<item>
+<title>Adducin Regulates Sarcomere Disassembly During Cardiomyocyte Mitosis</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38708635/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS: These results highlight an important mechanism for coordinating cytoskeletal morphological changes during cardiomyocyte mitosis.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 May 6. doi: 10.1161/CIRCULATIONAHA.122.059102. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Recent interest in understanding cardiomyocyte cell cycle has been driven by potential therapeutic applications in cardiomyopathy. However, despite recent advances, cardiomyocyte mitosis remains a poorly understood process. For example, it is unclear how sarcomeres are disassembled during mitosis to allow the abscission of daughter cardiomyocytes.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Here, we use a proteomics screen to identify adducin, an actin capping protein previously not studied in cardiomyocytes, as a regulator of sarcomere disassembly. We generated many adeno-associated viruses and cardiomyocyte-specific genetic gain-of-function models to examine the role of adducin in neonatal and adult cardiomyocytes in vitro and in vivo.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: We identify adducin as a regulator of sarcomere disassembly during mammalian cardiomyocyte mitosis. α/γ-adducins are selectively expressed in neonatal mitotic cardiomyocytes, and their levels decline precipitously thereafter. Cardiomyocyte-specific overexpression of various splice isoforms and phospho-isoforms of α-adducin in identified Thr445/Thr480 phosphorylation of a short isoform of α-adducin as a potent inducer of neonatal cardiomyocyte sarcomere disassembly. Concomitant overexpression of this α-adducin variant along with γ-adducin resulted in stabilization of the adducin complex and persistent sarcomere disassembly in adult mice, which is mediated by interaction with α-actinin.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: These results highlight an important mechanism for coordinating cytoskeletal morphological changes during cardiomyocyte mitosis.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38708635/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38708635</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.122.059102>10.1161/CIRCULATIONAHA.122.059102</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38708635</guid>
+<pubDate>Mon, 06 May 2024 06:00:00 -0400</pubDate>
+<dc:creator>Feng Xiao</dc:creator>
+<dc:creator>Ngoc Uyen Nhi Nguyen</dc:creator>
+<dc:creator>Ping Wang</dc:creator>
+<dc:creator>Shujuan Li</dc:creator>
+<dc:creator>Ching-Cheng Hsu</dc:creator>
+<dc:creator>Suwannee Thet</dc:creator>
+<dc:creator>Wataru Kimura</dc:creator>
+<dc:creator>Xiang Luo</dc:creator>
+<dc:creator>Nicholas T Lam</dc:creator>
+<dc:creator>Ivan Menendez-Montes</dc:creator>
+<dc:creator>Waleed Elhelaly</dc:creator>
+<dc:creator>Alisson Campos Cardoso</dc:creator>
+<dc:creator>Ana Helena Macedo Pereira</dc:creator>
+<dc:creator>Rohit Singh</dc:creator>
+<dc:creator>Sakthivel Sadayappan</dc:creator>
+<dc:creator>Mohammed Kanchwala</dc:creator>
+<dc:creator>Chao Xing</dc:creator>
+<dc:creator>Feria A Ladha</dc:creator>
+<dc:creator>J Travis Hinson</dc:creator>
+<dc:creator>Roger J Hajjar</dc:creator>
+<dc:creator>Joseph A Hill</dc:creator>
+<dc:creator>Hesham A Sadek</dc:creator>
+<dc:date>2024-05-06</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Adducin Regulates Sarcomere Disassembly During Cardiomyocyte Mitosis</dc:title>
+<dc:identifier>pmid:38708635</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.122.059102</dc:identifier>
+</item>
+<item>
+<title>Inhibition of Hmbox1 Promotes Cardiomyocyte Survival and Glucose Metabolism Through Gck Activation in Ischemia/Reperfusion Injury</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38708602/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS: Our studies unravel a new role for the transcriptional repressor Hmbox1 in exercise-induced physiological cardiac growth. They also highlight the therapeutic potential of targeting Hmbox1 to improve myocardial survival and glucose metabolism after I/R injury.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 May 6. doi: 10.1161/CIRCULATIONAHA.123.067592. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Exercise-induced physiological cardiac growth regulators may protect the heart from ischemia/reperfusion (I/R) injury. Homeobox-containing 1 (Hmbox1), a homeobox family member, has been identified as a putative transcriptional repressor and is downregulated in the exercised heart. However, its roles in exercise-induced physiological cardiac growth and its potential protective effects against cardiac I/R injury remain largely unexplored.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: We studied the function of Hmbox1 in exercise-induced physiological cardiac growth in mice after 4 weeks of swimming exercise. Hmbox1 expression was then evaluated in human heart samples from deceased patients with myocardial infarction and in the animal cardiac I/R injury model. Its role in cardiac I/R injury was examined in mice with adeno-associated virus 9 (AAV9) vector-mediated Hmbox1 knockdown and in those with cardiac myocyte-specific Hmbox1 ablation. We performed RNA sequencing, promoter prediction, and binding assays and identified glucokinase (Gck) as a downstream effector of Hmbox1. The effects of Hmbox1 together with Gck were examined in cardiomyocytes to evaluate their cell size, proliferation, apoptosis, mitochondrial respiration, and glycolysis. The function of upstream regulator of Hmbox1, ETS1, was investigated through ETS1 overexpression in cardiac I/R mice in vivo.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: We demonstrated that Hmbox1 downregulation was required for exercise-induced physiological cardiac growth. Inhibition of Hmbox1 increased cardiomyocyte size in isolated neonatal rat cardiomyocytes and human embryonic stem cell-derived cardiomyocytes but did not affect cardiomyocyte proliferation. Under pathological conditions, Hmbox1 was upregulated in both human and animal postinfarct cardiac tissues. Furthermore, both cardiac myocyte-specific Hmbox1 knockout and AAV9-mediated Hmbox1 knockdown protected against cardiac I/R injury and heart failure. Therapeutic effects were observed when sh-Hmbox1 AAV9 was administered after I/R injury. Inhibition of Hmbox1 activated the Akt/mTOR/P70S6K pathway and transcriptionally upregulated Gck, leading to reduced apoptosis and improved mitochondrial respiration and glycolysis in cardiomyocytes. ETS1 functioned as an upstream negative regulator of Hmbox1 transcription, and its overexpression was protective against cardiac I/R injury.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Our studies unravel a new role for the transcriptional repressor Hmbox1 in exercise-induced physiological cardiac growth. They also highlight the therapeutic potential of targeting Hmbox1 to improve myocardial survival and glucose metabolism after I/R injury.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38708602/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38708602</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.067592>10.1161/CIRCULATIONAHA.123.067592</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38708602</guid>
+<pubDate>Mon, 06 May 2024 06:00:00 -0400</pubDate>
+<dc:creator>Yihua Bei</dc:creator>
+<dc:creator>Yujiao Zhu</dc:creator>
+<dc:creator>Jingwen Zhou</dc:creator>
+<dc:creator>Songwei Ai</dc:creator>
+<dc:creator>Jianhua Yao</dc:creator>
+<dc:creator>Mingming Yin</dc:creator>
+<dc:creator>Meiyu Hu</dc:creator>
+<dc:creator>Weitong Qi</dc:creator>
+<dc:creator>Michail Spanos</dc:creator>
+<dc:creator>Lin Li</dc:creator>
+<dc:creator>Meng Wei</dc:creator>
+<dc:creator>Zhenzhen Huang</dc:creator>
+<dc:creator>Juan Gao</dc:creator>
+<dc:creator>Chang Liu</dc:creator>
+<dc:creator>Petra H van der Kraak</dc:creator>
+<dc:creator>Guoping Li</dc:creator>
+<dc:creator>Zhiyong Lei</dc:creator>
+<dc:creator>Joost P G Sluijter</dc:creator>
+<dc:creator>Junjie Xiao</dc:creator>
+<dc:date>2024-05-06</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Inhibition of Hmbox1 Promotes Cardiomyocyte Survival and Glucose Metabolism Through Gck Activation in Ischemia/Reperfusion Injury</dc:title>
+<dc:identifier>pmid:38708602</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.123.067592</dc:identifier>
+</item>
+<item>
+<title>Six-vessel fenestrated physician-modiﬁed stent grafts for treating thoracic aortic dissecting aneurysm and giant abdominal aortic aneurysm</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38703144/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 May 4:ehae214. doi: 10.1093/eurheartj/ehae214. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38703144/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38703144</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae214>10.1093/eurheartj/ehae214</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38703144</guid>
+<pubDate>Sat, 04 May 2024 06:00:00 -0400</pubDate>
+<dc:creator>Wei Liu</dc:creator>
+<dc:creator>Chi Cui</dc:creator>
+<dc:creator>Bisi Wang</dc:creator>
+<dc:date>2024-05-04</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Six-vessel fenestrated physician-modiﬁed stent grafts for treating thoracic aortic dissecting aneurysm and giant abdominal aortic aneurysm</dc:title>
+<dc:identifier>pmid:38703144</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae214</dc:identifier>
+</item>
+<item>
+<title>Discontinuation of renin-angiotensin system inhibitors brings no benefits in severe chronic kidney disease</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38703142/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 May 4:ehae248. doi: 10.1093/eurheartj/ehae248. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38703142/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38703142</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae248>10.1093/eurheartj/ehae248</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38703142</guid>
+<pubDate>Sat, 04 May 2024 06:00:00 -0400</pubDate>
+<dc:creator>Massimo Volpe</dc:creator>
+<dc:creator>Carlo Patrono</dc:creator>
+<dc:date>2024-05-04</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Discontinuation of renin-angiotensin system inhibitors brings no benefits in severe chronic kidney disease</dc:title>
+<dc:identifier>pmid:38703142</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae248</dc:identifier>
+</item>
+<item>
+<title>Weekly journal scan: intravascular imaging to guide percutaneous coronary intervention-ready for prime time?</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/38703139/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240508141154&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 May 4:ehae242. doi: 10.1093/eurheartj/ehae242. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/38703139/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240508141154&v=2.18.0.post9+e462414">38703139</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae242>10.1093/eurheartj/ehae242</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:38703139</guid>
+<pubDate>Sat, 04 May 2024 06:00:00 -0400</pubDate>
+<dc:creator>Rocco Vergallo</dc:creator>
+<dc:creator>Carlo Patrono</dc:creator>
+<dc:date>2024-05-04</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Weekly journal scan: intravascular imaging to guide percutaneous coronary intervention-ready for prime time?</dc:title>
+<dc:identifier>pmid:38703139</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae242</dc:identifier>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</channel>
+</rss>

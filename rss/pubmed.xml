@@ -1,20 +1,439 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>心血管高分期刊</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.18.0.post9+e462414&amp;fc=20230708114047&amp;utm_source=Chrome&amp;utm_campaign=pubmed-2&amp;ff=20240921100817
+<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414&amp;utm_source=Chrome&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;fc=20230708114047
     <description>心血管高分期刊: Latest results from PubMed</description>
-<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.18.0.post9+e462414&amp;fc=20230708114047&amp;utm_source=Chrome&amp;utm_campaign=pubmed-2&amp;ff=20240921100817" rel="self"></atom:link>
+<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414&amp;utm_source=Chrome&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;fc=20230708114047" rel="self"></atom:link>
 <docs>http://www.rssboard.org/rss-specification</docs>
 <generator>PubMed RSS feeds (2.18.0.post9+e462414)</generator>
 <language>en</language>
-<lastbuilddate>Sat, 21 Sep 2024 14:08:19 +0000</lastbuilddate>
+<lastbuilddate>Sat, 21 Sep 2024 16:12:24 +0000</lastbuilddate>
 <pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
 <ttl>120</ttl>
 <item>
-<title>Weekly Journal Scan: tirzepatide SURMOUNTs obesity-related obstructive sleep apnoea</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39302811/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
+<title>The molecular landscape of vascular cells in the human brain</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39304749/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Sep 20:ehae568. doi: 10.1093/eurheartj/ehae568. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39302811/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39302811</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae568>10.1093/eurheartj/ehae568</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2024 Sep 20. doi: 10.1038/s41569-024-01079-x. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39304749/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39304749</a> | DOI:<a href=https://doi.org/10.1038/s41569-024-01079-x>10.1038/s41569-024-01079-x</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39304749</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>Elizabeth E Crouch</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Nature reviews. Cardiology</dc:source>
+<dc:title>The molecular landscape of vascular cells in the human brain</dc:title>
+<dc:identifier>pmid:39304749</dc:identifier>
+<dc:identifier>doi:10.1038/s41569-024-01079-x</dc:identifier>
+</item>
+<item>
+<title>Lysosomes in the immunometabolic reprogramming of immune cells in atherosclerosis</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39304748/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>Lysosomes have a central role in the disposal of extracellular and intracellular cargo and also function as metabolic sensors and signalling platforms in the immunometabolic reprogramming of macrophages and other immune cells in atherosclerosis. Lysosomes can rapidly sense the presence of nutrients within immune cells, thereby switching from catabolism of extracellular material to the recycling of intracellular cargo. Such a fine-tuned degradative response supports the generation of metabolic...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2024 Sep 20. doi: 10.1038/s41569-024-01072-4. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Lysosomes have a central role in the disposal of extracellular and intracellular cargo and also function as metabolic sensors and signalling platforms in the immunometabolic reprogramming of macrophages and other immune cells in atherosclerosis. Lysosomes can rapidly sense the presence of nutrients within immune cells, thereby switching from catabolism of extracellular material to the recycling of intracellular cargo. Such a fine-tuned degradative response supports the generation of metabolic building blocks through effectors such as mTORC1 or TFEB. By coupling nutrients to downstream signalling and metabolism, lysosomes serve as a crucial hub for cellular function in innate and adaptive immune cells. Lysosomal dysfunction is now recognized to be a hallmark of atherogenesis. Perturbations in nutrient-sensing and signalling have profound effects on the capacity of immune cells to handle cholesterol, perform phagocytosis and efferocytosis, and limit the activation of the inflammasome and other inflammatory pathways. Strategies to improve lysosomal function hold promise as novel modulators of the immunoinflammatory response associated with atherosclerosis. In this Review, we describe the crosstalk between lysosomal biology and immune cell function and polarization, with a particular focus on cellular immunometabolic reprogramming in the context of atherosclerosis.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39304748/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39304748</a> | DOI:<a href=https://doi.org/10.1038/s41569-024-01072-4>10.1038/s41569-024-01072-4</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39304748</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>Fabrizia Bonacina</dc:creator>
+<dc:creator>Xiangyu Zhang</dc:creator>
+<dc:creator>Nicolas Manel</dc:creator>
+<dc:creator>Laurent Yvan-Charvet</dc:creator>
+<dc:creator>Babak Razani</dc:creator>
+<dc:creator>Giuseppe D Norata</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Nature reviews. Cardiology</dc:source>
+<dc:title>Lysosomes in the immunometabolic reprogramming of immune cells in atherosclerosis</dc:title>
+<dc:identifier>pmid:39304748</dc:identifier>
+<dc:identifier>doi:10.1038/s41569-024-01072-4</dc:identifier>
+</item>
+<item>
+<title>Nothing about us without us: Sharing results with communities that provide genomic data</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39303717/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>Sharing genetic and other study results with the communities who participate in research falls under benefit-sharing and capacity-building initiatives that underpin a more equitable biomedical research relationship. Yet, which results to return and how remain fundamental challenges that persist in the absence of practical guidance and institutional policies. Here, we discuss how the return of results can be implemented across different geographies, study designs, and project budgets.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 4:S0092-8674(24)00916-4. doi: 10.1016/j.cell.2024.08.023. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Sharing genetic and other study results with the communities who participate in research falls under benefit-sharing and capacity-building initiatives that underpin a more equitable biomedical research relationship. Yet, which results to return and how remain fundamental challenges that persist in the absence of practical guidance and institutional policies. Here, we discuss how the return of results can be implemented across different geographies, study designs, and project budgets.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39303717/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39303717</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.08.023>10.1016/j.cell.2024.08.023</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39303717</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>Sarah LeBaron von Baeyer</dc:creator>
+<dc:creator>Rebecca M Crocker</dc:creator>
+<dc:creator>Rindra Rakotoarivony</dc:creator>
+<dc:creator>Jean Freddy Ranaivoarisoa</dc:creator>
+<dc:creator>Germain Jules Spiral</dc:creator>
+<dc:creator>Tristan Pascart</dc:creator>
+<dc:creator>Vehia Wheeler</dc:creator>
+<dc:creator>Tehani Mairai</dc:creator>
+<dc:creator>Noomi O Gregersen</dc:creator>
+<dc:creator>Stephane E Castel</dc:creator>
+<dc:creator>Laura M Yerges-Armstrong</dc:creator>
+<dc:creator>Keolu Fox</dc:creator>
+<dc:creator>Kaja A Wasik</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Nothing about us without us: Sharing results with communities that provide genomic data</dc:title>
+<dc:identifier>pmid:39303717</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.08.023</dc:identifier>
+</item>
+<item>
+<title>A transmitochondrial sodium gradient controls membrane potential in mammalian mitochondria</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39303716/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>Eukaryotic cell function and survival rely on the use of a mitochondrial H^(+) electrochemical gradient (Δp), which is composed of an inner mitochondrial membrane (IMM) potential (ΔΨmt) and a pH gradient (ΔpH). So far, ΔΨmt has been assumed to be composed exclusively of H^(+). Here, using a rainbow of mitochondrial and nuclear genetic models, we have discovered that a Na^(+) gradient equates with the H^(+) gradient and controls half of ΔΨmt in coupled-respiring mammalian mitochondria. This...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 17:S0092-8674(24)00974-7. doi: 10.1016/j.cell.2024.08.045. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Eukaryotic cell function and survival rely on the use of a mitochondrial H<sup>+</sup> electrochemical gradient (Δp), which is composed of an inner mitochondrial membrane (IMM) potential (ΔΨmt) and a pH gradient (ΔpH). So far, ΔΨmt has been assumed to be composed exclusively of H<sup>+</sup>. Here, using a rainbow of mitochondrial and nuclear genetic models, we have discovered that a Na<sup>+</sup> gradient equates with the H<sup>+</sup> gradient and controls half of ΔΨmt in coupled-respiring mammalian mitochondria. This parallelism is controlled by the activity of the long-sought Na<sup>+</sup>-specific Na<sup>+</sup>/H<sup>+</sup> exchanger (mNHE), which we have identified as the P-module of complex I (CI). Deregulation of this mNHE function, without affecting the canonical enzymatic activity or the assembly of CI, occurs in Leber's hereditary optic neuropathy (LHON), which has profound consequences in ΔΨmt and mitochondrial Ca<sup>2+</sup> homeostasis and explains the previously unknown molecular pathogenesis of this neurodegenerative disease.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39303716/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39303716</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.08.045>10.1016/j.cell.2024.08.045</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39303716</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>Pablo Hernansanz-Agustín</dc:creator>
+<dc:creator>Carmen Morales-Vidal</dc:creator>
+<dc:creator>Enrique Calvo</dc:creator>
+<dc:creator>Paolo Natale</dc:creator>
+<dc:creator>Yolanda Martí-Mateos</dc:creator>
+<dc:creator>Sara Natalia Jaroszewicz</dc:creator>
+<dc:creator>José Luis Cabrera-Alarcón</dc:creator>
+<dc:creator>Rebeca Acín-Pérez</dc:creator>
+<dc:creator>Iván López-Montero</dc:creator>
+<dc:creator>Jesús Vázquez</dc:creator>
+<dc:creator>José Antonio Enríquez</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>A transmitochondrial sodium gradient controls membrane potential in mammalian mitochondria</dc:title>
+<dc:identifier>pmid:39303716</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.08.045</dc:identifier>
+</item>
+<item>
+<title>A pontine-medullary loop crucial for REM sleep and its deficit in Parkinson's disease</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39303715/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>Identifying the properties of the rapid eye movement (REM) sleep circuitry and its relation to diseases has been challenging due to the neuronal heterogeneity of the brainstem. Here, we show in mice that neurons in the pontine sublaterodorsal tegmentum (SubLDT) that express corticotropin-releasing hormone-binding protein (Crhbp^(+) neurons) and project to the medulla promote REM sleep. Within the medullary area receiving projections from Crhbp^(+) neurons, neurons expressing nitric oxide...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 17:S0092-8674(24)00975-9. doi: 10.1016/j.cell.2024.08.046. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Identifying the properties of the rapid eye movement (REM) sleep circuitry and its relation to diseases has been challenging due to the neuronal heterogeneity of the brainstem. Here, we show in mice that neurons in the pontine sublaterodorsal tegmentum (SubLDT) that express corticotropin-releasing hormone-binding protein (Crhbp<sup>+</sup> neurons) and project to the medulla promote REM sleep. Within the medullary area receiving projections from Crhbp<sup>+</sup> neurons, neurons expressing nitric oxide synthase 1 (Nos1<sup>+</sup> neurons) project to the SubLDT and promote REM sleep, suggesting a positively interacting loop between the pons and the medulla operating as a core REM sleep circuit. Nos1<sup>+</sup> neurons also project to areas that control wide forebrain activity. Ablating Crhbp<sup>+</sup> neurons reduces sleep and impairs REM sleep atonia. In Parkinson's disease patients with REM sleep behavior disorders, CRHBP-immunoreactive neurons are largely reduced and contain pathologic α-synuclein, providing insight into the mechanisms underlying the sleep deficits characterizing this disease.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39303715/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39303715</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.08.046>10.1016/j.cell.2024.08.046</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39303715</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>Mitsuaki Kashiwagi</dc:creator>
+<dc:creator>Goichi Beck</dc:creator>
+<dc:creator>Mika Kanuka</dc:creator>
+<dc:creator>Yoshifumi Arai</dc:creator>
+<dc:creator>Kaeko Tanaka</dc:creator>
+<dc:creator>Chika Tatsuzawa</dc:creator>
+<dc:creator>Yumiko Koga</dc:creator>
+<dc:creator>Yuki C Saito</dc:creator>
+<dc:creator>Marina Takagi</dc:creator>
+<dc:creator>Yo Oishi</dc:creator>
+<dc:creator>Masanori Sakaguchi</dc:creator>
+<dc:creator>Kousuke Baba</dc:creator>
+<dc:creator>Masashi Ikuno</dc:creator>
+<dc:creator>Hodaka Yamakado</dc:creator>
+<dc:creator>Ryosuke Takahashi</dc:creator>
+<dc:creator>Masashi Yanagisawa</dc:creator>
+<dc:creator>Shigeo Murayama</dc:creator>
+<dc:creator>Takeshi Sakurai</dc:creator>
+<dc:creator>Kazuya Sakai</dc:creator>
+<dc:creator>Yoshimi Nakagawa</dc:creator>
+<dc:creator>Masahiko Watanabe</dc:creator>
+<dc:creator>Hideki Mochizuki</dc:creator>
+<dc:creator>Yu Hayashi</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>A pontine-medullary loop crucial for REM sleep and its deficit in Parkinson's disease</dc:title>
+<dc:identifier>pmid:39303715</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.08.046</dc:identifier>
+</item>
+<item>
+<title>It took a long, long time: Ras and the race to cure cancer</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39303714/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 19:S0092-8674(24)01028-6. doi: 10.1016/j.cell.2024.09.010. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39303714/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39303714</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.09.010>10.1016/j.cell.2024.09.010</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39303714</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>Robert A Weinberg</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>It took a long, long time: Ras and the race to cure cancer</dc:title>
+<dc:identifier>pmid:39303714</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.09.010</dc:identifier>
+</item>
+<item>
+<title>Genetic tracing of market wildlife and viruses at the epicenter of the COVID-19 pandemic</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39303692/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>Zoonotic spillovers of viruses have occurred through the animal trade worldwide. The start of the COVID-19 pandemic was traced epidemiologically to the Huanan Seafood Wholesale Market. Here, we analyze environmental qPCR and sequencing data collected in the Huanan market in early 2020. We demonstrate that market-linked severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) genetic diversity is consistent with market emergence and find increased SARS-CoV-2 positivity near and within a...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 19;187(19):5468-5482.e11. doi: 10.1016/j.cell.2024.08.010.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Zoonotic spillovers of viruses have occurred through the animal trade worldwide. The start of the COVID-19 pandemic was traced epidemiologically to the Huanan Seafood Wholesale Market. Here, we analyze environmental qPCR and sequencing data collected in the Huanan market in early 2020. We demonstrate that market-linked severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) genetic diversity is consistent with market emergence and find increased SARS-CoV-2 positivity near and within a wildlife stall. We identify wildlife DNA in all SARS-CoV-2-positive samples from this stall, including species such as civets, bamboo rats, and raccoon dogs, previously identified as possible intermediate hosts. We also detect animal viruses that infect raccoon dogs, civets, and bamboo rats. Combining metagenomic and phylogenetic approaches, we recover genotypes of market animals and compare them with those from farms and other markets. This analysis provides the genetic basis for a shortlist of potential intermediate hosts of SARS-CoV-2 to prioritize for serological and viral sampling.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39303692/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39303692</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.08.010>10.1016/j.cell.2024.08.010</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39303692</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>Alexander Crits-Christoph</dc:creator>
+<dc:creator>Joshua I Levy</dc:creator>
+<dc:creator>Jonathan E Pekar</dc:creator>
+<dc:creator>Stephen A Goldstein</dc:creator>
+<dc:creator>Reema Singh</dc:creator>
+<dc:creator>Zach Hensel</dc:creator>
+<dc:creator>Karthik Gangavarapu</dc:creator>
+<dc:creator>Matthew B Rogers</dc:creator>
+<dc:creator>Niema Moshiri</dc:creator>
+<dc:creator>Robert F Garry</dc:creator>
+<dc:creator>Edward C Holmes</dc:creator>
+<dc:creator>Marion P G Koopmans</dc:creator>
+<dc:creator>Philippe Lemey</dc:creator>
+<dc:creator>Thomas P Peacock</dc:creator>
+<dc:creator>Saskia Popescu</dc:creator>
+<dc:creator>Andrew Rambaut</dc:creator>
+<dc:creator>David L Robertson</dc:creator>
+<dc:creator>Marc A Suchard</dc:creator>
+<dc:creator>Joel O Wertheim</dc:creator>
+<dc:creator>Angela L Rasmussen</dc:creator>
+<dc:creator>Kristian G Andersen</dc:creator>
+<dc:creator>Michael Worobey</dc:creator>
+<dc:creator>Florence Débarre</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Genetic tracing of market wildlife and viruses at the epicenter of the COVID-19 pandemic</dc:title>
+<dc:identifier>pmid:39303692</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.08.010</dc:identifier>
+</item>
+<item>
+<title>Microbial colonization programs are structured by breastfeeding and guide healthy respiratory development</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39303691/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>Breastfeeding and microbial colonization during infancy occur within a critical time window for development, and both are thought to influence the risk of respiratory illness. However, the mechanisms underlying the protective effects of breastfeeding and the regulation of microbial colonization are poorly understood. Here, we profiled the nasal and gut microbiomes, breastfeeding characteristics, and maternal milk composition of 2,227 children from the CHILD Cohort Study. We identified robust...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 19;187(19):5431-5452.e20. doi: 10.1016/j.cell.2024.07.022.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Breastfeeding and microbial colonization during infancy occur within a critical time window for development, and both are thought to influence the risk of respiratory illness. However, the mechanisms underlying the protective effects of breastfeeding and the regulation of microbial colonization are poorly understood. Here, we profiled the nasal and gut microbiomes, breastfeeding characteristics, and maternal milk composition of 2,227 children from the CHILD Cohort Study. We identified robust colonization patterns that, together with milk components, predict preschool asthma and mediate the protective effects of breastfeeding. We found that early cessation of breastfeeding (before 3 months) leads to the premature acquisition of microbial species and functions, including Ruminococcus gnavus and tryptophan biosynthesis, which were previously linked to immune modulation and asthma. Conversely, longer exclusive breastfeeding supports a paced microbial development, protecting against asthma. These findings underscore the importance of extended breastfeeding for respiratory health and highlight potential microbial targets for intervention.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39303691/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39303691</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.07.022>10.1016/j.cell.2024.07.022</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39303691</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>Liat Shenhav</dc:creator>
+<dc:creator>Kelsey Fehr</dc:creator>
+<dc:creator>Myrtha E Reyna</dc:creator>
+<dc:creator>Charisse Petersen</dc:creator>
+<dc:creator>Darlene L Y Dai</dc:creator>
+<dc:creator>Ruixue Dai</dc:creator>
+<dc:creator>Vanessa Breton</dc:creator>
+<dc:creator>Laura Rossi</dc:creator>
+<dc:creator>Marek Smieja</dc:creator>
+<dc:creator>Elinor Simons</dc:creator>
+<dc:creator>Michael A Silverman</dc:creator>
+<dc:creator>Maayan Levy</dc:creator>
+<dc:creator>Lars Bode</dc:creator>
+<dc:creator>Catherine J Field</dc:creator>
+<dc:creator>Jean S Marshall</dc:creator>
+<dc:creator>Theo J Moraes</dc:creator>
+<dc:creator>Piush J Mandhane</dc:creator>
+<dc:creator>Stuart E Turvey</dc:creator>
+<dc:creator>Padmaja Subbarao</dc:creator>
+<dc:creator>Michael G Surette</dc:creator>
+<dc:creator>Meghan B Azad</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Microbial colonization programs are structured by breastfeeding and guide healthy respiratory development</dc:title>
+<dc:identifier>pmid:39303691</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.07.022</dc:identifier>
+</item>
+<item>
+<title>A-tisket, a-tasket, what a beautiful nuclear basket</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39303690/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>Nuclear pore complexes are massive protein gateways that control molecular exchange between the nucleus and cytoplasm. In this issue of Cell, Singh et al. provide the first high-resolution views of the elusive nuclear basket, which extends deep into the nucleus to coordinate functions from genome organization to mRNP export.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 19;187(19):5225-5227. doi: 10.1016/j.cell.2024.08.030.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Nuclear pore complexes are massive protein gateways that control molecular exchange between the nucleus and cytoplasm. In this issue of Cell, Singh et al. provide the first high-resolution views of the elusive nuclear basket, which extends deep into the nucleus to coordinate functions from genome organization to mRNP export.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39303690/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39303690</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.08.030>10.1016/j.cell.2024.08.030</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39303690</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>C Patrick Lusk</dc:creator>
+<dc:creator>Megan C King</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>A-tisket, a-tasket, what a beautiful nuclear basket</dc:title>
+<dc:identifier>pmid:39303690</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.08.030</dc:identifier>
+</item>
+<item>
+<title>A prokaryotic Argonaute protein recruits a helicase-nuclease to degrade invading plasmids</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39303689/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>DdmDE is a novel plasmid defense system that was discovered in the seventh pandemic Vibrio cholerae strain of the biotype O1 EI Tor. In this issue of Cell, Yang and coworkers reveal the mechanisms underlying the assembly and activation of the DdmDE defense system.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 19;187(19):5223-5225. doi: 10.1016/j.cell.2024.08.031.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">DdmDE is a novel plasmid defense system that was discovered in the seventh pandemic Vibrio cholerae strain of the biotype O1 EI Tor. In this issue of Cell, Yang and coworkers reveal the mechanisms underlying the assembly and activation of the DdmDE defense system.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39303689/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39303689</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.08.031>10.1016/j.cell.2024.08.031</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39303689</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>Dmitriy Ignatov</dc:creator>
+<dc:creator>Vivekanandan Shanmuganathan</dc:creator>
+<dc:creator>Emmanuelle Charpentier</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>A prokaryotic Argonaute protein recruits a helicase-nuclease to degrade invading plasmids</dc:title>
+<dc:identifier>pmid:39303689</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.08.031</dc:identifier>
+</item>
+<item>
+<title>Exploring RNA-guided DNA scissors in eukaryotes: Are Fanzors counterparts of CRISPR-Cas12s?</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39303688/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>Fanzors are recently characterized RNA-guided DNA endonucleases found in eukaryotic organisms. In this issue of Cell, Xu, Saito et al. reveal the structural diversity of Fanzors and identify key features shared with TnpB and Cas12 proteins, providing a comprehensive perspective on their molecular function and evolution.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 19;187(19):5220-5222. doi: 10.1016/j.cell.2024.08.022.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Fanzors are recently characterized RNA-guided DNA endonucleases found in eukaryotic organisms. In this issue of Cell, Xu, Saito et al. reveal the structural diversity of Fanzors and identify key features shared with TnpB and Cas12 proteins, providing a comprehensive perspective on their molecular function and evolution.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39303688/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39303688</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.08.022>10.1016/j.cell.2024.08.022</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39303688</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>Satoshi N Omura</dc:creator>
+<dc:creator>Osamu Nureki</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Exploring RNA-guided DNA scissors in eukaryotes: Are Fanzors counterparts of CRISPR-Cas12s?</dc:title>
+<dc:identifier>pmid:39303688</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.08.022</dc:identifier>
+</item>
+<item>
+<title>Off the beaten track: Understudied microbes and their potential</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39303687/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>The world of microbes is diverse, but the majority of these fascinating organisms are not as famous (or perhaps infamous) as their pathogenic counterparts. Cell highlights six scientists whose work addresses some of the most fundamental questions in biology, even though their microbial models may seem a tad bit unconventional.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 19;187(19):5217-5219. doi: 10.1016/j.cell.2024.08.035.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The world of microbes is diverse, but the majority of these fascinating organisms are not as famous (or perhaps infamous) as their pathogenic counterparts. Cell highlights six scientists whose work addresses some of the most fundamental questions in biology, even though their microbial models may seem a tad bit unconventional.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39303687/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39303687</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.08.035>10.1016/j.cell.2024.08.035</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39303687</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>Catharine Adams</dc:creator>
+<dc:creator>A Pedro Gonçalves</dc:creator>
+<dc:creator>Sally Warring</dc:creator>
+<dc:creator>Thijs J G Ettema</dc:creator>
+<dc:creator>Laura S Weyrich</dc:creator>
+<dc:creator>Chelsey C Spriggs</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Off the beaten track: Understudied microbes and their potential</dc:title>
+<dc:identifier>pmid:39303687</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.08.035</dc:identifier>
+</item>
+<item>
+<title>Scientists' call to action: Microbes, planetary health, and the Sustainable Development Goals</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39303686/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>Microorganisms, including bacteria, archaea, viruses, fungi, and protists, are essential to life on Earth and the functioning of the biosphere. Here, we discuss the key roles of microorganisms in achieving the United Nations Sustainable Development Goals (SDGs), highlighting recent and emerging advances in microbial research and technology that can facilitate our transition toward a sustainable future. Given the central role of microorganisms in the biochemical processing of elements,...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 19;187(19):5195-5216. doi: 10.1016/j.cell.2024.07.051.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Microorganisms, including bacteria, archaea, viruses, fungi, and protists, are essential to life on Earth and the functioning of the biosphere. Here, we discuss the key roles of microorganisms in achieving the United Nations Sustainable Development Goals (SDGs), highlighting recent and emerging advances in microbial research and technology that can facilitate our transition toward a sustainable future. Given the central role of microorganisms in the biochemical processing of elements, synthesizing new materials, supporting human health, and facilitating life in managed and natural landscapes, microbial research and technologies are directly or indirectly relevant for achieving each of the SDGs. More importantly, the ubiquitous and global role of microbes means that they present new opportunities for synergistically accelerating progress toward multiple sustainability goals. By effectively managing microbial health, we can achieve solutions that address multiple sustainability targets ranging from climate and human health to food and energy production. Emerging international policy frameworks should reflect the vital importance of microorganisms in achieving a sustainable future.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39303686/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39303686</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.07.051>10.1016/j.cell.2024.07.051</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39303686</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>Thomas W Crowther</dc:creator>
+<dc:creator>Rino Rappuoli</dc:creator>
+<dc:creator>Cinzia Corinaldesi</dc:creator>
+<dc:creator>Roberto Danovaro</dc:creator>
+<dc:creator>Timothy J Donohue</dc:creator>
+<dc:creator>Jef Huisman</dc:creator>
+<dc:creator>Lisa Y Stein</dc:creator>
+<dc:creator>James Kenneth Timmis</dc:creator>
+<dc:creator>Kenneth Timmis</dc:creator>
+<dc:creator>Matthew Z Anderson</dc:creator>
+<dc:creator>Lars R Bakken</dc:creator>
+<dc:creator>Matthew Baylis</dc:creator>
+<dc:creator>Michael J Behrenfeld</dc:creator>
+<dc:creator>Philip W Boyd</dc:creator>
+<dc:creator>Ian Brettell</dc:creator>
+<dc:creator>Ricardo Cavicchioli</dc:creator>
+<dc:creator>Camille S Delavaux</dc:creator>
+<dc:creator>Christine M Foreman</dc:creator>
+<dc:creator>Janet K Jansson</dc:creator>
+<dc:creator>Britt Koskella</dc:creator>
+<dc:creator>Kat Milligan-McClellan</dc:creator>
+<dc:creator>Justin A North</dc:creator>
+<dc:creator>Devin Peterson</dc:creator>
+<dc:creator>Mariagrazia Pizza</dc:creator>
+<dc:creator>Juan L Ramos</dc:creator>
+<dc:creator>David Reay</dc:creator>
+<dc:creator>Justin V Remais</dc:creator>
+<dc:creator>Virginia I Rich</dc:creator>
+<dc:creator>William J Ripple</dc:creator>
+<dc:creator>Brajesh K Singh</dc:creator>
+<dc:creator>Gabriel Reuben Smith</dc:creator>
+<dc:creator>Frank J Stewart</dc:creator>
+<dc:creator>Matthew B Sullivan</dc:creator>
+<dc:creator>Johan van den Hoogen</dc:creator>
+<dc:creator>Madeleine J H van Oppen</dc:creator>
+<dc:creator>Nicole S Webster</dc:creator>
+<dc:creator>Constantin M Zohner</dc:creator>
+<dc:creator>Laura G van Galen</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Scientists' call to action: Microbes, planetary health, and the Sustainable Development Goals</dc:title>
+<dc:identifier>pmid:39303686</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.07.051</dc:identifier>
+</item>
+<item>
+<title>Transforming vaccinology</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39303685/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>The COVID-19 pandemic placed the field of vaccinology squarely at the center of global consciousness, emphasizing the vital role of vaccines as transformative public health tools. The impact of vaccines was recently acknowledged by the award of the 2023 Nobel Prize in Physiology or Medicine to Katalin Kariko and Drew Weissman for their seminal contributions to the development of mRNA vaccines. Here, we provide a historic perspective on the key innovations that led to the development of some 27...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 19;187(19):5171-5194. doi: 10.1016/j.cell.2024.07.021.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The COVID-19 pandemic placed the field of vaccinology squarely at the center of global consciousness, emphasizing the vital role of vaccines as transformative public health tools. The impact of vaccines was recently acknowledged by the award of the 2023 Nobel Prize in Physiology or Medicine to Katalin Kariko and Drew Weissman for their seminal contributions to the development of mRNA vaccines. Here, we provide a historic perspective on the key innovations that led to the development of some 27 licensed vaccines over the past two centuries and recent advances that promise to transform vaccines in the future. Technological revolutions such as reverse vaccinology, synthetic biology, and structure-based design transformed decades of vaccine failures into successful vaccines against meningococcus B and respiratory syncytial virus (RSV). Likewise, the speed and flexibility of mRNA vaccines profoundly altered vaccine development, and the advancement of novel adjuvants promises to revolutionize our ability to tune immunity. Here, we highlight exciting new advances in the field of systems immunology that are transforming our mechanistic understanding of the human immune response to vaccines and how to predict and manipulate them. Additionally, we discuss major immunological challenges such as learning how to stimulate durable protective immune response in humans.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39303685/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39303685</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.07.021>10.1016/j.cell.2024.07.021</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39303685</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>Rino Rappuoli</dc:creator>
+<dc:creator>Galit Alter</dc:creator>
+<dc:creator>Bali Pulendran</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Transforming vaccinology</dc:title>
+<dc:identifier>pmid:39303685</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.07.021</dc:identifier>
+</item>
+<item>
+<title>Modern microbiology: Embracing complexity through integration across scales</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39303684/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>Microbes were the only form of life on Earth for most of its history, and they still account for the vast majority of life's diversity. They convert rocks to soil, produce much of the oxygen we breathe, remediate our sewage, and sustain agriculture. Microbes are vital to planetary health as they maintain biogeochemical cycles that produce and consume major greenhouse gases and support large food webs. Modern microbiologists analyze nucleic acids, proteins, and metabolites; leverage sophisticated...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 19;187(19):5151-5170. doi: 10.1016/j.cell.2024.08.028.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Microbes were the only form of life on Earth for most of its history, and they still account for the vast majority of life's diversity. They convert rocks to soil, produce much of the oxygen we breathe, remediate our sewage, and sustain agriculture. Microbes are vital to planetary health as they maintain biogeochemical cycles that produce and consume major greenhouse gases and support large food webs. Modern microbiologists analyze nucleic acids, proteins, and metabolites; leverage sophisticated genetic tools, software, and bioinformatic algorithms; and process and integrate complex and heterogeneous datasets so that microbial systems may be harnessed to address contemporary challenges in health, the environment, and basic science. Here, we consider an inevitably incomplete list of emergent themes in our discipline and highlight those that we recognize as the archetypes of its modern era that aim to address the most pressing problems of the 21st century.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39303684/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39303684</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.08.028>10.1016/j.cell.2024.08.028</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39303684</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>A Murat Eren</dc:creator>
+<dc:creator>Jillian F Banfield</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Modern microbiology: Embracing complexity through integration across scales</dc:title>
+<dc:identifier>pmid:39303684</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.08.028</dc:identifier>
+</item>
+<item>
+<title>Africa in the era of pathogen genomics: Unlocking data barriers</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39303683/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>Rapid expansion of pathogen sequencing capacity in Africa has led to a paradigm shift from relying on others to locally generating genomic data and sharing it with the global community. However, several barriers remain to be unlocked for timely processing, analysis, dissemination, and effective use of pathogen sequence data for pandemic prevention, preparedness, and response.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 19;187(19):5146-5150. doi: 10.1016/j.cell.2024.08.032.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Rapid expansion of pathogen sequencing capacity in Africa has led to a paradigm shift from relying on others to locally generating genomic data and sharing it with the global community. However, several barriers remain to be unlocked for timely processing, analysis, dissemination, and effective use of pathogen sequence data for pandemic prevention, preparedness, and response.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39303683/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39303683</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.08.032>10.1016/j.cell.2024.08.032</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39303683</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>Gerald Mboowa</dc:creator>
+<dc:creator>Sofonias K Tessema</dc:creator>
+<dc:creator>Alan Christoffels</dc:creator>
+<dc:creator>Nicaise Ndembi</dc:creator>
+<dc:creator>Yenew Kebede Tebeje</dc:creator>
+<dc:creator>Jean Kaseya</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Africa in the era of pathogen genomics: Unlocking data barriers</dc:title>
+<dc:identifier>pmid:39303683</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.08.032</dc:identifier>
+</item>
+<item>
+<title>Virology-The next fifty years</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39303682/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>Virology has made enormous advances in the last 50 years but has never faced such scrutiny as it does today. Herein, we outline some of the major advances made in virology during this period, particularly in light of the COVID-19 pandemic, and suggest some areas that may be of research importance in the next 50 years. We focus on several linked themes: cataloging the genomic and phenotypic diversity of the virosphere; understanding disease emergence; future directions in viral disease therapies,...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 19;187(19):5128-5145. doi: 10.1016/j.cell.2024.07.025.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Virology has made enormous advances in the last 50 years but has never faced such scrutiny as it does today. Herein, we outline some of the major advances made in virology during this period, particularly in light of the COVID-19 pandemic, and suggest some areas that may be of research importance in the next 50 years. We focus on several linked themes: cataloging the genomic and phenotypic diversity of the virosphere; understanding disease emergence; future directions in viral disease therapies, vaccines, and interventions; host-virus interactions; the role of viruses in chronic diseases; and viruses as tools for cell biology. We highlight the challenges that virology will face moving forward-not just the scientific and technical but also the social and political. Although there are inherent limitations in trying to outline the virology of the future, we hope this article will help inspire the next generation of virologists.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39303682/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39303682</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.07.025>10.1016/j.cell.2024.07.025</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39303682</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>Edward C Holmes</dc:creator>
+<dc:creator>Florian Krammer</dc:creator>
+<dc:creator>Felicia D Goodrum</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Virology-The next fifty years</dc:title>
+<dc:identifier>pmid:39303682</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.07.025</dc:identifier>
+</item>
+<item>
+<title>Focus on fungi</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39303681/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>Fungi play critical roles in the homeostasis of ecosystems globally and have emerged as significant causes of an expanding repertoire of devastating diseases in plants, animals, and humans. In this Commentary, we highlight the importance of fungal pathogens and argue for concerted research efforts to enhance understanding of fungal virulence, antifungal immunity, novel drug targets, antifungal resistance, and the mycobiota to improve human health.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 19;187(19):5121-5127. doi: 10.1016/j.cell.2024.08.016.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Fungi play critical roles in the homeostasis of ecosystems globally and have emerged as significant causes of an expanding repertoire of devastating diseases in plants, animals, and humans. In this Commentary, we highlight the importance of fungal pathogens and argue for concerted research efforts to enhance understanding of fungal virulence, antifungal immunity, novel drug targets, antifungal resistance, and the mycobiota to improve human health.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39303681/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39303681</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.08.016>10.1016/j.cell.2024.08.016</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39303681</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>Iliyan D Iliev</dc:creator>
+<dc:creator>Gordon D Brown</dc:creator>
+<dc:creator>Petra Bacher</dc:creator>
+<dc:creator>Sarah L Gaffen</dc:creator>
+<dc:creator>Joseph Heitman</dc:creator>
+<dc:creator>Bruce S Klein</dc:creator>
+<dc:creator>Michail S Lionakis</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Focus on fungi</dc:title>
+<dc:identifier>pmid:39303681</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.08.016</dc:identifier>
+</item>
+<item>
+<title>A microbial future</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39303680/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>Life as we know it began with microbes. Microbes sustain life on Earth, and every now and then, a microbe emerges that threatens the survival of an entire species. The dangers and benefits of microbial life are both enormous, as is their potential to help us live long, healthy, sustainable lives. Microbiology at Cell celebrates 50 years, and we're proud to showcase the marvelous and yet mysterious microbial world in our anniversary focus issue.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 19;187(19):5119-5120. doi: 10.1016/j.cell.2024.08.042.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Life as we know it began with microbes. Microbes sustain life on Earth, and every now and then, a microbe emerges that threatens the survival of an entire species. The dangers and benefits of microbial life are both enormous, as is their potential to help us live long, healthy, sustainable lives. Microbiology at Cell celebrates 50 years, and we're proud to showcase the marvelous and yet mysterious microbial world in our anniversary focus issue.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39303680/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39303680</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.08.042>10.1016/j.cell.2024.08.042</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39303680</guid>
+<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
+<dc:creator>Cell editorial team</dc:creator>
+<dc:date>2024-09-20</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>A microbial future</dc:title>
+<dc:identifier>pmid:39303680</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.08.042</dc:identifier>
+</item>
+<item>
+<title>Weekly Journal Scan: tirzepatide SURMOUNTs obesity-related obstructive sleep apnoea</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39302811/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Sep 20:ehae568. doi: 10.1093/eurheartj/ehae568. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39302811/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39302811</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae568>10.1093/eurheartj/ehae568</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39302811</guid>
 <pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
 <dc:creator>Giovanna Liuzzo</dc:creator>
@@ -27,9 +446,9 @@
 </item>
 <item>
 <title>Correction to: Evinacumab in homozygous familial hypercholesterolaemia: long-term safety and efficacy</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39302808/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39302808/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921121224&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Sep 20:ehae594. doi: 10.1093/eurheartj/ehae594. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39302808/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39302808</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae594>10.1093/eurheartj/ehae594</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Sep 20:ehae594. doi: 10.1093/eurheartj/ehae594. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39302808/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921121224&v=2.18.0.post9+e462414">39302808</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae594>10.1093/eurheartj/ehae594</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39302808</guid>
 <pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
 <dc:date>2024-09-20</dc:date>
@@ -37,447 +456,6 @@
 <dc:title>Correction to: Evinacumab in homozygous familial hypercholesterolaemia: long-term safety and efficacy</dc:title>
 <dc:identifier>pmid:39302808</dc:identifier>
 <dc:identifier>doi:10.1093/eurheartj/ehae594</dc:identifier>
-</item>
-<item>
-<title>Renal artery projectile embolus after cardiac gunshot injury: interventional retrieval</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39302768/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Sep 20:ehae640. doi: 10.1093/eurheartj/ehae640. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39302768/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39302768</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae640>10.1093/eurheartj/ehae640</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39302768</guid>
-<pubDate>Fri, 20 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>Anna-Maria Odenthal</dc:creator>
-<dc:creator>Julian A Luetkens</dc:creator>
-<dc:creator>Patrick A Kupczyk</dc:creator>
-<dc:date>2024-09-20</dc:date>
-<dc:source>European heart journal</dc:source>
-<dc:title>Renal artery projectile embolus after cardiac gunshot injury: interventional retrieval</dc:title>
-<dc:identifier>pmid:39302768</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehae640</dc:identifier>
-</item>
-<item>
-<title>TEER is non-inferior to surgery in patients with secondary mitral regurgitation</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39300252/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2024 Sep 19. doi: 10.1038/s41569-024-01089-9. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39300252/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39300252</a> | DOI:<a href=https://doi.org/10.1038/s41569-024-01089-9>10.1038/s41569-024-01089-9</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39300252</guid>
-<pubDate>Thu, 19 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>Irene Fernández-Ruiz</dc:creator>
-<dc:date>2024-09-19</dc:date>
-<dc:source>Nature reviews. Cardiology</dc:source>
-<dc:title>TEER is non-inferior to surgery in patients with secondary mitral regurgitation</dc:title>
-<dc:identifier>pmid:39300252</dc:identifier>
-<dc:identifier>doi:10.1038/s41569-024-01089-9</dc:identifier>
-</item>
-<item>
-<title>Finerenone improves outcomes in HFmrEF and HFpEF</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39300251/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2024 Sep 19. doi: 10.1038/s41569-024-01087-x. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39300251/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39300251</a> | DOI:<a href=https://doi.org/10.1038/s41569-024-01087-x>10.1038/s41569-024-01087-x</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39300251</guid>
-<pubDate>Thu, 19 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>Irene Fernández-Ruiz</dc:creator>
-<dc:date>2024-09-19</dc:date>
-<dc:source>Nature reviews. Cardiology</dc:source>
-<dc:title>Finerenone improves outcomes in HFmrEF and HFpEF</dc:title>
-<dc:identifier>pmid:39300251</dc:identifier>
-<dc:identifier>doi:10.1038/s41569-024-01087-x</dc:identifier>
-</item>
-<item>
-<title>Benefit of vutrisiran in transthyretin amyloidosis with cardiomyopathy</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39300250/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2024 Sep 19. doi: 10.1038/s41569-024-01086-y. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39300250/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39300250</a> | DOI:<a href=https://doi.org/10.1038/s41569-024-01086-y>10.1038/s41569-024-01086-y</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39300250</guid>
-<pubDate>Thu, 19 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>Gregory B Lim</dc:creator>
-<dc:date>2024-09-19</dc:date>
-<dc:source>Nature reviews. Cardiology</dc:source>
-<dc:title>Benefit of vutrisiran in transthyretin amyloidosis with cardiomyopathy</dc:title>
-<dc:identifier>pmid:39300250</dc:identifier>
-<dc:identifier>doi:10.1038/s41569-024-01086-y</dc:identifier>
-</item>
-<item>
-<title>Combining TAVI with PCI in patients with aortic stenosis and CAD</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39300249/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2024 Sep 19. doi: 10.1038/s41569-024-01080-4. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39300249/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39300249</a> | DOI:<a href=https://doi.org/10.1038/s41569-024-01080-4>10.1038/s41569-024-01080-4</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39300249</guid>
-<pubDate>Thu, 19 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>Gregory B Lim</dc:creator>
-<dc:date>2024-09-19</dc:date>
-<dc:source>Nature reviews. Cardiology</dc:source>
-<dc:title>Combining TAVI with PCI in patients with aortic stenosis and CAD</dc:title>
-<dc:identifier>pmid:39300249</dc:identifier>
-<dc:identifier>doi:10.1038/s41569-024-01080-4</dc:identifier>
-</item>
-<item>
-<title>Prognostic value of ventricular arrhythmia in early post-infarction left ventricular dysfunction: the French nationwide WICD-MI study</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39299922/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: In patients with LVEF ≤ 35%, sustained VA during the early post-infarction phase is predictive of recurrent sustained VAs and 1-year mortality.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Sep 20:ehae575. doi: 10.1093/eurheartj/ehae575. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND AND AIMS: Prophylactic implantable cardioverter-defibrillators (ICDs) are not recommended until left ventricular ejection fraction (LVEF) has been reassessed 40 to 90 days after an acute myocardial infarction. In the current therapeutic era, the prognosis of sustained ventricular arrhythmias (VAs) occurring during this early post-infarction phase (i.e. within 3 months of hospital discharge) has not yet been specifically evaluated in post-myocardial infarction patients with impaired LVEF. Such was the aim of this retrospective study.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Data analysis was based on a nationwide registry of 1032 consecutive patients with LVEF ≤ 35% after acute myocardial infarction who were implanted with an ICD after being prescribed a wearable cardioverter-defibrillator (WCD) for a period of 3 months upon discharge from hospital after the index infarction.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: ICDs were implanted either because a sustained VA occurred while on WCD (VA+/WCD, n = 72) or because LVEF remained ≤35% at the end of the early post-infarction phase (VA-/WCD, n = 960). The median follow-up was 30.9 months. Sustained VAs occurred within 1 year after ICD implantation in 22.2% and 3.5% of VA+/WCD and VA-/WCD patients, respectively (P &lt; .0001). The adjusted multivariable analysis showed that sustained VAs while on WCD independently predicted recurrence of sustained VAs at 1 year (adjusted hazard ratio [HR] 6.91; 95% confidence interval [CI] 3.73-12.81; P &lt; .0001) and at the end of follow-up (adjusted HR 3.86; 95% CI 2.37-6.30; P &lt; .0001) as well as 1-year mortality (adjusted HR 2.86; 95% CI 1.28-6.39; P = .012).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: In patients with LVEF ≤ 35%, sustained VA during the early post-infarction phase is predictive of recurrent sustained VAs and 1-year mortality.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39299922/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39299922</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae575>10.1093/eurheartj/ehae575</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39299922</guid>
-<pubDate>Thu, 19 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>Mathieu Echivard</dc:creator>
-<dc:creator>Jean-Marc Sellal</dc:creator>
-<dc:creator>Chloé Ziliox</dc:creator>
-<dc:creator>Eloi Marijon</dc:creator>
-<dc:creator>Pierre Bordachar</dc:creator>
-<dc:creator>Sylvain Ploux</dc:creator>
-<dc:creator>Karim Benali</dc:creator>
-<dc:creator>Christelle Marquié</dc:creator>
-<dc:creator>Clémence Docq</dc:creator>
-<dc:creator>Didier Klug</dc:creator>
-<dc:creator>Romain Eschalier</dc:creator>
-<dc:creator>Baptiste Maille</dc:creator>
-<dc:creator>Jean-Claude Deharo</dc:creator>
-<dc:creator>Dominique Babuty</dc:creator>
-<dc:creator>Thibaud Genet</dc:creator>
-<dc:creator>Estelle Gandjbakhch</dc:creator>
-<dc:creator>Antoine Da Costa</dc:creator>
-<dc:creator>Olivier Piot</dc:creator>
-<dc:creator>Damien Minois</dc:creator>
-<dc:creator>Jean-Baptiste Gourraud</dc:creator>
-<dc:creator>Pierre Mondoly</dc:creator>
-<dc:creator>Philippe Maury</dc:creator>
-<dc:creator>Serge Boveda</dc:creator>
-<dc:creator>Jean-Luc Pasquié</dc:creator>
-<dc:creator>Raphaël Martins</dc:creator>
-<dc:creator>Christophe Leclercq</dc:creator>
-<dc:creator>Charles Guenancia</dc:creator>
-<dc:creator>Gabriel Laurent</dc:creator>
-<dc:creator>Mathieu Becker</dc:creator>
-<dc:creator>Julien Bertrand</dc:creator>
-<dc:creator>Philippe Chevalier</dc:creator>
-<dc:creator>Vladimir Manenti</dc:creator>
-<dc:creator>Maciej Kubala</dc:creator>
-<dc:creator>Pascal Defaye</dc:creator>
-<dc:creator>Peggy Jacon</dc:creator>
-<dc:creator>Antoine Desbiolles</dc:creator>
-<dc:creator>Marc Badoz</dc:creator>
-<dc:creator>Laurence Jesel</dc:creator>
-<dc:creator>Nicolas Lellouche</dc:creator>
-<dc:creator>Paul-Ursmar Milliez</dc:creator>
-<dc:creator>Paul Ollitrault</dc:creator>
-<dc:creator>Samir Fareh</dc:creator>
-<dc:creator>Matthieu Bercker</dc:creator>
-<dc:creator>Jacques Mansourati</dc:creator>
-<dc:creator>Benoît Guy-Moyat</dc:creator>
-<dc:creator>Jean-Pierre Chabert</dc:creator>
-<dc:creator>Nicolas Luconi</dc:creator>
-<dc:creator>Pierre-François Winum</dc:creator>
-<dc:creator>Frédéric Anselme</dc:creator>
-<dc:creator>Fabrice Extramiana</dc:creator>
-<dc:creator>Camille Delahaye</dc:creator>
-<dc:creator>François Jourda</dc:creator>
-<dc:creator>Olivier Bizeau</dc:creator>
-<dc:creator>Mathieu Nasarre</dc:creator>
-<dc:creator>Arnaud Olivier</dc:creator>
-<dc:creator>Stéphane Fromentin</dc:creator>
-<dc:creator>Thibault Villemin</dc:creator>
-<dc:creator>Olivier Levavasseur</dc:creator>
-<dc:creator>Néfissa Hammache</dc:creator>
-<dc:creator>Isabelle Magnin-Poull</dc:creator>
-<dc:creator>Hugues Blangy</dc:creator>
-<dc:creator>Nicolas Sadoul</dc:creator>
-<dc:creator>Kevin Duarte</dc:creator>
-<dc:creator>Nicolas Girerd</dc:creator>
-<dc:creator>Christian de Chillou</dc:creator>
-<dc:date>2024-09-19</dc:date>
-<dc:source>European heart journal</dc:source>
-<dc:title>Prognostic value of ventricular arrhythmia in early post-infarction left ventricular dysfunction: the French nationwide WICD-MI study</dc:title>
-<dc:identifier>pmid:39299922</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehae575</dc:identifier>
-</item>
-<item>
-<title>The quest for the holy grail in antithrombotic therapy: revitalized hope for platelet GPVI as a safe and effective antithrombotic target</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39299915/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Sep 20:ehae592. doi: 10.1093/eurheartj/ehae592. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39299915/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39299915</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae592>10.1093/eurheartj/ehae592</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39299915</guid>
-<pubDate>Thu, 19 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>James D McFadyen</dc:creator>
-<dc:creator>Xiaowei Wang</dc:creator>
-<dc:creator>Karlheinz Peter</dc:creator>
-<dc:date>2024-09-19</dc:date>
-<dc:source>European heart journal</dc:source>
-<dc:title>The quest for the holy grail in antithrombotic therapy: revitalized hope for platelet GPVI as a safe and effective antithrombotic target</dc:title>
-<dc:identifier>pmid:39299915</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehae592</dc:identifier>
-</item>
-<item>
-<title>High-resolution functional mapping of RAD51C by saturation genome editing</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39299233/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>Pathogenic variants in RAD51C confer an elevated risk of breast and ovarian cancer, while individuals homozygous for specific RAD51C alleles may develop Fanconi anemia. Using saturation genome editing (SGE), we functionally assess 9,188 unique variants, including >;99.5% of all possible coding sequence single-nucleotide alterations. By computing changes in variant abundance and Gaussian mixture modeling (GMM), we functionally classify 3,094 variants to be disruptive and use clinical truth sets to...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 16:S0092-8674(24)00968-1. doi: 10.1016/j.cell.2024.08.039. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Pathogenic variants in RAD51C confer an elevated risk of breast and ovarian cancer, while individuals homozygous for specific RAD51C alleles may develop Fanconi anemia. Using saturation genome editing (SGE), we functionally assess 9,188 unique variants, including >;99.5% of all possible coding sequence single-nucleotide alterations. By computing changes in variant abundance and Gaussian mixture modeling (GMM), we functionally classify 3,094 variants to be disruptive and use clinical truth sets to reveal an accuracy/concordance of variant classification >;99.9%. Cell fitness was the primary assay readout allowing us to observe a phenomenon where specific missense variants exhibit distinct depletion kinetics potentially suggesting that they represent hypomorphic alleles. We further explored our exhaustive functional map, revealing critical residues on the RAD51C structure and resolving variants found in cancer-segregating kindred. Furthermore, through interrogation of UK Biobank and a large multi-center ovarian cancer cohort, we find significant associations between SGE-depleted variants and cancer diagnoses.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39299233/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39299233</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.08.039>10.1016/j.cell.2024.08.039</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39299233</guid>
-<pubDate>Thu, 19 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>Rebeca Olvera-León</dc:creator>
-<dc:creator>Fang Zhang</dc:creator>
-<dc:creator>Victoria Offord</dc:creator>
-<dc:creator>Yajie Zhao</dc:creator>
-<dc:creator>Hong Kee Tan</dc:creator>
-<dc:creator>Prashant Gupta</dc:creator>
-<dc:creator>Tuya Pal</dc:creator>
-<dc:creator>Carla Daniela Robles-Espinoza</dc:creator>
-<dc:creator>Fernanda G Arriaga-González</dc:creator>
-<dc:creator>Larissa Satiko Alcantara Sekimoto Matsuyama</dc:creator>
-<dc:creator>Erwan Delage</dc:creator>
-<dc:creator>Ed Dicks</dc:creator>
-<dc:creator>Suzana Ezquina</dc:creator>
-<dc:creator>Charlie F Rowlands</dc:creator>
-<dc:creator>Clare Turnbull</dc:creator>
-<dc:creator>Paul Pharoah</dc:creator>
-<dc:creator>John R B Perry</dc:creator>
-<dc:creator>Maria Jasin</dc:creator>
-<dc:creator>Andrew J Waters</dc:creator>
-<dc:creator>David J Adams</dc:creator>
-<dc:date>2024-09-19</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>High-resolution functional mapping of RAD51C by saturation genome editing</dc:title>
-<dc:identifier>pmid:39299233</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2024.08.039</dc:identifier>
-</item>
-<item>
-<title>Non-Contractile Stem Cell-Cardiomyocytes Preserve Post-Infarction Heart Function</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39297201/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Sep 19. doi: 10.1161/CIRCRESAHA.124.325133. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39297201/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39297201</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.124.325133>10.1161/CIRCRESAHA.124.325133</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39297201</guid>
-<pubDate>Thu, 19 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>Elaheh Karbassi</dc:creator>
-<dc:creator>Dasom Yoo</dc:creator>
-<dc:creator>Amy M Martinson</dc:creator>
-<dc:creator>Xiulan Yang</dc:creator>
-<dc:creator>Hans Reinecke</dc:creator>
-<dc:creator>Michael Regnier</dc:creator>
-<dc:creator>Charles E Murry</dc:creator>
-<dc:date>2024-09-19</dc:date>
-<dc:source>Circulation research</dc:source>
-<dc:title>Non-Contractile Stem Cell-Cardiomyocytes Preserve Post-Infarction Heart Function</dc:title>
-<dc:identifier>pmid:39297201</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCRESAHA.124.325133</dc:identifier>
-</item>
-<item>
-<title>Management of Patients With Cardiac Arrest Requiring Interfacility Transport: A Scientific Statement From the American Heart Association</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39297198/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>People who experience out-of-hospital cardiac arrest often require care at a regional center for continued treatment after resuscitation, but many do not initially present to the hospital where they will be admitted. For patients who require interfacility transport after cardiac arrest, the decision to transfer between centers is complex and often based on individual clinical characteristics, resources at the presenting hospital, and available transport resources. Once the decision has been made...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Sep 19. doi: 10.1161/CIR.0000000000001282. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">People who experience out-of-hospital cardiac arrest often require care at a regional center for continued treatment after resuscitation, but many do not initially present to the hospital where they will be admitted. For patients who require interfacility transport after cardiac arrest, the decision to transfer between centers is complex and often based on individual clinical characteristics, resources at the presenting hospital, and available transport resources. Once the decision has been made to transfer a patient after cardiac arrest, there is little direct guidance on how best to provide interfacility transport. Accepting centers depend on transferring emergency departments and emergency medical services professionals to make important and nuanced decisions about postresuscitation care that may determine the efficacy of future treatments. The consequences of early care are greater when transport delays occur, which is common in rural areas or due to inclement weather. Challenges of providing interfacility transfer services for patients who have experienced cardiac arrest include varying expertise of clinicians, differing resources available to them, and nonstandardized communication between transferring and receiving centers. Although many aspects of care are insufficiently studied to determine implications for specific out-of-hospital treatment on outcomes, a general approach of maintaining otherwise recommended postresuscitation care during interfacility transfer is reasonable. This includes close attention to airway, vascular access, ventilator management, sedation, cardiopulmonary monitoring, antiarrhythmic treatments, blood pressure control, temperature control, and metabolic management. Patient stability for transfer, equity and inclusion, and communication also must be considered. Many of these aspects can be delivered by protocol-driven care.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39297198/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39297198</a> | DOI:<a href=https://doi.org/10.1161/CIR.0000000000001282>10.1161/CIR.0000000000001282</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39297198</guid>
-<pubDate>Thu, 19 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>Teresa L May</dc:creator>
-<dc:creator>Erin A Bressler</dc:creator>
-<dc:creator>Rebecca E Cash</dc:creator>
-<dc:creator>Francis X Guyette</dc:creator>
-<dc:creator>Steve Lin</dc:creator>
-<dc:creator>Nicholas A Morris</dc:creator>
-<dc:creator>Ashish R Panchal</dc:creator>
-<dc:creator>Stacy M Perrin</dc:creator>
-<dc:creator>Melissa Vogelsong</dc:creator>
-<dc:creator>Joyce Yeung</dc:creator>
-<dc:creator>Jonathan Elmer</dc:creator>
-<dc:creator>American Heart Association Council on Cardiopulmonary, Critical Care, Perioperative and Resuscitation; Council on Clinical Cardiology; and Council on Cardiovascular and Stroke Nursing</dc:creator>
-<dc:date>2024-09-19</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Management of Patients With Cardiac Arrest Requiring Interfacility Transport: A Scientific Statement From the American Heart Association</dc:title>
-<dc:identifier>pmid:39297198</dc:identifier>
-<dc:identifier>doi:10.1161/CIR.0000000000001282</dc:identifier>
-</item>
-<item>
-<title>If We Measure, We Can Improve</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39293888/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Sep 24;84(13):1276-1278. doi: 10.1016/j.jacc.2024.07.031.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39293888/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39293888</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.07.031>10.1016/j.jacc.2024.07.031</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39293888</guid>
-<pubDate>Wed, 18 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>Celina M Yong</dc:creator>
-<dc:creator>Sanket S Dhruva</dc:creator>
-<dc:date>2024-09-18</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>If We Measure, We Can Improve</dc:title>
-<dc:identifier>pmid:39293888</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.07.031</dc:identifier>
-</item>
-<item>
-<title>Low-Density Lipoprotein Cholesterol Control as a Performance Measure: A National Analysis of the VHA</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39293887/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Sep 24;84(13):1272-1275. doi: 10.1016/j.jacc.2024.07.025.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39293887/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39293887</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.07.025>10.1016/j.jacc.2024.07.025</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39293887</guid>
-<pubDate>Wed, 18 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>Sneha S Jain</dc:creator>
-<dc:creator>Megan Skye</dc:creator>
-<dc:creator>Natasha Din</dc:creator>
-<dc:creator>Adam Furst</dc:creator>
-<dc:creator>David J Maron</dc:creator>
-<dc:creator>Paul Heidenreich</dc:creator>
-<dc:creator>Neil Kalwani</dc:creator>
-<dc:creator>Ankeet S Bhatt</dc:creator>
-<dc:creator>Alexander T Sandhu</dc:creator>
-<dc:creator>Fatima Rodriguez</dc:creator>
-<dc:date>2024-09-18</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>Low-Density Lipoprotein Cholesterol Control as a Performance Measure: A National Analysis of the VHA</dc:title>
-<dc:identifier>pmid:39293887</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.07.025</dc:identifier>
-</item>
-<item>
-<title>Stopping Trials Early for Benefit: Insights From Recent Pivotal Trials in Chronic Kidney Disease</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39293886/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Sep 24;84(13):1268-1271. doi: 10.1016/j.jacc.2024.07.026.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39293886/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39293886</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.07.026>10.1016/j.jacc.2024.07.026</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39293886</guid>
-<pubDate>Wed, 18 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>Sanjay Kaul</dc:creator>
-<dc:creator>Javed Butler</dc:creator>
-<dc:date>2024-09-18</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>Stopping Trials Early for Benefit: Insights From Recent Pivotal Trials in Chronic Kidney Disease</dc:title>
-<dc:identifier>pmid:39293886</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.07.026</dc:identifier>
-</item>
-<item>
-<title>Treatment of OSA and its Impact on Cardiovascular Disease, Part 2: JACC State-of-the-Art Review</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39293885/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>Many studies have shown an association of obstructive sleep apnea (OSA) with incident cardiovascular diseases, particularly when comorbid with insomnia, excessive sleepiness, obesity hypoventilation syndrome, and chronic obstructive pulmonary disease. Randomized controlled trials (RCTs) have demonstrated that treatment of OSA with positive airway pressure devices (CPAP) improves systemic hypertension, particularly in those with resistant hypertension who are adherent to CPAP. However, large RCTs...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Sep 24;84(13):1224-1240. doi: 10.1016/j.jacc.2024.07.024.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Many studies have shown an association of obstructive sleep apnea (OSA) with incident cardiovascular diseases, particularly when comorbid with insomnia, excessive sleepiness, obesity hypoventilation syndrome, and chronic obstructive pulmonary disease. Randomized controlled trials (RCTs) have demonstrated that treatment of OSA with positive airway pressure devices (CPAP) improves systemic hypertension, particularly in those with resistant hypertension who are adherent to CPAP. However, large RCTs have not shown long-term benefits of CPAP on hard cardiovascular outcomes, but post hoc analyses of these RCTs have demonstrated improved hard outcomes in those who use CPAP adequately. In theory, low CPAP adherence and patient selection may have contributed to neutral results in intention-to-treat analyses. Only by further research into clinical, translational, and basic underlying mechanisms is major progress likely to continue. This review highlights the various treatment approaches for sleep disorders, particularly OSA comorbid with various other disorders, the potential reasons for null results of RCTs treating OSA with CPAP, and suggested approaches for future trials.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39293885/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39293885</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.07.024>10.1016/j.jacc.2024.07.024</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39293885</guid>
-<pubDate>Wed, 18 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>Shahrokh Javaheri</dc:creator>
-<dc:creator>Sogol Javaheri</dc:creator>
-<dc:creator>David Gozal</dc:creator>
-<dc:creator>Francisco Campos-Rodriguez</dc:creator>
-<dc:creator>Miguel Angel Martinez-Garcia</dc:creator>
-<dc:creator>Babak Mokhlesi</dc:creator>
-<dc:creator>Reena Mehra</dc:creator>
-<dc:creator>Walter T McNicholas</dc:creator>
-<dc:creator>Virend K Somers</dc:creator>
-<dc:creator>Phyllis C Zee</dc:creator>
-<dc:creator>Peter Cistulli</dc:creator>
-<dc:creator>Atul Malhotra</dc:creator>
-<dc:date>2024-09-18</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>Treatment of OSA and its Impact on Cardiovascular Disease, Part 2: JACC State-of-the-Art Review</dc:title>
-<dc:identifier>pmid:39293885</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.07.024</dc:identifier>
-</item>
-<item>
-<title>Interactions of Obstructive Sleep Apnea With the Pathophysiology of Cardiovascular Disease, Part 1: JACC State-of-the-Art Review</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39293884/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>The American Heart Association considers sleep health an essential component of cardiovascular health, and sleep is generally a time of cardiovascular quiescence, such that any deviation from normal sleep may be associated with adverse cardiovascular consequences. Many studies have shown that both impaired quantity and quality of sleep, particularly with obstructive sleep apnea (OSA) and comorbid sleep disorders, are associated with incident cardiometabolic consequences. OSA is associated with...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Sep 24;84(13):1208-1223. doi: 10.1016/j.jacc.2024.02.059.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The American Heart Association considers sleep health an essential component of cardiovascular health, and sleep is generally a time of cardiovascular quiescence, such that any deviation from normal sleep may be associated with adverse cardiovascular consequences. Many studies have shown that both impaired quantity and quality of sleep, particularly with obstructive sleep apnea (OSA) and comorbid sleep disorders, are associated with incident cardiometabolic consequences. OSA is associated with repetitive episodes of altered blood gases, arousals, large negative swings in intrathoracic pressures, and increased sympathetic activity. Recent studies show that OSA is also associated with altered gut microbiota, which could contribute to increased risk of cardiovascular disease. OSA has been associated with hypertension, atrial fibrillation, heart failure, coronary artery disease, stroke, and excess cardiovascular mortality. Association of OSA with chronic obstructive lung disease (overlap syndrome) and morbid obesity (obesity hypoventilation syndrome) increases the odds of mortality.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39293884/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39293884</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.02.059>10.1016/j.jacc.2024.02.059</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39293884</guid>
-<pubDate>Wed, 18 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>Shahrokh Javaheri</dc:creator>
-<dc:creator>Sogol Javaheri</dc:creator>
-<dc:creator>Virend K Somers</dc:creator>
-<dc:creator>David Gozal</dc:creator>
-<dc:creator>Babak Mokhlesi</dc:creator>
-<dc:creator>Reena Mehra</dc:creator>
-<dc:creator>Walter T McNicholas</dc:creator>
-<dc:creator>Phyllis C Zee</dc:creator>
-<dc:creator>Francisco Campos-Rodriguez</dc:creator>
-<dc:creator>Miguel Angel Martinez-Garcia</dc:creator>
-<dc:creator>Peter Cistulli</dc:creator>
-<dc:creator>Atul Malhotra</dc:creator>
-<dc:date>2024-09-18</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>Interactions of Obstructive Sleep Apnea With the Pathophysiology of Cardiovascular Disease, Part 1: JACC State-of-the-Art Review</dc:title>
-<dc:identifier>pmid:39293884</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.02.059</dc:identifier>
-</item>
-<item>
-<title>Takotsubo Cardiomyopathy: New Insights Into Long-Term Outcomes</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39293883/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Sep 24;84(13):1175-1177. doi: 10.1016/j.jacc.2024.05.074.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39293883/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39293883</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.05.074>10.1016/j.jacc.2024.05.074</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39293883</guid>
-<pubDate>Wed, 18 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>Peter S Rahko</dc:creator>
-<dc:date>2024-09-18</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>Takotsubo Cardiomyopathy: New Insights Into Long-Term Outcomes</dc:title>
-<dc:identifier>pmid:39293883</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.05.074</dc:identifier>
-</item>
-<item>
-<title>Recovery of Left Ventricular Function and Long-Term Outcomes in Patients With Takotsubo Syndrome</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39293882/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: Late recovery of LV function after TTS is associated with reduced short- and long-term survival. In TTS patients without early LV recovery, closer clinical follow-up might be considered.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Sep 24;84(13):1163-1174. doi: 10.1016/j.jacc.2024.05.075.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Takotsubo syndrome (TTS) is a form of transient left ventricular (LV) dysfunction that usually resolves within days to weeks.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVES: We aimed to assess the predictors and prognostic impact of time-to-LV recovery after TTS.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Prospective serial imaging data from the nationwide, multicenter RETAKO (REgistry on TAKOtsubo Syndrome) were comprehensively reviewed to assess the timing of LV recovery. Multivariable logistic regression was used to assess factors associated with late (≥10 days) vs early (&lt;10 days) recovery. The long-term risk of all-cause mortality was compared between the late and early recovery groups using fully adjusted Cox models, and using flexible parametric survival models with recovery time included as a continuous variable.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Of 1,463 patients included (median age 73 years, 13% men), 373 (25%) had late and 1,090 (75%) had early LV recovery. Older age, history of neurological disorders, bystander coronary artery disease, active cancer, physical triggers, elevated inflammatory biomarkers, cardiogenic shock, and lower LV ejection fraction at admission were independent predictors of late recovery. At 4-year follow-up, the adjusted risk of death was significantly higher in patients with late recovery compared with those with early recovery (16.0% vs 8.6%, adjusted HR: 1.31; 95% CI: 1.12-1.60), with the risk of death increasing by 8% for every additional 10-day delay in time-to-LV recovery (adjusted HR: 1.08; 95% CI: 1.04-1.13).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Late recovery of LV function after TTS is associated with reduced short- and long-term survival. In TTS patients without early LV recovery, closer clinical follow-up might be considered.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39293882/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39293882</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.05.075>10.1016/j.jacc.2024.05.075</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39293882</guid>
-<pubDate>Wed, 18 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>Manuel Almendro-Delia</dc:creator>
-<dc:creator>Luis López-Flores</dc:creator>
-<dc:creator>Aitor Uribarri</dc:creator>
-<dc:creator>Oscar Vedia</dc:creator>
-<dc:creator>Emilia Blanco-Ponce</dc:creator>
-<dc:creator>María Del Carmen López-Flores</dc:creator>
-<dc:creator>Antonio P Rivas-García</dc:creator>
-<dc:creator>Clara Fernández-Cordón</dc:creator>
-<dc:creator>Alessandro Sionis</dc:creator>
-<dc:creator>Agustín C Martín-García</dc:creator>
-<dc:creator>Ravi Vazirani</dc:creator>
-<dc:creator>Miguel Corbí-Pascual</dc:creator>
-<dc:creator>Jorge Salamanca</dc:creator>
-<dc:creator>Alberto Pérez-Castellanos</dc:creator>
-<dc:creator>Manuel Martínez</dc:creator>
-<dc:creator>Víctor Manuel Becerra</dc:creator>
-<dc:creator>David Aritza-Conty</dc:creator>
-<dc:creator>Javier López-País</dc:creator>
-<dc:creator>Marta Guillén-Marzo</dc:creator>
-<dc:creator>Carmen Lluch-Requerey</dc:creator>
-<dc:creator>Juan C García-Rubira</dc:creator>
-<dc:creator>Iván J Núñez-Gil</dc:creator>
-<dc:creator>RETAKO Investigators</dc:creator>
-<dc:date>2024-09-18</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>Recovery of Left Ventricular Function and Long-Term Outcomes in Patients With Takotsubo Syndrome</dc:title>
-<dc:identifier>pmid:39293882</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.05.075</dc:identifier>
-</item>
-<item>
-<title>In vivo DNA replication dynamics unveil aging-dependent replication stress</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39293447/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>The genome duplication program is affected by multiple factors in vivo, including developmental cues, genotoxic stress, and aging. Here, we monitored DNA replication initiation dynamics in regenerating livers of young and old mice after partial hepatectomy to investigate the impact of aging. In young mice, the origin firing sites were well defined; the majority were located 10-50 kb upstream or downstream of expressed genes, and their position on the genome was conserved in human cells. Old mice...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 10:S0092-8674(24)00963-2. doi: 10.1016/j.cell.2024.08.034. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The genome duplication program is affected by multiple factors in vivo, including developmental cues, genotoxic stress, and aging. Here, we monitored DNA replication initiation dynamics in regenerating livers of young and old mice after partial hepatectomy to investigate the impact of aging. In young mice, the origin firing sites were well defined; the majority were located 10-50 kb upstream or downstream of expressed genes, and their position on the genome was conserved in human cells. Old mice displayed the same replication initiation sites, but origin firing was inefficient and accompanied by a replication stress response. Inhibitors of the ATR checkpoint kinase fully restored origin firing efficiency in the old mice but at the expense of an inflammatory response and without significantly enhancing the fraction of hepatocytes entering the cell cycle. These findings unveil aging-dependent replication stress and a crucial role of ATR in mitigating the stress-associated inflammation, a hallmark of aging.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39293447/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39293447</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.08.034>10.1016/j.cell.2024.08.034</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39293447</guid>
-<pubDate>Wed, 18 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>Giacomo G Rossetti</dc:creator>
-<dc:creator>Noëlle Dommann</dc:creator>
-<dc:creator>Angeliki Karamichali</dc:creator>
-<dc:creator>Vasilis S Dionellis</dc:creator>
-<dc:creator>Ainhoa Asensio Aldave</dc:creator>
-<dc:creator>Tural Yarahmadov</dc:creator>
-<dc:creator>Eddie Rodriguez-Carballo</dc:creator>
-<dc:creator>Adrian Keogh</dc:creator>
-<dc:creator>Daniel Candinas</dc:creator>
-<dc:creator>Deborah Stroka</dc:creator>
-<dc:creator>Thanos D Halazonetis</dc:creator>
-<dc:date>2024-09-18</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>In vivo DNA replication dynamics unveil aging-dependent replication stress</dc:title>
-<dc:identifier>pmid:39293447</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2024.08.034</dc:identifier>
-</item>
-<item>
-<title>Fine-grained descending control of steering in walking Drosophila</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39293446/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20240921100817&amp;v=2.18.0.post9+e462414
-      <description>Locomotion involves rhythmic limb movement patterns that originate in circuits outside the brain. Purposeful locomotion requires descending commands from the brain, but we do not understand how these commands are structured. Here, we investigate this issue, focusing on the control of steering in walking Drosophila. First, we describe different limb "gestures" associated with different steering maneuvers. Next, we identify a set of descending neurons whose activity predicts steering. Focusing on...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Sep 13:S0092-8674(24)00962-0. doi: 10.1016/j.cell.2024.08.033. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Locomotion involves rhythmic limb movement patterns that originate in circuits outside the brain. Purposeful locomotion requires descending commands from the brain, but we do not understand how these commands are structured. Here, we investigate this issue, focusing on the control of steering in walking Drosophila. First, we describe different limb "gestures" associated with different steering maneuvers. Next, we identify a set of descending neurons whose activity predicts steering. Focusing on two descending cell types downstream of distinct brain networks, we show that they evoke specific limb gestures: one lengthens strides on the outside of a turn, while the other attenuates strides on the inside of a turn. Our results suggest that a single descending neuron can have opposite effects during different locomotor rhythm phases, and we identify networks positioned to implement this phase-specific gating. Together, our results show how purposeful locomotion emerges from specific, coordinated modulations of low-level patterns.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39293446/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20240921100817&v=2.18.0.post9+e462414">39293446</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.08.033>10.1016/j.cell.2024.08.033</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39293446</guid>
-<pubDate>Wed, 18 Sep 2024 06:00:00 -0400</pubDate>
-<dc:creator>Helen H Yang</dc:creator>
-<dc:creator>Bella E Brezovec</dc:creator>
-<dc:creator>Laia Serratosa Capdevila</dc:creator>
-<dc:creator>Quinn X Vanderbeck</dc:creator>
-<dc:creator>Atsuko Adachi</dc:creator>
-<dc:creator>Richard S Mann</dc:creator>
-<dc:creator>Rachel I Wilson</dc:creator>
-<dc:date>2024-09-18</dc:date>
-<dc:source>Cell</dc:source>
-<dc:title>Fine-grained descending control of steering in walking Drosophila</dc:title>
-<dc:identifier>pmid:39293446</dc:identifier>
-<dc:identifier>doi:10.1016/j.cell.2024.08.033</dc:identifier>
 </item>
 
 

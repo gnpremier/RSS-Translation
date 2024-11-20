@@ -1,20 +1,238 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>心血管高分期刊</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.18.0.post9+e462414&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;utm_source=Chrome&amp;utm_campaign=pubmed-2&amp;ff=20241120111404&amp;fc=20230708114047
+<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;utm_source=Chrome&amp;utm_medium=rss&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.18.0.post9+e462414&amp;ff=20241120131507&amp;utm_campaign=pubmed-2
     <description>心血管高分期刊: Latest results from PubMed</description>
-<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.18.0.post9+e462414&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;utm_source=Chrome&amp;utm_campaign=pubmed-2&amp;ff=20241120111404&amp;fc=20230708114047" rel="self"></atom:link>
+<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;utm_source=Chrome&amp;utm_medium=rss&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.18.0.post9+e462414&amp;ff=20241120131507&amp;utm_campaign=pubmed-2" rel="self"></atom:link>
 <docs>http://www.rssboard.org/rss-specification</docs>
 <generator>PubMed RSS feeds (2.18.0.post9+e462414)</generator>
 <language>en</language>
-<lastbuilddate>Wed, 20 Nov 2024 16:14:05 +0000</lastbuilddate>
+<lastbuilddate>Wed, 20 Nov 2024 18:15:08 +0000</lastbuilddate>
 <pubDate>Wed, 20 Nov 2024 06:00:00 -0500</pubDate>
 <ttl>120</ttl>
 <item>
-<title>Charting the future of cardiology with large language model artificial intelligence</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39562750/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
+<title>Alternative LDL Cholesterol-Lowering Strategy vs High-Intensity Statins in Atherosclerotic Cardiovascular Disease: A Systematic Review and Individual Patient Data Meta-Analysis</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39565634/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS AND RELEVANCE: Results of this systematic review and individual patient data meta-analysis suggest that compared with a high-intensity statin strategy, the alternative LDL cholesterol-lowering strategy demonstrated comparable efficacy regarding 3-year death or cardiovascular events in patients with ASCVD, with an associated reduction in LDL cholesterol levels and risk for new-onset diabetes and intolerance.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Nov 20. doi: 10.1001/jamacardio.2024.3911. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">IMPORTANCE: In patients with atherosclerotic cardiovascular disease (ASCVD), intensive lowering of low-density lipoprotein (LDL) cholesterol levels with high-intensity statins is generally recommended. However, alternative approaches considering statin-related adverse effects and intolerance are needed.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVE: To compare the long-term efficacy and safety of an alternative LDL cholesterol-lowering strategy vs high-intensity statin strategy in patients with ASCVD in randomized clinical trials.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">DATA SOURCES: PubMed, Embase, and other websites (ClinicalTrials.gov, European Society of Cardiology, tctMD) were systematically searched from inception to April 19, 2024.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">STUDY SELECTION: Randomized clinical trials comparing an alternative LDL cholesterol-lowering strategy vs a high-intensity statin strategy in patients with ASCVD, with presence of cardiovascular events as end points.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">DATA EXTRACTION AND SYNTHESIS: Individual patient data were obtained from randomized clinical trials that met the prespecified eligibility criteria: RACING (Randomized Comparison of Efficacy and Safety of Lipid-Lowering With Statin Monotherapy vs Statin/Ezetimibe Combination for High-Risk Cardiovascular Disease) and LODESTAR (Low-Density Lipoprotein Cholesterol-Targeting Statin Therapy vs Intensity-Based Statin Therapy in Patients With Coronary Artery Disease). The moderate-intensity statin with ezetimibe combination therapy in the RACING trial and the treat-to-target strategy in the LODESTAR trial were classified as alternative LDL cholesterol-lowering strategies. The primary analysis was based on a 1-stage approach.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">MAIN OUTCOMES AND MEASURES: The primary end point was a 3-year composite of all-cause death, myocardial infarction, stroke, or coronary revascularization. The secondary end points comprised clinical efficacy and safety end points.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Individual patient data from 2 trials including 8180 patients with ASCVD (mean [SD] age, 64.5 [9.8] years; 2182 [26.7%] female; 5998 male [73.3%]) were analyzed. The rate of the primary end point did not differ between the alternative strategy and high-intensity statin strategy groups (7.5% [304 of 4094] vs 7.7% [310 of 4086]; hazard ratio, 0.98; 95% CI, 0.84-1.15; P = .82). The mean (SD) LDL cholesterol level during treatment was 64.8 (19.0) mg/dL in the alternative strategy group and 68.5 (20.7) mg/dL in the high-intensity statin strategy group (P &lt; .001). The alternative strategy group had a lower rate of new-onset diabetes (10.2% [271 of 2658] vs 11.9% [316 of 2656]; P = .047), initiation of antidiabetic medication for new-onset diabetes (6.5% [173 of 2658] vs 8.2% [217 of 2656]; P = .02), and intolerance-related discontinuation or dose reduction of assigned therapy (4.0% [163 of 4094] vs 6.7% [273 of 4086]; P &lt; .001).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS AND RELEVANCE: Results of this systematic review and individual patient data meta-analysis suggest that compared with a high-intensity statin strategy, the alternative LDL cholesterol-lowering strategy demonstrated comparable efficacy regarding 3-year death or cardiovascular events in patients with ASCVD, with an associated reduction in LDL cholesterol levels and risk for new-onset diabetes and intolerance.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">STUDY REGISTRATION: PROSPERO CRD42024532550.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39565634/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39565634</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.3911>10.1001/jamacardio.2024.3911</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39565634</guid>
+<pubDate>Wed, 20 Nov 2024 06:00:00 -0500</pubDate>
+<dc:creator>Yong-Joon Lee</dc:creator>
+<dc:creator>Bum-Kee Hong</dc:creator>
+<dc:creator>Kyeong Ho Yun</dc:creator>
+<dc:creator>Woong Chol Kang</dc:creator>
+<dc:creator>Soon Jun Hong</dc:creator>
+<dc:creator>Sang-Hyup Lee</dc:creator>
+<dc:creator>Seung-Jun Lee</dc:creator>
+<dc:creator>Sung-Jin Hong</dc:creator>
+<dc:creator>Chul-Min Ahn</dc:creator>
+<dc:creator>Jung-Sun Kim</dc:creator>
+<dc:creator>Byeong-Keuk Kim</dc:creator>
+<dc:creator>Young-Guk Ko</dc:creator>
+<dc:creator>Donghoon Choi</dc:creator>
+<dc:creator>Yangsoo Jang</dc:creator>
+<dc:creator>Myeong-Ki Hong</dc:creator>
+<dc:date>2024-11-20</dc:date>
+<dc:source>JAMA cardiology</dc:source>
+<dc:title>Alternative LDL Cholesterol-Lowering Strategy vs High-Intensity Statins in Atherosclerotic Cardiovascular Disease: A Systematic Review and Individual Patient Data Meta-Analysis</dc:title>
+<dc:identifier>pmid:39565634</dc:identifier>
+<dc:identifier>doi:10.1001/jamacardio.2024.3911</dc:identifier>
+</item>
+<item>
+<title>Palpitations After Transcatheter Atrial Septal Defect Closure</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39565632/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2024 Nov 19. doi: 10.1038/s41569-024-01105-y. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39562750/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39562750</a> | DOI:<a href=https://doi.org/10.1038/s41569-024-01105-y>10.1038/s41569-024-01105-y</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Nov 20. doi: 10.1001/jamacardio.2024.4124. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39565632/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39565632</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.4124>10.1001/jamacardio.2024.4124</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39565632</guid>
+<pubDate>Wed, 20 Nov 2024 06:00:00 -0500</pubDate>
+<dc:creator>Goran Medimurec</dc:creator>
+<dc:creator>Željko Ðuric</dc:creator>
+<dc:creator>Irena Ivanac Vranešic</dc:creator>
+<dc:date>2024-11-20</dc:date>
+<dc:source>JAMA cardiology</dc:source>
+<dc:title>Palpitations After Transcatheter Atrial Septal Defect Closure</dc:title>
+<dc:identifier>pmid:39565632</dc:identifier>
+<dc:identifier>doi:10.1001/jamacardio.2024.4124</dc:identifier>
+</item>
+<item>
+<title>Xylitol exposure and cardiovascular risk</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39565331/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Nov 20:ehae730. doi: 10.1093/eurheartj/ehae730. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39565331/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39565331</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae730>10.1093/eurheartj/ehae730</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39565331</guid>
+<pubDate>Wed, 20 Nov 2024 06:00:00 -0500</pubDate>
+<dc:creator>Bettina K Wölnerhanssen</dc:creator>
+<dc:creator>Anne Christin Meyer-Gerspach</dc:creator>
+<dc:creator>Arduino Arduini</dc:creator>
+<dc:date>2024-11-20</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Xylitol exposure and cardiovascular risk</dc:title>
+<dc:identifier>pmid:39565331</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae730</dc:identifier>
+</item>
+<item>
+<title>Gold standard: Karin Sipido honoured for pioneering work</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39565328/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Nov 20:ehae741. doi: 10.1093/eurheartj/ehae741. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39565328/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39565328</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae741>10.1093/eurheartj/ehae741</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39565328</guid>
+<pubDate>Wed, 20 Nov 2024 06:00:00 -0500</pubDate>
+<dc:creator>Judith Ozkan</dc:creator>
+<dc:date>2024-11-20</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Gold standard: Karin Sipido honoured for pioneering work</dc:title>
+<dc:identifier>pmid:39565328</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae741</dc:identifier>
+</item>
+<item>
+<title>Non-bacterial thrombotic endocarditis: a clinical and pathophysiological reappraisal</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39565324/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
+      <description>Non-bacterial thrombotic endocarditis (NBTE), formerly recognized as marantic endocarditis, represents a rare cardiovascular pathology intricately linked with hypercoagulable states, notably malignancy and autoimmune disorders. Characterized by the development of sterile vegetations comprised of fibrin and platelets on cardiac valves, NBTE poses a diagnostic challenge due to its resemblance to infective endocarditis. Therapeutic endeavours primarily revolve around addressing the underlying...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Nov 20:ehae788. doi: 10.1093/eurheartj/ehae788. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Non-bacterial thrombotic endocarditis (NBTE), formerly recognized as marantic endocarditis, represents a rare cardiovascular pathology intricately linked with hypercoagulable states, notably malignancy and autoimmune disorders. Characterized by the development of sterile vegetations comprised of fibrin and platelets on cardiac valves, NBTE poses a diagnostic challenge due to its resemblance to infective endocarditis. Therapeutic endeavours primarily revolve around addressing the underlying aetiology and instituting anticoagulant regimens to forestall embolic events, with surgical intervention seldom warranted. Non-bacterial thrombotic endocarditis frequently coexists with malignancies and autoimmune conditions, such as lupus and antiphospholipid antibody syndrome, and, more recently, has been associated with COVID-19. Its pathogenesis is underpinned by a complex interplay of endothelial dysfunction, hypercoagulability, hypoxia, and immune complex deposition. Clinical manifestations typically manifest as embolic phenomena, particularly cerebrovascular accidents, bearing substantial mortality rates. Diagnosis necessitates a high index of suspicion and meticulous exclusion of infective endocarditis, often facilitated by advanced cardiac imaging modalities. Anticoagulation, typically employing low molecular weight heparin or warfarin, constitutes the cornerstone of pharmacological intervention. Surgical recourse may be warranted in instances of refractory heart failure or recurrent embolic events. Given its multifaceted nature, the management of NBTE mandates a multidisciplinary approach, with prognosis contingent upon individual clinical intricacies. Future endeavours should prioritize further research to refine therapeutic strategies and enhance patient outcomes.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39565324/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39565324</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae788>10.1093/eurheartj/ehae788</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39565324</guid>
+<pubDate>Wed, 20 Nov 2024 06:00:00 -0500</pubDate>
+<dc:creator>Omair Ahmed</dc:creator>
+<dc:creator>Nicholas E King</dc:creator>
+<dc:creator>Muhammad Ahmad Qureshi</dc:creator>
+<dc:creator>Abira Afzal Choudhry</dc:creator>
+<dc:creator>Muhammad Osama</dc:creator>
+<dc:creator>Carl Zehner</dc:creator>
+<dc:creator>Abdelrahman Ali</dc:creator>
+<dc:creator>Ihab R Hamzeh</dc:creator>
+<dc:creator>Nicolas L Palaskas</dc:creator>
+<dc:creator>Kara A Thompson</dc:creator>
+<dc:creator>Efstratios Koutroumpakis</dc:creator>
+<dc:creator>Anita Deswal</dc:creator>
+<dc:creator>Syed Wamique Yusuf</dc:creator>
+<dc:date>2024-11-20</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Non-bacterial thrombotic endocarditis: a clinical and pathophysiological reappraisal</dc:title>
+<dc:identifier>pmid:39565324</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae788</dc:identifier>
+</item>
+<item>
+<title>In memoriam: George L. Bakris, MD, 1952-2024</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39565322/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Nov 20:ehae779. doi: 10.1093/eurheartj/ehae779. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39565322/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39565322</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae779>10.1093/eurheartj/ehae779</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39565322</guid>
+<pubDate>Wed, 20 Nov 2024 06:00:00 -0500</pubDate>
+<dc:creator>Matthew R Weir</dc:creator>
+<dc:date>2024-11-20</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>In memoriam: George L. Bakris, MD, 1952-2024</dc:title>
+<dc:identifier>pmid:39565322</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae779</dc:identifier>
+</item>
+<item>
+<title>Erythritol and xylitol and cardiovascular disease risk: a growing concern</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39565321/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Nov 20:ehae729. doi: 10.1093/eurheartj/ehae729. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39565321/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39565321</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae729>10.1093/eurheartj/ehae729</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39565321</guid>
+<pubDate>Wed, 20 Nov 2024 06:00:00 -0500</pubDate>
+<dc:creator>Marco Witkowski</dc:creator>
+<dc:creator>Stanley L Hazen</dc:creator>
+<dc:date>2024-11-20</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Erythritol and xylitol and cardiovascular disease risk: a growing concern</dc:title>
+<dc:identifier>pmid:39565321</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae729</dc:identifier>
+</item>
+<item>
+<title>Elevated serum xylitol levels and cardiovascular risk: an active component or an innocent bystander?</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39565320/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Nov 20:ehae731. doi: 10.1093/eurheartj/ehae731. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39565320/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39565320</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae731>10.1093/eurheartj/ehae731</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39565320</guid>
+<pubDate>Wed, 20 Nov 2024 06:00:00 -0500</pubDate>
+<dc:creator>Mario Bonomini</dc:creator>
+<dc:creator>Valentina Masola</dc:creator>
+<dc:creator>Edoardo Gronda</dc:creator>
+<dc:date>2024-11-20</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Elevated serum xylitol levels and cardiovascular risk: an active component or an innocent bystander?</dc:title>
+<dc:identifier>pmid:39565320</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae731</dc:identifier>
+</item>
+<item>
+<title>Olpasiran lowering of lipoprotein(a) according to baseline levels: insights from the OCEAN(a)-DOSE study</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39565305/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Nov 20:ehae781. doi: 10.1093/eurheartj/ehae781. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39565305/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39565305</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae781>10.1093/eurheartj/ehae781</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39565305</guid>
+<pubDate>Wed, 20 Nov 2024 06:00:00 -0500</pubDate>
+<dc:creator>Gurleen Kaur</dc:creator>
+<dc:creator>Robert S Rosenson</dc:creator>
+<dc:creator>Baris Gencer</dc:creator>
+<dc:creator>J Antonio G López</dc:creator>
+<dc:creator>Norman E Lepor</dc:creator>
+<dc:creator>Seth J Baum</dc:creator>
+<dc:creator>Elmer Stout</dc:creator>
+<dc:creator>Daniel Gaudet</dc:creator>
+<dc:creator>Beat Knusel</dc:creator>
+<dc:creator>Jeong-Gun Park</dc:creator>
+<dc:creator>Huei Wang</dc:creator>
+<dc:creator>You Wu</dc:creator>
+<dc:creator>Helina Kassahun</dc:creator>
+<dc:creator>Marc S Sabatine</dc:creator>
+<dc:creator>Michelle L O'Donoghue</dc:creator>
+<dc:date>2024-11-20</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Olpasiran lowering of lipoprotein(a) according to baseline levels: insights from the OCEAN(a)-DOSE study</dc:title>
+<dc:identifier>pmid:39565305</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae781</dc:identifier>
+</item>
+<item>
+<title>A European network to develop virtual twin technology for personalized stroke management in atrial fibrillation: the TARGET consortium</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39565293/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Nov 20:ehae673. doi: 10.1093/eurheartj/ehae673. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39565293/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39565293</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae673>10.1093/eurheartj/ehae673</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39565293</guid>
+<pubDate>Wed, 20 Nov 2024 06:00:00 -0500</pubDate>
+<dc:creator>Sandra Ortega-Martorell</dc:creator>
+<dc:creator>Ivan Olier</dc:creator>
+<dc:creator>Gregory Y H Lip</dc:creator>
+<dc:creator>TARGET consortium</dc:creator>
+<dc:date>2024-11-20</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>A European network to develop virtual twin technology for personalized stroke management in atrial fibrillation: the TARGET consortium</dc:title>
+<dc:identifier>pmid:39565293</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae673</dc:identifier>
+</item>
+<item>
+<title>Happy birthday, Dr Braunwald!</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39565290/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Nov 20:ehae725. doi: 10.1093/eurheartj/ehae725. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39565290/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39565290</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae725>10.1093/eurheartj/ehae725</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39565290</guid>
+<pubDate>Wed, 20 Nov 2024 06:00:00 -0500</pubDate>
+<dc:creator>Peter Libby</dc:creator>
+<dc:creator>Marc A Pfeffer</dc:creator>
+<dc:date>2024-11-20</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Happy birthday, Dr Braunwald!</dc:title>
+<dc:identifier>pmid:39565290</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae725</dc:identifier>
+</item>
+<item>
+<title>Meet the team: editors Sean van Diepen, Kapka Miteva, Antoine Bondue, and Konstantinos Stellos</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39565281/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Nov 20:ehae712. doi: 10.1093/eurheartj/ehae712. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39565281/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39565281</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae712>10.1093/eurheartj/ehae712</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39565281</guid>
+<pubDate>Wed, 20 Nov 2024 06:00:00 -0500</pubDate>
+<dc:date>2024-11-20</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Meet the team: editors Sean van Diepen, Kapka Miteva, Antoine Bondue, and Konstantinos Stellos</dc:title>
+<dc:identifier>pmid:39565281</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae712</dc:identifier>
+</item>
+<item>
+<title>Charting the future of cardiology with large language model artificial intelligence</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39562750/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2024 Nov 19. doi: 10.1038/s41569-024-01105-y. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39562750/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39562750</a> | DOI:<a href=https://doi.org/10.1038/s41569-024-01105-y>10.1038/s41569-024-01105-y</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39562750</guid>
 <pubDate>Wed, 20 Nov 2024 06:00:00 -0500</pubDate>
 <dc:creator>Ramsey M Wehbe</dc:creator>
@@ -26,9 +244,9 @@
 </item>
 <item>
 <title>Glia-like taste cells mediate an intercellular mode of peripheral sweet adaptation</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39561773/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39561773/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
       <description>The sense of taste generally shows diminishing sensitivity to prolonged sweet stimuli, referred to as sweet adaptation. Yet, its mechanistic landscape remains incomplete. Here, we report that glia-like type I cells provide a distinct mode of sweet adaptation via intercellular crosstalk with chemosensory type II cells. Using the microfluidic-based intravital tongue imaging system, we found that sweet adaptation is facilitated along the synaptic transduction from type II cells to gustatory...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Nov 9:S0092-8674(24)01258-3. doi: 10.1016/j.cell.2024.10.041. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The sense of taste generally shows diminishing sensitivity to prolonged sweet stimuli, referred to as sweet adaptation. Yet, its mechanistic landscape remains incomplete. Here, we report that glia-like type I cells provide a distinct mode of sweet adaptation via intercellular crosstalk with chemosensory type II cells. Using the microfluidic-based intravital tongue imaging system, we found that sweet adaptation is facilitated along the synaptic transduction from type II cells to gustatory afferent nerves, while type I cells display temporally delayed and prolonged activities. We identified that type I cells receive purinergic input from adjacent type II cells via P2RY2 and provide inhibitory feedback to the synaptic transduction of sweet taste. Aligning with our cellular-level findings, purinergic activation of type I cells attenuated sweet licking behavior, and P2RY2 knockout mice showed decelerated adaptation behavior. Our study highlights a veiled intercellular mode of sweet adaptation, potentially contributing to the efficient encoding of prolonged sweetness.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39561773/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39561773</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.10.041>10.1016/j.cell.2024.10.041</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Nov 9:S0092-8674(24)01258-3. doi: 10.1016/j.cell.2024.10.041. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The sense of taste generally shows diminishing sensitivity to prolonged sweet stimuli, referred to as sweet adaptation. Yet, its mechanistic landscape remains incomplete. Here, we report that glia-like type I cells provide a distinct mode of sweet adaptation via intercellular crosstalk with chemosensory type II cells. Using the microfluidic-based intravital tongue imaging system, we found that sweet adaptation is facilitated along the synaptic transduction from type II cells to gustatory afferent nerves, while type I cells display temporally delayed and prolonged activities. We identified that type I cells receive purinergic input from adjacent type II cells via P2RY2 and provide inhibitory feedback to the synaptic transduction of sweet taste. Aligning with our cellular-level findings, purinergic activation of type I cells attenuated sweet licking behavior, and P2RY2 knockout mice showed decelerated adaptation behavior. Our study highlights a veiled intercellular mode of sweet adaptation, potentially contributing to the efficient encoding of prolonged sweetness.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39561773/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39561773</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.10.041>10.1016/j.cell.2024.10.041</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39561773</guid>
 <pubDate>Tue, 19 Nov 2024 06:00:00 -0500</pubDate>
 <dc:creator>Gha Yeon Park</dc:creator>
@@ -50,9 +268,9 @@
 </item>
 <item>
 <title>STOPDAPT-3 one-year results support similar efficacy and safety of aspirin and clopidogrel after percutaneous coronary intervention</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39560672/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39560672/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Nov 19:ehae773. doi: 10.1093/eurheartj/ehae773. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39560672/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39560672</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae773>10.1093/eurheartj/ehae773</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Nov 19:ehae773. doi: 10.1093/eurheartj/ehae773. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39560672/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39560672</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae773>10.1093/eurheartj/ehae773</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39560672</guid>
 <pubDate>Tue, 19 Nov 2024 06:00:00 -0500</pubDate>
 <dc:creator>Rocco Vergallo</dc:creator>
@@ -65,9 +283,9 @@
 </item>
 <item>
 <title>Stroke risk in device-detected atrial fibrillation is modulated by the continuum of vascular disease burden</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39560670/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39560670/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Nov 19:ehae797. doi: 10.1093/eurheartj/ehae797. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39560670/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39560670</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae797>10.1093/eurheartj/ehae797</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Nov 19:ehae797. doi: 10.1093/eurheartj/ehae797. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39560670/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39560670</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae797>10.1093/eurheartj/ehae797</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39560670</guid>
 <pubDate>Tue, 19 Nov 2024 06:00:00 -0500</pubDate>
 <dc:creator>Dominik Linz</dc:creator>
@@ -80,9 +298,9 @@
 </item>
 <item>
 <title>First past the post: research on endurance exercise wins the Desmond Julian Award</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39560667/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39560667/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Nov 19:ehae750. doi: 10.1093/eurheartj/ehae750. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39560667/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39560667</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae750>10.1093/eurheartj/ehae750</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Nov 19:ehae750. doi: 10.1093/eurheartj/ehae750. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39560667/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39560667</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae750>10.1093/eurheartj/ehae750</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39560667</guid>
 <pubDate>Tue, 19 Nov 2024 06:00:00 -0500</pubDate>
 <dc:creator>Judith Ozkan</dc:creator>
@@ -94,9 +312,9 @@
 </item>
 <item>
 <title>Cholesterol crystals in the pathogenesis of atherosclerosis</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39558130/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39558130/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
       <description>The presence of cholesterol crystals (CCs) in tissues was first described more than 100 years ago. CCs have a pathogenic role in various cardiovascular diseases, including myocardial infarction, aortic aneurysm and, most prominently, atherosclerosis. Although the underlying mechanisms and signalling pathways involved in CC formation are incompletely understood, numerous studies have highlighted the existence of CCs at various stages of atheroma progression. In this Review, we summarize the...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2024 Nov 18. doi: 10.1038/s41569-024-01100-3. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The presence of cholesterol crystals (CCs) in tissues was first described more than 100 years ago. CCs have a pathogenic role in various cardiovascular diseases, including myocardial infarction, aortic aneurysm and, most prominently, atherosclerosis. Although the underlying mechanisms and signalling pathways involved in CC formation are incompletely understood, numerous studies have highlighted the existence of CCs at various stages of atheroma progression. In this Review, we summarize the mechanisms underlying CC formation and the role of CCs in cardiovascular disease. In particular, we explore the established links between lipid metabolism across various cell types and the formation of CCs, with a focus on CC occurrence in the vasculature. We also discuss CC-induced inflammation as one of the pathogenic features of CCs in the atheroma. Finally, we summarize the therapeutic strategies aimed at reducing CC-mediated atherosclerotic burden, including approaches to inhibit CC formation in the vasculature or to mitigate the inflammatory response triggered by CCs. Addressing CC formation might emerge as a crucial component in our broader efforts to combat cardiovascular disease.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39558130/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39558130</a> | DOI:<a href=https://doi.org/10.1038/s41569-024-01100-3>10.1038/s41569-024-01100-3</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2024 Nov 18. doi: 10.1038/s41569-024-01100-3. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The presence of cholesterol crystals (CCs) in tissues was first described more than 100 years ago. CCs have a pathogenic role in various cardiovascular diseases, including myocardial infarction, aortic aneurysm and, most prominently, atherosclerosis. Although the underlying mechanisms and signalling pathways involved in CC formation are incompletely understood, numerous studies have highlighted the existence of CCs at various stages of atheroma progression. In this Review, we summarize the mechanisms underlying CC formation and the role of CCs in cardiovascular disease. In particular, we explore the established links between lipid metabolism across various cell types and the formation of CCs, with a focus on CC occurrence in the vasculature. We also discuss CC-induced inflammation as one of the pathogenic features of CCs in the atheroma. Finally, we summarize the therapeutic strategies aimed at reducing CC-mediated atherosclerotic burden, including approaches to inhibit CC formation in the vasculature or to mitigate the inflammatory response triggered by CCs. Addressing CC formation might emerge as a crucial component in our broader efforts to combat cardiovascular disease.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39558130/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39558130</a> | DOI:<a href=https://doi.org/10.1038/s41569-024-01100-3>10.1038/s41569-024-01100-3</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39558130</guid>
 <pubDate>Mon, 18 Nov 2024 06:00:00 -0500</pubDate>
 <dc:creator>Yvonne Baumer</dc:creator>
@@ -110,9 +328,9 @@
 </item>
 <item>
 <title>Semaglutide Eligibility Across All Current Indications for US Adults</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39556764/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39556764/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Nov 18:e244657. doi: 10.1001/jamacardio.2024.4657. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39556764/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39556764</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC11574724/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">PMC11574724</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.4657>10.1001/jamacardio.2024.4657</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Nov 18:e244657. doi: 10.1001/jamacardio.2024.4657. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39556764/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39556764</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC11574724/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">PMC11574724</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.4657>10.1001/jamacardio.2024.4657</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39556764</guid>
 <pubDate>Mon, 18 Nov 2024 06:00:00 -0500</pubDate>
 <dc:creator>Ivy Shi</dc:creator>
@@ -130,9 +348,9 @@
 </item>
 <item>
 <title>Effects of Tirzepatide on the Clinical Trajectory of Patients with Heart Failure, a Preserved Ejection Fraction, and Obesity</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39556714/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39556714/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
       <description>CONCLUSIONS: Tirzepatide produced a comprehensive, meaningful improvement in heart failure across multiple complementary domains; enhanced health status, quality of life, functional capacity, exercise tolerance and well-being; and reduced symptoms and medication burden in patients with HFpEF and obesity.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Nov 18. doi: 10.1161/CIRCULATIONAHA.124.072679. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Patients with heart failure, a preserved ejection fraction (HFpEF), and obesity have significant disability and suffer frequent exacerbations of heart failure. We hypothesized that tirzepatide, a long-acting agonist of glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptors, would improve a comprehensive suite of clinical endpoints, including measures of health status, functional capacity, quality of life, exercise tolerance, patient well-being, and medication burden in these patients.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: 731 patients in class II-IV heart failure, ejection fraction ≥50%, and body mass index ≥30 kg/m<sup>2</sup> were randomized(double-blind) to tirzepatide(titrated up to 15mg subcutaneously weekly)(n=364) or placebo(n=367), added to background therapy for a median of 104 weeks (Q1=66, Q3=126 weeks).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">PRIMARY ENDPOINTS: tirzepatide reduced the combined risk of cardiovascular death or worsening heart failure and improved Kansas City Cardiomyopathy Questionnaire Clinical Summary Score(KCCQ-CSS). The current expanded analysis included sensitivity analyses of the primary endpoints, 6-minute walk distance(6MWD), EQ-5D-5L health state index, Patient Global Impression of Severity Overall Health(PGIS), NYHA class, use of heart failure medications, and a hierarchical composite based on all-cause death, worsening heart failure, and 52-week changes in KCCQ-CSS and 6MWD.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Patients were aged 65.2±10.7, 53.8%(n=393) were female; BMI 38.2±6.7kg/m<sup>2</sup>, KCCQ-CSS 53.5±18.5, 6MWD 302.8±81.7meters, and 53%(n=388) had a worsening heart failure event in the prior 12 months. Compared with placebo, tirzepatide produced a consistent beneficial effect across all composites of death and worsening heart failure events, analyzed as time-to-first-event (hazard ratios 0.41-0.67). At 52 weeks, tirzepatide increased KCCQ-CSS 6.9 points (95%CI, 3.3, 10.6, P&lt;0.001), 6MWD 18.3 meters (95%CI, 9.9, 26.7, P&lt;0.001) and EQ-5D-5L 0.06 (95%CI, 0.03, 0.09, P&lt;0.001). The tirzepatide group shifted to a more favorable PGIS (proportional odds ratio 1.99 (95%CI, 1.44, 2.76) and NYHA class (proportional odds ratio 2.26 (95%CI, 1.54, 3.31), both P&lt;0.001 and required less heart failure medications (P=0.015). The broad spectrum of effects was reflected in benefits on the hierarchical composite (win ratio 1.63, 95%CI, 1.17, 2.28;P=0.004).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Tirzepatide produced a comprehensive, meaningful improvement in heart failure across multiple complementary domains; enhanced health status, quality of life, functional capacity, exercise tolerance and well-being; and reduced symptoms and medication burden in patients with HFpEF and obesity.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39556714/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39556714</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.072679>10.1161/CIRCULATIONAHA.124.072679</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Nov 18. doi: 10.1161/CIRCULATIONAHA.124.072679. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Patients with heart failure, a preserved ejection fraction (HFpEF), and obesity have significant disability and suffer frequent exacerbations of heart failure. We hypothesized that tirzepatide, a long-acting agonist of glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptors, would improve a comprehensive suite of clinical endpoints, including measures of health status, functional capacity, quality of life, exercise tolerance, patient well-being, and medication burden in these patients.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: 731 patients in class II-IV heart failure, ejection fraction ≥50%, and body mass index ≥30 kg/m<sup>2</sup> were randomized(double-blind) to tirzepatide(titrated up to 15mg subcutaneously weekly)(n=364) or placebo(n=367), added to background therapy for a median of 104 weeks (Q1=66, Q3=126 weeks).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">PRIMARY ENDPOINTS: tirzepatide reduced the combined risk of cardiovascular death or worsening heart failure and improved Kansas City Cardiomyopathy Questionnaire Clinical Summary Score(KCCQ-CSS). The current expanded analysis included sensitivity analyses of the primary endpoints, 6-minute walk distance(6MWD), EQ-5D-5L health state index, Patient Global Impression of Severity Overall Health(PGIS), NYHA class, use of heart failure medications, and a hierarchical composite based on all-cause death, worsening heart failure, and 52-week changes in KCCQ-CSS and 6MWD.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Patients were aged 65.2±10.7, 53.8%(n=393) were female; BMI 38.2±6.7kg/m<sup>2</sup>, KCCQ-CSS 53.5±18.5, 6MWD 302.8±81.7meters, and 53%(n=388) had a worsening heart failure event in the prior 12 months. Compared with placebo, tirzepatide produced a consistent beneficial effect across all composites of death and worsening heart failure events, analyzed as time-to-first-event (hazard ratios 0.41-0.67). At 52 weeks, tirzepatide increased KCCQ-CSS 6.9 points (95%CI, 3.3, 10.6, P&lt;0.001), 6MWD 18.3 meters (95%CI, 9.9, 26.7, P&lt;0.001) and EQ-5D-5L 0.06 (95%CI, 0.03, 0.09, P&lt;0.001). The tirzepatide group shifted to a more favorable PGIS (proportional odds ratio 1.99 (95%CI, 1.44, 2.76) and NYHA class (proportional odds ratio 2.26 (95%CI, 1.54, 3.31), both P&lt;0.001 and required less heart failure medications (P=0.015). The broad spectrum of effects was reflected in benefits on the hierarchical composite (win ratio 1.63, 95%CI, 1.17, 2.28;P=0.004).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Tirzepatide produced a comprehensive, meaningful improvement in heart failure across multiple complementary domains; enhanced health status, quality of life, functional capacity, exercise tolerance and well-being; and reduced symptoms and medication burden in patients with HFpEF and obesity.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39556714/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39556714</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.072679>10.1161/CIRCULATIONAHA.124.072679</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39556714</guid>
 <pubDate>Mon, 18 Nov 2024 06:00:00 -0500</pubDate>
 <dc:creator>Michael R Zile</dc:creator>
@@ -156,9 +374,9 @@
 </item>
 <item>
 <title>Correction to: 2024 AHA/ACC/ACS/ASNC/HRS/SCA/SCCT/SCMR/SVM Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39556658/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39556658/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120131507&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Nov 19;150(21):e466. doi: 10.1161/CIR.0000000000001298. Epub 2024 Nov 18.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39556658/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39556658</a> | DOI:<a href=https://doi.org/10.1161/CIR.0000000000001298>10.1161/CIR.0000000000001298</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Nov 19;150(21):e466. doi: 10.1161/CIR.0000000000001298. Epub 2024 Nov 18.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39556658/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120131507&v=2.18.0.post9+e462414">39556658</a> | DOI:<a href=https://doi.org/10.1161/CIR.0000000000001298>10.1161/CIR.0000000000001298</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39556658</guid>
 <pubDate>Mon, 18 Nov 2024 06:00:00 -0500</pubDate>
 <dc:date>2024-11-18</dc:date>
@@ -166,272 +384,6 @@
 <dc:title>Correction to: 2024 AHA/ACC/ACS/ASNC/HRS/SCA/SCCT/SCMR/SVM Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines</dc:title>
 <dc:identifier>pmid:39556658</dc:identifier>
 <dc:identifier>doi:10.1161/CIR.0000000000001298</dc:identifier>
-</item>
-<item>
-<title>Atrial Arrhythmias After PFO Device Closure: Common, Clinically Important, and Preventable?</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39556657/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Nov 19;150(21):1669-1670. doi: 10.1161/CIRCULATIONAHA.124.071851. Epub 2024 Nov 18.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39556657/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39556657</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.071851>10.1161/CIRCULATIONAHA.124.071851</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39556657</guid>
-<pubDate>Mon, 18 Nov 2024 06:00:00 -0500</pubDate>
-<dc:creator>Jonathan M Tobis</dc:creator>
-<dc:creator>John D Carroll</dc:creator>
-<dc:date>2024-11-18</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Atrial Arrhythmias After PFO Device Closure: Common, Clinically Important, and Preventable?</dc:title>
-<dc:identifier>pmid:39556657</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.071851</dc:identifier>
-</item>
-<item>
-<title>Precision Medicine for Cardiovascular Prevention and Population Health: A Bridge Too Far?</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39556656/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
-      <description>Precision medicine aims to provide personalized clinical care guided by tools that reflect underlying pathophysiology. The need for such an approach has never been greater in cardiovascular medicine, given the large number of guideline-directed medical therapies available. However, progress has been modest to date with few precision tools available for clinicians. Arguably, cardiovascular prevention and population health are poised for innovation to guide evaluation and management, as these...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Nov 19;150(21):1720-1731. doi: 10.1161/CIRCULATIONAHA.124.070081. Epub 2024 Nov 18.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Precision medicine aims to provide personalized clinical care guided by tools that reflect underlying pathophysiology. The need for such an approach has never been greater in cardiovascular medicine, given the large number of guideline-directed medical therapies available. However, progress has been modest to date with few precision tools available for clinicians. Arguably, cardiovascular prevention and population health are poised for innovation to guide evaluation and management, as these areas are already informed by risk-assessment, but limited by the use of crude assessment tools with marginal performance. Risk assessment in prevention and population health may be improved with the use of genetics, circulating biomarkers, and imaging, leading to outcome-specific risk-prediction and enhanced phenotyping. Personalized management matching therapy to risk profile can be then implemented for either individuals or groups, improving cost-effectiveness and risk-benefit. Here, we explore this precision-like approach, including available tools, potential applications, and future perspectives for cardiovascular prevention and population health management.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39556656/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39556656</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC11575940/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">PMC11575940</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.070081>10.1161/CIRCULATIONAHA.124.070081</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39556656</guid>
-<pubDate>Mon, 18 Nov 2024 06:00:00 -0500</pubDate>
-<dc:creator>Fernando R Giugni</dc:creator>
-<dc:creator>Jarett D Berry</dc:creator>
-<dc:creator>Amit Khera</dc:creator>
-<dc:creator>Amil M Shah</dc:creator>
-<dc:creator>James A de Lemos</dc:creator>
-<dc:date>2024-11-18</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Precision Medicine for Cardiovascular Prevention and Population Health: A Bridge Too Far?</dc:title>
-<dc:identifier>pmid:39556656</dc:identifier>
-<dc:identifier>pmc:PMC11575940</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.070081</dc:identifier>
-</item>
-<item>
-<title>Screening for Cardiac Involvement in Carriers of Pathogenic &lt;em>;TTR&lt;/em>; Variants: Proposal for an Approach Based on High-Sensitivity Troponin</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39556655/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Nov 19;150(21):1656-1658. doi: 10.1161/CIRCULATIONAHA.124.071253. Epub 2024 Nov 18.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39556655/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39556655</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.071253>10.1161/CIRCULATIONAHA.124.071253</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39556655</guid>
-<pubDate>Mon, 18 Nov 2024 06:00:00 -0500</pubDate>
-<dc:creator>Alberto Aimo</dc:creator>
-<dc:creator>Chiara Sanguinetti</dc:creator>
-<dc:creator>Maria Franzini</dc:creator>
-<dc:date>2024-11-18</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Screening for Cardiac Involvement in Carriers of Pathogenic &lt;em>;TTR&lt;/em>; Variants: Proposal for an Approach Based on High-Sensitivity Troponin</dc:title>
-<dc:identifier>pmid:39556655</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.071253</dc:identifier>
-</item>
-<item>
-<title>Highlights From the &lt;em>;Circulation&lt;/em>; Family of Journals</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39556654/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Nov 19;150(21):1732-1736. doi: 10.1161/CIRCULATIONAHA.124.072367. Epub 2024 Nov 18.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39556654/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39556654</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.072367>10.1161/CIRCULATIONAHA.124.072367</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39556654</guid>
-<pubDate>Mon, 18 Nov 2024 06:00:00 -0500</pubDate>
-<dc:date>2024-11-18</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Highlights From the &lt;em>;Circulation&lt;/em>; Family of Journals</dc:title>
-<dc:identifier>pmid:39556654</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.072367</dc:identifier>
-</item>
-<item>
-<title>Pulmonary Hypertension: From Therapeutic Nihilism to Multiple Therapeutic Interventions</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39556653/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Nov 19;150(21):1653-1655. doi: 10.1161/CIRCULATIONAHA.124.070104. Epub 2024 Nov 18.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39556653/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39556653</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.070104>10.1161/CIRCULATIONAHA.124.070104</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39556653</guid>
-<pubDate>Mon, 18 Nov 2024 06:00:00 -0500</pubDate>
-<dc:creator>Vallerie V McLaughlin</dc:creator>
-<dc:creator>Marc Humbert</dc:creator>
-<dc:date>2024-11-18</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Pulmonary Hypertension: From Therapeutic Nihilism to Multiple Therapeutic Interventions</dc:title>
-<dc:identifier>pmid:39556653</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.070104</dc:identifier>
-</item>
-<item>
-<title>Letter by Lucijanic and Krecak Regarding Article, "Clonal Hematopoiesis of Indeterminate Potential With Loss of &lt;em>;Tet2&lt;/em>; Enhances Risk for Atrial Fibrillation Through &lt;em>;Nlrp3&lt;/em>; Inflammasome Activation"</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39556652/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Nov 19;150(21):e447-e448. doi: 10.1161/CIRCULATIONAHA.124.069352. Epub 2024 Nov 18.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39556652/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39556652</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.069352>10.1161/CIRCULATIONAHA.124.069352</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39556652</guid>
-<pubDate>Mon, 18 Nov 2024 06:00:00 -0500</pubDate>
-<dc:creator>Marko Lucijanic</dc:creator>
-<dc:creator>Ivan Krecak</dc:creator>
-<dc:date>2024-11-18</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Letter by Lucijanic and Krecak Regarding Article, "Clonal Hematopoiesis of Indeterminate Potential With Loss of &lt;em>;Tet2&lt;/em>; Enhances Risk for Atrial Fibrillation Through &lt;em>;Nlrp3&lt;/em>; Inflammasome Activation"</dc:title>
-<dc:identifier>pmid:39556652</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.069352</dc:identifier>
-</item>
-<item>
-<title>Low-Density Lipoprotein Cholesterol Level Distributions Across Different Ages: Implications for Screening Children for Severe and Familial Hypercholesterolemia</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39556651/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Nov 19;150(21):1741-1744. doi: 10.1161/CIRCULATIONAHA.124.069792. Epub 2024 Nov 18.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39556651/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39556651</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.069792>10.1161/CIRCULATIONAHA.124.069792</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39556651</guid>
-<pubDate>Mon, 18 Nov 2024 06:00:00 -0500</pubDate>
-<dc:creator>Junxiu Liu</dc:creator>
-<dc:creator>Brandon K Bellows</dc:creator>
-<dc:creator>David R Jacobs</dc:creator>
-<dc:creator>Jessica G Woo</dc:creator>
-<dc:creator>Elaine M Urbina</dc:creator>
-<dc:creator>Pallavi P Balte</dc:creator>
-<dc:creator>Elizabeth C Oelsner</dc:creator>
-<dc:creator>Dhruv S Kazi</dc:creator>
-<dc:creator>David Siscovick</dc:creator>
-<dc:creator>Norrina B Allen</dc:creator>
-<dc:creator>Jamal S Rana</dc:creator>
-<dc:creator>John T Wilkins</dc:creator>
-<dc:creator>Michael E Hall</dc:creator>
-<dc:creator>Lydia A Bazzano</dc:creator>
-<dc:creator>Trudy L Burns</dc:creator>
-<dc:creator>Stephen R Daniels</dc:creator>
-<dc:creator>Terence Dwyer</dc:creator>
-<dc:creator>Markus Juonala</dc:creator>
-<dc:creator>Olli T Raitakari</dc:creator>
-<dc:creator>Alan R Sinaiko</dc:creator>
-<dc:creator>Julia Steinberger</dc:creator>
-<dc:creator>Alison J Venn</dc:creator>
-<dc:creator>Noora Kartiosuo</dc:creator>
-<dc:creator>Terho Lehtimäki</dc:creator>
-<dc:creator>Costan G Magnussen</dc:creator>
-<dc:creator>Jorma S A Viikari</dc:creator>
-<dc:creator>Sarah D de Ferranti</dc:creator>
-<dc:creator>Andrew E Moran</dc:creator>
-<dc:creator>Yiyi Zhang</dc:creator>
-<dc:date>2024-11-18</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Low-Density Lipoprotein Cholesterol Level Distributions Across Different Ages: Implications for Screening Children for Severe and Familial Hypercholesterolemia</dc:title>
-<dc:identifier>pmid:39556651</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.069792</dc:identifier>
-</item>
-<item>
-<title>Early Adoption of Sodium-Glucose Cotransporter-2 Inhibitor in Patients Hospitalized With Heart Failure With Mildly Reduced or Preserved Ejection Fraction</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39556474/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSION AND RELEVANCE: For patients with HF and an LVEF greater than 40%, discharge prescription of SGLT2is increased from 4.2% to 23.5% during the first 2 years after the EMPEROR-Preserved trial demonstrating treatment benefits; however, these rates varied across US hospitals.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2024 Nov 18:e244489. doi: 10.1001/jamacardio.2024.4489. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">IMPORTANCE: Sodium-glucose cotransporter-2 inhibitors (SGLT2is) are the first therapy shown to improve clinical outcomes for patients with heart failure (HF) and a left ventricular ejection fraction (LVEF) greater than 40%. Nationwide adoption of SGLT2is in the US since publication of the Empagliflozin Outcome Trial in Patients With Chronic Heart Failure With Preserved Ejection Fraction (EMPEROR-Preserved) in August 2021 is unknown.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVE: To examine trends and hospital-level variation in SGLT2i adoption.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">DESIGN, SETTING, AND PARTICIPANTS: This cohort study included patients with LVEF greater than 40% who were hospitalized for decompensated HF at 1 of 557 sites in the US between July 1, 2021, and September 30, 2023, from the Get With The Guidelines-Heart Failure registry.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">MAIN OUTCOMES AND MEASURES: Patient-level trends and site-level variation in prescription rates of SGLT2i at hospital discharge. Site-level variation was quantified using the median odds ratio, which describes the average odds that a patient being treated at one vs another randomly selected hospital would receive SGLT2i therapy at discharge.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Of 158 849 patients (median [IQR] age, 76 [66-85] years; 89 816 females [56.5%]), 22 126 eligible patients (13.9%) with HF and an LVEF greater than 40% were prescribed an SGLT2i at hospital discharge. Quarterly prescription rates increased from 4.2% in July to September 2021 to 23.5% in July to September 2023 (P for trend &lt; .001). SGLT2i prescription was more likely among patients with HF with mildly reduced LVEF (41%-49%) than in those with preserved LVEF (≥50%; 5127 of 27 712 patients [18.5%] vs 16 999 of 131 137 patients [13.0%]; absolute standardized difference, 16.7%). After adjustment for patient characteristics, there was a high variance between hospitals in the rate of SGLT2i prescription (median odds ratio, 2.12; 95% CI, 2.02-2.25). Among 518 hospitals with 10 or more eligible discharges, 11 hospitals (2.1%) discharged 50% or more of their patients with an SGLT2i prescription, while 232 (44.8%) discharged fewer than 10% of eligible patients with an SGLT2i prescription.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSION AND RELEVANCE: For patients with HF and an LVEF greater than 40%, discharge prescription of SGLT2is increased from 4.2% to 23.5% during the first 2 years after the EMPEROR-Preserved trial demonstrating treatment benefits; however, these rates varied across US hospitals.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39556474/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39556474</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC11574726/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">PMC11574726</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.4489>10.1001/jamacardio.2024.4489</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39556474</guid>
-<pubDate>Mon, 18 Nov 2024 06:00:00 -0500</pubDate>
-<dc:creator>Mohammad Abdel Jawad</dc:creator>
-<dc:creator>John A Spertus</dc:creator>
-<dc:creator>Uchechukwu Ikeaba</dc:creator>
-<dc:creator>Stephen J Greene</dc:creator>
-<dc:creator>Gregg C Fonarow</dc:creator>
-<dc:creator>Karen Chiswell</dc:creator>
-<dc:creator>Paul S Chan</dc:creator>
-<dc:date>2024-11-18</dc:date>
-<dc:source>JAMA cardiology</dc:source>
-<dc:title>Early Adoption of Sodium-Glucose Cotransporter-2 Inhibitor in Patients Hospitalized With Heart Failure With Mildly Reduced or Preserved Ejection Fraction</dc:title>
-<dc:identifier>pmid:39556474</dc:identifier>
-<dc:identifier>pmc:PMC11574726</dc:identifier>
-<dc:identifier>doi:10.1001/jamacardio.2024.4489</dc:identifier>
-</item>
-<item>
-<title>Long-Term Efficacy and Safety of Acoramidis in ATTR-CM: Initial Report From the Open-Label Extension of the ATTRibute-CM Trial</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39556242/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: Early initiation and continuous use of acoramidis in the ATTRibute-CM study through M42 of the ongoing OLE study was associated with sustained clinical benefits in a contemporary ATTR-CM cohort, with no clinically important safety issues newly identified.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Nov 18. doi: 10.1161/CIRCULATIONAHA.124.072771. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: In the phase 3 randomized controlled study, ATTRibute-CM, acoramidis, a transthyretin (TTR) stabilizer, demonstrated significant efficacy on the primary endpoint. Participants with transthyretin amyloid cardiomyopathy (ATTR-CM) who completed ATTRibute-CM were invited to enroll in an open-label extension study (OLE). We report efficacy and safety data of acoramidis in participants who completed ATTRibute-CM and enrolled in the ongoing OLE.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Participants who previously received acoramidis through Month 30 (M30) in ATTRibute-CM continued to receive it (continuous acoramidis), and those who received placebo through M30 were switched to acoramidis (placebo to acoramidis). Participants who received concomitant tafamidis in ATTRibute-CM were required to discontinue it to be eligible to enroll in the OLE. Clinical efficacy outcomes analyzed through Month 42 (M42) included time to event for all-cause mortality (ACM) or first cardiovascular-related hospitalization (CVH), ACM alone, first CVH alone, ACM or recurrent CVH, change from baseline in N-terminal pro-B-type natriuretic peptide (NT-proBNP), 6-minute walk distance (6MWD), serum TTR, and the Kansas City Cardiomyopathy Questionnaire Overall Summary score (KCCQ-OS). Safety outcomes were analyzed through M42.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Overall, 438 of 632 participants in ATTRibute-CM completed treatment and 389 enrolled in the ongoing OLE (263 continuous acoramidis, 126 placebo to acoramidis). The hazard ratio (HR) (95% CI) for ACM or first CVH was 0.57 (0.46, 0.72) at M42 based on a stratified Cox proportional hazards model (<i>P</i>-value &lt; 0.0001) favoring continuous acoramidis. Similar analyses were performed on ACM alone and first CVH alone, with HRs (95% CI) of 0.64 (0.47, 0.88) and 0.53 (0.41, 0.69), respectively, at M42. Treatment effects for NT-proBNP and 6MWD also favored continuous acoramidis. Upon initiation of open-label acoramidis in the placebo-to-acoramidis arm there was a prompt increase in serum TTR. Quality of life assessed by KCCQ-OS was well preserved in continuous acoramidis participants compared with the placebo to acoramidis participants. No new clinically important safety issues were identified in this long-term evaluation.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Early initiation and continuous use of acoramidis in the ATTRibute-CM study through M42 of the ongoing OLE study was associated with sustained clinical benefits in a contemporary ATTR-CM cohort, with no clinically important safety issues newly identified.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39556242/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39556242</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.072771>10.1161/CIRCULATIONAHA.124.072771</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39556242</guid>
-<pubDate>Mon, 18 Nov 2024 06:00:00 -0500</pubDate>
-<dc:creator>Daniel P Judge</dc:creator>
-<dc:creator>Julian D Gillmore</dc:creator>
-<dc:creator>Kevin M Alexander</dc:creator>
-<dc:creator>Amrut V Ambardekar</dc:creator>
-<dc:creator>Francesco Cappelli</dc:creator>
-<dc:creator>Marianna Fontana</dc:creator>
-<dc:creator>Pablo García-Pavía</dc:creator>
-<dc:creator>Justin L Grodin</dc:creator>
-<dc:creator>Martha Grogan</dc:creator>
-<dc:creator>Mazen Hanna</dc:creator>
-<dc:creator>Ahmad Masri</dc:creator>
-<dc:creator>Jose Nativi-Nicolau</dc:creator>
-<dc:creator>Laura Obici</dc:creator>
-<dc:creator>Steen Hvitfeldt Poulsen</dc:creator>
-<dc:creator>Nitasha Sarswat</dc:creator>
-<dc:creator>Keyur Shah</dc:creator>
-<dc:creator>Prem Soman</dc:creator>
-<dc:creator>Ted Lystig</dc:creator>
-<dc:creator>Xiaofan Cao</dc:creator>
-<dc:creator>Kevin Wang</dc:creator>
-<dc:creator>Maria Lucia Pecoraro</dc:creator>
-<dc:creator>Jean-François Tamby</dc:creator>
-<dc:creator>Leonid Katz</dc:creator>
-<dc:creator>Uma Sinha</dc:creator>
-<dc:creator>Jonathan C Fox</dc:creator>
-<dc:creator>Mathew S Maurer</dc:creator>
-<dc:date>2024-11-18</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Long-Term Efficacy and Safety of Acoramidis in ATTR-CM: Initial Report From the Open-Label Extension of the ATTRibute-CM Trial</dc:title>
-<dc:identifier>pmid:39556242</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.072771</dc:identifier>
-</item>
-<item>
-<title>Defibrillation and refractory ventricular fibrillation</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39556204/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Nov 18:ehae767. doi: 10.1093/eurheartj/ehae767. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39556204/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39556204</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae767>10.1093/eurheartj/ehae767</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39556204</guid>
-<pubDate>Mon, 18 Nov 2024 06:00:00 -0500</pubDate>
-<dc:creator>Bas J Verkaik</dc:creator>
-<dc:creator>Robert G Walker</dc:creator>
-<dc:creator>Tyson G Taylor</dc:creator>
-<dc:creator>Mette M Ekkel</dc:creator>
-<dc:creator>Rob Marx</dc:creator>
-<dc:creator>Remy Stieglis</dc:creator>
-<dc:creator>Vera G M van Eeden</dc:creator>
-<dc:creator>Lotte C Doeleman</dc:creator>
-<dc:creator>Michiel Hulleman</dc:creator>
-<dc:creator>Fred W Chapman</dc:creator>
-<dc:creator>Hans van Schuppen</dc:creator>
-<dc:creator>Christian van der Werf</dc:creator>
-<dc:date>2024-11-18</dc:date>
-<dc:source>European heart journal</dc:source>
-<dc:title>Defibrillation and refractory ventricular fibrillation</dc:title>
-<dc:identifier>pmid:39556204</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehae767</dc:identifier>
-</item>
-<item>
-<title>Correction to: Anthracycline-induced cardiovascular toxicity: validation of the Heart Failure Association and International Cardio-Oncology Society risk score</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39556197/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2024 Nov 18:ehae818. doi: 10.1093/eurheartj/ehae818. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39556197/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39556197</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae818>10.1093/eurheartj/ehae818</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39556197</guid>
-<pubDate>Mon, 18 Nov 2024 06:00:00 -0500</pubDate>
-<dc:date>2024-11-18</dc:date>
-<dc:source>European heart journal</dc:source>
-<dc:title>Correction to: Anthracycline-induced cardiovascular toxicity: validation of the Heart Failure Association and International Cardio-Oncology Society risk score</dc:title>
-<dc:identifier>pmid:39556197</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehae818</dc:identifier>
-</item>
-<item>
-<title>Mavacamten in Patients With Hypertrophic Cardiomyopathy Referred for Septal Reduction: Week 128 Results from VALOR-HCM</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39556124/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241120111404&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: In severely symptomatic obstructive HCM patients, sustained freedom from SRT was observed at 128 weeks, with nearly 90% patients remaining on long-term mavacamten.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Nov 18. doi: 10.1161/CIRCULATIONAHA.124.072445. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: In severely symptomatic patients with obstructive hypertrophic cardiomyopathy (HCM), VALOR-HCM trial (Study to Evaluate Mavacamten in Adults With Symptomatic Obstructive HCM Who Are Eligible for Septal Reduction Therapy [URL: https://clinicaltrials.gov; Unique identifier: NCT04349072]) reported that mavacamten reduced the short-term need for septal reduction therapy (SRT). The current report examined the longer-term effect of mavacamten through end of treatment at week 128.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: A double-blind randomized placebo-controlled multicenter trial at 19 sites in the United States included symptomatic obstructive HCM patients referred for SRT (enrollment July 2020 through October 2021). The group initially randomized to mavacamten continued the drug for 128 weeks and the placebo to mavacamten group from week 16 to 128 (112-week exposure). Dose titrations were performed using echocardiographic left ventricular outflow tract gradient and left ventricular ejection fraction measurements. The principal end point was proportion of patients proceeding with SRT or remaining guideline-eligible at week 128.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: At week 128, 17 of 108 (15.7%) patients in the total study sample met the composite end point (7 underwent SRT, 1 was SRT-eligible, and 9 SRT-status unevaluable). Additionally, 87 of 108 (80.5%) patients demonstrated ≥1 New York Heart Association class improvement by week 128, and 52 of 108 (48.1%) demonstrated ≥2, with a sustained reduction in resting and Valsalva left ventricular outflow tract gradients of 38.2 mm Hg and 59.4 mm Hg, respectively. Ninety-five of 108 (88%) patients transitioned to commercial mavacamten. Overall, 15 of 108 (13.8%) patients (5.41 per 100 patient-years) had an left ventricular ejection fraction &lt;50% (2 with left ventricular ejection fraction ≤30%; 1 death). Of these, 12 of 15 (80%) continued treatment. New-onset atrial fibrillation occurred in 11 (10.2%) patients (4.55 per 100 patient-years).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: In severely symptomatic obstructive HCM patients, sustained freedom from SRT was observed at 128 weeks, with nearly 90% patients remaining on long-term mavacamten.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39556124/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241120111404&v=2.18.0.post9+e462414">39556124</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.072445>10.1161/CIRCULATIONAHA.124.072445</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39556124</guid>
-<pubDate>Mon, 18 Nov 2024 06:00:00 -0500</pubDate>
-<dc:creator>Milind Y Desai</dc:creator>
-<dc:creator>Kathy Wolski</dc:creator>
-<dc:creator>Anjali Owens</dc:creator>
-<dc:creator>Jeffrey B Geske</dc:creator>
-<dc:creator>Sara Saberi</dc:creator>
-<dc:creator>Andrew Wang</dc:creator>
-<dc:creator>Mark Sherrid</dc:creator>
-<dc:creator>Paul C Cremer</dc:creator>
-<dc:creator>Neal K Lakdawala</dc:creator>
-<dc:creator>Albree Tower-Rader</dc:creator>
-<dc:creator>David Fermin</dc:creator>
-<dc:creator>Srihari S Naidu</dc:creator>
-<dc:creator>Nicholas G Smedira</dc:creator>
-<dc:creator>Hartzell Schaff</dc:creator>
-<dc:creator>Zhiqun Gong</dc:creator>
-<dc:creator>Lana Mudarris</dc:creator>
-<dc:creator>Kathy Lampl</dc:creator>
-<dc:creator>Amy J Sehnert</dc:creator>
-<dc:creator>Steven E Nissen</dc:creator>
-<dc:creator>VALOR-HCM investigators</dc:creator>
-<dc:date>2024-11-18</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Mavacamten in Patients With Hypertrophic Cardiomyopathy Referred for Septal Reduction: Week 128 Results from VALOR-HCM</dc:title>
-<dc:identifier>pmid:39556124</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.072445</dc:identifier>
 </item>
 
 

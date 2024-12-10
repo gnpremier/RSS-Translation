@@ -1,20 +1,104 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>心血管高分期刊</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_source=Chrome&amp;utm_campaign=pubmed-2&amp;fc=20230708114047&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.18.0.post9+e462414&amp;utm_medium=rss&amp;ff=20241210051247
+<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;v=2.18.0.post9+e462414&amp;utm_campaign=pubmed-2&amp;utm_source=Chrome
     <description>心血管高分期刊: Latest results from PubMed</description>
-<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_source=Chrome&amp;utm_campaign=pubmed-2&amp;fc=20230708114047&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.18.0.post9+e462414&amp;utm_medium=rss&amp;ff=20241210051247" rel="self"></atom:link>
+<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;v=2.18.0.post9+e462414&amp;utm_campaign=pubmed-2&amp;utm_source=Chrome" rel="self"></atom:link>
 <docs>http://www.rssboard.org/rss-specification</docs>
 <generator>PubMed RSS feeds (2.18.0.post9+e462414)</generator>
 <language>en</language>
-<lastbuilddate>Tue, 10 Dec 2024 10:12:48 +0000</lastbuilddate>
-<pubDate>Mon, 09 Dec 2024 06:00:00 -0500</pubDate>
+<lastbuilddate>Tue, 10 Dec 2024 12:22:31 +0000</lastbuilddate>
+<pubDate>Tue, 10 Dec 2024 06:00:00 -0500</pubDate>
 <ttl>120</ttl>
 <item>
+<title>Endothelial FUNDC1 Deficiency Drives Pulmonary Hypertension</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39655444/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS: Collectively, we show that FUNDC1-mediated basal mitophagy is critical for endothelial homeostasis, and its disruption instigates PH pathogenesis. Given that similar changes in FUNDC1 and IGFBP2 were observed in PH patients, our findings are of significant clinical relevance and provide novel therapeutic strategies for PH.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Dec 10. doi: 10.1161/CIRCRESAHA.124.325156. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Pulmonary hypertension (PH) is associated with endothelial dysfunction. However, the cause of endothelial dysfunction and its impact on PH remain incompletely understood. We aimed to investigate whether the hypoxia-inducible FUNDC1 (FUN14 domain-containing 1)-dependent mitophagy pathway underlies PH pathogenesis and progression.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: We first analyzed FUNDC1 protein levels in lung samples from patients with PH and animal models. Using rodent PH models induced by HySu (hypoxia+SU5416) or chronic hypoxia, we further investigated PH pathogenesis and development in response to global and cell-type-specific <i>Fundc1</i> loss/gain-of-function. We also investigated the spontaneous PH in mice with inducible loss of endothelial <i>Fundc1</i>. In addition, histological, metabolic, and transcriptomic studies were performed to delineate molecular mechanisms. Finally, findings were validated in vivo by compound deficiency of HIF2α (hypoxia-inducible factor 2α; <i>Epas1</i>) and pharmacological intervention.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: FUNDC1 protein levels were reduced in PH lung vessels from clinical subjects and animal models. Global <i>Fundc1</i> deficiency exacerbated PH, while its overexpression is protective. The effect of FUNDC1 was mediated by endothelial cells rather than smooth muscle cells. Further, inducible loss of endothelial <i>Fundc1</i> in postnatal mice was sufficient to cause PH spontaneously, whereas augmenting endothelial <i>Fundc1</i> protected against PH before and after the onset of disease. Mechanistically, <i>Fundc1</i> deficiency impaired basal mitophagy in endothelial cells, leading to the accumulation of dysfunctional mitochondria, metabolic reprogramming toward aerobic glycolysis, pseudohypoxia, and senescence, likely via a mtROS-HIF2α signaling pathway. Subsequently, <i>Fundc1</i>-deficient endothelial cells increased IGFBP2 (insulin-like growth factor-binding protein 2) secretion that drove pulmonary arterial remodeling to instigate PH. Finally, proof-of-principle in vivo studies showed significant efficacy on PH amelioration by targeting endothelial mitophagy, pseudohypoxia, senescence, or IGFBP2.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Collectively, we show that FUNDC1-mediated basal mitophagy is critical for endothelial homeostasis, and its disruption instigates PH pathogenesis. Given that similar changes in FUNDC1 and IGFBP2 were observed in PH patients, our findings are of significant clinical relevance and provide novel therapeutic strategies for PH.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39655444/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39655444</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.124.325156>10.1161/CIRCRESAHA.124.325156</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39655444</guid>
+<pubDate>Tue, 10 Dec 2024 06:00:00 -0500</pubDate>
+<dc:creator>Yandong Pei</dc:creator>
+<dc:creator>Dongfeng Ren</dc:creator>
+<dc:creator>Yuanhao Yin</dc:creator>
+<dc:creator>Jiajia Shi</dc:creator>
+<dc:creator>Qianyuan Ai</dc:creator>
+<dc:creator>Wenxin Hao</dc:creator>
+<dc:creator>Xiaofan Luo</dc:creator>
+<dc:creator>Chenyue Zhang</dc:creator>
+<dc:creator>Yanping Zhao</dc:creator>
+<dc:creator>Chenyu Bai</dc:creator>
+<dc:creator>Lin Zhu</dc:creator>
+<dc:creator>Qiong Wang</dc:creator>
+<dc:creator>Shuangling Li</dc:creator>
+<dc:creator>Yuwei Zhang</dc:creator>
+<dc:creator>Jiangtao Lu</dc:creator>
+<dc:creator>Lin Liu</dc:creator>
+<dc:creator>Lin Zhou</dc:creator>
+<dc:creator>Yuli Wu</dc:creator>
+<dc:creator>Yiqi Weng</dc:creator>
+<dc:creator>Yongle Jing</dc:creator>
+<dc:creator>Chengzhi Lu</dc:creator>
+<dc:creator>Yujie Cui</dc:creator>
+<dc:creator>Hao Zheng</dc:creator>
+<dc:creator>Yanjun Li</dc:creator>
+<dc:creator>Guo Chen</dc:creator>
+<dc:creator>Gang Hu</dc:creator>
+<dc:creator>Quan Chen</dc:creator>
+<dc:creator>Xudong Liao</dc:creator>
+<dc:date>2024-12-10</dc:date>
+<dc:source>Circulation research</dc:source>
+<dc:title>Endothelial FUNDC1 Deficiency Drives Pulmonary Hypertension</dc:title>
+<dc:identifier>pmid:39655444</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCRESAHA.124.325156</dc:identifier>
+</item>
+<item>
+<title>Inositol 1,4,5-Trisphosphate Receptor 1 Gain-of-Function Increases the Risk for Cardiac Arrhythmias in Mice and Humans</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39655431/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS: Our studies in mice and humans reveal that enhanced function of ITPR1, a well-known movement disorder gene, increases the risk for cardiac arrhythmias.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Dec 10. doi: 10.1161/CIRCULATIONAHA.124.070563. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Ca<sup>2+</sup> mishandling in cardiac Purkinje cells is a well-known cause of cardiac arrhythmias. The Purkinje cell resident inositol 1,4,5-trisphosphate receptor 1 (ITPR1) is believed to play an important role in Ca<sup>2+</sup> handling, and ITPR1 gain-of-function (GOF) has been implicated in cardiac arrhythmias. However, nearly all known disease-associated ITPR1 variants are loss-of-function and are primarily linked to neurological disorders. Whether ITPR1 GOF has pathological consequences, such as cardiac arrhythmias, is unclear. This study aimed to identify human ITPR1 GOF variants and determine the impact of ITPR1 GOF on Ca<sup>2+</sup> handling and arrhythmia susceptibility.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: There are a large number of rare ITPR1 missense variants reported in open data repositories. Based on their locations in the ITPR1 channel structure, we selected and characterized 33 human ITPR1 missense variants from open databases and identified 21 human ITPR1 GOF variants. We generated a mouse model carrying a human ITPR1 GOF variant, ITPR1-W1457G (W1447G in mice).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: We showed that the ITPR1-W1447G<sup>±</sup> and recently reported ITPR1-D2594K<sup>±</sup> GOF mutant mice were susceptible to stress-induced ventricular arrhythmias. Confocal Ca<sup>2+</sup> and voltage imaging in situ in heart slices and Ca<sup>2+</sup> imaging and patch-clamp recordings of isolated Purkinje cells showed that ITPR1-W1447G<sup>±</sup> and ITPR1-D2594K<sup>±</sup> variants increased the occurrence of stress-induced spontaneous Ca<sup>2+</sup> release, delayed afterdepolarization, and triggered activity in Purkinje cells. To assess the potential role of ITPR1 variants in arrhythmia susceptibility in humans, we looked up a gene-based association study in the UK Biobank data set and identified 7 rare ITPR1 missense variants showing potential association with cardiac arrhythmias. Remarkably, in vitro functional characterization revealed that all these 7 ITPR1 variants resulted in GOF.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Our studies in mice and humans reveal that enhanced function of ITPR1, a well-known movement disorder gene, increases the risk for cardiac arrhythmias.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39655431/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39655431</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.070563>10.1161/CIRCULATIONAHA.124.070563</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39655431</guid>
+<pubDate>Tue, 10 Dec 2024 06:00:00 -0500</pubDate>
+<dc:creator>Bo Sun</dc:creator>
+<dc:creator>Mingke Ni</dc:creator>
+<dc:creator>Yanhui Li</dc:creator>
+<dc:creator>Zhenpeng Song</dc:creator>
+<dc:creator>Hui Wang</dc:creator>
+<dc:creator>Hai-Lei Zhu</dc:creator>
+<dc:creator>Jinhong Wei</dc:creator>
+<dc:creator>Darrell Belke</dc:creator>
+<dc:creator>Shitian Cai</dc:creator>
+<dc:creator>Wenting Guo</dc:creator>
+<dc:creator>Jinjing Yao</dc:creator>
+<dc:creator>Shanshan Tian</dc:creator>
+<dc:creator>John Paul Estillore</dc:creator>
+<dc:creator>Ruiwu Wang</dc:creator>
+<dc:creator>Mads Toft Sondergaard</dc:creator>
+<dc:creator>Malene Brohus</dc:creator>
+<dc:creator>Palle Duun Rohde</dc:creator>
+<dc:creator>Yongxin Mu</dc:creator>
+<dc:creator>Alexander Vallmitjana</dc:creator>
+<dc:creator>Raul Benitez</dc:creator>
+<dc:creator>Leif Hove-Madsen</dc:creator>
+<dc:creator>Michael Toft Overgaard</dc:creator>
+<dc:creator>Glenn I Fishman</dc:creator>
+<dc:creator>Ju Chen</dc:creator>
+<dc:creator>Shubhayan Sanatani</dc:creator>
+<dc:creator>Arthur A M Wilde</dc:creator>
+<dc:creator>Michael Fill</dc:creator>
+<dc:creator>Josefina Ramos-Franco</dc:creator>
+<dc:creator>Mette Nyegaard</dc:creator>
+<dc:creator>S R Wayne Chen</dc:creator>
+<dc:date>2024-12-10</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Inositol 1,4,5-Trisphosphate Receptor 1 Gain-of-Function Increases the Risk for Cardiac Arrhythmias in Mice and Humans</dc:title>
+<dc:identifier>pmid:39655431</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.070563</dc:identifier>
+</item>
+<item>
 <title>Pro-arrhythmic potential of proton-pump inhibitors</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39653788/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39653788/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2024 Dec 9. doi: 10.1038/s41569-024-01107-w. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39653788/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39653788</a> | DOI:<a href=https://doi.org/10.1038/s41569-024-01107-w>10.1038/s41569-024-01107-w</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2024 Dec 9. doi: 10.1038/s41569-024-01107-w. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39653788/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39653788</a> | DOI:<a href=https://doi.org/10.1038/s41569-024-01107-w>10.1038/s41569-024-01107-w</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39653788</guid>
 <pubDate>Mon, 09 Dec 2024 06:00:00 -0500</pubDate>
 <dc:creator>Pietro Enea Lazzerini</dc:creator>
@@ -29,9 +113,9 @@
 </item>
 <item>
 <title>Cognitive Dysfunction in Heart Failure With Preserved Ejection Fraction: Uncovering the Consequences of an Overlooked Comorbidity</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39652649/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39652649/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Dec 10;150(24):1928-1930. doi: 10.1161/CIRCULATIONAHA.124.072220. Epub 2024 Dec 9.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39652649/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39652649</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.072220>10.1161/CIRCULATIONAHA.124.072220</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Dec 10;150(24):1928-1930. doi: 10.1161/CIRCULATIONAHA.124.072220. Epub 2024 Dec 9.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39652649/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39652649</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.072220>10.1161/CIRCULATIONAHA.124.072220</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39652649</guid>
 <pubDate>Mon, 09 Dec 2024 06:00:00 -0500</pubDate>
 <dc:creator>Jesús Álvarez-García</dc:creator>
@@ -43,9 +127,9 @@
 </item>
 <item>
 <title>Letter by Huang et al Regarding Article, "Atherosclerosis Is a Smooth Muscle Cell-Driven Tumor-Like Disease"</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39652648/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39652648/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Dec 10;150(24):e517-e518. doi: 10.1161/CIRCULATIONAHA.124.070427. Epub 2024 Dec 9.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39652648/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39652648</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.070427>10.1161/CIRCULATIONAHA.124.070427</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Dec 10;150(24):e517-e518. doi: 10.1161/CIRCULATIONAHA.124.070427. Epub 2024 Dec 9.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39652648/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39652648</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.070427>10.1161/CIRCULATIONAHA.124.070427</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39652648</guid>
 <pubDate>Mon, 09 Dec 2024 06:00:00 -0500</pubDate>
 <dc:creator>Huixin Huang</dc:creator>
@@ -59,9 +143,9 @@
 </item>
 <item>
 <title>Precision Medicine in People at Risk for Diabetes and Atherosclerotic Cardiovascular Disease: A Fresh Perspective on Prevention</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39652647/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39652647/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Dec 10;150(24):1910-1912. doi: 10.1161/CIRCULATIONAHA.124.070463. Epub 2024 Dec 9.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39652647/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39652647</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.070463>10.1161/CIRCULATIONAHA.124.070463</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Dec 10;150(24):1910-1912. doi: 10.1161/CIRCULATIONAHA.124.070463. Epub 2024 Dec 9.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39652647/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39652647</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.070463>10.1161/CIRCULATIONAHA.124.070463</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39652647</guid>
 <pubDate>Mon, 09 Dec 2024 06:00:00 -0500</pubDate>
 <dc:creator>Andreas L Birkenfeld</dc:creator>
@@ -75,9 +159,9 @@
 </item>
 <item>
 <title>A Polygenic Predictor of Baseline QTc is Associated With Sotalol-Induced QT Prolongation</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39652646/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39652646/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Dec 10;150(24):1984-1986. doi: 10.1161/CIRCULATIONAHA.124.070337. Epub 2024 Dec 9.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39652646/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39652646</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.070337>10.1161/CIRCULATIONAHA.124.070337</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Dec 10;150(24):1984-1986. doi: 10.1161/CIRCULATIONAHA.124.070337. Epub 2024 Dec 9.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39652646/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39652646</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.070337>10.1161/CIRCULATIONAHA.124.070337</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39652646</guid>
 <pubDate>Mon, 09 Dec 2024 06:00:00 -0500</pubDate>
 <dc:creator>Megan C Lancaster</dc:creator>
@@ -95,9 +179,9 @@
 </item>
 <item>
 <title>Scientific and Clinical Impacts of UK Biobank in Cardiovascular Medicine</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39652645/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39652645/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Dec 10;150(24):1907-1909. doi: 10.1161/CIRCULATIONAHA.124.072449. Epub 2024 Dec 9.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39652645/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39652645</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.072449>10.1161/CIRCULATIONAHA.124.072449</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Dec 10;150(24):1907-1909. doi: 10.1161/CIRCULATIONAHA.124.072449. Epub 2024 Dec 9.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39652645/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39652645</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.072449>10.1161/CIRCULATIONAHA.124.072449</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39652645</guid>
 <pubDate>Mon, 09 Dec 2024 06:00:00 -0500</pubDate>
 <dc:creator>Adam J Lewandowski</dc:creator>
@@ -111,9 +195,9 @@
 </item>
 <item>
 <title>Characterizing and targeting glioblastoma neuron-tumor networks with retrograde tracing</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39644898/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39644898/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>Glioblastomas are invasive brain tumors with high therapeutic resistance. Neuron-to-glioma synapses have been shown to promote glioblastoma progression. However, a characterization of tumor-connected neurons has been hampered by a lack of technologies. Here, we adapted retrograde tracing using rabies viruses to investigate and manipulate neuron-tumor networks. Glioblastoma rapidly integrated into neural circuits across the brain, engaging in widespread functional communication, with cholinergic...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Dec 3:S0092-8674(24)01276-5. doi: 10.1016/j.cell.2024.11.002. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Glioblastomas are invasive brain tumors with high therapeutic resistance. Neuron-to-glioma synapses have been shown to promote glioblastoma progression. However, a characterization of tumor-connected neurons has been hampered by a lack of technologies. Here, we adapted retrograde tracing using rabies viruses to investigate and manipulate neuron-tumor networks. Glioblastoma rapidly integrated into neural circuits across the brain, engaging in widespread functional communication, with cholinergic neurons driving glioblastoma invasion. We uncovered patient-specific and tumor-cell-state-dependent differences in synaptogenic gene expression associated with neuron-tumor connectivity and subsequent invasiveness. Importantly, radiotherapy enhanced neuron-tumor connectivity by increased neuronal activity. In turn, simultaneous neuronal activity inhibition and radiotherapy showed increased therapeutic effects, indicative of a role for neuron-to-glioma synapses in contributing to therapeutic resistance. Lastly, rabies-mediated genetic ablation of tumor-connected neurons halted glioblastoma progression, offering a viral strategy to tackle glioblastoma. Together, this study provides a framework to comprehensively characterize neuron-tumor networks and target glioblastoma.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39644898/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39644898</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.11.002>10.1016/j.cell.2024.11.002</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Dec 3:S0092-8674(24)01276-5. doi: 10.1016/j.cell.2024.11.002. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Glioblastomas are invasive brain tumors with high therapeutic resistance. Neuron-to-glioma synapses have been shown to promote glioblastoma progression. However, a characterization of tumor-connected neurons has been hampered by a lack of technologies. Here, we adapted retrograde tracing using rabies viruses to investigate and manipulate neuron-tumor networks. Glioblastoma rapidly integrated into neural circuits across the brain, engaging in widespread functional communication, with cholinergic neurons driving glioblastoma invasion. We uncovered patient-specific and tumor-cell-state-dependent differences in synaptogenic gene expression associated with neuron-tumor connectivity and subsequent invasiveness. Importantly, radiotherapy enhanced neuron-tumor connectivity by increased neuronal activity. In turn, simultaneous neuronal activity inhibition and radiotherapy showed increased therapeutic effects, indicative of a role for neuron-to-glioma synapses in contributing to therapeutic resistance. Lastly, rabies-mediated genetic ablation of tumor-connected neurons halted glioblastoma progression, offering a viral strategy to tackle glioblastoma. Together, this study provides a framework to comprehensively characterize neuron-tumor networks and target glioblastoma.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39644898/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39644898</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.11.002>10.1016/j.cell.2024.11.002</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39644898</guid>
 <pubDate>Sat, 07 Dec 2024 06:00:00 -0500</pubDate>
 <dc:creator>Svenja K Tetzlaff</dc:creator>
@@ -171,9 +255,9 @@
 </item>
 <item>
 <title>Diagnostic and Prognostic Performance of High-Sensitivity Cardiac Troponin T vs I</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39641739/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39641739/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 26:S0735-1097(24)10029-0. doi: 10.1016/j.jacc.2024.10.076. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39641739/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39641739</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.076>10.1016/j.jacc.2024.10.076</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 26:S0735-1097(24)10029-0. doi: 10.1016/j.jacc.2024.10.076. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39641739/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39641739</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.076>10.1016/j.jacc.2024.10.076</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39641739</guid>
 <pubDate>Fri, 06 Dec 2024 06:00:00 -0500</pubDate>
 <dc:creator>Luca Koechlin</dc:creator>
@@ -218,9 +302,9 @@
 </item>
 <item>
 <title>The Coming AI Revolution in Clinical Trials</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39641738/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39641738/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 23:S0735-1097(24)10286-0. doi: 10.1016/j.jacc.2024.10.093. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39641738/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39641738</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.093>10.1016/j.jacc.2024.10.093</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 23:S0735-1097(24)10286-0. doi: 10.1016/j.jacc.2024.10.093. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39641738/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39641738</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.093>10.1016/j.jacc.2024.10.093</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39641738</guid>
 <pubDate>Fri, 06 Dec 2024 06:00:00 -0500</pubDate>
 <dc:creator>Sneha S Jain</dc:creator>
@@ -238,9 +322,9 @@
 </item>
 <item>
 <title>Digital Health Technologies for Cardiometabolic Disease and Diabetes: A Perspective From the U.S. Food and Drug Administration</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39641737/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39641737/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 19:S0735-1097(24)10028-9. doi: 10.1016/j.jacc.2024.10.075. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39641737/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39641737</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.075>10.1016/j.jacc.2024.10.075</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 19:S0735-1097(24)10028-9. doi: 10.1016/j.jacc.2024.10.075. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39641737/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39641737</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.075>10.1016/j.jacc.2024.10.075</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39641737</guid>
 <pubDate>Fri, 06 Dec 2024 06:00:00 -0500</pubDate>
 <dc:creator>Haider J Warraich</dc:creator>
@@ -260,9 +344,9 @@
 </item>
 <item>
 <title>The Patient Behind the Doctor</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39641736/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39641736/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 23:S0735-1097(24)09963-7. doi: 10.1016/j.jacc.2024.10.073. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39641736/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39641736</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.073>10.1016/j.jacc.2024.10.073</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 23:S0735-1097(24)09963-7. doi: 10.1016/j.jacc.2024.10.073. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39641736/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39641736</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.073>10.1016/j.jacc.2024.10.073</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39641736</guid>
 <pubDate>Fri, 06 Dec 2024 06:00:00 -0500</pubDate>
 <dc:creator>Denisa Metani</dc:creator>
@@ -274,9 +358,9 @@
 </item>
 <item>
 <title>The Importance of Growing the Next Generation of Global Cardiovascular Leaders</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39641735/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39641735/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 27:S0735-1097(24)10425-1. doi: 10.1016/j.jacc.2024.11.010. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39641735/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39641735</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.11.010>10.1016/j.jacc.2024.11.010</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 27:S0735-1097(24)10425-1. doi: 10.1016/j.jacc.2024.11.010. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39641735/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39641735</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.11.010>10.1016/j.jacc.2024.11.010</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39641735</guid>
 <pubDate>Fri, 06 Dec 2024 06:00:00 -0500</pubDate>
 <dc:creator>Cathleen Biga</dc:creator>
@@ -290,9 +374,9 @@
 </item>
 <item>
 <title>In the Wake of OCEANIC-AF, Is Equipoise Regarding Factor XI Inhibition Still Afloat?</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39641734/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39641734/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 26:S0735-1097(24)10317-8. doi: 10.1016/j.jacc.2024.10.105. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39641734/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39641734</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.105>10.1016/j.jacc.2024.10.105</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 26:S0735-1097(24)10317-8. doi: 10.1016/j.jacc.2024.10.105. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39641734/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39641734</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.105>10.1016/j.jacc.2024.10.105</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39641734</guid>
 <pubDate>Fri, 06 Dec 2024 06:00:00 -0500</pubDate>
 <dc:creator>C Michael Gibson</dc:creator>
@@ -304,9 +388,9 @@
 </item>
 <item>
 <title>Dynamic Trends and Practice Patterns in Femoropopliteal Revascularization From 2016 Through 2023</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39641733/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39641733/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 26:S0735-1097(24)10314-2. doi: 10.1016/j.jacc.2024.10.102. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39641733/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39641733</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.102>10.1016/j.jacc.2024.10.102</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 26:S0735-1097(24)10314-2. doi: 10.1016/j.jacc.2024.10.102. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39641733/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39641733</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.102>10.1016/j.jacc.2024.10.102</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39641733</guid>
 <pubDate>Fri, 06 Dec 2024 06:00:00 -0500</pubDate>
 <dc:creator>Joseph M Kim</dc:creator>
@@ -322,9 +406,9 @@
 </item>
 <item>
 <title>Aortic Valve Replacement vs Clinical Surveillance in Asymptomatic Severe Aortic Stenosis: A Systematic Review and Meta-Analysis</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39641732/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39641732/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>CONCLUSIONS: In this meta-analysis of 4 RCTs, early AVR was associated with a significant reduction in unplanned cardiovascular or HF hospitalization and stroke and no differences in all-cause and cardiovascular mortality compared with CS.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 18:S0735-1097(24)10419-6. doi: 10.1016/j.jacc.2024.11.006. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Current guidelines recommend a strategy of clinical surveillance (CS) for patients with asymptomatic severe aortic stenosis (AS) and a normal left ventricular ejection fraction.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVES: The aim of this study was to conduct a study-level meta-analysis of randomized controlled trials (RCTs) evaluating the effect of early aortic valve replacement (AVR) compared with CS in patients with asymptomatic severe AS.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Studies were quantitatively assessed in a meta-analysis using random-effects modeling. Prespecified outcomes included all-cause and cardiovascular mortality, unplanned cardiovascular or heart failure (HF) hospitalization, and stroke. The meta-analysis is registered at the International Platform of Registered Systematic Review and Meta-Analysis Protocols (INPLASY202490002).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Four RCTs were identified, including a total of 1,427 patients (719 in the early AVR group and 708 in the CS group). At an average follow-up time of 4.1 years, early AVR was associated with a significant reduction in unplanned cardiovascular or HF hospitalization (pooled rate 14.6% vs 31.9%; HR: 0.40; 95% CI: 0.30-0.53; I<sup>2</sup> = 4%; P &lt; 0.01) and stroke (pooled rate 4.5% vs 7.2%; HR: 0.62; 95% CI: 0.40-0.97; I<sup>2</sup> = 0%; P = 0.03). No differences in all-cause mortality (pooled rate 9.7% vs 13.7%; HR: 0.68; 95% CI: 0.40-1.17; I<sup>2</sup> = 61%; P = 0.17) and cardiovascular mortality (pooled rate 5.1% vs 8.3%; HR: 0.67; 95% CI: 0.35-1.29; I<sup>2</sup> = 50%; P = 0.23) were observed with early AVR compared with CS, although there was a high degree of heterogeneity among studies.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: In this meta-analysis of 4 RCTs, early AVR was associated with a significant reduction in unplanned cardiovascular or HF hospitalization and stroke and no differences in all-cause and cardiovascular mortality compared with CS.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39641732/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39641732</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.11.006>10.1016/j.jacc.2024.11.006</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 18:S0735-1097(24)10419-6. doi: 10.1016/j.jacc.2024.11.006. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Current guidelines recommend a strategy of clinical surveillance (CS) for patients with asymptomatic severe aortic stenosis (AS) and a normal left ventricular ejection fraction.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVES: The aim of this study was to conduct a study-level meta-analysis of randomized controlled trials (RCTs) evaluating the effect of early aortic valve replacement (AVR) compared with CS in patients with asymptomatic severe AS.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Studies were quantitatively assessed in a meta-analysis using random-effects modeling. Prespecified outcomes included all-cause and cardiovascular mortality, unplanned cardiovascular or heart failure (HF) hospitalization, and stroke. The meta-analysis is registered at the International Platform of Registered Systematic Review and Meta-Analysis Protocols (INPLASY202490002).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Four RCTs were identified, including a total of 1,427 patients (719 in the early AVR group and 708 in the CS group). At an average follow-up time of 4.1 years, early AVR was associated with a significant reduction in unplanned cardiovascular or HF hospitalization (pooled rate 14.6% vs 31.9%; HR: 0.40; 95% CI: 0.30-0.53; I<sup>2</sup> = 4%; P &lt; 0.01) and stroke (pooled rate 4.5% vs 7.2%; HR: 0.62; 95% CI: 0.40-0.97; I<sup>2</sup> = 0%; P = 0.03). No differences in all-cause mortality (pooled rate 9.7% vs 13.7%; HR: 0.68; 95% CI: 0.40-1.17; I<sup>2</sup> = 61%; P = 0.17) and cardiovascular mortality (pooled rate 5.1% vs 8.3%; HR: 0.67; 95% CI: 0.35-1.29; I<sup>2</sup> = 50%; P = 0.23) were observed with early AVR compared with CS, although there was a high degree of heterogeneity among studies.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: In this meta-analysis of 4 RCTs, early AVR was associated with a significant reduction in unplanned cardiovascular or HF hospitalization and stroke and no differences in all-cause and cardiovascular mortality compared with CS.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39641732/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39641732</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.11.006>10.1016/j.jacc.2024.11.006</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39641732</guid>
 <pubDate>Fri, 06 Dec 2024 06:00:00 -0500</pubDate>
 <dc:creator>Philippe Généreux</dc:creator>
@@ -352,9 +436,9 @@
 </item>
 <item>
 <title>The genomic origin of early maize in eastern North America</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39637852/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39637852/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>Indigenous maize varieties from eastern North America have played an outsized role in breeding programs, yet their early origins are not fully understood. We generated paleogenomic data to reconstruct how maize first reached this region and how it was selected during the process. Genomic ancestry analyses reveal recurrent movements northward from different parts of Mexico, likely culminating in at least two dispersals from the US Southwest across the Great Plains to the Ozarks and beyond. We...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Nov 26:S0092-8674(24)01277-7. doi: 10.1016/j.cell.2024.11.003. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Indigenous maize varieties from eastern North America have played an outsized role in breeding programs, yet their early origins are not fully understood. We generated paleogenomic data to reconstruct how maize first reached this region and how it was selected during the process. Genomic ancestry analyses reveal recurrent movements northward from different parts of Mexico, likely culminating in at least two dispersals from the US Southwest across the Great Plains to the Ozarks and beyond. We find that 1,000-year-old Ozark specimens carry a highly differentiated wx1 gene, which is involved in the synthesis of amylose, highlighting repeated selective pressures on the starch metabolic pathway throughout maize's domestication. This population shows a close affinity with the lineage that ultimately became the Northern Flints, a major contributor to modern commercial maize.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39637852/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39637852</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.11.003>10.1016/j.cell.2024.11.003</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2024 Nov 26:S0092-8674(24)01277-7. doi: 10.1016/j.cell.2024.11.003. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Indigenous maize varieties from eastern North America have played an outsized role in breeding programs, yet their early origins are not fully understood. We generated paleogenomic data to reconstruct how maize first reached this region and how it was selected during the process. Genomic ancestry analyses reveal recurrent movements northward from different parts of Mexico, likely culminating in at least two dispersals from the US Southwest across the Great Plains to the Ozarks and beyond. We find that 1,000-year-old Ozark specimens carry a highly differentiated wx1 gene, which is involved in the synthesis of amylose, highlighting repeated selective pressures on the starch metabolic pathway throughout maize's domestication. This population shows a close affinity with the lineage that ultimately became the Northern Flints, a major contributor to modern commercial maize.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39637852/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39637852</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.11.003>10.1016/j.cell.2024.11.003</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39637852</guid>
 <pubDate>Thu, 05 Dec 2024 06:00:00 -0500</pubDate>
 <dc:creator>Jazmín Ramos-Madrigal</dc:creator>
@@ -384,9 +468,9 @@
 </item>
 <item>
 <title>Salt's Sex-Specific Impact of Gut Microbiota in Hypertension</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39636968/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39636968/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Dec 6;135(12):1138-1140. doi: 10.1161/CIRCRESAHA.124.325719. Epub 2024 Dec 5.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39636968/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39636968</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC11623195/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">PMC11623195</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.124.325719>10.1161/CIRCRESAHA.124.325719</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Dec 6;135(12):1138-1140. doi: 10.1161/CIRCRESAHA.124.325719. Epub 2024 Dec 5.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39636968/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39636968</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC11623195/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">PMC11623195</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.124.325719>10.1161/CIRCRESAHA.124.325719</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39636968</guid>
 <pubDate>Thu, 05 Dec 2024 06:00:00 -0500</pubDate>
 <dc:creator>Selam Desta</dc:creator>
@@ -401,9 +485,9 @@
 </item>
 <item>
 <title>Correction to: Blunted Cardiac Mitophagy in Response to Metabolic Stress Contributes to HFpEF</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39636967/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39636967/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Dec 6;135(12):e154. doi: 10.1161/RES.0000000000000702. Epub 2024 Dec 5.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39636967/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39636967</a> | DOI:<a href=https://doi.org/10.1161/RES.0000000000000702>10.1161/RES.0000000000000702</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Dec 6;135(12):e154. doi: 10.1161/RES.0000000000000702. Epub 2024 Dec 5.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39636967/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39636967</a> | DOI:<a href=https://doi.org/10.1161/RES.0000000000000702>10.1161/RES.0000000000000702</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39636967</guid>
 <pubDate>Thu, 05 Dec 2024 06:00:00 -0500</pubDate>
 <dc:date>2024-12-05</dc:date>
@@ -414,9 +498,9 @@
 </item>
 <item>
 <title>In This Issue</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39636965/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39636965/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210072229&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Dec 6;135(12):1119. doi: 10.1161/RES.0000000000000703. Epub 2024 Dec 5.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39636965/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39636965</a> | DOI:<a href=https://doi.org/10.1161/RES.0000000000000703>10.1161/RES.0000000000000703</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Dec 6;135(12):1119. doi: 10.1161/RES.0000000000000703. Epub 2024 Dec 5.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39636965/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210072229&v=2.18.0.post9+e462414">39636965</a> | DOI:<a href=https://doi.org/10.1161/RES.0000000000000703>10.1161/RES.0000000000000703</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39636965</guid>
 <pubDate>Thu, 05 Dec 2024 06:00:00 -0500</pubDate>
 <dc:date>2024-12-05</dc:date>
@@ -424,90 +508,6 @@
 <dc:title>In This Issue</dc:title>
 <dc:identifier>pmid:39636965</dc:identifier>
 <dc:identifier>doi:10.1161/RES.0000000000000703</dc:identifier>
-</item>
-<item>
-<title>Low Penetrance Sarcomere Variants Contribute to Additive Risk in Hypertrophic Cardiomyopathy</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39633578/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: This study establishes a new class of low penetrance sarcomere variants that are relatively common in the population. When penetrant, isolated LowSVs cause mild HCM. In combination with pathogenic sarcomere variants, LowSVs markedly increase disease severity, supporting a clinically significant additive effect. Last, LowSVs also contribute to age-related remodeling even in the absence of overt HCM.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Dec 5. doi: 10.1161/CIRCULATIONAHA.124.069398. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Classically, hypertrophic cardiomyopathy (HCM) has been viewed as a single-gene (monogenic) disease caused by pathogenic variants in sarcomere genes. Pathogenic sarcomere variants are individually rare and convey high risk for developing HCM (highly penetrant). Recently, important polygenic contributions have also been characterized. Low penetrance sarcomere variants (LowSVs) at intermediate frequencies and effect sizes have not been systematically investigated. We hypothesize that LowSVs may be common in HCM with substantial influence on disease risk and severity.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Among all sarcomere variants observed in the Sarcomeric Human Cardiomyopathy Registry (SHaRe), we identified putative LowSVs defined by (1) population frequency greater than expected for highly penetrant (monogenic) HCM (allele frequency >;5×10<sup>-5</sup> in the Genome Aggregation Database, gnomAD) and (2) moderate enrichment (>;2×) in patients with HCM compared with gnomAD. LowSVs were examined for their association with disease severity and clinical outcomes. Functional effects of selected LowSVs were assessed using induced pluripotent stem cell-derived cardiomyocytes. Association of LowSVs with HCM-adjacent traits in the general population was tested using UK Biobank cardiac magnetic resonance imaging data.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Among 6045 patients and 1159 unique variants in sarcomere genes, 12 LowSVs were identified. LowSVs were collectively common in the general population (1:350) and moderately enriched in HCM (aggregate odds ratio, 14.9 [95% CI, 12.5-17.9]). Isolated LowSVs were associated with an older age of HCM diagnosis and fewer adverse events. However, LowSVs in combination with a pathogenic sarcomere variant conferred higher morbidity (eg, composite adverse event hazard ratio, 5.4 [95% CI, 3.0-9.8] versus single pathogenic sarcomere variant, 2.0 [95% CI, 1.8-2.2]; <i>P</i>&lt;0.001). An intermediate functional impact was validated for 2 specific LowSVs-<i>MYBPC3</i> c.442G>;A (partial splice gain) and <i>TNNT2</i> c.832C>;T (intermediate effect on contractile mechanics). Cardiac magnetic resonance imaging analysis of the general population revealed 5 of 12 LowSVs were significantly associated with HCM-adjacent traits without overt HCM.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: This study establishes a new class of low penetrance sarcomere variants that are relatively common in the population. When penetrant, isolated LowSVs cause mild HCM. In combination with pathogenic sarcomere variants, LowSVs markedly increase disease severity, supporting a clinically significant additive effect. Last, LowSVs also contribute to age-related remodeling even in the absence of overt HCM.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39633578/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39633578</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.069398>10.1161/CIRCULATIONAHA.124.069398</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39633578</guid>
-<pubDate>Thu, 05 Dec 2024 06:00:00 -0500</pubDate>
-<dc:creator>Joshua K Meisner</dc:creator>
-<dc:creator>Aaron Renberg</dc:creator>
-<dc:creator>Eric D Smith</dc:creator>
-<dc:creator>Yao-Chang Tsan</dc:creator>
-<dc:creator>Brynn Elder</dc:creator>
-<dc:creator>Abbey Bullard</dc:creator>
-<dc:creator>Owen Merritt</dc:creator>
-<dc:creator>Sean L Zheng</dc:creator>
-<dc:creator>Neal Lakdawala</dc:creator>
-<dc:creator>Anjali Owens</dc:creator>
-<dc:creator>Thomas D Ryan</dc:creator>
-<dc:creator>Erin M Miller</dc:creator>
-<dc:creator>Joseph Rossano</dc:creator>
-<dc:creator>Kimberly Y Lin</dc:creator>
-<dc:creator>Brian Claggett</dc:creator>
-<dc:creator>Euan Ashley</dc:creator>
-<dc:creator>Michelle Michels</dc:creator>
-<dc:creator>Rachel Lampert</dc:creator>
-<dc:creator>John C Stendahl</dc:creator>
-<dc:creator>Dominic Abrahams</dc:creator>
-<dc:creator>Christopher Semsarian</dc:creator>
-<dc:creator>Victoria N Parikh</dc:creator>
-<dc:creator>Matthew Wheeler</dc:creator>
-<dc:creator>Jodie Ingles</dc:creator>
-<dc:creator>Sharlene M Day</dc:creator>
-<dc:creator>Sara Saberi</dc:creator>
-<dc:creator>Mark W Russell</dc:creator>
-<dc:creator>Michael Previs</dc:creator>
-<dc:creator>Carolyn Ho</dc:creator>
-<dc:creator>James S Ware</dc:creator>
-<dc:creator>Adam S Helms</dc:creator>
-<dc:date>2024-12-05</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Low Penetrance Sarcomere Variants Contribute to Additive Risk in Hypertrophic Cardiomyopathy</dc:title>
-<dc:identifier>pmid:39633578</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.069398</dc:identifier>
-</item>
-<item>
-<title>Sickle Trait and Alpha Thalassemia Increase NOS-Dependent Vasodilation of Human Arteries Through Disruption of Endothelial Hemoglobin-eNOS Interactions</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39633569/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20241210051247&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: Alpha and beta globin subunits of hemoglobin interact with eNOS to restrict NO signaling in human resistance arteries. Malaria-protective genetic variants that alter the expression of alpha globin or the structure of beta globin are associated with increased NOS-dependent vasodilation. Targeting the hemoglobin-eNOS interface could potentially improve NO signaling in diseases of endothelial dysfunction such as severe malaria or chronic cardiovascular conditions.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2024 Dec 5. doi: 10.1161/CIRCULATIONAHA.123.066003. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Severe malaria is associated with impaired nitric oxide (NO) synthase (NOS)-dependent vasodilation, and reversal of this deficit improves survival in murine models. Malaria might have selected for genetic polymorphisms that increase endothelial NO signaling and now contribute to heterogeneity in vascular function among humans. One protein potentially selected for is alpha globin, which, in mouse models, interacts with endothelial NOS (eNOS) to negatively regulate NO signaling. We sought to evaluate the impact of alpha globin gene deletions on NO signaling and unexpectedly found human arteries use not only alpha but also beta globin to regulate eNOS.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: The eNOS-hemoglobin complex was characterized by multiphoton imaging, gene expression analysis, and coimmunoprecipitation studies of human resistance arteries. Novel contacts between eNOS and hemoglobin were mapped using molecular modeling and simulation. Pharmacological or genetic disruption of the eNOS-hemoglobin complex was evaluated using pressure myography. The association between alpha globin gene deletion and blood pressure was assessed in a population study.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Alpha and beta globin transcripts were detected in the endothelial layer of the artery wall. Imaging colocalized alpha and beta globin proteins with eNOS at myoendothelial junctions. Immunoprecipitation demonstrated that alpha globin and beta globin form a complex with eNOS and cytochrome b5 reductase. Modeling predicted negatively charged glutamic acids at positions 6 and 7 of beta globin to interact with positively charged arginines at positions 97 and 98 of eNOS. Arteries from donors with a glutamic acid-to-valine substitution at beta globin position 6 (sickle trait) exhibited increased NOS-dependent vasodilation. Alpha globin gene deletions were associated with decreased arterial alpha globin expression, increased NOS-dependent vasodilation, and lower blood pressure. Mimetic peptides that targeted the interactions between hemoglobin and eNOS recapitulated the effects of these genetic variants on human arterial vasoreactivity.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Alpha and beta globin subunits of hemoglobin interact with eNOS to restrict NO signaling in human resistance arteries. Malaria-protective genetic variants that alter the expression of alpha globin or the structure of beta globin are associated with increased NOS-dependent vasodilation. Targeting the hemoglobin-eNOS interface could potentially improve NO signaling in diseases of endothelial dysfunction such as severe malaria or chronic cardiovascular conditions.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39633569/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20241210051247&v=2.18.0.post9+e462414">39633569</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.123.066003>10.1161/CIRCULATIONAHA.123.066003</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39633569</guid>
-<pubDate>Thu, 05 Dec 2024 06:00:00 -0500</pubDate>
-<dc:creator>Steven D Brooks</dc:creator>
-<dc:creator>A Parker Ruhl</dc:creator>
-<dc:creator>Xianke Zeng</dc:creator>
-<dc:creator>Phillip Cruz</dc:creator>
-<dc:creator>Sergio A Hassan</dc:creator>
-<dc:creator>Olena Kamenyeva</dc:creator>
-<dc:creator>Md Abdul Hakim</dc:creator>
-<dc:creator>Lauryn A Ridley</dc:creator>
-<dc:creator>Bianca M Nagata</dc:creator>
-<dc:creator>Juraj Kabat</dc:creator>
-<dc:creator>Sundar Ganesan</dc:creator>
-<dc:creator>Rachel L Smith</dc:creator>
-<dc:creator>Mary Jackson</dc:creator>
-<dc:creator>Jessica Nino de Rivera</dc:creator>
-<dc:creator>Alison J McLure</dc:creator>
-<dc:creator>Jarrett M Jackson</dc:creator>
-<dc:creator>Robert O Emeh</dc:creator>
-<dc:creator>Naomi Tesfuzigta</dc:creator>
-<dc:creator>Kyeisha Laurence</dc:creator>
-<dc:creator>Stacy Joyce</dc:creator>
-<dc:creator>Christina Yek</dc:creator>
-<dc:creator>Sophana Chea</dc:creator>
-<dc:creator>Derron A Alves</dc:creator>
-<dc:creator>Brant E Isakson</dc:creator>
-<dc:creator>Jessica Manning</dc:creator>
-<dc:creator>Jeremy L Davis</dc:creator>
-<dc:creator>Hans C Ackerman</dc:creator>
-<dc:date>2024-12-05</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Sickle Trait and Alpha Thalassemia Increase NOS-Dependent Vasodilation of Human Arteries Through Disruption of Endothelial Hemoglobin-eNOS Interactions</dc:title>
-<dc:identifier>pmid:39633569</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.123.066003</dc:identifier>
 </item>
 
 

@@ -1,20 +1,331 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>心血管高分期刊</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_source=Chrome&amp;v=2.18.0.post9+e462414&amp;fc=20230708114047&amp;ff=20250108171001
+<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_source=Chrome&amp;utm_campaign=pubmed-2&amp;utm_medium=rss&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414&amp;fc=20230708114047
     <description>心血管高分期刊: Latest results from PubMed</description>
-<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_source=Chrome&amp;v=2.18.0.post9+e462414&amp;fc=20230708114047&amp;ff=20250108171001" rel="self"></atom:link>
+<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_source=Chrome&amp;utm_campaign=pubmed-2&amp;utm_medium=rss&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414&amp;fc=20230708114047" rel="self"></atom:link>
 <docs>http://www.rssboard.org/rss-specification</docs>
 <generator>PubMed RSS feeds (2.18.0.post9+e462414)</generator>
 <language>en</language>
-<lastbuilddate>Wed, 08 Jan 2025 22:10:02 +0000</lastbuilddate>
+<lastbuilddate>Thu, 09 Jan 2025 00:52:03 +0000</lastbuilddate>
 <pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
 <ttl>120</ttl>
 <item>
-<title>Off TARGET Effects in Stent Comparison Trials: Looking Beyond the Primary Endpoint Analysis</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39772371/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
+<title>Deep learning for cardiac abnormalities in chest X-rays: performance metrics with imbalanced data and extracardiac objects</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39776179/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Dec 16:S0735-1097(24)10508-6. doi: 10.1016/j.jacc.2024.11.021. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772371/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39772371</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.11.021>10.1016/j.jacc.2024.11.021</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 8:ehae759. doi: 10.1093/eurheartj/ehae759. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39776179/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39776179</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae759>10.1093/eurheartj/ehae759</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39776179</guid>
+<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Eisuke Kagawa</dc:creator>
+<dc:creator>Masaya Kato</dc:creator>
+<dc:creator>Keigo Dote</dc:creator>
+<dc:date>2025-01-08</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Deep learning for cardiac abnormalities in chest X-rays: performance metrics with imbalanced data and extracardiac objects</dc:title>
+<dc:identifier>pmid:39776179</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae759</dc:identifier>
+</item>
+<item>
+<title>Giant left atrial appendage aneurysm: a source of multiple thrombotic events despite medical therapy</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39776175/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 8:ehae935. doi: 10.1093/eurheartj/ehae935. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39776175/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39776175</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae935>10.1093/eurheartj/ehae935</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39776175</guid>
+<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Jacopo Lin</dc:creator>
+<dc:creator>Francesco Maisano</dc:creator>
+<dc:creator>Michele De Bonis</dc:creator>
+<dc:date>2025-01-08</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Giant left atrial appendage aneurysm: a source of multiple thrombotic events despite medical therapy</dc:title>
+<dc:identifier>pmid:39776175</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae935</dc:identifier>
+</item>
+<item>
+<title>Coffee drinking timing and mortality in US adults</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39776171/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS: Drinking coffee in the morning may be more strongly associated with a lower risk of mortality than drinking coffee later in the day.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 8:ehae871. doi: 10.1093/eurheartj/ehae871. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND AND AIMS: To identify the patterns of coffee drinking timing in the US population and evaluate their associations with all-cause and cause-specific mortality.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: This study included 40 725 adults from the National Health and Nutrition Examination Survey 1999-2018 who had complete information on dietary data and 1463 adults from the Women's and Men's Lifestyle Validation Study who had complete data on 7-day dietary record. Clustering analysis was used to identify patterns of coffee drinking timing.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: In this observational study, two distinct patterns of coffee drinking timing [morning type (36% of participants) and all-day-type patterns (14% of participants)] were identified in the National Health and Nutrition Examination Survey and were validated in the Women's and Men's Lifestyle Validation Study. During a median (interquartile range) follow-up of 9.8 (9.1) years, a total of 4295 all-cause deaths, 1268 cardiovascular disease deaths, and 934 cancer deaths were recorded. After adjustment for caffeinated and decaffeinated coffee intake amounts, sleep hours, and other confounders, the morning-type pattern, rather than the all-day-type pattern, was significantly associated with lower risks of all-cause (hazard ratio: .84; 95% confidential interval: .74-.95) and cardiovascular disease-specific (hazard ratio: .69; 95% confidential interval: .55-.87) mortality as compared with non-coffee drinking. Coffee drinking timing significantly modified the association between coffee intake amounts and all-cause mortality (P-interaction = .031); higher coffee intake amounts were significantly associated with a lower risk of all-cause mortality in participants with morning-type pattern but not in those with all-day-type pattern.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Drinking coffee in the morning may be more strongly associated with a lower risk of mortality than drinking coffee later in the day.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39776171/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39776171</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae871>10.1093/eurheartj/ehae871</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39776171</guid>
+<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Xuan Wang</dc:creator>
+<dc:creator>Hao Ma</dc:creator>
+<dc:creator>Qi Sun</dc:creator>
+<dc:creator>Jun Li</dc:creator>
+<dc:creator>Yoriko Heianza</dc:creator>
+<dc:creator>Rob M Van Dam</dc:creator>
+<dc:creator>Frank B Hu</dc:creator>
+<dc:creator>Eric Rimm</dc:creator>
+<dc:creator>JoAnn E Manson</dc:creator>
+<dc:creator>Lu Qi</dc:creator>
+<dc:date>2025-01-08</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Coffee drinking timing and mortality in US adults</dc:title>
+<dc:identifier>pmid:39776171</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae871</dc:identifier>
+</item>
+<item>
+<title>Start your day with a morning coffee!</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39776142/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 8:ehae823. doi: 10.1093/eurheartj/ehae823. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39776142/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39776142</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae823>10.1093/eurheartj/ehae823</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39776142</guid>
+<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Thomas F Lüscher</dc:creator>
+<dc:date>2025-01-08</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Start your day with a morning coffee!</dc:title>
+<dc:identifier>pmid:39776142</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae823</dc:identifier>
+</item>
+<item>
+<title>Efficacy of aggressive lipid-lowering therapy on plaque stabilization in femoropopliteal disease, assessed using near-infrared spectroscopy intravascular ultrasound</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39776140/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 8:ehae900. doi: 10.1093/eurheartj/ehae900. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39776140/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39776140</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae900>10.1093/eurheartj/ehae900</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39776140</guid>
+<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Yusuke Sato</dc:creator>
+<dc:creator>Tetsuji Morishita</dc:creator>
+<dc:creator>Hiroshi Tada</dc:creator>
+<dc:date>2025-01-08</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Efficacy of aggressive lipid-lowering therapy on plaque stabilization in femoropopliteal disease, assessed using near-infrared spectroscopy intravascular ultrasound</dc:title>
+<dc:identifier>pmid:39776140</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae900</dc:identifier>
+</item>
+<item>
+<title>Combustible cigarette smoking harms nearly every organ in the body</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39775792/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 8:ehae896. doi: 10.1093/eurheartj/ehae896. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39775792/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39775792</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae896>10.1093/eurheartj/ehae896</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39775792</guid>
+<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Danbee Kang</dc:creator>
+<dc:creator>Ki Hong Choi</dc:creator>
+<dc:date>2025-01-08</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Combustible cigarette smoking harms nearly every organ in the body</dc:title>
+<dc:identifier>pmid:39775792</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae896</dc:identifier>
+</item>
+<item>
+<title>Novel technology, novel challenges: How do we compare the performance of artificial intelligence to human experts?</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39775785/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 8:ehae760. doi: 10.1093/eurheartj/ehae760. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39775785/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39775785</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae760>10.1093/eurheartj/ehae760</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39775785</guid>
+<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Pierre Elias</dc:creator>
+<dc:creator>Shreyas Bhave</dc:creator>
+<dc:creator>Timothy Joseph Poterucha</dc:creator>
+<dc:date>2025-01-08</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Novel technology, novel challenges: How do we compare the performance of artificial intelligence to human experts?</dc:title>
+<dc:identifier>pmid:39775785</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae760</dc:identifier>
+</item>
+<item>
+<title>Genius and the CVD Polypill-A Step Toward Achieving Health Equity?</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39775777/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2025 Jan 8. doi: 10.1001/jamacardio.2024.4820. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39775777/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39775777</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.4820>10.1001/jamacardio.2024.4820</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39775777</guid>
+<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Clyde W Yancy</dc:creator>
+<dc:creator>Gregg C Fonarow</dc:creator>
+<dc:date>2025-01-08</dc:date>
+<dc:source>JAMA cardiology</dc:source>
+<dc:title>Genius and the CVD Polypill-A Step Toward Achieving Health Equity?</dc:title>
+<dc:identifier>pmid:39775777</dc:identifier>
+<dc:identifier>doi:10.1001/jamacardio.2024.4820</dc:identifier>
+</item>
+<item>
+<title>Cost-Effectiveness of a Polypill for Cardiovascular Disease Prevention in an Underserved Population</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39775718/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS AND RELEVANCE: Results of this economic evaluation suggest that polypill treatment could be a high value intervention for a low-income, majority Black population with limited access to health care services. It could additionally reduce health disparities.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2025 Jan 8. doi: 10.1001/jamacardio.2024.4812. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">IMPORTANCE: The Southern Community Cohort Study (SCCS) Polypill Trial showed that a cardiovascular polypill (a single pill containing a statin and 3 half-standard dose antihypertensive medications) effectively controls cardiovascular disease (CVD) risk factors in a majority Black race and low-income population. The cost-effectiveness of polypill treatment in this population has not been previously studied.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVE: To determine the cost-effectiveness of the cardiovascular polypill.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">DESIGN, SETTING, AND PARTICIPANTS: A discrete-event simulation version of the well-established CVD policy model simulated clinical and economic outcomes of the SCCS Polypill Trial from a health care sector perspective. A time horizon of 10 years was adopted. Polypill treatment was priced at $463 per year in the base-case analysis. Model input data were derived from the National Health and Nutrition Examination Survey, Medical Expenditure Panel Survey, pooled longitudinal cohort studies, the SCCS Polypill Trial, and published literature. Two cohorts were analyzed: an SCCS Polypill Trial-representative cohort of 100 000 individuals and all trial-eligible non-Hispanic Black US adults. Study parameters and model inputs were varied extensively in 1-way and probabilistic sensitivity analysis.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">EXPOSURES: Polypill treatment or usual care.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">MAIN OUTCOME AND MEASURES: Primary outcomes were direct health care costs (US dollar 2023) and quality-adjusted life-years (QALYs), both discounted 3% annually, and the incremental cost per QALY gained.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: In the trial-representative cohort of 100 000 individuals (mean [SD] age, 56.9 [5.9] years; 61 807 female [61.8%]), polypill treatment was projected to yield a mean of 1190 (95% uncertainty interval, 287-2159) additional QALYs compared with usual care, at a cost of approximately $10 152 000. Hence, polypill treatment was estimated to cost $8560 per QALY gained compared with usual care and was high value (&lt;$50 000 per QALY gained) in 99% of simulations. Polypill treatment was estimated to be high value when priced at $559 or less per year and cost saving when priced at $443 or less per year. In almost all sensitivity analyses, polypill treatment remained high value. In a secondary analysis of 3 602 427 trial-eligible non-Hispanic Black US adults (mean [SD] age, 55.4 [7.6] years; 2 006 597 female [55.7%]), polypill treatment was high value, with an estimated cost of $13 400 per QALY gained.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS AND RELEVANCE: Results of this economic evaluation suggest that polypill treatment could be a high value intervention for a low-income, majority Black population with limited access to health care services. It could additionally reduce health disparities.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39775718/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39775718</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.4812>10.1001/jamacardio.2024.4812</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39775718</guid>
+<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Ciaran N Kohli-Lynch</dc:creator>
+<dc:creator>Andrew E Moran</dc:creator>
+<dc:creator>Dhruv S Kazi</dc:creator>
+<dc:creator>Kirsten Bibbins-Domingo</dc:creator>
+<dc:creator>Neil Jordan</dc:creator>
+<dc:creator>Dustin French</dc:creator>
+<dc:creator>Yiyi Zhang</dc:creator>
+<dc:creator>Thomas J Wang</dc:creator>
+<dc:creator>Brandon K Bellows</dc:creator>
+<dc:date>2025-01-08</dc:date>
+<dc:source>JAMA cardiology</dc:source>
+<dc:title>Cost-Effectiveness of a Polypill for Cardiovascular Disease Prevention in an Underserved Population</dc:title>
+<dc:identifier>pmid:39775718</dc:identifier>
+<dc:identifier>doi:10.1001/jamacardio.2024.4812</dc:identifier>
+</item>
+<item>
+<title>Recurrent Chest Pain in a Young Female Patient With Family History of Cancer</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39774791/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2025 Jan 8. doi: 10.1001/jamacardio.2024.4823. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39774791/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39774791</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.4823>10.1001/jamacardio.2024.4823</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39774791</guid>
+<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Ushasi Saraswati</dc:creator>
+<dc:creator>Jaideep Singh Bhalla</dc:creator>
+<dc:creator>Allan L Klein</dc:creator>
+<dc:date>2025-01-08</dc:date>
+<dc:source>JAMA cardiology</dc:source>
+<dc:title>Recurrent Chest Pain in a Young Female Patient With Family History of Cancer</dc:title>
+<dc:identifier>pmid:39774791</dc:identifier>
+<dc:identifier>doi:10.1001/jamacardio.2024.4823</dc:identifier>
+</item>
+<item>
+<title>What truly drives the significant reduction in major adverse cardiac events after switching to electronic cigarettes following percutaneous coronary intervention?</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39774636/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 8:ehae895. doi: 10.1093/eurheartj/ehae895. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39774636/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39774636</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae895>10.1093/eurheartj/ehae895</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39774636</guid>
+<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Yuqin Zhao</dc:creator>
+<dc:creator>Jun Sun</dc:creator>
+<dc:creator>Xiaolei Lv</dc:creator>
+<dc:date>2025-01-08</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>What truly drives the significant reduction in major adverse cardiac events after switching to electronic cigarettes following percutaneous coronary intervention?</dc:title>
+<dc:identifier>pmid:39774636</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae895</dc:identifier>
+</item>
+<item>
+<title>Myxoedema coma and myxoedema heart disease</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39774628/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 8:ehae937. doi: 10.1093/eurheartj/ehae937. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39774628/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39774628</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae937>10.1093/eurheartj/ehae937</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39774628</guid>
+<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Philip Haaf</dc:creator>
+<dc:creator>Julia Beck</dc:creator>
+<dc:creator>Michael Mayr</dc:creator>
+<dc:date>2025-01-08</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Myxoedema coma and myxoedema heart disease</dc:title>
+<dc:identifier>pmid:39774628</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae937</dc:identifier>
+</item>
+<item>
+<title>Omitting Aspirin in High-Risk Left Ventricular Assist Device Implant</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39774623/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2025 Jan 8. doi: 10.1001/jamacardio.2024.4861. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39774623/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39774623</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.4861>10.1001/jamacardio.2024.4861</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39774623</guid>
+<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Nosheen Reza</dc:creator>
+<dc:date>2025-01-08</dc:date>
+<dc:source>JAMA cardiology</dc:source>
+<dc:title>Omitting Aspirin in High-Risk Left Ventricular Assist Device Implant</dc:title>
+<dc:identifier>pmid:39774623</dc:identifier>
+<dc:identifier>doi:10.1001/jamacardio.2024.4861</dc:identifier>
+</item>
+<item>
+<title>Aspirin and Hemocompatibility After LVAD Implantation in Patients With Atherosclerotic Vascular Disease: A Secondary Analysis From the ARIES-HM3 Randomized Clinical Trial</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39774588/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS AND RELEVANCE: Results of this prespecified analysis of the ARIES-HM3 randomized clinical trial demonstrate that in patients with advanced heart failure who have classical indications for antiplatelet therapy use at the time of LVAD implantation, aspirin avoidance was safe and not associated with increased thrombosis risk. Importantly, elimination of aspirin was associated with no increased thrombosis but a reduction in nonsurgical bleeding events in patients with a history of PCI,...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2025 Jan 8. doi: 10.1001/jamacardio.2024.4849. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">IMPORTANCE: The Aspirin and Hemocompatibility Events With a Left Ventricular Assist Device in Advanced Heart Failure (ARIES-HM3) study demonstrated that aspirin may be safely eliminated from the antithrombotic regimen after HeartMate 3 (HM3 [Abbott Cardiovascular]) left ventricular assist device (LVAD) implantation. This prespecified analysis explored whether conditions requiring aspirin (prior percutaneous coronary intervention [PCI], coronary artery bypass grafting [CABG], stroke, or peripheral vascular disease [PVD]) would influence outcomes differentially with aspirin avoidance.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVE: To analyze aspirin avoidance on hemocompatibility-related adverse events (HRAEs) at 1 year after implant in patients with a history of CABG, PCI, stroke, or PVD.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">DESIGN, SETTING, AND PARTICIPANTS: This was an international, multicenter, prospective, double-blind, placebo-controlled, randomized clinical trial including patients implanted with a de novo HM3 LVAD across 51 centers. Data analysis was conducted from April to July 2024.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">INTERVENTIONS: Patients were randomized in a 1:1 ratio to receive aspirin (100 mg per day) or placebo, in addition to a vitamin K antagonist (VKA) targeted to an international normalized ratio of 2 to 3 in both groups.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">MAIN OUTCOMES AND MEASURES: Primary end point (assessed for noninferiority) was a composite of survival free of any nonsurgical (>;14 days after implant) HRAEs including stroke, pump thrombosis, bleeding, and arterial peripheral thromboembolism at 12 months. Secondary end points included nonsurgical bleeding, stroke, and pump thrombosis events.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Among 589 of 628 patients (mean [SD] age, 57.1 [13.7] years; 456 male [77.4%]) who contributed to the primary end point analysis, a history of PCI, CABG, stroke, or PVD was present in 41% (240 of 589 patients). There was no interaction between the presence of an atherosclerotic vascular condition and effect of aspirin compared with placebo (P for interaction= .23). The preset 10% noninferiority margin was not crossed for the studied subgroup of patients. Thrombotic events were rare, with no differences between aspirin and placebo in patients with and without vascular disease (P for interaction = .77). Aspirin treatment was associated with a higher rate of nonsurgical major bleeding events in the group with prior vascular condition history compared with those without aspirin (rate ratio for placebo compared with aspirin, 0.52; 95% CI, 0.35-0.79).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS AND RELEVANCE: Results of this prespecified analysis of the ARIES-HM3 randomized clinical trial demonstrate that in patients with advanced heart failure who have classical indications for antiplatelet therapy use at the time of LVAD implantation, aspirin avoidance was safe and not associated with increased thrombosis risk. Importantly, elimination of aspirin was associated with no increased thrombosis but a reduction in nonsurgical bleeding events in patients with a history of PCI, CABG, stroke, or PVD.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04069156.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39774588/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39774588</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.4849>10.1001/jamacardio.2024.4849</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39774588</guid>
+<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Finn Gustafsson</dc:creator>
+<dc:creator>Nir Uriel</dc:creator>
+<dc:creator>Ivan Netuka</dc:creator>
+<dc:creator>Jason N Katz</dc:creator>
+<dc:creator>Francis D Pagani</dc:creator>
+<dc:creator>Jean M Connors</dc:creator>
+<dc:creator>Ulrich P Jorde</dc:creator>
+<dc:creator>Daniel Zimpfer</dc:creator>
+<dc:creator>Yuriy Pya</dc:creator>
+<dc:creator>Jennifer Conway</dc:creator>
+<dc:creator>Anelechi Anyanwu</dc:creator>
+<dc:creator>Anna Mara Scandroglio</dc:creator>
+<dc:creator>Nasir Sulemanjee</dc:creator>
+<dc:creator>Pavan Atluri</dc:creator>
+<dc:creator>Mary Keebler</dc:creator>
+<dc:creator>Craig H Selzman</dc:creator>
+<dc:creator>Jeffrey D Alexis</dc:creator>
+<dc:creator>Christopher Hayward</dc:creator>
+<dc:creator>John Henderson</dc:creator>
+<dc:creator>Nicholas Dirckx</dc:creator>
+<dc:creator>Carlo Gazzola</dc:creator>
+<dc:creator>Mandeep R Mehra</dc:creator>
+<dc:creator>ARIES Investigators</dc:creator>
+<dc:date>2025-01-08</dc:date>
+<dc:source>JAMA cardiology</dc:source>
+<dc:title>Aspirin and Hemocompatibility After LVAD Implantation in Patients With Atherosclerotic Vascular Disease: A Secondary Analysis From the ARIES-HM3 Randomized Clinical Trial</dc:title>
+<dc:identifier>pmid:39774588</dc:identifier>
+<dc:identifier>doi:10.1001/jamacardio.2024.4849</dc:identifier>
+</item>
+<item>
+<title>Error in Table</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39774571/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2025 Jan 8. doi: 10.1001/jamacardio.2024.5456. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39774571/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39774571</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.5456>10.1001/jamacardio.2024.5456</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39774571</guid>
+<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
+<dc:date>2025-01-08</dc:date>
+<dc:source>JAMA cardiology</dc:source>
+<dc:title>Error in Table</dc:title>
+<dc:identifier>pmid:39774571</dc:identifier>
+<dc:identifier>doi:10.1001/jamacardio.2024.5456</dc:identifier>
+</item>
+<item>
+<title>Errors in Author Affiliations and Open Access Updated</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39774481/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2025 Jan 1;10(1):102. doi: 10.1001/jamacardio.2024.4934.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39774481/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39774481</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.4934>10.1001/jamacardio.2024.4934</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39774481</guid>
+<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
+<dc:date>2025-01-08</dc:date>
+<dc:source>JAMA cardiology</dc:source>
+<dc:title>Errors in Author Affiliations and Open Access Updated</dc:title>
+<dc:identifier>pmid:39774481</dc:identifier>
+<dc:identifier>doi:10.1001/jamacardio.2024.4934</dc:identifier>
+</item>
+<item>
+<title>JAMA Cardiology</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39774480/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">JAMA Cardiol. 2025 Jan 1;10(1):4. doi: 10.1001/jamacardio.2024.3405.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39774480/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39774480</a> | DOI:<a href=https://doi.org/10.1001/jamacardio.2024.3405>10.1001/jamacardio.2024.3405</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39774480</guid>
+<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
+<dc:date>2025-01-08</dc:date>
+<dc:source>JAMA cardiology</dc:source>
+<dc:title>JAMA Cardiology</dc:title>
+<dc:identifier>pmid:39774480</dc:identifier>
+<dc:identifier>doi:10.1001/jamacardio.2024.3405</dc:identifier>
+</item>
+<item>
+<title>X-Chromosome-Linked miRNAs Regulate Sex Differences in Cardiac Physiology</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39772608/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS: These data highlight the importance of sex-differential miRNA mechanisms in mediating sex-specific functions and their potential relevance to human cardiac diseases.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2024 Dec 30. doi: 10.1161/CIRCRESAHA.124.325447. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Males and females exhibit distinct anatomic and functional characteristics of the heart, predisposing them to specific disease states.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: We identified microRNA (miRNAs/miR) with sex-differential expression in mouse hearts.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Four conserved miRNAs are present in a single locus on the X-chromosome and are expressed at higher levels in females than males. We show miRNA, miR-871, is responsible for decreased expression of the protein SRL (sarcalumenin) in females. SRL is involved in calcium signaling, and we show it contributes to differences in electrophysiology between males and females. miR-871 overexpression mimics the effects of the cardiac physiology of conditional cardiomyocyte-specific Srl-null mice. Inhibiting miR-871 with an antagomir in females shortened ventricular repolarization. The human orthologue of miR-871, miR-888, coevolved with the SRL 3' untranslated region and regulates human SRL.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: These data highlight the importance of sex-differential miRNA mechanisms in mediating sex-specific functions and their potential relevance to human cardiac diseases.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772608/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39772608</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.124.325447>10.1161/CIRCRESAHA.124.325447</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39772608</guid>
+<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>James I Emerson</dc:creator>
+<dc:creator>Wei Shi</dc:creator>
+<dc:creator>Jose Paredes-Larios</dc:creator>
+<dc:creator>William G Walker</dc:creator>
+<dc:creator>Josiah E Hutton</dc:creator>
+<dc:creator>Ileana M Cristea</dc:creator>
+<dc:creator>William F Marzluff</dc:creator>
+<dc:creator>Frank L Conlon</dc:creator>
+<dc:date>2025-01-08</dc:date>
+<dc:source>Circulation research</dc:source>
+<dc:title>X-Chromosome-Linked miRNAs Regulate Sex Differences in Cardiac Physiology</dc:title>
+<dc:identifier>pmid:39772608</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCRESAHA.124.325447</dc:identifier>
+</item>
+<item>
+<title>Off TARGET Effects in Stent Comparison Trials: Looking Beyond the Primary Endpoint Analysis</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39772371/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Dec 16:S0735-1097(24)10508-6. doi: 10.1016/j.jacc.2024.11.021. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772371/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39772371</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.11.021>10.1016/j.jacc.2024.11.021</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39772371</guid>
 <pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
 <dc:creator>Daniel O'Callaghan</dc:creator>
@@ -30,9 +341,9 @@
 </item>
 <item>
 <title>Efficacy of ICD Electrogram-Guided Sustained Monomorphic VT Ablation: Discerning Fact From Fiction</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39772370/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39772370/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Dec 23:S0735-1097(24)10522-0. doi: 10.1016/j.jacc.2024.11.028. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772370/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39772370</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.11.028>10.1016/j.jacc.2024.11.028</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Dec 23:S0735-1097(24)10522-0. doi: 10.1016/j.jacc.2024.11.028. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772370/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39772370</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.11.028>10.1016/j.jacc.2024.11.028</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39772370</guid>
 <pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
 <dc:creator>Sanghamitra Mohanty</dc:creator>
@@ -47,9 +358,9 @@
 </item>
 <item>
 <title>Outcomes for Children With Congenital Heart Disease Undergoing Ventricular Assist Device Implantation: An ACTION Registry Analysis</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39772369/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/39772369/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108195202&amp;v=2.18.0.post9+e462414
       <description>CONCLUSIONS: CHD patients are more likely in extremis at VAD implantation and experience higher rates of adverse events and worse survival compared to those with non-CHD. Timely referral for patients with CHD experiencing worsening heart failure and a proactive approach to VAD implantation has the potential to improve outcomes for this vulnerable cohort.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Dec 19:S0735-1097(24)10047-2. doi: 10.1016/j.jacc.2024.10.083. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: There are no contemporary reports that highlight the national outcomes for children with congenital heart disease (CHD) undergoing ventricular assist device (VAD) implantation.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVES: This study sought to evaluate differences in VAD outcomes for children with CHD to those with non-CHD as well as those with univentricular CHD to those with biventricular CHD.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Data for CHD and non-CHD patients from the multicenter ACTION (Advanced Cardiac Therapies Improving Outcomes Network) undergoing VAD implantation from April 2018 to February 2023 were included. Preimplantation characteristics were compared between CHD and non-CHD as well as univentricular and biventricular CHD patients. Postimplantation survival and adverse events were compared between these cohorts.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Of 966 patients undergoing VAD implantation, 352 (36%) had CHD, the majority of whom had univentricular CHD (230; 65%). Compared to non-CHD, CHD patients were younger (median age: 1.2 vs 9.4 years), were listed as INTERMACS (Interagency Registry for Mechanically Assisted Circulatory Support) 1 (36.1% vs 28.7%), were on mechanical ventilation (67.0% vs 44.1%), received total parenteral nutrition (63.6% vs 45.1%), and were on extracorporeal membrane oxygenation (ECMO) preimplantation (33.2% vs 20.5%) (P &lt; 0.05 for all). Except for lower estimated glomerular filtration rate in children with univentricular CHD (median: 47.3 vs 59.9 mL/min/1.73 m<sup>2</sup>), there were no significant differences in clinical characteristics in univentricular vs biventricular CHD patients. Children with CHD compared to non-CHD were more likely to experience major adverse events (stroke, bleeding, infection, respiratory failure, renal and hepatic dysfunction) and have worse adjusted survival (HR: 2.05; 95% CI: 1.39-3.02; P &lt; 0.001). There were no differences in adjusted survival in univentricular vs biventricular CHD (P >; 0.05).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: CHD patients are more likely in extremis at VAD implantation and experience higher rates of adverse events and worse survival compared to those with non-CHD. Timely referral for patients with CHD experiencing worsening heart failure and a proactive approach to VAD implantation has the potential to improve outcomes for this vulnerable cohort.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772369/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39772369</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.083>10.1016/j.jacc.2024.10.083</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Dec 19:S0735-1097(24)10047-2. doi: 10.1016/j.jacc.2024.10.083. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: There are no contemporary reports that highlight the national outcomes for children with congenital heart disease (CHD) undergoing ventricular assist device (VAD) implantation.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVES: This study sought to evaluate differences in VAD outcomes for children with CHD to those with non-CHD as well as those with univentricular CHD to those with biventricular CHD.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Data for CHD and non-CHD patients from the multicenter ACTION (Advanced Cardiac Therapies Improving Outcomes Network) undergoing VAD implantation from April 2018 to February 2023 were included. Preimplantation characteristics were compared between CHD and non-CHD as well as univentricular and biventricular CHD patients. Postimplantation survival and adverse events were compared between these cohorts.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Of 966 patients undergoing VAD implantation, 352 (36%) had CHD, the majority of whom had univentricular CHD (230; 65%). Compared to non-CHD, CHD patients were younger (median age: 1.2 vs 9.4 years), were listed as INTERMACS (Interagency Registry for Mechanically Assisted Circulatory Support) 1 (36.1% vs 28.7%), were on mechanical ventilation (67.0% vs 44.1%), received total parenteral nutrition (63.6% vs 45.1%), and were on extracorporeal membrane oxygenation (ECMO) preimplantation (33.2% vs 20.5%) (P &lt; 0.05 for all). Except for lower estimated glomerular filtration rate in children with univentricular CHD (median: 47.3 vs 59.9 mL/min/1.73 m<sup>2</sup>), there were no significant differences in clinical characteristics in univentricular vs biventricular CHD patients. Children with CHD compared to non-CHD were more likely to experience major adverse events (stroke, bleeding, infection, respiratory failure, renal and hepatic dysfunction) and have worse adjusted survival (HR: 2.05; 95% CI: 1.39-3.02; P &lt; 0.001). There were no differences in adjusted survival in univentricular vs biventricular CHD (P >; 0.05).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: CHD patients are more likely in extremis at VAD implantation and experience higher rates of adverse events and worse survival compared to those with non-CHD. Timely referral for patients with CHD experiencing worsening heart failure and a proactive approach to VAD implantation has the potential to improve outcomes for this vulnerable cohort.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772369/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108195202&v=2.18.0.post9+e462414">39772369</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.083>10.1016/j.jacc.2024.10.083</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:39772369</guid>
 <pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
 <dc:creator>Shahnawaz Amdani</dc:creator>
@@ -67,423 +378,6 @@
 <dc:title>Outcomes for Children With Congenital Heart Disease Undergoing Ventricular Assist Device Implantation: An ACTION Registry Analysis</dc:title>
 <dc:identifier>pmid:39772369</dc:identifier>
 <dc:identifier>doi:10.1016/j.jacc.2024.10.083</dc:identifier>
-</item>
-<item>
-<title>Can ICD Electrograms Help Ventricular Tachycardia Ablation?: Results From the Multicenter Randomized AIDEG-VTA Trial</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39772368/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: In patients with structural heart disease and ICD-documented SMVT, using ICD-EG information during the ablation procedure to focalize ablation toward the clinical ventricular tachycardia is associated with a nonsignificant decrease in SMVT recurrence rate, a significant reduction in the number of ventricular tachycardia episodes, and a lower rate of arrhythmic storm.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 28:S0735-1097(24)10316-6. doi: 10.1016/j.jacc.2024.10.104. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: The results of ablation of sustained monomorphic ventricular tachycardia (SMVT) are suboptimal. For many patients with implantable cardioverter-defibrillators (ICDs), ICD electrograms (ICD-EGs) provide the only available information on SMVT. ICD-EGs have the ability to distinguish morphologically distinct SMVT and can be used for pace mapping.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVES: This study aimed to evaluate whether using ICD-EG information during an ablation procedure influences outcomes.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Patients with structural heart disease and SMVT documented by an ICD-EG, undergoing ablation, were randomly assigned in a 1:1 ratio to either an ablation incorporating ICD-EG data during the procedure (intervention group) or to conventional ablation. The ICD-EG obtained during induced SMVT and pace mapping was compared to ICD-EG from spontaneous SMVT to target the "clinical" SMVT for ablation. Ablation could be performed during SMVT (if tolerated), during sinus rhythm ("substrate ablation"), or both.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: A total of 15 centers randomized 260 patients. Characterization of induced SMVT as clinical/nonclinical and pace mapping were more frequent in the intervention group. Most patients underwent pure substrate ablation (65%), with complementary ablation during SMVT in 26%, showing no significant difference between groups. No differences were found in acute efficacy. In the intention-to-treat analysis, the primary endpoint of SMVT recurrence within 6 months postablation occurred in 46 (36%) patients in the intervention group and 59 (46%) in the conventional group (HR: 0.73; 95% CI: 0.49-1.07; P = 0.11). In the per-protocol analysis, SMVT recurrence at 6 months postablation reached statistical significance (HR: 0.66; 95% CI: 0.44-0.99; P = 0.045). During the entire follow-up period (44 ± 29 months), SMVT recurrence occurred in 67% and 76% (HR: 0.80; 95% CI: 0.60-1.08; P = 0.14). The number of SMVT episodes was significantly lower in the intervention group (HR: 0.45; 95% CI: 0.24-0.84; P = 0.013), as was the rate of electrical storm (23% vs 41%; HR: 0.54; 95% CI: 0.34-0.85; P = 0.007). There were no differences in ICD shocks.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: In patients with structural heart disease and ICD-documented SMVT, using ICD-EG information during the ablation procedure to focalize ablation toward the clinical ventricular tachycardia is associated with a nonsignificant decrease in SMVT recurrence rate, a significant reduction in the number of ventricular tachycardia episodes, and a lower rate of arrhythmic storm.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772368/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39772368</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.104>10.1016/j.jacc.2024.10.104</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39772368</guid>
-<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
-<dc:creator>José Luis Ibáñez Criado</dc:creator>
-<dc:creator>Mercedes Ortiz</dc:creator>
-<dc:creator>Javier García-Fernández</dc:creator>
-<dc:creator>Jesús Daniel Martínez-Alday</dc:creator>
-<dc:creator>Enrique Rodríguez Font</dc:creator>
-<dc:creator>Javier Moreno</dc:creator>
-<dc:creator>Miguel Álvarez López</dc:creator>
-<dc:creator>Julio Martí Almor</dc:creator>
-<dc:creator>María López Gil</dc:creator>
-<dc:creator>Dolores García Medina</dc:creator>
-<dc:creator>Ricardo Ruiz Granell</dc:creator>
-<dc:creator>Rafael Peinado Peinado</dc:creator>
-<dc:creator>Victor Bazán Gelizo</dc:creator>
-<dc:creator>Juan José Sánchez Muñoz</dc:creator>
-<dc:creator>Olga Medina</dc:creator>
-<dc:creator>Santiago Angulo Díaz-Parreño</dc:creator>
-<dc:creator>Alicia Ibáñez Criado</dc:creator>
-<dc:creator>Javier Martin Gonzalez</dc:creator>
-<dc:creator>José Miguel Ormaetxe Merodio</dc:creator>
-<dc:creator>Jesús Almendral</dc:creator>
-<dc:date>2025-01-08</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>Can ICD Electrograms Help Ventricular Tachycardia Ablation?: Results From the Multicenter Randomized AIDEG-VTA Trial</dc:title>
-<dc:identifier>pmid:39772368</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.10.104</dc:identifier>
-</item>
-<item>
-<title>Ventricular Assist Device Utilization for Children With Congenital Heart Disease: Still Bridging the Gap</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39772367/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Dec 18:S0735-1097(24)10527-X. doi: 10.1016/j.jacc.2024.11.032. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772367/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39772367</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.11.032>10.1016/j.jacc.2024.11.032</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39772367</guid>
-<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
-<dc:creator>Ryan L Kobayashi</dc:creator>
-<dc:creator>Christina J VanderPluym</dc:creator>
-<dc:creator>Peter Chiu</dc:creator>
-<dc:creator>Elizabeth D Blume</dc:creator>
-<dc:date>2025-01-08</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>Ventricular Assist Device Utilization for Children With Congenital Heart Disease: Still Bridging the Gap</dc:title>
-<dc:identifier>pmid:39772367</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.11.032</dc:identifier>
-</item>
-<item>
-<title>The High Stakes of High Decibels: The Cardiovascular Fallout From Aircraft Noise</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39772366/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Dec 18:S0735-1097(24)10058-7. doi: 10.1016/j.jacc.2024.10.090. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772366/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39772366</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.090>10.1016/j.jacc.2024.10.090</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39772366</guid>
-<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
-<dc:creator>Thomas Münzel</dc:creator>
-<dc:creator>Marin Kuntic</dc:creator>
-<dc:creator>Paul Stamm</dc:creator>
-<dc:creator>Frank Schmidt</dc:creator>
-<dc:creator>Sanjay Rajagopalan</dc:creator>
-<dc:creator>Andreas Daiber</dc:creator>
-<dc:date>2025-01-08</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>The High Stakes of High Decibels: The Cardiovascular Fallout From Aircraft Noise</dc:title>
-<dc:identifier>pmid:39772366</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.10.090</dc:identifier>
-</item>
-<item>
-<title>Imaging Fibroblast Activation Protein: Direct Visualization of Matrix Proteolytic Activity in Patients Post Myocardial Infarction</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39772365/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Dec 12:S0735-1097(24)10524-4. doi: 10.1016/j.jacc.2024.11.029. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772365/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39772365</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.11.029>10.1016/j.jacc.2024.11.029</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39772365</guid>
-<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
-<dc:creator>Stephanie L Thorn</dc:creator>
-<dc:creator>Francis G Spinale</dc:creator>
-<dc:creator>Albert J Sinusas</dc:creator>
-<dc:date>2025-01-08</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>Imaging Fibroblast Activation Protein: Direct Visualization of Matrix Proteolytic Activity in Patients Post Myocardial Infarction</dc:title>
-<dc:identifier>pmid:39772365</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.11.029</dc:identifier>
-</item>
-<item>
-<title>Myocardial Fibroblast Activation After Acute Myocardial Infarction: A Positron Emission Tomography and Magnetic Resonance Study</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39772364/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: Myocardial fibroblast activation peaks within a week of acute myocardial infarction and extends beyond the infarct region. It declines slowly with time, persists for years, and is associated with subsequent left ventricular remodeling. (PROFILE-MI-The FAPI Fibrosis Study; NCT05356923).</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 26:S0735-1097(24)10315-4. doi: 10.1016/j.jacc.2024.10.103. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Myocardial fibrosis is a key healing response after myocardial infarction driven by activated fibroblasts. Gallium-68-labeled fibroblast activation protein inhibitor ([<sup>68</sup>Ga]-FAPI) is a novel positron-emitting radiotracer that binds activated fibroblasts.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVES: The aim of this study was to investigate the intensity, distribution, and time-course of fibroblast activation after acute myocardial infarction.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: A total of 40 patients with acute myocardial infarction underwent hybrid [<sup>68</sup>Ga]FAPI-46 positron emission tomography and cardiac magnetic resonance and were compared with matched control subjects (n = 19) and those with chronic (>;2 years) myocardial infarction (n = 20). Intensity of [<sup>68</sup>Ga]FAPI-46 uptake was quantified by maximum target-to-background ratio (TBR<sub>max</sub>). Burdens of fibroblast activation and scar were assessed by percent myocardial involvement of [<sup>68</sup>Ga]FAPI-46 uptake and late gadolinium enhancement, respectively.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Myocardial [<sup>68</sup>Ga]FAPI-46 uptake was observed in the acute infarct and peri-infarct regions that exceeded the extent of late gadolinium enhancement (burden 27.8% ± 12.4% vs 15.2% ± 10.6%; P &lt; 0.001). One-third of patients also demonstrated right ventricular involvement. Myocardial [<sup>68</sup>Ga]FAPI-46 uptake was most intense at 1 and 2 weeks before declining at 4 and 12 weeks (TBR<sub>max</sub> 4.0 ± 1.1, 3.7 ± 1.0, 3.1 ± 0.8, and 2.7 ± 0.7; P &lt; 0.001). In comparison with control subjects, increased [<sup>68</sup>Ga]FAPI-46 uptake was observed in chronic (7 ± 6 years ago) infarcts at lower intensity than acute infarction (TBR<sub>max</sub> 1.2 ± 0.1 vs 1.7 ± 0.5 vs 4.0 ± 1.1; P &lt; 0.001). Baseline [<sup>68</sup>Ga]FAPI-46 burden correlated with lower left ventricular ejection fraction (r = -0.606), higher indexed left ventricular end-diastolic volume (r = 0.572), and higher scar burden (r = 0.871) at 1 year (P &lt; 0.001 for all). Increased remote myocardial [<sup>68</sup>Ga]FAPI-46 uptake was associated with left ventricular dilatation and systolic dysfunction.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Myocardial fibroblast activation peaks within a week of acute myocardial infarction and extends beyond the infarct region. It declines slowly with time, persists for years, and is associated with subsequent left ventricular remodeling. (PROFILE-MI-The FAPI Fibrosis Study; NCT05356923).</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772364/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39772364</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.103>10.1016/j.jacc.2024.10.103</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39772364</guid>
-<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
-<dc:creator>Anna K Barton</dc:creator>
-<dc:creator>Neil J Craig</dc:creator>
-<dc:creator>Krithika Loganath</dc:creator>
-<dc:creator>Shruti Joshi</dc:creator>
-<dc:creator>Vasiliki Tsampasian</dc:creator>
-<dc:creator>Menaka Mahendran</dc:creator>
-<dc:creator>Joel Lenell</dc:creator>
-<dc:creator>Evangelos Tzolos</dc:creator>
-<dc:creator>Trisha Singh</dc:creator>
-<dc:creator>Beth Whittington</dc:creator>
-<dc:creator>Jennifer Nash</dc:creator>
-<dc:creator>Michelle C Williams</dc:creator>
-<dc:creator>Edwin J R van Beek</dc:creator>
-<dc:creator>Mark G MacAskill</dc:creator>
-<dc:creator>Bronwyn Berkeley</dc:creator>
-<dc:creator>Stefan Vezaides</dc:creator>
-<dc:creator>Mairi Brittan</dc:creator>
-<dc:creator>Andrew H Baker</dc:creator>
-<dc:creator>Stephanie Sellers</dc:creator>
-<dc:creator>Alison Fletcher</dc:creator>
-<dc:creator>Tim Clark</dc:creator>
-<dc:creator>Clint Waight</dc:creator>
-<dc:creator>Riemer H J A Slart</dc:creator>
-<dc:creator>Daniel Berman</dc:creator>
-<dc:creator>Damini Dey</dc:creator>
-<dc:creator>Piotr Slomka</dc:creator>
-<dc:creator>David E Newby</dc:creator>
-<dc:creator>Marc R Dweck</dc:creator>
-<dc:date>2025-01-08</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>Myocardial Fibroblast Activation After Acute Myocardial Infarction: A Positron Emission Tomography and Magnetic Resonance Study</dc:title>
-<dc:identifier>pmid:39772364</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.10.103</dc:identifier>
-</item>
-<item>
-<title>The Nonsyndromic Ascending Thoracic Aorta in a Population-Based Setting: A 5-Year Prospective Cohort Study</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39772363/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: In men aged 60 to 74 years, growth of the ascending aorta was slow, questioning the currently recommended (bi)annual surveillance scan intervals. Additionally, 95% of AAE case patients presented with diameters of &lt;50.0 mm upon the event, highlighting the need for individualized risk stratifications in addition to diameter. Larger prospective studies in aneurysmal women are warranted.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Nov 27:S0735-1097(24)10296-3. doi: 10.1016/j.jacc.2024.10.096. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Prospective data on the clinical course of the ascending thoracic aorta are lacking.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVES: This study sought to estimate growth rates of the ascending aorta and to evaluate occurrences of adverse aortic events (AAEs)-that is, thoracic aortic ruptures, type A aortic dissections, and thoracic aortic-related deaths.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: In this prospective cohort study from the population-based, multicenter, randomized DANCAVAS (Danish Cardiovascular Screening trials) I and II, participants underwent cardiovascular risk assessments including electrocardiogram-gated, noncontrast computed tomography (CT) scans. The clinical database was supplemented with outcome data from Danish health care registries. Exclusion criteria were connective tissue disorders, bicuspid aortic valves, and survivors of a prior AAE. To estimate growth rates, participants with consecutive CT scans were followed from inclusion to last scan. To evaluate AAEs, the entire cohort was followed from inclusion to AAE; elective ascending aortic surgery; death; or December 31, 2021.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: In 2,026 individuals (77.3% men; mean age: 69.2 ± 3.1 years; median follow-up: 4.5 years [Q1-Q3: 3.4-4.7 years]), 4,897 CT scans were obtained, encompassing 1,374 individuals with baseline ascending aortas of &lt;40.0 mm (68.3% men), 388 with baseline ascending aortas between 40.0 and 44.9 mm (94.5% men), 188 with baseline ascending aortas between 45.0 and 49.9 mm (98.4% men), and 76 men with baseline ascending aortas of ≥50 mm. The mean ascending aortic growth rates in men and women were 0.07 ± 0.5 mm/year and 0.13 ± 0.3 mm/year (P = 0.012), respectively. Growth rates did not increase with larger diameters, and no differences were observed between small (&lt;39.9 mm; 0.11 ± 0.5 mm/year) and large (≥50 mm; 0.07 ± 0.6 mm/year) (P = 0.60) aortas. In men with dilated aortas between 45.0 and 49.9 mm, 3.2% progressed to ≥50.0 mm over 4.6 years (Q1-Q3: 4.0-5.6 years). Among all 14,962 nonsyndromic participants (95.0% men; mean age: 67.7 ± 3.7 years; median follow-up: 5.0 years [Q1-Q3: 4.1-5.8 years]), 23 (0.2%) encountered AAEs (31/100,000 person-years), and 26 (0.2%) underwent elective ascending aortic surgery. In size groups of &lt;40.0, 40.0 to 44.9, 45.0 to 49.9, and ≥50.0 mm, proportions of AAEs were 10 of 11,382 (0.1%), 5 of 2,997 (0.2%), 7 of 493 (1.4%), and &lt;3 of 90, respectively. Adjusted HRs for AAE were 1.24 (95% CI: 1.16-1.33; P &lt; 0.001) for each 1-mm increase in diameter and 5.43 (95% CI: 1.99-14.82; P = 0.001) for a family history of aortic aneurysms.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: In men aged 60 to 74 years, growth of the ascending aorta was slow, questioning the currently recommended (bi)annual surveillance scan intervals. Additionally, 95% of AAE case patients presented with diameters of &lt;50.0 mm upon the event, highlighting the need for individualized risk stratifications in addition to diameter. Larger prospective studies in aneurysmal women are warranted.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772363/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39772363</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.096>10.1016/j.jacc.2024.10.096</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39772363</guid>
-<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
-<dc:creator>Lasse M Obel</dc:creator>
-<dc:creator>Axel C P Diederichsen</dc:creator>
-<dc:creator>Joachim S S Kristensen</dc:creator>
-<dc:creator>Oke Gerke</dc:creator>
-<dc:creator>Katrine L Larsen</dc:creator>
-<dc:creator>Mads Liisberg</dc:creator>
-<dc:creator>Lytfi Krasniqi</dc:creator>
-<dc:creator>Flemming H Steffensen</dc:creator>
-<dc:creator>Lars Frost</dc:creator>
-<dc:creator>Jess Lambrechtsen</dc:creator>
-<dc:creator>Martin Busk</dc:creator>
-<dc:creator>Grazina Urbonaviciene</dc:creator>
-<dc:creator>Kenneth Egstrup</dc:creator>
-<dc:creator>Marek Karon</dc:creator>
-<dc:creator>Lars M Rasmussen</dc:creator>
-<dc:creator>Jes S Lindholt</dc:creator>
-<dc:date>2025-01-08</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>The Nonsyndromic Ascending Thoracic Aorta in a Population-Based Setting: A 5-Year Prospective Cohort Study</dc:title>
-<dc:identifier>pmid:39772363</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.10.096</dc:identifier>
-</item>
-<item>
-<title>Leadless Pacemaker Removal: Retrieving Lessons From the Past</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39772362/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Dec 12:S0735-1097(24)10521-9. doi: 10.1016/j.jacc.2024.11.027. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772362/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39772362</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.11.027>10.1016/j.jacc.2024.11.027</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39772362</guid>
-<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
-<dc:creator>Aron Bender</dc:creator>
-<dc:creator>Robert D Schaller</dc:creator>
-<dc:date>2025-01-08</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>Leadless Pacemaker Removal: Retrieving Lessons From the Past</dc:title>
-<dc:identifier>pmid:39772362</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.11.027</dc:identifier>
-</item>
-<item>
-<title>Worldwide Chronic Retrieval Experience of Helix-Fixation Leadless Cardiac Pacemakers</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39772361/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: The safety and efficacy of chronic LP retrieval of an active helix-fixation device was demonstrated in an international clinical trial setting, with implant durations up to 9 years.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Dec 13:S0735-1097(24)10292-6. doi: 10.1016/j.jacc.2024.10.094. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: The growing use of leadless pacemaker (LP) technology requires safe and effective solutions for retrieving and removing these devices over the long term.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVES: This study sought to evaluate retrieval and removal of an active helix-fixation LP studied in worldwide regulatory clinical trials.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Subjects enrolled in the LEADLESS II phase 1 investigational device exemption, LEADLESS Observational, or LEADLESS Japan trials with an attempted LP retrieval at least 6 weeks postimplantation were included. The retrieval success rate was evaluated for all attempted retrievals. Site-reported complications associated with LP retrievals were quantified, with the severity and relationship adjudicated by an independent clinical events committee.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: There were 1,423 successful LP implants and 234 chronic LP retrieval attempts in 233 subjects. The overall retrieval success rate was 87.6% (205 of 234 attempts). The most common reason for failed retrieval (86.2%, 25 of 29 attempts) was inability to access the LP docking button. The mean time from implantation to attempted retrieval was 3.2 years (range 0.2-9.0 years) and did not significantly influence the retrieval success (P = 0.71). The clinical events committee adjudicated 11 complications in 9 subjects as being retrieval related (3.9%, 9 of 233 subjects).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: The safety and efficacy of chronic LP retrieval of an active helix-fixation device was demonstrated in an international clinical trial setting, with implant durations up to 9 years.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772361/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39772361</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.094>10.1016/j.jacc.2024.10.094</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39772361</guid>
-<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
-<dc:creator>Petr Neuzil</dc:creator>
-<dc:creator>Derek V Exner</dc:creator>
-<dc:creator>Reinoud E Knops</dc:creator>
-<dc:creator>Daniel J Cantillon</dc:creator>
-<dc:creator>Pascal Defaye</dc:creator>
-<dc:creator>Rajesh Banker</dc:creator>
-<dc:creator>Paul Friedman</dc:creator>
-<dc:creator>Chris Hubbard</dc:creator>
-<dc:creator>Stephanie M Delgado</dc:creator>
-<dc:creator>Anuradha Bulusu</dc:creator>
-<dc:creator>Vivek Y Reddy</dc:creator>
-<dc:date>2025-01-08</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>Worldwide Chronic Retrieval Experience of Helix-Fixation Leadless Cardiac Pacemakers</dc:title>
-<dc:identifier>pmid:39772361</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.10.094</dc:identifier>
-</item>
-<item>
-<title>Higher Aircraft Noise Exposure Is Linked to Worse Heart Structure and Function by Cardiovascular MRI</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39772360/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: Higher aircraft noise exposure associates with adverse LV remodeling, potentially due to noise increasing the risk of obesity and hypertension. Findings are consistent with the existing literature on aircraft noise and cardiovascular disease, and need to be considered by policymakers and the aviation industry.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Dec 13:S0735-1097(24)09797-3. doi: 10.1016/j.jacc.2024.09.1217. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Aircraft noise is a growing concern for communities living near airports.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVES: This study aimed to explore the impact of aircraft noise on heart structure and function.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Nighttime aircraft noise levels (L<sub>night</sub>) and weighted 24-hour day-evening-night aircraft noise levels (L<sub>den</sub>) were provided by the UK Civil Aviation Authority for 2011. Health data came from UK Biobank (UKB) participants living near 4 UK major airports (London Heathrow, London Gatwick, Manchester, and Birmingham) who had cardiovascular magnetic resonance (CMR) imaging starting from 2014 and self-reported no hearing difficulties. Generalized linear models investigated the associations between aircraft noise exposure and CMR metrics (derived using a validated convolutional neural network to ensure consistent image segmentations), after adjustment for demographic, socioeconomic, lifestyle, and environmental confounders. Mediation by cardiovascular risk factors was also explored. Downstream associations between CMR metrics and major adverse cardiac events (MACE) were tested in a separate prospective UKB subcohort (n = 21,360), to understand the potential clinical impact of any noise-associated heart remodeling.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Of the 3,635 UKB participants included, 3% experienced higher L<sub>night</sub> (≥45 dB) and 8% higher L<sub>den</sub> (≥50 dB). Participants exposed to higher L<sub>night</sub> had 7% (95% CI: 4%-10%) greater left ventricular (LV) mass and 4% (95% CI: 2%-5%) thicker LV walls with a normal septal-to-lateral wall thickness ratio. This concentric LV remodeling is relevant because a 7% greater LV mass associates with a 32% greater risk of MACE. They also had worse LV myocardial dynamics (eg, an 8% [95% CI: 4%-12%] lower global circumferential strain which associates with a 27% higher risk of MACE). Overall, a hypothetical individual experiencing the typical CMR abnormalities associated with a higher L<sub>night</sub> exposure may have a 4 times higher risk of MACE. Findings were clearest for L<sub>night</sub> but were broadly similar in analyses using L<sub>den</sub>. Body mass index and hypertension appeared to mediate 10% to 50% of the observed associations. Participants who did not move home during follow-up and were continuously exposed to higher aircraft noise levels had the worst CMR phenotype.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Higher aircraft noise exposure associates with adverse LV remodeling, potentially due to noise increasing the risk of obesity and hypertension. Findings are consistent with the existing literature on aircraft noise and cardiovascular disease, and need to be considered by policymakers and the aviation industry.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772360/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39772360</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.09.1217>10.1016/j.jacc.2024.09.1217</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39772360</guid>
-<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
-<dc:creator>Constantin-Cristian Topriceanu</dc:creator>
-<dc:creator>Xiangpu Gong</dc:creator>
-<dc:creator>Mit Shah</dc:creator>
-<dc:creator>Hunain Shiwani</dc:creator>
-<dc:creator>Katie Eminson</dc:creator>
-<dc:creator>Glory O Atilola</dc:creator>
-<dc:creator>Calvin Jephcote</dc:creator>
-<dc:creator>Kathryn Adams</dc:creator>
-<dc:creator>Marta Blangiardo</dc:creator>
-<dc:creator>James C Moon</dc:creator>
-<dc:creator>Alun D Hughes</dc:creator>
-<dc:creator>John Gulliver</dc:creator>
-<dc:creator>Alex V Rowlands</dc:creator>
-<dc:creator>Nishi Chaturvedi</dc:creator>
-<dc:creator>Declan P O'Regan</dc:creator>
-<dc:creator>Anna L Hansell</dc:creator>
-<dc:creator>Gabriella Captur</dc:creator>
-<dc:date>2025-01-08</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>Higher Aircraft Noise Exposure Is Linked to Worse Heart Structure and Function by Cardiovascular MRI</dc:title>
-<dc:identifier>pmid:39772360</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.09.1217</dc:identifier>
-</item>
-<item>
-<title>Preoperative Telerehabilitation Improves Outcomes After Cardiac Surgery</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39772359/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Dec 12:S0735-1097(24)10526-8. doi: 10.1016/j.jacc.2024.11.031. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772359/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39772359</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.11.031>10.1016/j.jacc.2024.11.031</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39772359</guid>
-<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
-<dc:creator>Subodh Verma</dc:creator>
-<dc:creator>Makoto Mori</dc:creator>
-<dc:creator>Mario Gaudino</dc:creator>
-<dc:date>2025-01-08</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>Preoperative Telerehabilitation Improves Outcomes After Cardiac Surgery</dc:title>
-<dc:identifier>pmid:39772359</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.11.031</dc:identifier>
-</item>
-<item>
-<title>Contributors and Solutions to High Out-of-Pocket Costs for Heart Failure Medications</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39772358/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
-      <description>As expensive therapeutics rise to the fore of heart failure management, out-of-pocket (OOP) medication costs have become increasingly relevant to patient care. Prescription medication costs influence medical decision-making and affect adherence. Yet, individualized cost estimates are seldom available during clinical encounters when prescription decisions are made. The lack of transparency around medication costs prohibits cost-sensitive shared decision-making and can lead to financial toxicity...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Dec 17:S0735-1097(24)10426-3. doi: 10.1016/j.jacc.2024.11.011. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">As expensive therapeutics rise to the fore of heart failure management, out-of-pocket (OOP) medication costs have become increasingly relevant to patient care. Prescription medication costs influence medical decision-making and affect adherence. Yet, individualized cost estimates are seldom available during clinical encounters when prescription decisions are made. The lack of transparency around medication costs prohibits cost-sensitive shared decision-making and can lead to financial toxicity and delays in therapeutic management. Upcoming policy changes will affect the availability and affordability of heart failure medications in the United States, such as the implementation of a $2,000 cap on OOP drug spending for Medicare Part D Plans in 2025. This state-of-the-art review summarizes the current landscape of cost transparency efforts using heart failure management guidelines and the U.S. health care system as an illustrative example. Understanding the variables involved in determining medication costs and the resources available to reduce OOP cost are paramount for heart failure clinicians and their patients worldwide.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772358/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39772358</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.11.011>10.1016/j.jacc.2024.11.011</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39772358</guid>
-<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
-<dc:creator>Emily F Lowe</dc:creator>
-<dc:creator>Denae Gerasta</dc:creator>
-<dc:creator>Madeline Balser</dc:creator>
-<dc:creator>Robert L Page</dc:creator>
-<dc:creator>Elise Tsai</dc:creator>
-<dc:creator>Henry D Biermann</dc:creator>
-<dc:creator>Andrea Mitchell</dc:creator>
-<dc:creator>Denise Chan</dc:creator>
-<dc:creator>Daniel D Matlock</dc:creator>
-<dc:creator>Neal W Dickert</dc:creator>
-<dc:creator>Caroline E Sloan</dc:creator>
-<dc:creator>Larry A Allen</dc:creator>
-<dc:date>2025-01-08</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>Contributors and Solutions to High Out-of-Pocket Costs for Heart Failure Medications</dc:title>
-<dc:identifier>pmid:39772358</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.11.011</dc:identifier>
-</item>
-<item>
-<title>Demographic-Based Personalized Left Ventricular Hypertrophy Thresholds for Hypertrophic Cardiomyopathy Diagnosis</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39772357/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: Age, sex, and body size influence the normal heart MWT. Using a fixed LVH threshold ≥15 mm biases LVH ascertainment in both population and HCM cohorts. A demographic-adjusted approach for LVH improves ascertainment and diagnostic accuracy.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Dec 17:S0735-1097(24)10044-7. doi: 10.1016/j.jacc.2024.10.082. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Hypertrophic cardiomyopathy (HCM) is a leading cause of sudden cardiac death. Current diagnosis emphasizes the detection of left ventricular hypertrophy (LVH) using a fixed threshold of ≥15-mm maximum wall thickness (MWT). This study proposes a method that considers individual demographics to adjust LVH thresholds as an alternative to a 1-size-fits-all approach.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Left ventricular MWT was measured in 3 cohorts: a Reference Cohort of healthy adults (n = 5,067, no comorbidities), a Population Cohort (n = 43,239, with comorbidities), and an HCM Cohort from 6 international centers (n = 2,424). Measurement used cardiovascular magnetic resonance (CMR) and a validated artificial intelligence algorithm. The Reference Cohort was used to developed demographically adjusted LVH thresholds, and individualized z-scores based on age, sex, and body surface area (BSA), which were used to explore the other cohorts.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: The traditional ≥15-mm threshold classified 4.3% (n = 1,854) of the Population Cohort as hypertrophic, with a significant sex skew (89% male). Demographic-adjusted LVH thresholds (range: 10-17 mm) reduced ascertainment to 2.2% (n = 945), reducing the sex skew (56% male). Similar reductions in bias with height, weight, and age also occurred. The HCM cohort was found to have a 2:1 male-to-female ratio. A significant proportion of patients received diagnoses of HCM despite having MWT below the traditional LVH threshold (&lt;15 mm): 27% of female individuals and 18% of male individuals. Using demographic-adjusted LVH thresholds reduced these proportions to 7% of female individuals and 15% of male individuals (P &lt; 0.0001). Female patients had lower absolute MWT (18 mm vs 19 mm; P &lt; 0.001) but higher MWT z-scores (5.1 vs 4.5; P = 0.05).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Age, sex, and body size influence the normal heart MWT. Using a fixed LVH threshold ≥15 mm biases LVH ascertainment in both population and HCM cohorts. A demographic-adjusted approach for LVH improves ascertainment and diagnostic accuracy.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772357/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39772357</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.10.082>10.1016/j.jacc.2024.10.082</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39772357</guid>
-<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
-<dc:creator>Hunain Shiwani</dc:creator>
-<dc:creator>Rhodri H Davies</dc:creator>
-<dc:creator>Constantin-Cristian Topriceanu</dc:creator>
-<dc:creator>Raffaello Ditaranto</dc:creator>
-<dc:creator>Anjali Owens</dc:creator>
-<dc:creator>Betty Raman</dc:creator>
-<dc:creator>João Augusto</dc:creator>
-<dc:creator>Rebecca K Hughes</dc:creator>
-<dc:creator>Camilla Torlasco</dc:creator>
-<dc:creator>Ben Dowsing</dc:creator>
-<dc:creator>Jessica Artico</dc:creator>
-<dc:creator>George Joy</dc:creator>
-<dc:creator>Inês Miranda</dc:creator>
-<dc:creator>Walter Witschey</dc:creator>
-<dc:creator>Jose F Rodriguez-Palomares</dc:creator>
-<dc:creator>Clara Badia-Molins</dc:creator>
-<dc:creator>Lia Crotti</dc:creator>
-<dc:creator>Mario Cortina-Borja</dc:creator>
-<dc:creator>Michael L Chuang</dc:creator>
-<dc:creator>Raymond Y Kwong</dc:creator>
-<dc:creator>Christopher M Kramer</dc:creator>
-<dc:creator>Warren Manning</dc:creator>
-<dc:creator>Carolyn Y Ho</dc:creator>
-<dc:creator>Peter Kellman</dc:creator>
-<dc:creator>Alun D Hughes</dc:creator>
-<dc:creator>Elena Biagini</dc:creator>
-<dc:creator>Saidi Mohiddin</dc:creator>
-<dc:creator>Luis Lopes</dc:creator>
-<dc:creator>Harold Litt</dc:creator>
-<dc:creator>Victor A Ferrari</dc:creator>
-<dc:creator>Gabriella Captur</dc:creator>
-<dc:creator>James C Moon</dc:creator>
-<dc:creator>PRECISION-HCM Collaborative</dc:creator>
-<dc:date>2025-01-08</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>Demographic-Based Personalized Left Ventricular Hypertrophy Thresholds for Hypertrophic Cardiomyopathy Diagnosis</dc:title>
-<dc:identifier>pmid:39772357</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.10.082</dc:identifier>
-</item>
-<item>
-<title>A More Accurate Diagnosis of Hypertrophic Cardiomyopathy: Simplifying the Complex Through Use of AI Technologies</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39772356/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Dec 16:S0735-1097(24)10525-6. doi: 10.1016/j.jacc.2024.11.030. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772356/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39772356</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.11.030>10.1016/j.jacc.2024.11.030</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39772356</guid>
-<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
-<dc:creator>William J McKenna</dc:creator>
-<dc:creator>Federico M Asch</dc:creator>
-<dc:creator>Caroline J Coats</dc:creator>
-<dc:creator>Soledad Garcia-Hernandez</dc:creator>
-<dc:creator>Natalia Sonicheva-Paterson</dc:creator>
-<dc:creator>Scott D Solomon</dc:creator>
-<dc:date>2025-01-08</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>A More Accurate Diagnosis of Hypertrophic Cardiomyopathy: Simplifying the Complex Through Use of AI Technologies</dc:title>
-<dc:identifier>pmid:39772356</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.11.030</dc:identifier>
-</item>
-<item>
-<title>JACC Journals: A Pillar of Science and Innovation for the College</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39772355/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Dec 30:S0735-1097(24)10603-1. doi: 10.1016/j.jacc.2024.12.003. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772355/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39772355</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.12.003>10.1016/j.jacc.2024.12.003</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39772355</guid>
-<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
-<dc:creator>Cathleen Biga</dc:creator>
-<dc:creator>Fred Kusumoto</dc:creator>
-<dc:creator>Publishing Committee</dc:creator>
-<dc:date>2025-01-08</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>JACC Journals: A Pillar of Science and Innovation for the College</dc:title>
-<dc:identifier>pmid:39772355</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.12.003</dc:identifier>
-</item>
-<item>
-<title>Does Ascending Aortic Size Matter?: A Plea for Patient-Specific Surveillance and Risk Estimation</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39772354/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">J Am Coll Cardiol. 2024 Dec 16:S0735-1097(24)10427-5. doi: 10.1016/j.jacc.2024.11.012. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39772354/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39772354</a> | DOI:<a href=https://doi.org/10.1016/j.jacc.2024.11.012>10.1016/j.jacc.2024.11.012</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39772354</guid>
-<pubDate>Wed, 08 Jan 2025 06:00:00 -0500</pubDate>
-<dc:creator>Michael A Borger</dc:creator>
-<dc:creator>Martin Misfeld</dc:creator>
-<dc:date>2025-01-08</dc:date>
-<dc:source>Journal of the American College of Cardiology</dc:source>
-<dc:title>Does Ascending Aortic Size Matter?: A Plea for Patient-Specific Surveillance and Risk Estimation</dc:title>
-<dc:identifier>pmid:39772354</dc:identifier>
-<dc:identifier>doi:10.1016/j.jacc.2024.11.012</dc:identifier>
-</item>
-<item>
-<title>Vps4a Mediates a Unified Membrane Repair Machinery to Attenuate Ischemia/Reperfusion Injury</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39764631/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: These results demonstrate that Vps4a-mediated plasma membrane repair is an intrinsic cell protection machinery that antagonizes cardiac ischemia/reperfusion injury, and our findings may contribute to the development of therapeutic strategies towards attenuating cardiac injury.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2025 Jan 7. doi: 10.1161/CIRCRESAHA.124.325290. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Cardiac ischemia/reperfusion disrupts plasma membrane integrity and induces various types of programmed cell death. The ESCRT (endosomal sorting complex required for transport) proteins, particularly AAA-ATPase Vps4a (vacuolar protein sorting 4a), play an essential role in the surveillance of membrane integrity. However, the role of ESCRT proteins in the context of cardiac injury remains unclear.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: We simultaneously visualized the formation of membrane blebs and the subcellular translocation of Vps4a during a variety of cell death programs in primary cardiomyocytes. <i>Vps4a</i> cardiomyocyte-specific knockout and overexpression mice were generated and characterized. In vivo and ex vivo surgeries were performed to determine the effects of altered Vps4a expression levels on plasma membrane repair and cell survival. Given the role of Ripk3 (receptor-interacting kinase 3)-mediated pore formation in regulating cell membrane integrity, hearts from <i>Ripk3</i> and <i>Vps4a</i> double-knockout mice were examined. The sequential recruitment of upstream ESCRT components that promote the translocation of Vps4a to injured sites was also assessed using genetic gain- and loss-of-function approaches. Finally, we overexpressed a mutated form of Vps4a with defective ATPase activity and investigated its function during cardiomyocyte membrane repair.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Ischemia/reperfusion stimulation or forced induction of apoptosis, necroptosis, and pyroptosis in primary cardiomyocytes leads to membrane blebbing and the exposure of phosphatidylserine to the extracellular space. In response to injury, Vps4a promptly translocates to injured sites to reseal damaged membranes. <i>Vps4a</i> gain- and loss-of-function in the postnatal stage minimally affects cardiac structure formation and function. However, in the context of ischemia/reperfusion stimulation, overexpression of <i>Vps4a</i> protects cardiomyocytes against injury, whereas <i>Vps4a</i>-deficient hearts are more susceptible to cell damage. Additionally, <i>Ripk3</i> deletion abrogates the detrimental effects of <i>Vps4a</i> deficiency during ischemia/reperfusion injury, and the Ca<sup>2+</sup>-Alix-Ist1 axis plays an essential role in recruiting Vps4a to the injured site. Mechanistically, Vps4a promotes the shedding of plasma membrane blebs to restrict permeability to the extracellular environment, and the surveillance of membrane integrity requires the ATPase activity of Vps4a.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: These results demonstrate that Vps4a-mediated plasma membrane repair is an intrinsic cell protection machinery that antagonizes cardiac ischemia/reperfusion injury, and our findings may contribute to the development of therapeutic strategies towards attenuating cardiac injury.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39764631/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39764631</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.124.325290>10.1161/CIRCRESAHA.124.325290</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39764631</guid>
-<pubDate>Tue, 07 Jan 2025 06:00:00 -0500</pubDate>
-<dc:creator>Xiaozhi Huang</dc:creator>
-<dc:creator>Jiayin Zhang</dc:creator>
-<dc:creator>Chen Xu</dc:creator>
-<dc:creator>Ranran Cao</dc:creator>
-<dc:creator>Peijun Jiang</dc:creator>
-<dc:creator>Xue Ji</dc:creator>
-<dc:creator>Wenyi Wang</dc:creator>
-<dc:creator>Zhishan Huang</dc:creator>
-<dc:creator>Peidong Han</dc:creator>
-<dc:date>2025-01-07</dc:date>
-<dc:source>Circulation research</dc:source>
-<dc:title>Vps4a Mediates a Unified Membrane Repair Machinery to Attenuate Ischemia/Reperfusion Injury</dc:title>
-<dc:identifier>pmid:39764631</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCRESAHA.124.325290</dc:identifier>
-</item>
-<item>
-<title>Focus on trials and prevention: suspected angina, atrial fibrillation, COVID, wine consumption, and physical activity</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39763478/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 7;46(2):105-109. doi: 10.1093/eurheartj/ehae869.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39763478/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39763478</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae869>10.1093/eurheartj/ehae869</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39763478</guid>
-<pubDate>Tue, 07 Jan 2025 06:00:00 -0500</pubDate>
-<dc:creator>Filippo Crea</dc:creator>
-<dc:date>2025-01-07</dc:date>
-<dc:source>European heart journal</dc:source>
-<dc:title>Focus on trials and prevention: suspected angina, atrial fibrillation, COVID, wine consumption, and physical activity</dc:title>
-<dc:identifier>pmid:39763478</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehae869</dc:identifier>
-</item>
-<item>
-<title>Personalized Heart Digital Twins Detect Substrate Abnormalities in Scar-Dependent Ventricular Tachycardia</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/39758009/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250108171001&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: Digital twin-predicted sites display a higher prevalence of abnormal and prolonged electrograms compared with nonpredicted sites and accurately identify regions of conduction slowing. Digital twin technology may help improve substrate-based VT ablation.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Jan 6. doi: 10.1161/CIRCULATIONAHA.124.070526. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Current outcomes from catheter ablation for scar-dependent ventricular tachycardia (VT) are limited by high recurrence rates and long procedure durations. Personalized heart digital twin technology presents a noninvasive method of predicting critical substrate in VT, and its integration into clinical VT ablation offers a promising solution. The accuracy of the predictions of digital twins to detect invasive substrate abnormalities is unknown. We present the first prospective analysis of digital twin technology in predicting critical substrate abnormalities in VT.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Heart digital twin models were created from 18 patients with scar-dependent VT undergoing catheter ablation. Contrast-enhanced cardiac magnetic resonance images were used to reconstruct finite-element meshes, onto which regional electrophysiological properties were applied. Rapid-pacing protocols were used to induce VTs and to define the VT circuits. Predicted optimum ablation sites to terminate all VTs in the models were identified. Invasive substrate mapping was performed, and the digital twins were merged with the electroanatomical map. Electrogram abnormalities and regions of conduction slowing were compared between digital twin-predicted sites and nonpredicted areas.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Electrogram abnormalities were significantly more frequent in digital twin-predicted sites compared with nonpredicted sites (468/1029 [45.5%] versus 519/1611 [32.2%]; <i>P</i>&lt;0.001). Electrogram duration was longer at predicted sites compared with nonpredicted sites (82.0±25.9 milliseconds versus 69.7±22.3 milliseconds; <i>P</i>&lt;0.001). Digital twins correctly identified 21 of 26 (80.8%) deceleration zones seen on isochronal late activation mapping.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Digital twin-predicted sites display a higher prevalence of abnormal and prolonged electrograms compared with nonpredicted sites and accurately identify regions of conduction slowing. Digital twin technology may help improve substrate-based VT ablation.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT04632394.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39758009/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250108171001&v=2.18.0.post9+e462414">39758009</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.070526>10.1161/CIRCULATIONAHA.124.070526</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:39758009</guid>
-<pubDate>Mon, 06 Jan 2025 06:00:00 -0500</pubDate>
-<dc:creator>Michael C Waight</dc:creator>
-<dc:creator>Adityo Prakosa</dc:creator>
-<dc:creator>Anthony C Li</dc:creator>
-<dc:creator>Nick Bunce</dc:creator>
-<dc:creator>Anna Marciniak</dc:creator>
-<dc:creator>Natalia A Trayanova</dc:creator>
-<dc:creator>Magdi M Saba</dc:creator>
-<dc:date>2025-01-06</dc:date>
-<dc:source>Circulation</dc:source>
-<dc:title>Personalized Heart Digital Twins Detect Substrate Abnormalities in Scar-Dependent Ventricular Tachycardia</dc:title>
-<dc:identifier>pmid:39758009</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.070526</dc:identifier>
 </item>
 
 

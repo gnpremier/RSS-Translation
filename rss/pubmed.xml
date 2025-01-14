@@ -1,1 +1,492 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>环保</title><link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;ff=20250113170945&amp;utm_source=Chrome&amp;f c=20230708114047&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.18.0.post9+e462414&amp;utm_medium=rss<description> PubMed 的最新结果</description><atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;ff=20250113170945&amp;utm_source=Chrome&amp;fc=20230708114047&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.18.0.post9+e462414&amp;utm_medium=rss" rel="self"></atom:link><docs> http://www.rssboard.org/rss-specification</docs><generator> PubMed RSS 源 (2.18.0.post9+e462414)</generator><language> zh</language><lastbuilddate> 2025 年 1 月 13 日星期一 10:09:46 PM +0000</lastbuilddate><pubDate> Mon, 13 Jan 2025 06:00:00 -0500</pubDate><ttl> 120</ttl><item><title>使用人工智能应用于心电图图像进行心力衰竭风险分层：一项跨国研究</title><link/>https://pubmed.ncbi.nlm.nih.gov/39804243/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>结论：应用于单个心电图图像的人工智能模型定义了未来心力衰竭的风险，代表了对心力衰竭风险进行分层的数字生物标志物。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2025 年 1 月 13 日：e914。 doi：10.1093/eurheartj/heart914。印刷前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">背景和目的：当前心力衰竭（HF）风险分层策略需要全面的临床评估。在这项研究中，将人工智能 (AI) 应用于心电图 (ECG) 图像作为预测心力衰竭风险的策略进行了检验。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">方法：在耶鲁纽黑文卫生系统 (YNHHS)、英国生物银行 (UKB) 和巴西成人健康纵向研究 (ELSA-巴西) 的跨国队列中，对基线没有心力衰竭的个体进行了首次心力衰竭住院治疗的跟踪。使用 AI-ECG 模型根据 12 导联 ECG 图像定义横截面左心室收缩功能障碍，并评估其与心力衰竭的关联。使用 Harrell 的 C 统计量评估歧视。使用预防心力衰竭的汇总队列方程 (PCP-HF) 作为比较器。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结果：在 231 285 名 YNHHS 患者中，4472 名原发性心力衰竭住院时间超过 4.5 年（四分位数范围 2.5-6.6）。在 UKB 和 ELSA-巴西，在 42,141 人和 13,454 人中，分别有 46 人和 31 人患心力衰竭的时间超过 3.1 (2.1-4.5) 和 4.2 (3.7-4.5) 年。 AI-ECG 筛查呈阳性预示新发心力衰竭的风险高出 4 至 24 倍[年龄、性别调整风险比：YNHHS，3.88（95% 置信区间 3.63-4.14）；英国央行，12.85 (6.87-24.02)； ELSA-巴西，23.50 (11.09-49.81)]。在考虑了合并症和死亡竞争风险后，这种关联是一致的。较高的概率与逐渐升高的心衰风险相关。 YNHHS 中的模型歧视为 0.718，UKB 中为 0.769，巴西 ELSA 中为 0.810。在 YNHHS 和 ELSA-Brasil 中，将 AI-ECG 与 PCP-HF 相结合，比单独使用 PCP-HF 的辨别能力有了显着改善。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结论：应用于单个心电图图像的人工智能模型定义了未来心力衰竭的风险，代表了对心力衰竭风险进行分层的数字生物标志物。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/39804243/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39804243</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae914>10.1093/eurheartj/heart914</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39804243</guid><pubDate> Mon, 13 Jan 2025 06:00:00 -0500</pubDate><dc:creator>洛夫迪普·S·丁格拉</dc:creator><dc:creator>艾莉亚·阿米诺拉亚</dc:creator><dc:creator>维尔僧伽</dc:creator><dc:creator>艾琳·F·彼得斯</dc:creator><dc:creator>福尔克特·W·阿塞尔伯格</dc:creator><dc:creator>路易丝·CC·布兰特</dc:creator><dc:creator>桑迪·M·巴雷托</dc:creator><dc:creator>安东尼奥·路易斯·P·里贝罗</dc:creator><dc:creator>哈伦·M·克鲁霍尔兹</dc:creator><dc:creator>福音书 K Oikonomou</dc:creator><dc:creator>罗汉凯拉</dc:creator><dc:date>2025-01-1</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>使用人工智能应用于心电图图像进行心力衰竭风险分层：一项跨国研究</dc:title><dc:identifier>下午:39804243</dc:identifier><dc:identifier> doi:10.1093/eurheartj/heart914</dc:identifier></item><item><title>基于心电图的机器学习对疑似急性冠状动脉综合征患者进行风险分层</title><link/>https://pubmed.ncbi.nlm.nih.gov/39804231/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>结论：经过外部验证的基于机器学习的模型专门利用 12 导联心电图的特征，在对急性胸痛患者的死亡风险进行分层方面优于 HEART 评分。这可能会影响护理服务的准确性以及向不良事件风险最高的人分配资源。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2025 年 1 月 13 日：and8 doi：10.1093/eurheartj/heart880。印刷前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">背景和目的：胸痛患者风险分层的重要性超出了诊断和立即治疗的范围。本研究旨在评估基于心电图特征的机器学习模型的预后价值，以对胸痛患者的全因死亡率进行风险分层。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">方法：这是一项针对连续、非创伤性胸痛患者的前瞻性观察性队列研究。全因死亡率是通过多个来源确定的，包括疾病预防控制中心国家死亡指数登记处。使用 73 个形态心电图特征（80% 进行 10 倍交叉验证和 20% 测试）训练 6 个机器学习模型进行生存分析，然后使用变分贝叶斯高斯混合模型来定义不同的风险组。将所得分类性能与 HEART 评分进行比较。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结果：衍生队列包括 4015 名患者（年龄 59 ± 16 岁，47% 为女性）。中位随访期 3.05 年后，死亡率为 20.3%（四分位距 1.75-5.32）。 Extra Survival Trees 的表现优于其他预测模型，派生的风险组成功地将患者分为低、中和高风险组（对数秩检验统计量 = 121.14，P &lt; .001）。该模型优于 HEART 评分，将漏诊事件率降低了 90% 以上，阴性预测值和敏感性分别为 93.4% 和 85.9%，而敏感性分别为 89.0% 和 75.0%。在一个独立的外部测试队列中（N = 3095，年龄 59 ± 15 岁，44% 女性，30 天死亡率 3.5%），患者处于中度[比值比 3.62 (1.35–9.74)] 和高度[比值比 6.12 ( 1999)]风险群体的死亡率显着较高。与低风险组相比。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结论：经过外部验证的基于机器学习的模型专门利用 12 导联心电图的特征，在对急性胸痛患者的死亡风险进行分层方面优于 HEART 评分。这可能会影响护理服务的准确性以及向不良事件风险最高的人分配资源。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/39804231/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39804231</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae880>10.1093/eurheartj/heart880</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39804231</guid><pubDate> Mon, 13 Jan 2025 06:00:00 -0500</pubDate><dc:creator>泽内布·布齐德</dc:creator><dc:creator>欧文·塞迪克</dc:creator><dc:creator>克里斯蒂安·马丁·吉尔</dc:creator><dc:creator>齐亚德·法拉曼德</dc:creator><dc:creator>斯蒂芬妮·弗里施</dc:creator><dc:creator>穆罕默德·阿尔拉瓦什德</dc:creator><dc:creator>斯蒂芬妮·赫尔曼</dc:creator><dc:creator>坦梅·戈卡莱</dc:creator><dc:creator>内森·T·里克</dc:creator><dc:creator>卡琳娜·克拉耶夫斯基-菲利普斯</dc:creator><dc:creator>理查德·格雷格</dc:creator><dc:creator>苏珊·M秘书</dc:creator><dc:creator>吉尔·克莱蒙</dc:creator><dc:creator>穆拉特·阿卡卡亚</dc:creator><dc:creator>Jessica K 主席-Hemsey</dc:creator><dc:creator>萨米尔·萨巴</dc:creator><dc:creator>克利夫顿·W·卡拉威</dc:creator><dc:creator>萨拉赫·S·阿尔·奥伊尔</dc:creator><dc:date>2025-01-1</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>基于心电图的机器学习对疑似急性冠状动脉综合征患者进行风险分层</dc:title><dc:identifier>下午:39804231</dc:identifier><dc:identifier> doi:10.1093/eurheartj/heart880</dc:identifier></item><item><title>急性冠状动脉综合征的人工智能和死亡率预测</title><link/>https://pubmed.ncbi.nlm.nih.gov/39804226/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2025 年 1 月 13 日：e475。 doi：10.1093/eurheartj/heart475。印刷前在线。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/39804226/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39804226</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae475>10.1093/eurheartj/heart475</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39804226</guid><pubDate> Mon, 13 Jan 2025 06:00:00 -0500</pubDate><dc:creator>扎奇·阿蒂亚</dc:creator><dc:creator>保罗·弗里德曼</dc:creator><dc:date>2025-01-1</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>急性冠状动脉综合征的人工智能和死亡率预测</dc:title><dc:identifier>下午:39804226</dc:identifier><dc:identifier> doi:10.1093/eurheartj/heart475</dc:identifier></item><item><title>杂合子家族性高胆固醇血症中的超重、肥胖和心血管疾病：EAS FH 研究合作登记处</title><link/>https://pubmed.ncbi.nlm.nih.gov/39801189/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>结论：超重和肥胖在 HeFH 患者中很常见，并且会导致儿童时期的 ASCVD 风险，与 LDL-C 和降脂药物无关。需要持续的体重管理来降低 HeFH 发生 ASCVD 的风险。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2025 年 1 月 13 日：e791。 doi：10.1093/eurheartj/heart791。印刷前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">背景和目的：超重和肥胖是普通人群动脉粥样硬化性心血管疾病（ASCVD）的可改变危险因素C）仍不清楚。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">方法：对 50 个国家的 35 540 名 HeFH 患者进行横断面分析。对成人 (n = 29 265) 和儿童/青少年 (n = 6275) 中世界卫生组织定义的体重指数类别的患病率进行了调查；及其与流行的 ASCVD 的关联。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结果：全球范围内，52% 的成人和 27% 的 HeFH 儿童超重或肥胖，其中北非/西亚患病率最高。与高收入成年人相比，非高收入成年人的超重/肥胖患病率更高。高收入国家。肥胖成人诊断出家族性高胆固醇血症的中位年龄比正常体重成人大 9 岁。肥胖与更容易导致动脉粥样硬化的血脂相关，与降脂药物无关。儿童和成人的不同体重指数类别中冠状动脉疾病的患病率逐渐增加。与正常体重相比，肥胖与儿童患冠心病和中风的几率较高相关（成人的比值比为 9.28，95% 置信区间为 1.77-48.77，根据年龄、性别、血脂和降脂药物进行调整）。比值比 2.35，95% 置信区间）。 2.10-2.63，比值比分别为 1.65，95% 置信区间为 1.27-2.14），但与外周动脉疾病的一致性较差。对糖尿病、高血压和吸烟进行调整后，这种关联略有减弱。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结论：超重和肥胖在 HeFH 患者中很常见，并且会导致儿童时期的 ASCVD 风险，与 LDL-C 和降脂药物无关。需要持续的体重管理来降低 HeFH 发生 ASCVD 的风险。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/39801189/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39801189</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae791>10.1093/eurheartj/heart791</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39801189</guid><pubDate> Mon, 13 Jan 2025 06:00:00 -0500</pubDate><dc:creator>许多Elshorbag​​y</dc:creator><dc:creator>安东尼奥·J·瓦列霍-瓦兹</dc:creator><dc:creator>照片船舶</dc:creator><dc:creator>亚历山大·RM·里昂</dc:creator><dc:creator>克里斯托弗·史蒂文斯</dc:creator><dc:creator>卡尼卡·我·达玛亚特</dc:creator><dc:creator>阿尔贝里科·L·卡塔帕诺</dc:creator><dc:creator>托马斯·弗莱伯格</dc:creator><dc:creator>G·凯斯·霍文格</dc:creator><dc:creator>彼得·马塔</dc:creator><dc:creator>弗雷德里克·J·拉尔</dc:creator><dc:creator>劳尔·D·桑托斯</dc:creator><dc:creator>汉德里安·索兰</dc:creator><dc:creator>杰拉尔德·F·瓦茨</dc:creator><dc:creator>玛丽安·阿比法德尔</dc:creator><dc:creator>查尔斯·阿吉拉尔-萨利纳斯</dc:creator><dc:creator>哈立德·F·阿尔哈比卜</dc:creator><dc:creator>穆塔兹·阿尔赫尼夫萨维</dc:creator><dc:creator>瓦埃尔·阿尔马迈德</dc:creator><dc:creator>法赫德·阿尔努里</dc:creator><dc:creator>罗德里戈·阿隆索</dc:creator><dc:creator>哈立德·拉萨迪</dc:creator><dc:creator>艾哈迈德·萨拉夫</dc:creator><dc:creator>马塞洛·阿卡</dc:creator><dc:creator>测试员 F Ashavaid</dc:creator><dc:creator>毛里齐奥·阿维尔纳</dc:creator><dc:creator>马切伊·巴纳赫</dc:creator><dc:creator>玛丽安·贝克尔</dc:creator><dc:creator>克里斯托弗·J·宾德</dc:creator><dc:creator>波旁家族</dc:creator><dc:creator>利亚姆·R·布鲁纳姆</dc:creator><dc:creator>克莱布斯受难</dc:creator><dc:creator>保罗·科拉尔</dc:creator><dc:creator>迭戈·克鲁兹</dc:creator><dc:creator>凯拉特·达夫列托夫</dc:creator><dc:creator>奥利弗·德坎普斯</dc:creator><dc:creator>一些德维普特拉</dc:creator><dc:creator>马拉特·叶若夫</dc:creator><dc:creator>乌尔·格罗塞利</dc:creator><dc:creator>马克·原田芝</dc:creator><dc:creator>克尔斯滕·B·山谷</dc:creator><dc:creator>史蒂夫·E·汉弗莱斯</dc:creator><dc:creator>梅拉尔·卡伊克吉奥卢</dc:creator><dc:creator>爆发咳嗽</dc:creator><dc:creator>凯瑟琳·拉利克</dc:creator><dc:creator>古斯塔夫·拉特科夫斯基</dc:creator><dc:creator>乌尔里希·劳夫斯</dc:creator><dc:creator>利贝罗普洛斯福音书</dc:creator><dc:creator>马克斯·M·利马-马丁内斯</dc:creator><dc:creator>文森特·马赫</dc:creator><dc:creator>致大卫·马什</dc:creator><dc:creator>温弗里德·马奇</dc:creator><dc:creator>艾尔金·米拉希莫夫</dc:creator><dc:creator>安德鲁·R·米塞雷斯</dc:creator><dc:creator>奥莱娜·米琴科</dc:creator><dc:creator>哈皮扎·纳瓦维</dc:creator><dc:creator>G 山 东北加德</dc:creator><dc:creator>安德里·G·帕纳约托</dc:creator><dc:creator>杰尔吉·帕拉赫</dc:creator><dc:creator>扎内塔石油公司</dc:creator><dc:creator>贝尔玛·波伊斯基奇</dc:creator><dc:creator>阿曼发表</dc:creator><dc:creator>阿什拉夫·雷达</dc:creator><dc:creator>热利科·赖纳</dc:creator><dc:creator>西梅娜·雷耶斯</dc:creator><dc:creator>福齐亚·萨迪克</dc:creator><dc:creator>威尔逊·埃希迪亚门·萨多</dc:creator><dc:creator>赫里伯特·顺克特</dc:creator><dc:creator>亚历山大·B·石</dc:creator><dc:creator>埃里克·斯特罗斯</dc:creator><dc:creator>苏大辰</dc:creator><dc:creator>塔文塔兰·苏布拉马尼亚姆</dc:creator><dc:creator>安德烈·V·苏塞科夫</dc:creator><dc:creator>迈拉·蒂尔尼</dc:creator><dc:creator>布赖恩·汤姆林森</dc:creator><dc:creator>清香长</dc:creator><dc:creator>亚历山大·D·采勒皮斯</dc:creator><dc:creator>安妮·蒂比耶格·汉森</dc:creator><dc:creator>亚历杭德拉·巴斯克斯-卡德纳斯</dc:creator><dc:creator>马格斯·维格玛</dc:creator><dc:creator>布拉尼斯拉夫·沃赫努特</dc:creator><dc:creator>山下静也</dc:creator><dc:creator>考西克·K·雷</dc:creator><dc:date>2025-01-1</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>杂合子家族性高胆固醇血症中的超重、肥胖和心血管疾病：EAS FH 研究合作登记处</dc:title><dc:identifier>下午：39801189</dc:identifier><dc:identifier> doi:10.1093/eurheartj/heart791</dc:identifier></item><item><title> ERC 资助的赠款：心脏再生</title><link/>https://pubmed.ncbi.nlm.nih.gov/39797422/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2025 年 1 月 11 日：and8 doi：10.1093/eurheartj/heart873。印刷前在线。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/39797422/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39797422</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae873>10.1093/eurheartj/heart873</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39797422</guid><pubDate> Sat, 11 Jan 2025 06:00:00 -0500</pubDate><dc:creator>克里斯蒂娜田野村</dc:creator><dc:creator>伊内斯·里韦罗-加西亚</dc:creator><dc:creator>迈克尔·托雷斯</dc:creator><dc:date>2025-01-1</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>ERC 资助的赠款：心脏再生</dc:title><dc:identifier>下午:39797422</dc:identifier><dc:identifier> doi:10.1093/eurheartj/heart873</dc:identifier></item><item><title>三尖瓣关闭不全的个性化治疗</title><link/>https://pubmed.ncbi.nlm.nih.gov/39797420/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2025 年 1 月 11 日：e733。 doi：10.1093/eurheartj/heart733。印刷前在线。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/39797420/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39797420</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae733>10.1093/eurheartj/heart733</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39797420</guid><pubDate> Sat, 11 Jan 2025 06:00:00 -0500</pubDate><dc:creator>菲利普·鲁兹</dc:creator><dc:creator>爱德华多·赞卡纳罗</dc:creator><dc:creator>卡尔·帕特里克·克雷索亚</dc:creator><dc:date>2025-01-1</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>三尖瓣关闭不全的个性化治疗</dc:title><dc:identifier>下午:39797420</dc:identifier><dc:identifier> doi:10.1093/eurheartj/heart733</dc:identifier></item><item><title>快速延迟整流钾电流：心脏复极和心律失常的生物物理学基础</title><link/>https://pubmed.ncbi.nlm.nih.gov/39794610/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;">纳特·Rev Cardiol。 2025 年 1 月 10 日。doi：10.1038/s41569-025-01116-3。印刷前在线。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/39794610/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39794610</a> | DOI： <a href=https://doi.org/10.1038/s41569-025-01116-3>10.1038/s41569-025-01116-3</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39794610</guid><pubDate> Fri, 10 Jan 2025 06:00:00 -0500</pubDate><dc:creator>约瑟夫·E·卡尔</dc:creator><dc:date>2025-01-1</dc:date><dc:source>自然评论。心脏病学</dc:source><dc:title>快速延迟整流钾电流：心脏复极和心律失常的生物物理学基础</dc:title><dc:identifier>下午:39794610</dc:identifier><dc:identifier> doi:10.1038/s41569-025-01116-3</dc:identifier></item><item><title>钾通道中电场刺激离子传导的直接可视化</title><link/>https://pubmed.ncbi.nlm.nih.gov/39793560/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>通过直接、实时观察原子结构中的化学动力学将有助于理解蛋白质功能。 K^(+)通道的选择性过滤器(SF)为催化脱水和K^(+)离子通过窄孔跨细胞膜运输提供了理想的模型。我们使用一种称为电场刺激时间分辨 X 射线晶体学 (EFX) 的“泵浦探针”方法来启动和观察 NaK2K 通道中两个方向的 K^(+) 传导。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>细胞</b>2025 年 1 月 9 日；188(1)：77-88.e15。 doi：10.1016/cell.2024.12.006。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">通过直接、实时观察原子结构中的化学动力学将有助于理解蛋白质功能。 K <sup>+</sup>通道的选择性过滤器（SF）提供了催化 K <sup>+</sup>离子脱水和通过窄孔跨细胞膜运输的理想模型。我们使用一种称为电场刺激时间分辨 X 射线晶体学 (EFX) 的“泵浦探针”方法来启动并观察 NaK2K 通道中在传输过程的时间尺度上双向的 K <sup>+</sup>传导。我们观察到沿传导途径访问的高能构象的已知特征和潜在新特征，包括控制选择性和传导率的蛋白质残基的相关动力学。一个起作用的通道的单一时间序列显示了通过各种方法在各种同源物中观察到的特征的有序外观，这证明了该蛋白质家族中反应坐标背后的动力学的深度守恒。</p><p style="color: lightgray">电话号码： <a href="https://pubmed.ncbi.nlm.nih.gov/39793560/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39793560</a> | DOI： <a href=https://doi.org/10.1016/j.cell.2024.12.006>10.1016/j.cell.2024.12.006</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39793560</guid><pubDate> Fri, 10 Jan 2025 06:00:00 -0500</pubDate><dc:creator>李宝蓝</dc:creator><dc:creator>K·伊恩·怀特</dc:creator><dc:creator>迈克尔·索科利奇</dc:creator><dc:creator>玛格丽特·克鲁雷扎</dc:creator><dc:creator>罗伯特·亨宁</dc:creator><dc:creator>武基卡·斯拉杰尔</dc:creator><dc:creator>拉玛·兰加纳坦</dc:creator><dc:creator>多克·R·赫克斯特拉</dc:creator><dc:date>2025-01-1</dc:date><dc:source>细胞</dc:source><dc:title>钾通道中电场刺激离子传导的直接可视化</dc:title><dc:identifier>下午:39793560</dc:identifier><dc:identifier> doi:10.1016/cell.2024.12.006</dc:identifier></item><item><title>选择性激发细菌无需抗生素即可抑制生长</title><link/>https://pubmed.ncbi.nlm.nih.gov/39793559/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description> Saehyun Kim 等人最近在 Device 上发表了一篇文章。报道称，选择性激发细菌可以以无抗生素的方式抑制其增殖。我们在此讨论这种“选择性兴奋性”背后的分子和热力学原理，这为理解细菌生理学提供了一个新的方面。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>细胞</b>2025 年 1 月 9 日；188(1):1-3。 doi：10.1016/cell.2024.11.035。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one"> Saehyun Kim 等人最近在 Device 上发表了一篇文章。报道称，选择性激发细菌可以以无抗生素的方式抑制其增殖。我们在此讨论这种“选择性兴奋性”背后的分子和热力学原理，这为理解细菌生理学提供了一个新的方面。</p><p style="color: lightgray">电话号码： <a href="https://pubmed.ncbi.nlm.nih.gov/39793559/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39793559</a> | DOI： <a href=https://doi.org/10.1016/j.cell.2024.11.035>10.1016/j.cell.2024.11.035</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39793559</guid><pubDate> Fri, 10 Jan 2025 06:00:00 -0500</pubDate><dc:creator>迈克尔·陈</dc:creator><dc:creator>戴一凡</dc:creator><dc:date>2025-01-1</dc:date><dc:source>细胞</dc:source><dc:title>选择性激发细菌无需抗生素即可抑制生长</dc:title><dc:identifier>下午:39793559</dc:identifier><dc:identifier> doi:10.1016/cell.2024.11.035</dc:identifier></item><item><title>运甲状腺素蛋白淀粉样变心肌病：推进精准医学的典范</title><link/>https://pubmed.ncbi.nlm.nih.gov/39791537/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>针对潜在疾病机制的特定疗法的开发构成了精准医学的基础。运甲状腺素蛋白心脏淀粉样变性（ATTR-CM）是心力衰竭和心肌病领域精确治疗方法的典范。对潜在病理生理学的更好理解、更精确的流行病学数据以及允许非侵入性诊断的成像技术的进步促进了新的、非常有效的特异性... </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2025 年 1 月 10 日：and8 doi：10.1093/eurheartj/heart811。印刷前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">针对潜在疾病机制的特定疗法的开发构成了精准医学的基础。运甲状腺素蛋白心脏淀粉样变性（ATTR-CM）是心力衰竭和心肌病领域精确治疗方法的典范。对潜在病理生理学的更好理解、更精确的流行病学数据以及允许非侵入性诊断的成像技术的进步促进了针对 ATTR-CM 的新型且非常有效的特异性疗法的开发。治疗的进步彻底改变了这个领域，将一种罕见的、毁灭性的、无法治愈的疾病转变为一种更常见的疾病，并提供了多种治疗替代方案。三种主要类型的疗法（稳定剂、抑制剂和降解剂）作用于淀粉样蛋白生成级联的不同点，已经开发出来或目前正在研究中。在这篇综述中，描述了近几十年来病理生理学和流行病学方面的关键进展，以及 ATTR-CM 可用或正在开发的各种治疗替代方案，说明了精准医学应用于心血管疾病的作用。还审查了未来几年需要回答的悬而未决的问题。</p><p style="color: lightgray">电话号码： <a href="https://pubmed.ncbi.nlm.nih.gov/39791537/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39791537</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae811>10.1093/eurheartj/he811</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39791537</guid><pubDate> Fri, 10 Jan 2025 06:00:00 -0500</pubDate><dc:creator>埃丝特·冈萨雷斯·洛佩兹</dc:creator><dc:creator>马修·毛雷尔</dc:creator><dc:creator>保罗·加西亚·帕维亚</dc:creator><dc:date>2025-01-1</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>运甲状腺素蛋白淀粉样变心肌病：推进精准医学的典范</dc:title><dc:identifier>下午：39791537</dc:identifier><dc:identifier> doi:10.1093/eurheartj/heart811</dc:identifier></item><item><title>欧洲研究委员会资助的赠款：对心外膜进行编程以治愈破碎的心脏</title><link/>https://pubmed.ncbi.nlm.nih.gov/39791536/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2025 年 1 月 10 日：e8 doi：10.1093/eurheartj/heart825。印刷前在线。</p><p><b>无摘要</b></p><p style="color: lightgray">电话号码： <a href="https://pubmed.ncbi.nlm.nih.gov/39791536/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39791536</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae825>10.1093/eurheartj/heart825</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39791536</guid><pubDate> Fri, 10 Jan 2025 06:00:00 -0500</pubDate><dc:creator>多恩夫人</dc:creator><dc:creator>亚历山德拉·莫雷蒂</dc:creator><dc:date>2025-01-1</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>欧洲研究委员会资助的赠款：对心外膜进行编程以治愈破碎的心脏</dc:title><dc:identifier>下午：39791536</dc:identifier><dc:identifier> doi:10.1093/eurheartj/heart825</dc:identifier></item><item><title>机械循环支持：何时、如何以及为谁</title><link/>https://pubmed.ncbi.nlm.nih.gov/39791535/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>心源性休克是一种危急状况，其中心脏无法维持足够的循环，导致组织灌注不足和终末器官衰竭。临时机械循环支持有可能稳定患者、提供康复桥梁、提供决策桥梁或促进最终的心脏替代治疗。尽管已经针对梗塞相关的心源性休克和难治性心脏骤停进行了随机对照试验。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2025 年 1 月 10 日：e9 doi：10.1093/eurheartj/heart925。印刷前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">心源性休克是一种危急状况，其中心脏无法维持足够的循环，导致组织灌注不足和终末器官衰竭。临时机械循环支持有可能稳定患者、提供康复桥梁、提供决策桥梁或促进最终的心脏替代治疗。尽管已经在梗塞相关的心源性休克和难治性心脏骤停中进行了随机对照试验，但这些设备的最佳时机、适当的患者选择和最佳实施仍然很复杂，并且主要基于观察数据和专家共识。本综述探讨了何时、如何以及为谁使用临时机械循环支持装置的详细信息，检查了特定的临床情况、其操作机制以及可能受益的患者群体。该评论还强调了证据上的许多差距以及更好地理解人类生物学和这些设备之间相互作用的必要性。</p><p style="color: lightgray">电话号码： <a href="https://pubmed.ncbi.nlm.nih.gov/39791535/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39791535</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae925>10.1093/eurheartj/heart925</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39791535</guid><pubDate> Fri, 10 Jan 2025 06:00:00 -0500</pubDate><dc:creator>雅各布·艾弗·米尔斯</dc:creator><dc:creator>霍尔格·蒂勒</dc:creator><dc:creator>大卫·莫罗</dc:creator><dc:creator>杰斯珀·凯尔加德</dc:creator><dc:creator>克里斯蒂安·哈萨格</dc:creator><dc:date>2025-01-1</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>机械循环支持：何时、如何以及为谁</dc:title><dc:identifier>下午：39791535</dc:identifier><dc:identifier> doi:10.1093/eurheartj/heart925</dc:identifier></item><item><title>运动员冠状动脉粥样硬化：新兴概念和预防策略</title><link/>https://pubmed.ncbi.nlm.nih.gov/39791533/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>即使传统的心血管（CV）危险因素似乎得到了很好的控制，也不应该假设运动员对冠状动脉疾病（CAD）免疫。在健康的某些方面表现出色并不等于全面的心血管保护。心脏成像研究的最新数据提出了长期、大容量、高强度耐力运动与冠状动脉粥样硬化有关的可能性。虽然心血管事件的风险并未显示出随着运动的增加而增加…… </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2025 年 1 月 10 日：e9 doi：10.1093/eurheartj/heart927。印刷前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">即使传统的心血管（CV）危险因素似乎得到了很好的控制，也不应该假设运动员对冠状动脉疾病（CAD）免疫。在健康的某些方面表现出色并不等于全面的心血管保护。心脏成像研究的最新数据提出了长期、大容量、高强度耐力运动与冠状动脉粥样硬化有关的可能性。虽然心血管事件的风险并未随着体育活动而增加，但 CAD 的可能性不容忽视，因为它是 35 岁以上运动员（即“大师级运动员”）心源性猝死的主要原因。评估 CAD 的传统和非传统危险因素是大师赛运动员参赛前评估中最重要的部分。在管理有 CAD 风险的运动员时，在生活方式适应和降脂治疗方面采取共同决策方法非常重要。对于绝大多数运动员来说，在排除症状和诱发性缺血的存在后，该建议应包括鼓励他们继续锻炼，因为现有数据表明，较高的健康水平与冠状动脉事件疾病的发病率显着降低有关。未来的研究需要确定临床相关 CAD 结局与大师级运动员冠状动脉钙化之间的关系、性别的作用，以及探索支持这些意外的 CV 适应的机制。</p><p style="color: lightgray">电话号码： <a href="https://pubmed.ncbi.nlm.nih.gov/39791533/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39791533</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae927>10.1093/eurheartj/heart927</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39791533</guid><pubDate> Fri, 10 Jan 2025 06:00:00 -0500</pubDate><dc:creator>吉多·克莱森</dc:creator><dc:creator>泰斯·MH·艾斯沃格尔斯</dc:creator><dc:creator>克里斯汀·M·阿尔伯特</dc:creator><dc:creator>亚伦·L·巴吉什</dc:creator><dc:creator>本杰明·D·莱文</dc:creator><dc:creator>埃洛伊·马里琼</dc:creator><dc:creator>艾琳·D·米科斯</dc:creator><dc:creator>安德烈·拉杰什</dc:creator><dc:date>2025-01-1</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>运动员冠状动脉粥样硬化：新兴概念和预防策略</dc:title><dc:identifier>下午：39791533</dc:identifier><dc:identifier> doi:10.1093/eurheartj/heart927</dc:identifier></item><item><title>中度冠状动脉狭窄心绞痛的功能性冠状动脉评估：#FullPhysiology 方法</title><link/>https://pubmed.ncbi.nlm.nih.gov/39791532/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2025 年 1 月 10 日：e9 doi：10.1093/eurheartj/heart926。印刷前在线。</p><p><b>无摘要</b></p><p style="color: lightgray">电话号码： <a href="https://pubmed.ncbi.nlm.nih.gov/39791532/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39791532</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae926>10.1093/eurheartj/heart926</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39791532</guid><pubDate> Fri, 10 Jan 2025 06:00:00 -0500</pubDate><dc:creator>安东尼奥·玛丽亚·莱昂内</dc:creator><dc:creator>多梅尼科·加兰特</dc:creator><dc:creator>安德里亚·维塞雷</dc:creator><dc:creator>安德里亚·布朗</dc:creator><dc:creator>菲利普·玛丽亚·维拉迪</dc:creator><dc:creator>基亚拉·朱丽安娜</dc:creator><dc:creator>赛勒斯·波利奥·本韦努托</dc:creator><dc:creator>文森佐·维卡罗</dc:creator><dc:creator>西蒙娜·托迪斯科</dc:creator><dc:creator>安德里亚·埃里克斯</dc:creator><dc:creator>西蒙·比斯卡利亚</dc:creator><dc:creator>克里斯蒂娜·奥里格玛</dc:creator><dc:creator>亨利·罗马尼奥利</dc:creator><dc:creator>罗科·安东尼奥·蒙托内</dc:creator><dc:creator>米歇尔·巴塞尔</dc:creator><dc:creator>尤金·迪·布里诺</dc:creator><dc:creator>菲利普·斯通</dc:creator><dc:creator>根纳罗·卡帕尔博</dc:creator><dc:creator>卡罗·特拉尼</dc:creator><dc:creator>弗朗西斯科·布尔佐塔</dc:creator><dc:creator>菲利普·克雷亚</dc:creator><dc:creator>伊塔洛波尔图</dc:creator><dc:creator>詹卢卡·菲尔德</dc:creator><dc:date>2025-01-1</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>中度冠状动脉狭窄心绞痛的功能性冠状动脉评估：#FullPhysiology 方法</dc:title><dc:identifier>下午：39791532</dc:identifier><dc:identifier> doi:10.1093/eurheartj/heart926</dc:identifier></item><item><title>呼吸链酶分析在模拟肥厚型心肌病的孤立性线粒体心肌病中的诊断效用</title><link/>https://pubmed.ncbi.nlm.nih.gov/39791528/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2025 年 1 月 10 日：e9 doi：10.1093/eurheartj/heart920。印刷前在线。</p><p><b>无摘要</b></p><p style="color: lightgray">电话号码： <a href="https://pubmed.ncbi.nlm.nih.gov/39791528/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39791528</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae920>10.1093/eurheartj/heart920</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39791528</guid><pubDate> Fri, 10 Jan 2025 06:00:00 -0500</pubDate><dc:creator>安倍亮</dc:creator><dc:creator>北村光信</dc:creator><dc:creator>高山森正</dc:creator><dc:date>2025-01-1</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>呼吸链酶分析在模拟肥厚型心肌病的孤立性线粒体心肌病中的诊断效用</dc:title><dc:identifier>下午：39791528</dc:identifier><dc:identifier> doi:10.1093/eurheartj/heart920</dc:identifier></item><item><title>颈动脉粥样硬化：不稳定机制和临床意义</title><link/>https://pubmed.ncbi.nlm.nih.gov/39791527/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>心血管疾病仍然是全世界残疾和过早死亡的主要原因。在此范围内，颈动脉粥样硬化是一种复杂且多方面的疾病，也是急性缺血性中风和其他心血管事件的重要先兆。炎症、氧化应激、内皮功能障碍、脂质代谢和免疫反应之间错综复杂的相互作用参与病变的发展，导致管腔狭窄和潜在的斑块…… </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2025 年 1 月 10 日：e9 doi：10.1093/eurheartj/heart933。印刷前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">心血管疾病仍然是全世界残疾和过早死亡的主要原因。在此范围内，颈动脉粥样硬化是一种复杂且多方面的疾病，也是急性缺血性中风和其他心血管事件的重要先兆。炎症、氧化应激、内皮功能障碍、脂质代谢和免疫反应之间错综复杂的相互作用参与病变的发展，导致管腔狭窄和潜在的斑块不稳定。即使非狭窄斑块也可能引发突发脑血管事件，无论管腔侵犯的程度如何。在这种情况下，颈动脉成像模式已证明其在提供斑块特征的体内表征方面的功效，为患者风险分层和临床管理做出了重大贡献。本综述强调了利用当前成像方式、生物标志物和风险分层工具识别高风险个体的重要性。这些方法为早期干预和个性化治疗策略的实施提供信息，最终提高心血管疾病管理领域的患者治疗效果。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/39791527/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39791527</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae933>10.1093/eurheartj/heart933</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39791527</guid><pubDate> Fri, 10 Jan 2025 06:00:00 -0500</pubDate><dc:creator>卢卡·萨巴</dc:creator><dc:creator>里卡多·考</dc:creator><dc:creator>罗科·维加洛</dc:creator><dc:creator>M 伊琳·古伊</dc:creator><dc:creator>丹尼尔·斯托布</dc:creator><dc:creator>加维诺等人</dc:creator><dc:creator>特伦齐奥·孔吉乌</dc:creator><dc:creator>乔治·恩泰奥斯</dc:creator><dc:creator>布鲁斯·沃瑟曼</dc:creator><dc:creator>约翰·本森</dc:creator><dc:creator>瓦伦蒂娜·纳尔迪</dc:creator><dc:creator>见川上</dc:creator><dc:creator>朱塞佩·兰齐诺</dc:creator><dc:creator>雷努·维尔马尼</dc:creator><dc:creator>彼得·利比</dc:creator><dc:date>2025-01-1</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>颈动脉粥样硬化：不稳定机制和临床意义</dc:title><dc:identifier>下午：39791527</dc:identifier><dc:identifier> doi:10.1093/eurheartj/heart933</dc:identifier></item><item><title>动脉 NALCN 敲低可改善盐皮质激素诱发的高血压和动脉过度收缩</title><link/>https://pubmed.ncbi.nlm.nih.gov/39791272/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;">环路研究中心。 2025 年 1 月 10 日。doi：10.1161/CIRCRESAHA.124.325058。印刷前在线。</p><p><b>无摘要</b></p><p style="color: lightgray">PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/39791272/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39791272</a> | DOI： <a href=https://doi.org/10.1161/CIRCRESAHA.124.325058>10.1161/CIRCUS.124.325058</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39791272</guid><pubDate> Fri, 10 Jan 2025 06:00:00 -0500</pubDate><dc:creator>李惠英</dc:creator><dc:creator>索拉公园</dc:creator><dc:creator>东俊成</dc:creator><dc:creator>金烈安</dc:creator><dc:creator>徐美善</dc:creator><dc:creator>卢贤珠</dc:creator><dc:creator>郑秀友</dc:creator><dc:creator>金成熙</dc:creator><dc:creator>曹花</dc:creator><dc:creator>金宝京</dc:creator><dc:creator>朴相雄</dc:creator><dc:creator>裴英民</dc:creator><dc:date>2025-01-1</dc:date><dc:source>流通研究</dc:source><dc:title>动脉 NALCN 敲低可改善盐皮质激素诱发的高血压和动脉过度收缩</dc:title><dc:identifier>下午：39791272</dc:identifier><dc:identifier> doi:10.1161/CIRCUS.124.325058</dc:identifier></item><item><title>去甲肾上腺素介导的缓慢血管舒缩驱动睡眠期间的类淋巴清除</title><link/>https://pubmed.ncbi.nlm.nih.gov/39788123/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>当大脑从清醒过渡到睡眠时，外部信息的处理会减少，而恢复过程（例如清除废物的类淋巴系统）会被激活。然而，目前尚不清楚是什么因素在睡眠期间驱动大脑清理。我们在这里采用了一系列技术，并确定去甲肾上腺素、脑血容量和脑脊液 (CSF) 的紧密同步振荡是 NREM 睡眠期间类淋巴清除率的最强预测因素。光遗传学... </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>细胞</b>2025 年 1 月 8 日：S0092-8674(24)01343-6。 doi：10.1016/cell.2024.11.027。印刷前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">当大脑从清醒过渡到睡眠时，外部信息的处理会减少，而恢复过程（例如清除废物的类淋巴系统）会被激活。然而，目前尚不清楚是什么因素在睡眠期间驱动大脑清理。我们在这里采用了一系列技术，并确定去甲肾上腺素、脑血容量和脑脊液 (CSF) 的紧密同步振荡是 NREM 睡眠期间类淋巴清除率的最强预测因子。蓝斑的光遗传学刺激引起血管舒缩和脑脊液信号的反相关变化。此外，刺激动脉振荡可增强脑脊液流入，表明血管舒缩充当泵，驱动脑脊液进入大脑。相反，助眠剂唑吡坦抑制去甲肾上腺素振荡和类淋巴液流动，凸显了去甲肾上腺素驱动的血管动力学在大脑清除中的关键作用。因此，由去甲肾上腺素波动和血管动力学驱动的 NREM 睡眠的微结构组织是类淋巴清除的关键决定因素。</p><p style="color: lightgray"> PMID： <a href="https://pubmed.ncbi.nlm.nih.gov/39788123/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39788123</a> | DOI： <a href=https://doi.org/10.1016/j.cell.2024.11.027>10.1016/j.cell.2024.11.027</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39788123</guid><pubDate> Thu, 09 Jan 2025 06:00:00 -0500</pubDate><dc:creator>娜塔莉·L·豪格伦德</dc:creator><dc:creator>米·安德森</dc:creator><dc:creator>克劳迪娅·托卡斯卡</dc:creator><dc:creator>泰莎·拉多诺维奇</dc:creator><dc:creator>西莉亚·凯尔比</dc:creator><dc:creator>弗雷德里克·L·索伦森</dc:creator><dc:creator>祖扎娜·博贾罗斯卡</dc:creator><dc:creator>维雷娜解开</dc:creator><dc:creator>希拉 B 十字弓</dc:creator><dc:creator>米·G·科尔莫斯</dc:creator><dc:creator>皮娅·韦科普</dc:creator><dc:creator>平濑一</dc:creator><dc:creator>麦肯·内德加德</dc:creator><dc:date>2025-01-0</dc:date><dc:source>细胞</dc:source><dc:title>去甲肾上腺素介导的缓慢血管舒缩驱动睡眠期间的类淋巴清除</dc:title><dc:identifier>下午：39788123</dc:identifier><dc:identifier> doi:10.1016/cell.2024.11.027</dc:identifier></item><item><title>新发心力衰竭的性别特异性危险因素：25 年的 PREVEND 研究</title><link/>https://pubmed.ncbi.nlm.nih.gov/39786471/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>结论：在这个欧洲队列中，男性终生发生 HFrEF 的风险高于女性，而女性发生 HFpEF 的风险更大。八个直接和间接可改变的风险因素在很大程度上导致了发生 HFrEF 和 HFpEF 的风险，特别是在女性中。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2024 年 12 月 30 日：and8 doi：10.1093/eurheartj/heart868。印刷前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">背景和目的：目前对射血分数降低（HFrEF）或保留（HFpEF）心力衰竭的终生风险及其相关风险因素的估计来自美国的两项研究。一个基于欧洲社区的大型队列进行了 25 年的随访，描述了 HFpEF 和 HFrEF 事件的潜在可改变风险因素的性别特异性终生风险和人群归因部分。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">方法：从 1997 年起对来自 PREVEND 队列的总共 8558 名参与者进行基线研究，并通过评估医院记录对新发 HFrEF（射血分数 &lt; 50%）和 HFpEF（射血分数 ≥ 50%）病例进行随访直至 2022 年. </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结果：在 25 年的随访期间，总共发现了 804 例新发 HF 病例（534 例 HFrEF 和 270 例 HFpEF）。男性基线平均年龄为 50 岁，女性基线平均年龄为 47 岁。男性心力衰竭的平均发病年龄为 72.1 岁，女性为 74.2 岁。男性一生中患心力衰竭的总体风险为 24.5%，而女性为 23.3%。与男性相比，女性患 HFrEF 的终生风险较低（11.9% 对 18.1%），而与男性相比，女性患 HFpEF 的终生风险较高（11.5% 对 6.4%）。在女性中，71% 的 HFrEF 病例可归因于八种危险因素（高血压、高胆固醇血症、肥胖、吸烟、心房颤动、慢性肾病、心肌梗塞和糖尿病），而在男性中，这一比例为 60%。在女性中，64% 的 HFpEF 病例可归因于这些危险因素，而男性中这一比例为 46%。更具体地说，在男性和女性中，高血压和高胆固醇血症是 HFrEF 的最强危险因素，而高血压和肥胖是 HFpEF 的最强危险因素。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结论：在这个欧洲队列中，男性终生发生 HFrEF 的风险高于女性，而女性发生 HFpEF 的风险更大。八个直接和间接可改变的风险因素在很大程度上导致了发生 HFrEF 和 HFpEF 的风险，特别是在女性中。</p><p style="color: lightgray">电话号码： <a href="https://pubmed.ncbi.nlm.nih.gov/39786471/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39786471</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae868>10.1093/eurheartj/heart868</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39786471</guid><pubDate> Thu, 09 Jan 2025 06:00:00 -0500</pubDate><dc:creator>埃森的巴特·J</dc:creator><dc:creator>约翰娜·E·埃门斯</dc:creator><dc:creator>贾斯帕·特罗普</dc:creator><dc:creator>沃特奥沃科克</dc:creator><dc:creator>马赛尔·D·史密斯</dc:creator><dc:creator>克里斯蒂安·格鲁克</dc:creator><dc:creator>卢克·鲍姆霍夫</dc:creator><dc:creator>纳文·苏塔哈</dc:creator><dc:creator>罗恩·T·甘斯沃特</dc:creator><dc:creator>斯蒂芬·JL·巴克</dc:creator><dc:creator>凯文·达曼</dc:creator><dc:creator>海的彼得</dc:creator><dc:creator>波尔的鲁道夫·A</dc:creator><dc:creator>德克·J·范·维尔德豪森</dc:creator><dc:creator>阿德里安·沃尔斯</dc:creator><dc:date>2025-01-0</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>新发心力衰竭的性别特异性危险因素：25 年的 PREVEND 研究</dc:title><dc:identifier>下午：39786471</dc:identifier><dc:identifier> doi:10.1093/eurheartj/heart868</dc:identifier></item><item><title>住院上肢动脉疾病患者：治疗和长期结果</title><link/>https://pubmed.ncbi.nlm.nih.gov/39786470/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>结论：上肢动脉疾病患者，无论基础疾病类型如何，都面临着较差的预后，截肢率和死亡率较高。男性与未来心血管和肢体事件（包括死亡）的风险增加有关。需要进一步调查以了解性别相关差异的根本原因并确定治疗改进。 </description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2024 年 12 月 30 日：and9 doi：10.1093/eurheartj/heart904。印刷前在线。</p><p><b>抽象的</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">背景和目的：目前关于上肢动脉疾病（UEAD）的知识很少。本研究旨在评估 UEAD 患者的患病率、治疗模式以及短期和长期结果。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">方法：对 2010 年至 2017 年间首次诊断为 UEAD 的住院患者的回顾性健康声明数据进行分析。数据来自 AOK-Die Gesundheitskasse 的 11 个合法独立的法定健康保险基金。对危险因素、合并症、药物治疗、血运重建手术和结果进行了评估，特别关注与性别相关的差异（中位随访时间：5.5 年）。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结果：2437 名 UEAD 患者（43% 为女性，中位年龄 67 岁）中，80% 仅有动脉粥样硬化 (UEADa)，20% 伴有炎症/结缔组织疾病 (UEADc/i)。心血管危险因素和合并症在男女中都非常普遍。与女性相比，男性更容易患冠状动脉、脑血管和下肢动脉疾病以及慢性肾衰竭和心力衰竭等器官衰竭。在指数停留时，女性的血运重建率高于男性（37% vs. 27%）。整个人群的 5 年死亡率几乎为 50%，男性甚至更高（UEADa：51% vs. 36% P &lt; .001；UEADc/i：44% vs. 36%，P &lt; .05）。此外，尽管二级预防性药物治疗相同，但与女性相比，男性上肢截肢率较高（UEADa：26% vs. 11%，P &lt; .001；UEADc/i：30% vs. 18%，P &lt; .01）。 </p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">结论：上肢动脉疾病患者，无论基础疾病类型如何，都面临着较差的预后，截肢率和死亡率较高。男性与未来心血管和肢体事件（包括死亡）的风险增加有关。需要进一步调查以了解性别相关差异的根本原因并确定治疗改进。</p><p style="color: lightgray">电话号码： <a href="https://pubmed.ncbi.nlm.nih.gov/39786470/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39786470</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae904>10.1093/eurheartj/heart904</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39786470</guid><pubDate> Thu, 09 Jan 2025 06:00:00 -0500</pubDate><dc:creator>莉娜·马科斯基</dc:creator><dc:creator>克里斯蒂安娜·恩格尔贝茨</dc:creator><dc:creator>珍妮特·科普</dc:creator><dc:creator>帕特里克·德尔格</dc:creator><dc:creator>托马斯·鲁恩克</dc:creator><dc:creator>基督教艺术家</dc:creator><dc:creator>约阿希姆·格尔斯</dc:creator><dc:creator>伊娃·弗赖辛格</dc:creator><dc:creator>纳赛尔·马利亚尔</dc:creator><dc:creator>霍尔格·赖内克</dc:creator><dc:creator>詹尼克·费尔德</dc:creator><dc:date>2025-01-0</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>住院上肢动脉疾病患者：治疗和长期结果</dc:title><dc:identifier>下午:39786470</dc:identifier><dc:identifier> doi:10.1093/eurheartj/heart904</dc:identifier></item><item><title>光学相干断层扫描检测到与系统性红斑狼疮相关的多个同时冠状动脉斑块侵蚀</title><link/>https://pubmed.ncbi.nlm.nih.gov/39786444/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content= 1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113170945&amp;v=2.18.0.post9+e462414<description>不抽象</description><content:encoded><![CDATA[<div><p style="color: #4aa564;"> 《欧洲心脏杂志》2024 年 12 月 30 日：and8 doi：10.1093/eurheartj/heart899。印刷前在线。</p><p><b>无摘要</b></p><p style="color: lightgray">电话号码： <a href="https://pubmed.ncbi.nlm.nih.gov/39786444/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113170945&v=2.18.0.post9+e462414">39786444</a> | DOI： <a href=https://doi.org/10.1093/eurheartj/ehae899>10.1093/eurheartj/heart899</a></p></div> ]]>;</content:encoded><guid ispermalink="false">发布：39786444</guid><pubDate> Thu, 09 Jan 2025 06:00:00 -0500</pubDate><dc:creator>崔丽娜</dc:creator><dc:creator>方超</dc:creator><dc:creator>博宇</dc:creator><dc:date>2025-01-0</dc:date><dc:source>欧洲心脏杂志</dc:source><dc:title>光学相干断层扫描检测到与系统性红斑狼疮相关的多个同时冠状动脉斑块侵蚀</dc:title><dc:identifier>下午:39786444</dc:identifier><dc:identifier> doi:10.1093/eurheartj/heart899</dc:identifier></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>心血管高分期刊</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;ff=20250113194946&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.18.0.post9+e462414&amp;utm_source=Chrome&amp;fc=20230708114047
+    <description>心血管高分期刊: Latest results from PubMed</description>
+<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;ff=20250113194946&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.18.0.post9+e462414&amp;utm_source=Chrome&amp;fc=20230708114047" rel="self"></atom:link>
+<docs>http://www.rssboard.org/rss-specification</docs>
+<generator>PubMed RSS feeds (2.18.0.post9+e462414)</generator>
+<language>en</language>
+<lastbuilddate>Tue, 14 Jan 2025 00:49:48 +0000</lastbuilddate>
+<pubDate>Mon, 13 Jan 2025 06:00:00 -0500</pubDate>
+<ttl>120</ttl>
+<item>
+<title>Cardiac Plasticity in Hypertrophic Cardiomyopathy: Exercise as Medicine?</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39804911/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Jan 14;151(2):145-148. doi: 10.1161/CIRCULATIONAHA.124.072649. Epub 2025 Jan 13.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39804911/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39804911</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.072649>10.1161/CIRCULATIONAHA.124.072649</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39804911</guid>
+<pubDate>Mon, 13 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>James P MacNamara</dc:creator>
+<dc:creator>Michael P Ayers</dc:creator>
+<dc:date>2025-01-13</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Cardiac Plasticity in Hypertrophic Cardiomyopathy: Exercise as Medicine?</dc:title>
+<dc:identifier>pmid:39804911</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.072649</dc:identifier>
+</item>
+<item>
+<title>Letter by Chen et al Regarding Article, "Piezo1-Mediated Neurogenic Inflammatory Cascade Exacerbates Ventricular Remodeling After Myocardial Infarction"</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39804910/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Jan 14;151(2):e22. doi: 10.1161/CIRCULATIONAHA.124.068936. Epub 2025 Jan 13.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39804910/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39804910</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.068936>10.1161/CIRCULATIONAHA.124.068936</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39804910</guid>
+<pubDate>Mon, 13 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Jun-Zhang Chen</dc:creator>
+<dc:creator>Yi Liang</dc:creator>
+<dc:creator>Bo Liang</dc:creator>
+<dc:date>2025-01-13</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Letter by Chen et al Regarding Article, "Piezo1-Mediated Neurogenic Inflammatory Cascade Exacerbates Ventricular Remodeling After Myocardial Infarction"</dc:title>
+<dc:identifier>pmid:39804910</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.068936</dc:identifier>
+</item>
+<item>
+<title>Recognized Outstanding Reviewers for &lt;em>;Circulation&lt;/em>; in 2024</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39804909/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Jan 14;151(2):125. doi: 10.1161/CIRCULATIONAHA.124.073245. Epub 2025 Jan 13.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39804909/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39804909</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.073245>10.1161/CIRCULATIONAHA.124.073245</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39804909</guid>
+<pubDate>Mon, 13 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Darren K McGuire</dc:creator>
+<dc:creator>James A de Lemos</dc:creator>
+<dc:creator>Joseph A Hill</dc:creator>
+<dc:creator>Circulation Editors Team</dc:creator>
+<dc:date>2025-01-13</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Recognized Outstanding Reviewers for &lt;em>;Circulation&lt;/em>; in 2024</dc:title>
+<dc:identifier>pmid:39804909</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.073245</dc:identifier>
+</item>
+<item>
+<title>Efficacy and Safety of Finerenone in Patients With Primary Aldosteronism: A Pilot Randomized Controlled Trial</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39804908/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Jan 14;151(2):196-198. doi: 10.1161/CIRCULATIONAHA.124.071452. Epub 2025 Jan 13.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39804908/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39804908</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.071452>10.1161/CIRCULATIONAHA.124.071452</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39804908</guid>
+<pubDate>Mon, 13 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Jinbo Hu</dc:creator>
+<dc:creator>Qixin Zhou</dc:creator>
+<dc:creator>Yue Sun</dc:creator>
+<dc:creator>Zhengping Feng</dc:creator>
+<dc:creator>Jun Yang</dc:creator>
+<dc:creator>Wenwen He</dc:creator>
+<dc:creator>Ying Song</dc:creator>
+<dc:creator>Yue Wang</dc:creator>
+<dc:creator>Xiangjun Chen</dc:creator>
+<dc:creator>Hang Shen</dc:creator>
+<dc:creator>Ying Jing</dc:creator>
+<dc:creator>Shumin Yang</dc:creator>
+<dc:creator>Qifu Li</dc:creator>
+<dc:creator>CONPASS Group</dc:creator>
+<dc:date>2025-01-13</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Efficacy and Safety of Finerenone in Patients With Primary Aldosteronism: A Pilot Randomized Controlled Trial</dc:title>
+<dc:identifier>pmid:39804908</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.071452</dc:identifier>
+</item>
+<item>
+<title>Global Rounds Afghanistan: A Critical Overview of Cardiovascular Medicine</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39804907/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Jan 14;151(2):129-131. doi: 10.1161/CIRCULATIONAHA.124.068331. Epub 2025 Jan 13.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39804907/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39804907</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.068331>10.1161/CIRCULATIONAHA.124.068331</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39804907</guid>
+<pubDate>Mon, 13 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Abdul Wahed Sidiqi</dc:creator>
+<dc:creator>Diana Dad Zada</dc:creator>
+<dc:creator>Nader Ahmad Exeer</dc:creator>
+<dc:date>2025-01-13</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Global Rounds Afghanistan: A Critical Overview of Cardiovascular Medicine</dc:title>
+<dc:identifier>pmid:39804907</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.068331</dc:identifier>
+</item>
+<item>
+<title>Response by Sun et al to Letter Regarding Article, "Piezo1-Mediated Neurogenic Inflammatory Cascade Exacerbates Ventricular Remodeling After Myocardial Infarction"</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39804906/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Jan 14;151(2):e23. doi: 10.1161/CIRCULATIONAHA.124.071536. Epub 2025 Jan 13.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39804906/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39804906</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.071536>10.1161/CIRCULATIONAHA.124.071536</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39804906</guid>
+<pubDate>Mon, 13 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Meiyan Sun</dc:creator>
+<dc:creator>Shufang He</dc:creator>
+<dc:creator>Ji Hu</dc:creator>
+<dc:creator>Ye Zhang</dc:creator>
+<dc:date>2025-01-13</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Response by Sun et al to Letter Regarding Article, "Piezo1-Mediated Neurogenic Inflammatory Cascade Exacerbates Ventricular Remodeling After Myocardial Infarction"</dc:title>
+<dc:identifier>pmid:39804906</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.071536</dc:identifier>
+</item>
+<item>
+<title>Highlights From the &lt;em>;Circulation&lt;/em>; Family of Journals</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39804905/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Jan 14;151(2):188-192. doi: 10.1161/CIRCULATIONAHA.124.073304. Epub 2025 Jan 13.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39804905/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39804905</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.073304>10.1161/CIRCULATIONAHA.124.073304</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39804905</guid>
+<pubDate>Mon, 13 Jan 2025 06:00:00 -0500</pubDate>
+<dc:date>2025-01-13</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Highlights From the &lt;em>;Circulation&lt;/em>; Family of Journals</dc:title>
+<dc:identifier>pmid:39804905</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.073304</dc:identifier>
+</item>
+<item>
+<title>Swinging Pendulum Between Risks and Benefits of Antiplatelet Agents: A Call for Consistency in the Interpretation of Evidence and Guideline Recommendations</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39804904/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Jan 14;151(2):126-128. doi: 10.1161/CIRCULATIONAHA.124.070797. Epub 2025 Jan 13.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39804904/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39804904</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.070797>10.1161/CIRCULATIONAHA.124.070797</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39804904</guid>
+<pubDate>Mon, 13 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Antonio Landi</dc:creator>
+<dc:creator>Diana A Gorog</dc:creator>
+<dc:creator>Marco Valgimigli</dc:creator>
+<dc:date>2025-01-13</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Swinging Pendulum Between Risks and Benefits of Antiplatelet Agents: A Call for Consistency in the Interpretation of Evidence and Guideline Recommendations</dc:title>
+<dc:identifier>pmid:39804904</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.070797</dc:identifier>
+</item>
+<item>
+<title>Adverse Pregnancy Outcomes and Coronary Artery Disease Risk: A Negative Control Mendelian Randomization Study</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39804903/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Jan 14;151(2):193-195. doi: 10.1161/CIRCULATIONAHA.124.070509. Epub 2025 Jan 13.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39804903/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39804903</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.070509>10.1161/CIRCULATIONAHA.124.070509</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39804903</guid>
+<pubDate>Mon, 13 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Tormod Rogne</dc:creator>
+<dc:creator>Dipender Gill</dc:creator>
+<dc:date>2025-01-13</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Adverse Pregnancy Outcomes and Coronary Artery Disease Risk: A Negative Control Mendelian Randomization Study</dc:title>
+<dc:identifier>pmid:39804903</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.070509</dc:identifier>
+</item>
+<item>
+<title>Heart failure risk stratification using artificial intelligence applied to electrocardiogram images: a multinational study</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39804243/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS: An AI model applied to a single ECG image defined the risk of future HF, representing a digital biomarker for stratifying HF risk.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 13:ehae914. doi: 10.1093/eurheartj/ehae914. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND AND AIMS: Current heart failure (HF) risk stratification strategies require comprehensive clinical evaluation. In this study, artificial intelligence (AI) applied to electrocardiogram (ECG) images was examined as a strategy to predict HF risk.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Across multinational cohorts in the Yale New Haven Health System (YNHHS), UK Biobank (UKB), and Brazilian Longitudinal Study of Adult Health (ELSA-Brasil), individuals without baseline HF were followed for the first HF hospitalization. An AI-ECG model that defines cross-sectional left ventricular systolic dysfunction from 12-lead ECG images was used, and its association with incident HF was evaluated. Discrimination was assessed using Harrell's C-statistic. Pooled cohort equations to prevent HF (PCP-HF) were used as a comparator.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Among 231 285 YNHHS patients, 4472 had primary HF hospitalizations over 4.5 years (inter-quartile range 2.5-6.6). In UKB and ELSA-Brasil, among 42 141 and 13 454 people, 46 and 31 developed HF over 3.1 (2.1-4.5) and 4.2 (3.7-4.5) years. A positive AI-ECG screen portended a 4- to 24-fold higher risk of new-onset HF [age-, sex-adjusted hazard ratio: YNHHS, 3.88 (95% confidence interval 3.63-4.14); UKB, 12.85 (6.87-24.02); ELSA-Brasil, 23.50 (11.09-49.81)]. The association was consistent after accounting for comorbidities and the competing risk of death. Higher probabilities were associated with progressively higher HF risk. Model discrimination was 0.718 in YNHHS, 0.769 in UKB, and 0.810 in ELSA-Brasil. In YNHHS and ELSA-Brasil, incorporating AI-ECG with PCP-HF yielded a significant improvement in discrimination over PCP-HF alone.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: An AI model applied to a single ECG image defined the risk of future HF, representing a digital biomarker for stratifying HF risk.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39804243/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39804243</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae914>10.1093/eurheartj/ehae914</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39804243</guid>
+<pubDate>Mon, 13 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Lovedeep S Dhingra</dc:creator>
+<dc:creator>Arya Aminorroaya</dc:creator>
+<dc:creator>Veer Sangha</dc:creator>
+<dc:creator>Aline F Pedroso</dc:creator>
+<dc:creator>Folkert W Asselbergs</dc:creator>
+<dc:creator>Luisa C C Brant</dc:creator>
+<dc:creator>Sandhi M Barreto</dc:creator>
+<dc:creator>Antonio Luiz P Ribeiro</dc:creator>
+<dc:creator>Harlan M Krumholz</dc:creator>
+<dc:creator>Evangelos K Oikonomou</dc:creator>
+<dc:creator>Rohan Khera</dc:creator>
+<dc:date>2025-01-13</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Heart failure risk stratification using artificial intelligence applied to electrocardiogram images: a multinational study</dc:title>
+<dc:identifier>pmid:39804243</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae914</dc:identifier>
+</item>
+<item>
+<title>Electrocardiogram-based machine learning for risk stratification of patients with suspected acute coronary syndrome</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39804231/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS: The externally validated machine learning-based model, exclusively utilizing features from the 12-lead electrocardiogram, outperformed the HEART score in stratifying the mortality risk of patients with acute chest pain. This may have the potential to impact the precision of care delivery and the allocation of resources to those at highest risk of adverse events.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 13:ehae880. doi: 10.1093/eurheartj/ehae880. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND AND AIMS: The importance of risk stratification in patients with chest pain extends beyond diagnosis and immediate treatment. This study sought to evaluate the prognostic value of electrocardiogram feature-based machine learning models to risk-stratify all-cause mortality in those with chest pain.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: This was a prospective observational cohort study of consecutive, non-traumatic patients with chest pain. All-cause death was ascertained from multiple sources, including the CDC National Death Index registry. Six machine learning models were trained for survival analysis using 73 morphological electrocardiogram features (80% training with 10-fold cross-validation and 20% testing), followed by a variational Bayesian Gaussian mixture model to define distinct risk groups. The resulting classification performance was compared against the HEART score.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: The derivation cohort included 4015 patients (age 59 ± 16 years, 47% women). The mortality rate was 20.3% after a median follow-up period of 3.05 years (interquartile range 1.75-5.32). Extra Survival Trees outperformed other forecasting models, and the derived risk groups successfully classified patients into low-, moderate-, and high-risk groups (log-rank test statistic = 121.14, P &lt; .001). This model outperformed the HEART score, reducing the rate of missed events by >;90% with a negative predictive value and sensitivity of 93.4% and 85.9%, compared to 89.0% and 75.0%, respectively. In an independent external testing cohort (N = 3095, age 59 ± 15 years, 44% women, 30-day mortality 3.5%), patients in the moderate [odds ratio 3.62 (1.35-9.74)] and high [odds ratio 6.12 (2.38-15.75)] risk groups had significantly higher odds of mortality compared to those in the low-risk group.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: The externally validated machine learning-based model, exclusively utilizing features from the 12-lead electrocardiogram, outperformed the HEART score in stratifying the mortality risk of patients with acute chest pain. This may have the potential to impact the precision of care delivery and the allocation of resources to those at highest risk of adverse events.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39804231/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39804231</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae880>10.1093/eurheartj/ehae880</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39804231</guid>
+<pubDate>Mon, 13 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Zeineb Bouzid</dc:creator>
+<dc:creator>Ervin Sejdic</dc:creator>
+<dc:creator>Christian Martin-Gill</dc:creator>
+<dc:creator>Ziad Faramand</dc:creator>
+<dc:creator>Stephanie Frisch</dc:creator>
+<dc:creator>Mohammad Alrawashdeh</dc:creator>
+<dc:creator>Stephanie Helman</dc:creator>
+<dc:creator>Tanmay A Gokhale</dc:creator>
+<dc:creator>Nathan T Riek</dc:creator>
+<dc:creator>Karina Kraevsky-Phillips</dc:creator>
+<dc:creator>Richard E Gregg</dc:creator>
+<dc:creator>Susan M Sereika</dc:creator>
+<dc:creator>Gilles Clermont</dc:creator>
+<dc:creator>Murat Akcakaya</dc:creator>
+<dc:creator>Jessica K Zègre-Hemsey</dc:creator>
+<dc:creator>Samir Saba</dc:creator>
+<dc:creator>Clifton W Callaway</dc:creator>
+<dc:creator>Salah S Al-Zaiti</dc:creator>
+<dc:date>2025-01-13</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Electrocardiogram-based machine learning for risk stratification of patients with suspected acute coronary syndrome</dc:title>
+<dc:identifier>pmid:39804231</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae880</dc:identifier>
+</item>
+<item>
+<title>Artificial intelligence and mortality prediction in acute coronary syndromes</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39804226/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 13:ehae475. doi: 10.1093/eurheartj/ehae475. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39804226/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39804226</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae475>10.1093/eurheartj/ehae475</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39804226</guid>
+<pubDate>Mon, 13 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Zachi I Attia</dc:creator>
+<dc:creator>Paul A Friedman</dc:creator>
+<dc:date>2025-01-13</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Artificial intelligence and mortality prediction in acute coronary syndromes</dc:title>
+<dc:identifier>pmid:39804226</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae475</dc:identifier>
+</item>
+<item>
+<title>Overweight, obesity, and cardiovascular disease in heterozygous familial hypercholesterolaemia: the EAS FH Studies Collaboration registry</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39801189/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS: Overweight and obesity are common in patients with HeFH and contribute to ASCVD risk from childhood, independent of LDL-C and lipid-lowering medication. Sustained body weight management is needed to reduce the risk of ASCVD in HeFH.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 13:ehae791. doi: 10.1093/eurheartj/ehae791. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND AND AIMS: Overweight and obesity are modifiable risk factors for atherosclerotic cardiovascular disease (ASCVD) in the general population, but their prevalence in individuals with heterozygous familial hypercholesterolaemia (HeFH) and whether they confer additional risk of ASCVD independent of LDL cholesterol (LDL-C) remains unclear.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Cross-sectional analysis was conducted in 35 540 patients with HeFH across 50 countries, in the EAS FH Studies Collaboration registry. Prevalence of World Health Organization-defined body mass index categories was investigated in adults (n = 29 265) and children/adolescents (n = 6275); and their association with prevalent ASCVD.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Globally, 52% of adults and 27% of children with HeFH were overweight or obese, with the highest prevalence noted in Northern Africa/Western Asia. A higher overweight/obesity prevalence was found in non-high-income vs. high-income countries. Median age at familial hypercholesterolaemia diagnosis in adults with obesity was 9 years older than in normal weight adults. Obesity was associated with a more atherogenic lipid profile independent of lipid-lowering medication. Prevalence of coronary artery disease increased progressively across body mass index categories in both children and adults. Compared with normal weight, obesity was associated with higher odds of coronary artery disease in children (odds ratio 9.28, 95% confidence interval 1.77-48.77, adjusted for age, sex, lipids, and lipid-lowering medication) and coronary artery disease and stroke in adults (odds ratio 2.35, 95% confidence interval 2.10-2.63 and odds ratio 1.65, 95% confidence interval 1.27-2.14, respectively), but less consistently with peripheral artery disease. Adjusting for diabetes, hypertension and smoking modestly attenuated the associations.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Overweight and obesity are common in patients with HeFH and contribute to ASCVD risk from childhood, independent of LDL-C and lipid-lowering medication. Sustained body weight management is needed to reduce the risk of ASCVD in HeFH.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39801189/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39801189</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae791>10.1093/eurheartj/ehae791</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39801189</guid>
+<pubDate>Mon, 13 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Amany Elshorbagy</dc:creator>
+<dc:creator>Antonio J Vallejo-Vaz</dc:creator>
+<dc:creator>Fotios Barkas</dc:creator>
+<dc:creator>Alexander R M Lyons</dc:creator>
+<dc:creator>Christophe A T Stevens</dc:creator>
+<dc:creator>Kanika I Dharmayat</dc:creator>
+<dc:creator>Alberico L Catapano</dc:creator>
+<dc:creator>Tomas Freiberger</dc:creator>
+<dc:creator>G Kees Hovingh</dc:creator>
+<dc:creator>Pedro Mata</dc:creator>
+<dc:creator>Frederick J Raal</dc:creator>
+<dc:creator>Raul D Santos</dc:creator>
+<dc:creator>Handrean Soran</dc:creator>
+<dc:creator>Gerald F Watts</dc:creator>
+<dc:creator>Marianne Abifadel</dc:creator>
+<dc:creator>Carlos A Aguilar-Salinas</dc:creator>
+<dc:creator>Khalid F Alhabib</dc:creator>
+<dc:creator>Mutaz Alkhnifsawi</dc:creator>
+<dc:creator>Wael Almahmeed</dc:creator>
+<dc:creator>Fahad Alnouri</dc:creator>
+<dc:creator>Rodrigo Alonso</dc:creator>
+<dc:creator>Khalid Al-Rasadi</dc:creator>
+<dc:creator>Ahmad Al-Sarraf</dc:creator>
+<dc:creator>Marcello Arca</dc:creator>
+<dc:creator>Tester F Ashavaid</dc:creator>
+<dc:creator>Maurizio Averna</dc:creator>
+<dc:creator>Maciej Banach</dc:creator>
+<dc:creator>Marianne Becker</dc:creator>
+<dc:creator>Christoph J Binder</dc:creator>
+<dc:creator>Mafalda Bourbon</dc:creator>
+<dc:creator>Liam R Brunham</dc:creator>
+<dc:creator>Krzysztof Chlebus</dc:creator>
+<dc:creator>Pablo Corral</dc:creator>
+<dc:creator>Diogo Cruz</dc:creator>
+<dc:creator>Kairat Davletov</dc:creator>
+<dc:creator>Olivier S Descamps</dc:creator>
+<dc:creator>Bambang Dwiputra</dc:creator>
+<dc:creator>Marat Ezhov</dc:creator>
+<dc:creator>Urh Groselj</dc:creator>
+<dc:creator>Mariko Harada-Shiba</dc:creator>
+<dc:creator>Kirsten B Holven</dc:creator>
+<dc:creator>Steve E Humphries</dc:creator>
+<dc:creator>Meral Kayikcioglu</dc:creator>
+<dc:creator>Weerapan Khovidhunkit</dc:creator>
+<dc:creator>Katarina Lalic</dc:creator>
+<dc:creator>Gustavs Latkovskis</dc:creator>
+<dc:creator>Ulrich Laufs</dc:creator>
+<dc:creator>Evangelos Liberopoulos</dc:creator>
+<dc:creator>Marcos M Lima-Martinez</dc:creator>
+<dc:creator>Vincent Maher</dc:creator>
+<dc:creator>A David Marais</dc:creator>
+<dc:creator>Winfried März</dc:creator>
+<dc:creator>Erkin Mirrakhimov</dc:creator>
+<dc:creator>André R Miserez</dc:creator>
+<dc:creator>Olena Mitchenko</dc:creator>
+<dc:creator>Hapizah Nawawi</dc:creator>
+<dc:creator>Børge G Nordestgaard</dc:creator>
+<dc:creator>Andrie G Panayiotou</dc:creator>
+<dc:creator>György Paragh</dc:creator>
+<dc:creator>Zaneta Petrulioniene</dc:creator>
+<dc:creator>Belma Pojskic</dc:creator>
+<dc:creator>Arman Postadzhiyan</dc:creator>
+<dc:creator>Ashraf Reda</dc:creator>
+<dc:creator>Željko Reiner</dc:creator>
+<dc:creator>Ximena Reyes</dc:creator>
+<dc:creator>Fouzia Sadiq</dc:creator>
+<dc:creator>Wilson Ehidiamen Sadoh</dc:creator>
+<dc:creator>Heribert Schunkert</dc:creator>
+<dc:creator>Aleksandr B Shek</dc:creator>
+<dc:creator>Erik Stroes</dc:creator>
+<dc:creator>Ta-Chen Su</dc:creator>
+<dc:creator>Tavintharan Subramaniam</dc:creator>
+<dc:creator>Andrey V Susekov</dc:creator>
+<dc:creator>Myra Tilney</dc:creator>
+<dc:creator>Brian Tomlinson</dc:creator>
+<dc:creator>Thanh Huong Truong</dc:creator>
+<dc:creator>Alexandros D Tselepis</dc:creator>
+<dc:creator>Anne Tybjærg-Hansen</dc:creator>
+<dc:creator>Alejandra Vázquez-Cárdenas</dc:creator>
+<dc:creator>Margus Viigimaa</dc:creator>
+<dc:creator>Branislav Vohnout</dc:creator>
+<dc:creator>Shizuya Yamashita</dc:creator>
+<dc:creator>Kausik K Ray</dc:creator>
+<dc:date>2025-01-13</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Overweight, obesity, and cardiovascular disease in heterozygous familial hypercholesterolaemia: the EAS FH Studies Collaboration registry</dc:title>
+<dc:identifier>pmid:39801189</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae791</dc:identifier>
+</item>
+<item>
+<title>ERC-funded grant: cardiac regeneration</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39797422/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 11:ehae873. doi: 10.1093/eurheartj/ehae873. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39797422/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39797422</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae873>10.1093/eurheartj/ehae873</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39797422</guid>
+<pubDate>Sat, 11 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Cristina Villa Del Campo</dc:creator>
+<dc:creator>Inés Rivero-García</dc:creator>
+<dc:creator>Miguel Torres</dc:creator>
+<dc:date>2025-01-11</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>ERC-funded grant: cardiac regeneration</dc:title>
+<dc:identifier>pmid:39797422</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae873</dc:identifier>
+</item>
+<item>
+<title>Personalized management of tricuspid valve regurgitation</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39797420/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 11:ehae733. doi: 10.1093/eurheartj/ehae733. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39797420/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39797420</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae733>10.1093/eurheartj/ehae733</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39797420</guid>
+<pubDate>Sat, 11 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Philipp Lurz</dc:creator>
+<dc:creator>Edoardo Zancanaro</dc:creator>
+<dc:creator>Karl-Patrik Kresoja</dc:creator>
+<dc:date>2025-01-11</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Personalized management of tricuspid valve regurgitation</dc:title>
+<dc:identifier>pmid:39797420</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae733</dc:identifier>
+</item>
+<item>
+<title>The rapid delayed-rectifier potassium current: a biophysical basis for cardiac repolarization and arrhythmia</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39794610/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Nat Rev Cardiol. 2025 Jan 10. doi: 10.1038/s41569-025-01116-3. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39794610/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39794610</a> | DOI:<a href=https://doi.org/10.1038/s41569-025-01116-3>10.1038/s41569-025-01116-3</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39794610</guid>
+<pubDate>Fri, 10 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Joseph E Carr</dc:creator>
+<dc:date>2025-01-10</dc:date>
+<dc:source>Nature reviews. Cardiology</dc:source>
+<dc:title>The rapid delayed-rectifier potassium current: a biophysical basis for cardiac repolarization and arrhythmia</dc:title>
+<dc:identifier>pmid:39794610</dc:identifier>
+<dc:identifier>doi:10.1038/s41569-025-01116-3</dc:identifier>
+</item>
+<item>
+<title>Direct visualization of electric-field-stimulated ion conduction in a potassium channel</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39793560/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>Understanding protein function would be facilitated by direct, real-time observation of chemical kinetics in the atomic structure. The selectivity filter (SF) of the K^(+) channel provides an ideal model, catalyzing the dehydration and transport of K^(+) ions across the cell membrane through a narrow pore. We used a "pump-probe" method called electric-field-stimulated time-resolved X-ray crystallography (EFX) to initiate and observe K^(+) conduction in the NaK2K channel in both directions on the...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2025 Jan 9;188(1):77-88.e15. doi: 10.1016/j.cell.2024.12.006.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Understanding protein function would be facilitated by direct, real-time observation of chemical kinetics in the atomic structure. The selectivity filter (SF) of the K<sup>+</sup> channel provides an ideal model, catalyzing the dehydration and transport of K<sup>+</sup> ions across the cell membrane through a narrow pore. We used a "pump-probe" method called electric-field-stimulated time-resolved X-ray crystallography (EFX) to initiate and observe K<sup>+</sup> conduction in the NaK2K channel in both directions on the timescale of the transport process. We observe both known and potentially new features in the high-energy conformations visited along the conduction pathway, including the associated dynamics of protein residues that control selectivity and conduction rate. A single time series of one channel in action shows the orderly appearance of features observed in diverse homologs with diverse methods, arguing for deep conservation of the dynamics underlying the reaction coordinate in this protein family.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39793560/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39793560</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.12.006>10.1016/j.cell.2024.12.006</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39793560</guid>
+<pubDate>Fri, 10 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>BoRam Lee</dc:creator>
+<dc:creator>K Ian White</dc:creator>
+<dc:creator>Michael Socolich</dc:creator>
+<dc:creator>Margaret A Klureza</dc:creator>
+<dc:creator>Robert Henning</dc:creator>
+<dc:creator>Vukica Srajer</dc:creator>
+<dc:creator>Rama Ranganathan</dc:creator>
+<dc:creator>Doeke R Hekstra</dc:creator>
+<dc:date>2025-01-10</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Direct visualization of electric-field-stimulated ion conduction in a potassium channel</dc:title>
+<dc:identifier>pmid:39793560</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.12.006</dc:identifier>
+</item>
+<item>
+<title>Selective excitation of bacteria enables growth suppression without antibiotics</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39793559/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>In a recently published article in Device, Saehyun Kim et al. report that selective excitation of bacteria can inhibit their proliferation in an antibiotic-free manner. We herein discuss the molecular and thermodynamic principles underlying this "selective excitability," which provides a new aspect to understand bacterial physiology.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Cell</b>. 2025 Jan 9;188(1):1-3. doi: 10.1016/j.cell.2024.11.035.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">In a recently published article in Device, Saehyun Kim et al. report that selective excitation of bacteria can inhibit their proliferation in an antibiotic-free manner. We herein discuss the molecular and thermodynamic principles underlying this "selective excitability," which provides a new aspect to understand bacterial physiology.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39793559/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39793559</a> | DOI:<a href=https://doi.org/10.1016/j.cell.2024.11.035>10.1016/j.cell.2024.11.035</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39793559</guid>
+<pubDate>Fri, 10 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Michael W Chen</dc:creator>
+<dc:creator>Yifan Dai</dc:creator>
+<dc:date>2025-01-10</dc:date>
+<dc:source>Cell</dc:source>
+<dc:title>Selective excitation of bacteria enables growth suppression without antibiotics</dc:title>
+<dc:identifier>pmid:39793559</dc:identifier>
+<dc:identifier>doi:10.1016/j.cell.2024.11.035</dc:identifier>
+</item>
+<item>
+<title>Transthyretin amyloid cardiomyopathy: a paradigm for advancing precision medicine</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39791537/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>Development of specific therapies addressing the underlying diseases' mechanisms constitutes the basis of precision medicine. Transthyretin cardiac amyloidosis (ATTR-CM) is an exemplar of precise therapeutic approach in the field of heart failure and cardiomyopathies. A better understanding of the underlying pathophysiology, more precise data of its epidemiology, and advances in imaging techniques that allow non-invasive diagnosis have fostered the development of new and very effective specific...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 10:ehae811. doi: 10.1093/eurheartj/ehae811. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Development of specific therapies addressing the underlying diseases' mechanisms constitutes the basis of precision medicine. Transthyretin cardiac amyloidosis (ATTR-CM) is an exemplar of precise therapeutic approach in the field of heart failure and cardiomyopathies. A better understanding of the underlying pathophysiology, more precise data of its epidemiology, and advances in imaging techniques that allow non-invasive diagnosis have fostered the development of new and very effective specific therapies for ATTR-CM. Therapeutic advances have revolutionized the field, transforming a rare, devastating, and untreatable disease into a more common disease with several therapeutic alternatives available. Three main types of therapies (stabilizers, suppressors, and degraders) that act at different points of the amyloidogenic cascade have been developed or are currently under investigation. In this review, the key advances in pathophysiology and epidemiology that have occurred in the last decades along with the different therapeutic alternatives available or under development for ATTR-CM are described, illustrating the role of precision medicine applied to cardiovascular disorders. Pending questions that would need to be answered in upcoming years are also reviewed.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39791537/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39791537</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae811>10.1093/eurheartj/ehae811</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39791537</guid>
+<pubDate>Fri, 10 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Esther Gonzalez-Lopez</dc:creator>
+<dc:creator>Mathew S Maurer</dc:creator>
+<dc:creator>Pablo Garcia-Pavia</dc:creator>
+<dc:date>2025-01-10</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Transthyretin amyloid cardiomyopathy: a paradigm for advancing precision medicine</dc:title>
+<dc:identifier>pmid:39791537</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae811</dc:identifier>
+</item>
+<item>
+<title>European Research Council-funded grant: programming the epicardium to cure broken hearts</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39791536/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 10:ehae825. doi: 10.1093/eurheartj/ehae825. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39791536/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39791536</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae825>10.1093/eurheartj/ehae825</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39791536</guid>
+<pubDate>Fri, 10 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Tatjana Dorn</dc:creator>
+<dc:creator>Alessandra Moretti</dc:creator>
+<dc:date>2025-01-10</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>European Research Council-funded grant: programming the epicardium to cure broken hearts</dc:title>
+<dc:identifier>pmid:39791536</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae825</dc:identifier>
+</item>
+<item>
+<title>Mechanical circulatory support: when, how, and for whom</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/39791535/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250113194946&amp;v=2.18.0.post9+e462414
+      <description>Cardiogenic shock represents a critical condition in which the heart is unable to maintain adequate circulation leading to insufficient tissue perfusion and end-organ failure. Temporary mechanical circulatory support offers the potential to stabilize patients, provide a bridge-to-recovery, provide a bridge-to-decision, or facilitate definitive heart replacement therapies. Although randomized controlled trials have been performed in infarct-related cardiogenic shock and refractory cardiac arrest,...</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Jan 10:ehae925. doi: 10.1093/eurheartj/ehae925. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">Cardiogenic shock represents a critical condition in which the heart is unable to maintain adequate circulation leading to insufficient tissue perfusion and end-organ failure. Temporary mechanical circulatory support offers the potential to stabilize patients, provide a bridge-to-recovery, provide a bridge-to-decision, or facilitate definitive heart replacement therapies. Although randomized controlled trials have been performed in infarct-related cardiogenic shock and refractory cardiac arrest, the optimal timing, appropriate patient selection, and optimal implementation of these devices remain complex and predominantly based on observational data and expert consensus, especially in non-ischaemic shock. This review explores the details of 'when, how, and for whom' temporary mechanical circulatory support devices should be used, examining specific clinical scenarios, the mechanisms by which they operate, and the patient populations that may benefit. The review also highlights the many gaps in evidence and need for better understanding of the interaction between human biology and these devices.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/39791535/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250113194946&v=2.18.0.post9+e462414">39791535</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehae925>10.1093/eurheartj/ehae925</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:39791535</guid>
+<pubDate>Fri, 10 Jan 2025 06:00:00 -0500</pubDate>
+<dc:creator>Jacob Eifer Møller</dc:creator>
+<dc:creator>Holger Thiele</dc:creator>
+<dc:creator>David Morrow</dc:creator>
+<dc:creator>Jesper Kjærgaard</dc:creator>
+<dc:creator>Christian Hassager</dc:creator>
+<dc:date>2025-01-10</dc:date>
+<dc:source>European heart journal</dc:source>
+<dc:title>Mechanical circulatory support: when, how, and for whom</dc:title>
+<dc:identifier>pmid:39791535</dc:identifier>
+<dc:identifier>doi:10.1093/eurheartj/ehae925</dc:identifier>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</channel>
+</rss>

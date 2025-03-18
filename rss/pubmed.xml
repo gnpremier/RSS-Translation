@@ -1,20 +1,215 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>心血管高分期刊</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;fc=20230708114047&amp;utm_source=Chrome&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.18.0.post9+e462414&amp;utm_campaign=pubmed-2&amp;ff=20250318061233
+<link/>https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;v=2.18.0.post9+e462414&amp;utm_campaign=pubmed-2&amp;ff=20250318082200&amp;utm_source=Chrome
     <description>心血管高分期刊: Latest results from PubMed</description>
-<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;fc=20230708114047&amp;utm_source=Chrome&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;v=2.18.0.post9+e462414&amp;utm_campaign=pubmed-2&amp;ff=20250318061233" rel="self"></atom:link>
+<atom:link href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;utm_medium=rss&amp;v=2.18.0.post9+e462414&amp;utm_campaign=pubmed-2&amp;ff=20250318082200&amp;utm_source=Chrome" rel="self"></atom:link>
 <docs>http://www.rssboard.org/rss-specification</docs>
 <generator>PubMed RSS feeds (2.18.0.post9+e462414)</generator>
 <language>en</language>
-<lastbuilddate>Tue, 18 Mar 2025 10:12:35 +0000</lastbuilddate>
-<pubDate>Mon, 17 Mar 2025 06:00:00 -0400</pubDate>
+<lastbuilddate>Tue, 18 Mar 2025 12:22:01 +0000</lastbuilddate>
+<pubDate>Tue, 18 Mar 2025 06:00:00 -0400</pubDate>
 <ttl>120</ttl>
 <item>
-<title>Covered Stent Treatment for Sinus Venosus Atrial Septal Defects: Early Promise and Potential Limitations</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40096298/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
+<title>Nrf3-Mediated Mitochondrial Superoxide Promotes Cardiomyocyte Apoptosis and Impairs Cardiac Functions by Suppressing Pitx2</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/40099370/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS: Nrf3 promotes injury-induced CM apoptosis and deteriorates cardiac functions by increasing mitochondrial ROS production through suppressing Pitx2 expression. Targeting the Nrf3-Pitx2-mitochondrial ROS signal axis may therefore represent a novel therapeutic approach for MI treatment.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18. doi: 10.1161/CIRCULATIONAHA.124.070286. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Myocardial infarction (MI) elicits mitochondria reactive oxygen species (ROS) production and cardiomyocyte (CM) apoptosis. Nrf3 (nuclear factor erythroid 2-related factor 3) has an established role in regulating redox signaling and tissue homeostasis. Here, we aimed to evaluate the role and mechanism of Nrf3 in injury-induced pathological cardiac remodeling.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Global (Nrf3-KO) and CM-specific (Nrf3<sup>△CM</sup>) Nrf3 knockout mice were subjected to MI or ischemia/reperfusion injury, followed by functional and histopathological analysis. Primary neonatal mouse and rat ventricular myocytes and CMs derived from human induced pluripotent stem cells were used to evaluate the impact of Nrf3 on CM apoptosis and mitochondrial ROS production. Chromatin immunoprecipitation sequencing and immunoprecipitation-mass spectrometry analysis were used to uncover potential targets of Nrf3. MitoParaquat administration and CM-specific adeno-associated virus vectors were used to further confirm the <i>i</i>n vivo relevance of the identified signal pathways.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Nrf3 was expressed mainly in CMs in healthy human hearts, and an increased level of Nrf3 was observed in CMs within the border zone of infarcted human hearts and murine cardiac tissues after MI. Both global and CM-specific Nrf3 knockout significantly decreased injury-induced mitochondrial ROS production, CM apoptosis, and pathological cardiac remodeling, consequently improving cardiac functions. In addition, cardiac-specific Nrf3 overexpression reversed the ameliorative cardiac phenotypes observed in Nrf3-KO mice. Functional studies showed that Nrf3 promoted neonatal mouse ventricular myocyte, neonatal rat ventricular myocyte, and CMs derived from human induced pluripotent stem cell apoptosis by increasing mitochondrial ROS production. Critically, augmenting mitochondrial ROS with MitoParaquat blunted the beneficial effects of Nrf3 deletion on cardiac function and remodeling. Mechanistically, a redox regulator Pitx2 (paired-like homeodomain transcription factor 2) was identified as one of the main target genes of Nrf3. Specifically, Nrf3 binds to <i>Pitx2</i> promoter, where it increases DNA methylation through recruiting heterogeneous nuclear ribonucleoprotein K and DNA-methyltransferase 1 complex, thereby inhibiting Pitx2 expression. CM-specific knockdown of Pitx2 blunted the beneficial effects of Nrf3 deletion on cardiac function and remodeling, and cardiac-specific Pitx2 overexpression attenuated MI-induced mitochondrial ROS production and CM apoptosis, as well as preserved cardiac functions after MI.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Nrf3 promotes injury-induced CM apoptosis and deteriorates cardiac functions by increasing mitochondrial ROS production through suppressing Pitx2 expression. Targeting the Nrf3-Pitx2-mitochondrial ROS signal axis may therefore represent a novel therapeutic approach for MI treatment.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40099370/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40099370</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.070286>10.1161/CIRCULATIONAHA.124.070286</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:40099370</guid>
+<pubDate>Tue, 18 Mar 2025 06:00:00 -0400</pubDate>
+<dc:creator>Qishan Chen</dc:creator>
+<dc:creator>Ancheng Zheng</dc:creator>
+<dc:creator>Xiaolei Xu</dc:creator>
+<dc:creator>Zhenning Shi</dc:creator>
+<dc:creator>Mei Yang</dc:creator>
+<dc:creator>Shasha Sun</dc:creator>
+<dc:creator>Leyu Wang</dc:creator>
+<dc:creator>Yumeng Wang</dc:creator>
+<dc:creator>Haige Zhao</dc:creator>
+<dc:creator>Qingzhong Xiao</dc:creator>
+<dc:creator>Li Zhang</dc:creator>
+<dc:date>2025-03-18</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Nrf3-Mediated Mitochondrial Superoxide Promotes Cardiomyocyte Apoptosis and Impairs Cardiac Functions by Suppressing Pitx2</dc:title>
+<dc:identifier>pmid:40099370</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.070286</dc:identifier>
+</item>
+<item>
+<title>Atrial Translocation of &lt;em>;Porphyromonas gingivalis&lt;/em>; Exacerbates Atrial Fibrosis and Atrial Fibrillation</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/40099365/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS: P gingivalis translocation to the left atrium correlates with the clinical severity of periodontitis, which may exacerbate atrial fibrosis and AF. Atrial translocation of P gingivalis is a potential pathway explaining the causal relationship between periodontitis and AF.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18. doi: 10.1161/CIRCULATIONAHA.124.071310. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Recent studies have indicated an association between periodontitis and atrial fibrillation (AF), although the underlying mechanisms remain unclear. <i>Porphyromonas gingivalis</i> is a causative agent of periodontal disease and is highly pathogenic. This study focused on <i>P gingivalis</i> and aimed to investigate the relationship among periodontitis, atrial translocation of <i>P</i> <i>gingivalis</i>, and atrial fibrosis and AF.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: An experiment was conducted using <i>P</i> <i>gingivalis</i>-infected C57BL/6J mice, in which <i>P</i> <i>gingivalis</i> was inoculated into the pulp of the molars. Immunohistochemistry was used to visualize the localization of <i>P</i> <i>gingivalis</i>, and loop-mediated isothermal amplification was employed to detect <i>P</i> <i>gingivalis</i> DNA in the left atrium. AF inducibility was examined by intracardiac stimulation. Moreover, left atrial appendage specimens were obtained from 68 patients with AF. A periodontal examination was conducted before the surgery, and the periodontal epithelial surface area and periodontal inflamed surface area, which are quantitative indices used to determine the clinical severity of periodontitis, were measured. The bacterial number of <i>P</i> <i>gingivalis</i> in human atrial tissue was analyzed via quantitative polymerase chain reaction. Atrial fibrosis was assessed using Azan-Mallory staining.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: The translocation path of <i>P</i> <i>gingivalis</i> from the dental granuloma to the left atrium via the circulatory system was demonstrated by immunohistochemistry and loop-mediated isothermal amplification in <i>P</i> <i>gingivalis</i>-infected mice, which showed a higher degree of atrial fibrosis (21.9% versus 16.3%; <i>P</i>=0.0003) and a higher AF inducibility (30.0% versus 5.0%; <i>P</i>=0.04) than the control mice. Upregulation of GAL3 (galectin 3) and transforming growth factor-beta 1 in the left atrium was observed in <i>P</i> <i>gingivalis</i>-infected mice. Moreover, immunohistochemistry revealed that <i>P</i> <i>gingivalis</i> was also present in human atrial tissue. The number of <i>P</i> <i>gingivalis</i> in the human atrial tissue was positively correlated with periodontal epithelial surface area (ρ=0.35; <i>P</i>=0.004), periodontal inflamed surface area (ρ=0.52, <i>P</i>&lt;0.0001), and the degree of atrial fibrosis (ρ=0.38; <i>P</i>=0.002).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: <i>P</i> <i>gingivalis</i> translocation to the left atrium correlates with the clinical severity of periodontitis, which may exacerbate atrial fibrosis and AF. Atrial translocation of <i>P</i> <i>gingivalis</i> is a potential pathway explaining the causal relationship between periodontitis and AF.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40099365/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40099365</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.071310>10.1161/CIRCULATIONAHA.124.071310</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:40099365</guid>
+<pubDate>Tue, 18 Mar 2025 06:00:00 -0400</pubDate>
+<dc:creator>Shunsuke Miyauchi</dc:creator>
+<dc:creator>Miki Kawada-Matsuo</dc:creator>
+<dc:creator>Hisako Furusho</dc:creator>
+<dc:creator>Hiromi Nishi</dc:creator>
+<dc:creator>Ayako Nakajima</dc:creator>
+<dc:creator>Pham Trong Phat</dc:creator>
+<dc:creator>Fumie Shiba</dc:creator>
+<dc:creator>Masae Kitagawa</dc:creator>
+<dc:creator>Kazuhisa Ouhara</dc:creator>
+<dc:creator>Noboru Oda</dc:creator>
+<dc:creator>Takehito Tokuyama</dc:creator>
+<dc:creator>Yousaku Okubo</dc:creator>
+<dc:creator>Sho Okamura</dc:creator>
+<dc:creator>Taiichi Takasaki</dc:creator>
+<dc:creator>Shinya Takahashi</dc:creator>
+<dc:creator>Toru Hiyama</dc:creator>
+<dc:creator>Hiroyuki Kawaguchi</dc:creator>
+<dc:creator>Hitoshi Komatsuzawa</dc:creator>
+<dc:creator>Mutsumi Miyauchi</dc:creator>
+<dc:creator>Yukiko Nakano</dc:creator>
+<dc:date>2025-03-18</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>Atrial Translocation of &lt;em>;Porphyromonas gingivalis&lt;/em>; Exacerbates Atrial Fibrosis and Atrial Fibrillation</dc:title>
+<dc:identifier>pmid:40099365</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.071310</dc:identifier>
+</item>
+<item>
+<title>A Novel Hidden Protein p-414aa Encoded by &lt;em>;circSETD2(14,15&lt;/em>;) Inhibits Vascular Remodeling</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/40099364/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS: We uncover a novel hidden protein derived from circSETD2(14,15), called p-414aa, that inhibits vascular remodeling. CircSETD2(14,15) and p-414aa may serve as potential therapeutic targets for vascular remodeling diseases.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18. doi: 10.1161/CIRCULATIONAHA.124.070243. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Phenotypic switching of vascular smooth muscle cells (VSMCs), leading to neointimal hyperplasia, is a fundamental cause of vascular remodeling diseases such as atherosclerosis and hypertension. Novel hidden proteins encoded by circular RNAs play crucial roles in disease progression, yet their involvement in vascular remodeling diseases has not been comprehensively studied. This study identifies a novel protein derived from a circular RNA in VSMCs and demonstrates its potential role in regulating vascular remodeling.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Cell proliferation assays were performed to investigate the effects of <i>circSETD2(14,15</i>) on VSMC proliferation. Techniques such as vector construction, immunoprecipitation-mass spectrometry, and dual-luciferase reporter gene were used to confirm that <i>circSETD2(14,15</i>) encoded a novel protein, p-414aa. The interaction between p-414aa and HuR (human antigen R) was validated with techniques such as coimmunoprecipitation, mass spectrometry, and proximity ligation assay. Through experiments including RNA sequencing and RNA immunoprecipitation, the interaction between HuR and <i>C-FOS</i> (C-Fos proto-oncogene) mRNA was revealed. The role of p-414aa in neointimal hyperplasia was assessed with a carotid artery ligation model in male mice.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Overexpression of <i>circSETD2(14,15</i>) inhibits VSMC phenotypic switching. The novel protein p-414aa, encoded by <i>circSETD2(14,15</i>), interacts with HuR to reduce <i>C-FOS</i> mRNA stability, thereby suppressing VSMC proliferation and ultimately inhibiting neointimal hyperplasia in male mice.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: We uncover a novel hidden protein derived from <i>circSETD2(14,15</i>), called p-414aa, that inhibits vascular remodeling. <i>CircSETD2(14,15</i>) and p-414aa may serve as potential therapeutic targets for vascular remodeling diseases.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40099364/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40099364</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.070243>10.1161/CIRCULATIONAHA.124.070243</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:40099364</guid>
+<pubDate>Tue, 18 Mar 2025 06:00:00 -0400</pubDate>
+<dc:creator>Si-Fan Wang</dc:creator>
+<dc:creator>Li-Yun Yang</dc:creator>
+<dc:creator>An-Qi Zhao</dc:creator>
+<dc:creator>Zhao-Yi Wang</dc:creator>
+<dc:creator>Sen Wang</dc:creator>
+<dc:creator>Miao Gong</dc:creator>
+<dc:creator>Ming-Qi Zheng</dc:creator>
+<dc:creator>Gang Liu</dc:creator>
+<dc:creator>Shu-Yan Yang</dc:creator>
+<dc:creator>Jia-Jie Lin</dc:creator>
+<dc:creator>Shao-Guang Sun</dc:creator>
+<dc:date>2025-03-18</dc:date>
+<dc:source>Circulation</dc:source>
+<dc:title>A Novel Hidden Protein p-414aa Encoded by &lt;em>;circSETD2(14,15&lt;/em>;) Inhibits Vascular Remodeling</dc:title>
+<dc:identifier>pmid:40099364</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCULATIONAHA.124.070243</dc:identifier>
+</item>
+<item>
+<title>Cost-Effectiveness of Transcatheter Versus Surgical Aortic Valve Replacement in China: Same, but Different</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/40099356/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):757-759. doi: 10.1161/CIRCULATIONAHA.124.072394. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096298/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40096298</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.072394>10.1161/CIRCULATIONAHA.124.072394</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Cardiovasc Qual Outcomes. 2025 Mar 18:e011887. doi: 10.1161/CIRCOUTCOMES.125.011887. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40099356/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40099356</a> | DOI:<a href=https://doi.org/10.1161/CIRCOUTCOMES.125.011887>10.1161/CIRCOUTCOMES.125.011887</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:40099356</guid>
+<pubDate>Tue, 18 Mar 2025 06:00:00 -0400</pubDate>
+<dc:creator>Derrick Y Tam</dc:creator>
+<dc:creator>Harindra C Wijeysundera</dc:creator>
+<dc:date>2025-03-18</dc:date>
+<dc:source>Circulation. Cardiovascular quality and outcomes</dc:source>
+<dc:title>Cost-Effectiveness of Transcatheter Versus Surgical Aortic Valve Replacement in China: Same, but Different</dc:title>
+<dc:identifier>pmid:40099356</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCOUTCOMES.125.011887</dc:identifier>
+</item>
+<item>
+<title>Cost-Effectiveness of Aortic Valve Replacement in Low- and Intermediate-Risk Chinese Patients With Severe Aortic Stenosis</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/40099355/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
+      <description>CONCLUSIONS: The risk-based strategy and universal TAVR appeared not to be cost-effective versus universal SAVR in low- and intermediate-risk patients with severe aortic stenosis in China.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Cardiovasc Qual Outcomes. 2025 Mar 18:e010858. doi: 10.1161/CIRCOUTCOMES.124.010858. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Transcatheter aortic valve replacement (TAVR) remains debated as an alternative to surgical aortic valve replacement (SAVR). We aimed to evaluate the cost-effectiveness of aortic valve replacement strategies in low- and intermediate-risk patients with severe aortic stenosis in China.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: A decision-analytic model combining decision tree and Markov model was developed to compare outcomes of universal SAVR, universal TAVR, and a risk-based strategy (SAVR in low-risk patients and TAVR in intermediate-risk patients) in a hypothetical cohort of 75-year-old patients with aortic stenosis within the perspective of the Chinese health care system. A meta-analysis was performed to derive the clinical inputs; the 2019 to 2021 claims data from Shaanxi Province were used for cost analysis, and quality of life was measured using EuroQoL-5D. One-way and probabilistic (10 000 Monte Carlo simulations) sensitivity analyses were conducted to examine the robustness of model results. Primary outcomes included total costs, quality-adjusted life-years (QALYs), and incremental cost-effectiveness ratio (ICER).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Universal TAVR gained the most QALYs (6.76 QALYs) with the highest costs (USD 58 949). Compared with universal SAVR, the risk-based strategy gained 0.12 additional QALYs at higher costs (USD 14 046); the ICER (117 048 USD/QALY) exceeded the willingness-to-pay threshold (37 657 USD/QALY, 3-fold gross domestic product per capita in China). The ICER of universal TAVR versus universal SAVR (80 526 USD/QALY) also exceeded the willingness-to-pay threshold. Sensitivity analysis showed that universal TAVR would be cost-effective if TAVR valve costs were &lt;USD 21 477 (>;44.23% cost reduction). Subgroup analysis showed that universal TAVR and risk-based strategy remained not cost-effective compared with universal SAVR in both low-risk (ICER of 64 414 USD/QALY) and intermediate-risk (ICER of 124 851 USD/QALY) patients. In 10 000 Monte Carlo simulations, the probabilities of being cost-effective for universal SAVR, universal TAVR, and risk-based strategy were 89.81%, 10.14%, and 0.05%, respectively.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: The risk-based strategy and universal TAVR appeared not to be cost-effective versus universal SAVR in low- and intermediate-risk patients with severe aortic stenosis in China.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40099355/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40099355</a> | DOI:<a href=https://doi.org/10.1161/CIRCOUTCOMES.124.010858>10.1161/CIRCOUTCOMES.124.010858</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:40099355</guid>
+<pubDate>Tue, 18 Mar 2025 06:00:00 -0400</pubDate>
+<dc:creator>Jin Peng</dc:creator>
+<dc:creator>Xinglong Zheng</dc:creator>
+<dc:creator>Minghuan Jiang</dc:creator>
+<dc:creator>Xuelin Yao</dc:creator>
+<dc:creator>Yue Ma</dc:creator>
+<dc:creator>Mao Fu</dc:creator>
+<dc:creator>Tao Ma</dc:creator>
+<dc:creator>Xiaolong Shang</dc:creator>
+<dc:creator>Yang Yan</dc:creator>
+<dc:creator>Vinod H Thourani</dc:creator>
+<dc:creator>Yu Fang</dc:creator>
+<dc:date>2025-03-18</dc:date>
+<dc:source>Circulation. Cardiovascular quality and outcomes</dc:source>
+<dc:title>Cost-Effectiveness of Aortic Valve Replacement in Low- and Intermediate-Risk Chinese Patients With Severe Aortic Stenosis</dc:title>
+<dc:identifier>pmid:40099355</dc:identifier>
+<dc:identifier>doi:10.1161/CIRCOUTCOMES.124.010858</dc:identifier>
+</item>
+<item>
+<title>From diagnosis to surgery: managing left ventricular pseudo-aneurysm with cardiac computed tomography</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/40098610/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J Case Rep. 2025 Mar 5;9(3):ytaf116. doi: 10.1093/ehjcr/ytaf116. eCollection 2025 Mar.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40098610/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40098610</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC11911319/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">PMC11911319</a> | DOI:<a href=https://doi.org/10.1093/ehjcr/ytaf116>10.1093/ehjcr/ytaf116</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:40098610</guid>
+<pubDate>Tue, 18 Mar 2025 06:00:00 -0400</pubDate>
+<dc:creator>Fábio Sousa Nunes</dc:creator>
+<dc:creator>Mariana Ribeiro Silva</dc:creator>
+<dc:creator>Catarina Relvas Novo</dc:creator>
+<dc:creator>Nuno Dias Ferreira</dc:creator>
+<dc:date>2025-03-18</dc:date>
+<dc:source>European heart journal. Case reports</dc:source>
+<dc:title>From diagnosis to surgery: managing left ventricular pseudo-aneurysm with cardiac computed tomography</dc:title>
+<dc:identifier>pmid:40098610</dc:identifier>
+<dc:identifier>pmc:PMC11911319</dc:identifier>
+<dc:identifier>doi:10.1093/ehjcr/ytaf116</dc:identifier>
+</item>
+<item>
+<title>Right haemothorax secondary to pulmonary vein laceration following left-sided pacemaker implantation: a case report</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/40098609/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
+      <description>BACKGROUND: Lead perforation is a rare but potentially fatal complication of cardiac device implantation. Atrial lead perforations, though less common than ventricular ones, can have severe consequences, especially in elderly patients with underlying structural heart disease.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J Case Rep. 2025 Feb 25;9(3):ytaf093. doi: 10.1093/ehjcr/ytaf093. eCollection 2025 Mar.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Lead perforation is a rare but potentially fatal complication of cardiac device implantation. Atrial lead perforations, though less common than ventricular ones, can have severe consequences, especially in elderly patients with underlying structural heart disease.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CASE SUMMARY: An 83-year-old male with amyloid and valvular cardiomyopathy underwent dual-chamber pacemaker implantation for third-degree atrioventricular block following transcatheter aortic valve implantation. The active-fixation atrial lead was positioned on the right atrial free wall. Six hours post-implantation, the patient developed haemodynamic instability. Echocardiography revealed a small pericardial effusion, while pacemaker interrogation showed an increased atrial pacing threshold. Chest imaging demonstrated a moderate right haemothorax. Initially, conservative management was recommended. However, the patient's condition deteriorated, progressing to cardiac arrest requiring brief cardiopulmonary resuscitation. Emergency sternotomy revealed a large right haemothorax and laceration of the right upper pulmonary vein in contact with the atrial lead screw. The laceration was repaired, and the atrial lead was repositioned. The patient recovered well and was discharged 5 days after surgery.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">DISCUSSION: Lead perforation is an uncommon but potentially severe complication of pacemaker implantation, with an incidence of 0.5-1% of cases. Several risk factors have been identified, including advanced age, low body mass index, atrial remodelling, and lateral lead placement. In this case, the atrial lead perforation extended from the atrial wall to the right superior pulmonary vein. This case underscores the potential risks associated with lateral lead positioning in geriatric patients and emphasizes the necessity for meticulous lead placement and vigilant post-implantation monitoring to mitigate complications.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40098609/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40098609</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC11911154/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">PMC11911154</a> | DOI:<a href=https://doi.org/10.1093/ehjcr/ytaf093>10.1093/ehjcr/ytaf093</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:40098609</guid>
+<pubDate>Tue, 18 Mar 2025 06:00:00 -0400</pubDate>
+<dc:creator>Simon Fitouchi</dc:creator>
+<dc:creator>Loïc Faucher</dc:creator>
+<dc:creator>Aissam Labani</dc:creator>
+<dc:creator>Laurence Jesel</dc:creator>
+<dc:creator>Halim Marzak</dc:creator>
+<dc:date>2025-03-18</dc:date>
+<dc:source>European heart journal. Case reports</dc:source>
+<dc:title>Right haemothorax secondary to pulmonary vein laceration following left-sided pacemaker implantation: a case report</dc:title>
+<dc:identifier>pmid:40098609</dc:identifier>
+<dc:identifier>pmc:PMC11911154</dc:identifier>
+<dc:identifier>doi:10.1093/ehjcr/ytaf093</dc:identifier>
+</item>
+<item>
+<title>Perioperative management and inflammatory marker monitoring in a cardiac surgery patient treated with tocilizumab: a case report of successful surgical aortic valve replacement</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/40098608/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
+      <description>BACKGROUND: Interleukin (IL)-6 is associated with wound healing and infection response. Tocilizumab (TCZ) is a monoclonal antibody against the IL-6 receptor, interfering with its signalling pathway. However, reports on patients treated with TCZ undergoing cardiac surgery are limited.</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J Case Rep. 2025 Feb 24;9(3):ytaf085. doi: 10.1093/ehjcr/ytaf085. eCollection 2025 Mar.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Interleukin (IL)-6 is associated with wound healing and infection response. Tocilizumab (TCZ) is a monoclonal antibody against the IL-6 receptor, interfering with its signalling pathway. However, reports on patients treated with TCZ undergoing cardiac surgery are limited.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CASE SUMMARY: A 73-year-old man with Castleman disease, treated with TCZ, underwent surgical aortic valve replacement via median sternotomy for aortic valve regurgitation with exertional shortness of breath. Comprehensive measures for preventing surgical site infection along with close examination were implemented during the perioperative period. Tocilizumab was discontinued 26 days before surgery and resumed 30 days after surgery, during which plasma IL-6 levels decreased. There was no evidence of infection or exacerbation of Castleman disease. Vascular endothelial growth factor levels increased before an increase in C-reactive protein levels following hospital discharge and prior to TCZ resumption.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">DISCUSSION: Meticulous perioperative management with a multi-disciplinary approach is crucial during the cessation of TCZ for cardiac surgery. Changes in vascular endothelial growth factor levels may serve as an early predictor of underlying disease exacerbation after TCZ cessation for surgery.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40098608/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40098608</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC11911119/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">PMC11911119</a> | DOI:<a href=https://doi.org/10.1093/ehjcr/ytaf085>10.1093/ehjcr/ytaf085</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:40098608</guid>
+<pubDate>Tue, 18 Mar 2025 06:00:00 -0400</pubDate>
+<dc:creator>Masashi Toyama</dc:creator>
+<dc:creator>Masato Nakayama</dc:creator>
+<dc:creator>Tomonari Uemura</dc:creator>
+<dc:creator>Shingo Kurahashi</dc:creator>
+<dc:creator>Bunmei Sato</dc:creator>
+<dc:date>2025-03-18</dc:date>
+<dc:source>European heart journal. Case reports</dc:source>
+<dc:title>Perioperative management and inflammatory marker monitoring in a cardiac surgery patient treated with tocilizumab: a case report of successful surgical aortic valve replacement</dc:title>
+<dc:identifier>pmid:40098608</dc:identifier>
+<dc:identifier>pmc:PMC11911119</dc:identifier>
+<dc:identifier>doi:10.1093/ehjcr/ytaf085</dc:identifier>
+</item>
+<item>
+<title>A case of effective multi-site radiofrequency ablation of premature ventricular complexes in the left ventricular summit</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/40098607/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J Case Rep. 2025 Feb 26;9(3):ytaf106. doi: 10.1093/ehjcr/ytaf106. eCollection 2025 Mar.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40098607/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40098607</a> | PMC:<a href="https://www.ncbi.nlm.nih.gov/pmc/PMC11911118/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">PMC11911118</a> | DOI:<a href=https://doi.org/10.1093/ehjcr/ytaf106>10.1093/ehjcr/ytaf106</a></p></div>]]></content:encoded>
+<guid ispermalink="false">pubmed:40098607</guid>
+<pubDate>Tue, 18 Mar 2025 06:00:00 -0400</pubDate>
+<dc:creator>Emídio Mata</dc:creator>
+<dc:creator>Sílvia Ribeiro</dc:creator>
+<dc:creator>Lucy Calvo</dc:creator>
+<dc:creator>Víctor Sanfins</dc:creator>
+<dc:creator>António Lourenço</dc:creator>
+<dc:date>2025-03-18</dc:date>
+<dc:source>European heart journal. Case reports</dc:source>
+<dc:title>A case of effective multi-site radiofrequency ablation of premature ventricular complexes in the left ventricular summit</dc:title>
+<dc:identifier>pmid:40098607</dc:identifier>
+<dc:identifier>pmc:PMC11911118</dc:identifier>
+<dc:identifier>doi:10.1093/ehjcr/ytaf106</dc:identifier>
+</item>
+<item>
+<title>Covered Stent Treatment for Sinus Venosus Atrial Septal Defects: Early Promise and Potential Limitations</title>
+<link/>https://pubmed.ncbi.nlm.nih.gov/40096298/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
+      <description>No abstract</description>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):757-759. doi: 10.1161/CIRCULATIONAHA.124.072394. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096298/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40096298</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.072394>10.1161/CIRCULATIONAHA.124.072394</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:40096298</guid>
 <pubDate>Mon, 17 Mar 2025 06:00:00 -0400</pubDate>
 <dc:creator>Glen Van Arsdell</dc:creator>
@@ -27,9 +222,9 @@
 </item>
 <item>
 <title>Correction to: Tadalafil for Treatment of Combined Postcapillary and Precapillary Pulmonary Hypertension in Patients With Heart Failure and Preserved Ejection Fraction: A Randomized Controlled Phase 3 Study</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40096297/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/40096297/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):e763. doi: 10.1161/CIR.0000000000001321. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096297/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40096297</a> | DOI:<a href=https://doi.org/10.1161/CIR.0000000000001321>10.1161/CIR.0000000000001321</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):e763. doi: 10.1161/CIR.0000000000001321. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096297/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40096297</a> | DOI:<a href=https://doi.org/10.1161/CIR.0000000000001321>10.1161/CIR.0000000000001321</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:40096297</guid>
 <pubDate>Mon, 17 Mar 2025 06:00:00 -0400</pubDate>
 <dc:creator>Marius M Hoeper</dc:creator>
@@ -57,9 +252,9 @@
 </item>
 <item>
 <title>Correction to: Low Penetrance Sarcomere Variants Contribute to Additive Risk in Hypertrophic Cardiomyopathy</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40096296/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/40096296/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):e762. doi: 10.1161/CIR.0000000000001318. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096296/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40096296</a> | DOI:<a href=https://doi.org/10.1161/CIR.0000000000001318>10.1161/CIR.0000000000001318</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):e762. doi: 10.1161/CIR.0000000000001318. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096296/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40096296</a> | DOI:<a href=https://doi.org/10.1161/CIR.0000000000001318>10.1161/CIR.0000000000001318</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:40096296</guid>
 <pubDate>Mon, 17 Mar 2025 06:00:00 -0400</pubDate>
 <dc:creator>Joshua K Meisner</dc:creator>
@@ -102,9 +297,9 @@
 </item>
 <item>
 <title>Response by Chan et al to Letters Regarding Article, "Race and Sex Differences in the Association of Bystander CPR for Cardiac Arrest"</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40096295/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/40096295/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):e714-e715. doi: 10.1161/CIRCULATIONAHA.124.073360. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096295/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40096295</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.073360>10.1161/CIRCULATIONAHA.124.073360</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):e714-e715. doi: 10.1161/CIRCULATIONAHA.124.073360. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096295/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40096295</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.073360>10.1161/CIRCULATIONAHA.124.073360</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:40096295</guid>
 <pubDate>Mon, 17 Mar 2025 06:00:00 -0400</pubDate>
 <dc:creator>Paul S Chan</dc:creator>
@@ -118,9 +313,9 @@
 </item>
 <item>
 <title>Letter by Tamirisa et al Regarding Article, "Race and Sex Differences in the Association of Bystander CPR for Cardiac Arrest"</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40096294/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/40096294/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):e710-e711. doi: 10.1161/CIRCULATIONAHA.124.071883. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096294/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40096294</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.071883>10.1161/CIRCULATIONAHA.124.071883</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):e710-e711. doi: 10.1161/CIRCULATIONAHA.124.071883. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096294/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40096294</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.071883>10.1161/CIRCULATIONAHA.124.071883</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:40096294</guid>
 <pubDate>Mon, 17 Mar 2025 06:00:00 -0400</pubDate>
 <dc:creator>Ketan Tamirisa</dc:creator>
@@ -134,9 +329,9 @@
 </item>
 <item>
 <title>Letter by Shang et al Regarding Article, "Race and Sex Differences in the Association of Bystander CPR for Cardiac Arrest"</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40096293/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/40096293/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):e712-e713. doi: 10.1161/CIRCULATIONAHA.124.071991. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096293/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40096293</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.071991>10.1161/CIRCULATIONAHA.124.071991</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):e712-e713. doi: 10.1161/CIRCULATIONAHA.124.071991. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096293/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40096293</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.071991>10.1161/CIRCULATIONAHA.124.071991</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:40096293</guid>
 <pubDate>Mon, 17 Mar 2025 06:00:00 -0400</pubDate>
 <dc:creator>Luxiang Shang</dc:creator>
@@ -150,9 +345,9 @@
 </item>
 <item>
 <title>The Role of Race in Cardiovascular Disease Risk Prediction</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40096292/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/40096292/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):741-743. doi: 10.1161/CIRCULATIONAHA.124.071233. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096292/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40096292</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.071233>10.1161/CIRCULATIONAHA.124.071233</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):741-743. doi: 10.1161/CIRCULATIONAHA.124.071233. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096292/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40096292</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.071233>10.1161/CIRCULATIONAHA.124.071233</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:40096292</guid>
 <pubDate>Mon, 17 Mar 2025 06:00:00 -0400</pubDate>
 <dc:creator>Chiadi E Ndumele</dc:creator>
@@ -166,9 +361,9 @@
 </item>
 <item>
 <title>A Young Man With Syncope: What Is the Diagnosis?</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40096291/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/40096291/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):804-806. doi: 10.1161/CIRCULATIONAHA.124.072433. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096291/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40096291</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.072433>10.1161/CIRCULATIONAHA.124.072433</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):804-806. doi: 10.1161/CIRCULATIONAHA.124.072433. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096291/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40096291</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.072433>10.1161/CIRCULATIONAHA.124.072433</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:40096291</guid>
 <pubDate>Mon, 17 Mar 2025 06:00:00 -0400</pubDate>
 <dc:creator>Pongprueth Rujirachun</dc:creator>
@@ -182,9 +377,9 @@
 </item>
 <item>
 <title>Risk of Cancer in Newborns With Congenital Heart Disease and Their Mothers: A Nationwide Cohort Study</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40096290/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/40096290/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):807-809. doi: 10.1161/CIRCULATIONAHA.124.071811. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096290/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40096290</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.071811>10.1161/CIRCULATIONAHA.124.071811</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):807-809. doi: 10.1161/CIRCULATIONAHA.124.071811. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096290/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40096290</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.071811>10.1161/CIRCULATIONAHA.124.071811</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:40096290</guid>
 <pubDate>Mon, 17 Mar 2025 06:00:00 -0400</pubDate>
 <dc:creator>Danbee Kang</dc:creator>
@@ -204,9 +399,9 @@
 </item>
 <item>
 <title>The Mysterious Masks of Hypercholesterolemia: A Unique Clinical Case</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40096289/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/40096289/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
       <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):799-803. doi: 10.1161/CIRCULATIONAHA.124.071638. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096289/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40096289</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.071638>10.1161/CIRCULATIONAHA.124.071638</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 18;151(11):799-803. doi: 10.1161/CIRCULATIONAHA.124.071638. Epub 2025 Mar 17.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40096289/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40096289</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.071638>10.1161/CIRCULATIONAHA.124.071638</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:40096289</guid>
 <pubDate>Mon, 17 Mar 2025 06:00:00 -0400</pubDate>
 <dc:creator>Uliana Chubykina</dc:creator>
@@ -221,9 +416,9 @@
 </item>
 <item>
 <title>Withdrawal of Guideline-Directed Medical Therapy in Patients With Heart Failure and Improved Ejection Fraction</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40091747/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/40091747/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
       <description>CONCLUSIONS: In patients with HF with improved EF, HF therapy withdrawal was rare. Withdrawing RASi/ARNi and MRA was associated with higher mortality/morbidity at 1 year. No association was found for BBL withdrawal, albeit with a significant heterogeneity for EF at improvement, suggesting better outcomes with continuing BBL only until EF improves up to 50%. These results are hypothesis-generating and highlight the need for randomized controlled trials testing BBL withdrawal in patients with HF...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 17. doi: 10.1161/CIRCULATIONAHA.124.072855. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Limited evidence exists on the prognostic role of continuing medical therapy in patients with heart failure (HF) and an ejection fraction (EF) that has improved over time. This study assessed rates of, patient profiles, and associations with morbidity/mortality of renin-angiotensin inhibitors (RASi), angiotensin receptor-neprilysin inhibitors (ARNi), beta-blockers (BBL), and mineralocorticoid receptor antagonists (MRA) withdrawal in patients with HF with improved EF.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Patients with a first recorded EF &lt;40% and a later EF ≥40% from the Swedish HF registry between June 11, 2000, and December 31, 2023, were included in this retrospective observational study. Withdrawal was defined as a patient on treatment at the first (reduced) but not at the second (improved) registration. The association between withdrawal and time to first cardiovascular mortality/hospitalization for HF with censoring at 1 year was assessed by Cox regression model using overlap weighting.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Of 8728 patients with HF with improved EF (median age, 70 years [25th to 75th percentile, 61-78], 2611 [29.9%] women), 96%, 94%, and 46% received RASi/ARNi, BBL, and MRA, respectively, when EF was &lt;40%. The withdrawal rates at the time of the improved EF registration were 4.4% for RASi/ARNi, 3.3% for BBL, and 17.2% for MRA. Predictors of withdrawal included lower use of other HF medications, higher EF at the later EF registration, and a longer time between the 2 EF assessments. After weighting, withdrawal was independently associated with a higher risk of cardiovascular mortality/hospitalization for HF by 38% for RASi/ARNi and 36% for MRA, but not for BBL. Withdrawal of BBL was associated with a higher risk of the primary outcome in the subgroup of patients with an improved EF of 40% to 49% versus ≥50% (<i>P</i>-interaction 0.03).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: In patients with HF with improved EF, HF therapy withdrawal was rare. Withdrawing RASi/ARNi and MRA was associated with higher mortality/morbidity at 1 year. No association was found for BBL withdrawal, albeit with a significant heterogeneity for EF at improvement, suggesting better outcomes with continuing BBL only until EF improves up to 50%. These results are hypothesis-generating and highlight the need for randomized controlled trials testing BBL withdrawal in patients with HF with improved EF.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40091747/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40091747</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.072855>10.1161/CIRCULATIONAHA.124.072855</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;"><b>Circulation</b>. 2025 Mar 17. doi: 10.1161/CIRCULATIONAHA.124.072855. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Limited evidence exists on the prognostic role of continuing medical therapy in patients with heart failure (HF) and an ejection fraction (EF) that has improved over time. This study assessed rates of, patient profiles, and associations with morbidity/mortality of renin-angiotensin inhibitors (RASi), angiotensin receptor-neprilysin inhibitors (ARNi), beta-blockers (BBL), and mineralocorticoid receptor antagonists (MRA) withdrawal in patients with HF with improved EF.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Patients with a first recorded EF &lt;40% and a later EF ≥40% from the Swedish HF registry between June 11, 2000, and December 31, 2023, were included in this retrospective observational study. Withdrawal was defined as a patient on treatment at the first (reduced) but not at the second (improved) registration. The association between withdrawal and time to first cardiovascular mortality/hospitalization for HF with censoring at 1 year was assessed by Cox regression model using overlap weighting.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Of 8728 patients with HF with improved EF (median age, 70 years [25th to 75th percentile, 61-78], 2611 [29.9%] women), 96%, 94%, and 46% received RASi/ARNi, BBL, and MRA, respectively, when EF was &lt;40%. The withdrawal rates at the time of the improved EF registration were 4.4% for RASi/ARNi, 3.3% for BBL, and 17.2% for MRA. Predictors of withdrawal included lower use of other HF medications, higher EF at the later EF registration, and a longer time between the 2 EF assessments. After weighting, withdrawal was independently associated with a higher risk of cardiovascular mortality/hospitalization for HF by 38% for RASi/ARNi and 36% for MRA, but not for BBL. Withdrawal of BBL was associated with a higher risk of the primary outcome in the subgroup of patients with an improved EF of 40% to 49% versus ≥50% (<i>P</i>-interaction 0.03).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: In patients with HF with improved EF, HF therapy withdrawal was rare. Withdrawing RASi/ARNi and MRA was associated with higher mortality/morbidity at 1 year. No association was found for BBL withdrawal, albeit with a significant heterogeneity for EF at improvement, suggesting better outcomes with continuing BBL only until EF improves up to 50%. These results are hypothesis-generating and highlight the need for randomized controlled trials testing BBL withdrawal in patients with HF with improved EF.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40091747/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40091747</a> | DOI:<a href=https://doi.org/10.1161/CIRCULATIONAHA.124.072855>10.1161/CIRCULATIONAHA.124.072855</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:40091747</guid>
 <pubDate>Mon, 17 Mar 2025 06:00:00 -0400</pubDate>
 <dc:creator>Christian Basile</dc:creator>
@@ -245,9 +440,9 @@
 </item>
 <item>
 <title>Overexpression of Wild-Type TMEM43 Improves Cardiac Function in Arrhythmogenic Right Ventricular Cardiomyopathy Type 5</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40091736/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
+<link/>https://pubmed.ncbi.nlm.nih.gov/40091736/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318082200&amp;v=2.18.0.post9+e462414
       <description>CONCLUSIONS: Overexpression of WT-TMEM43 improves the pathological phenotype in a mouse model of ARVC5. Adeno-associated virus-mediated delivery of WT-TMEM43 offers a promising and specific therapy for patients suffering from this highly lethal disease.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2025 Mar 17. doi: 10.1161/CIRCRESAHA.124.325848. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Arrhythmogenic right ventricular cardiomyopathy type 5 (ARVC5) is the most aggressive type of ARVC, caused by a fully penetrant missense mutation (p.S358L) in TMEM43 (transmembrane protein 43). Pathologically, the disease is characterized by dilation of the cardiac chambers and fibrofatty replacement of the myocardium, which results in heart failure and sudden cardiac death. Current therapeutic options are limited, and no specific therapies targeting the primary cause of the disease have been proposed.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: We investigated whether overexpression of wild-type (WT) TMEM43 could overcome the detrimental effects of the mutant form. We used transgenic mouse models overexpressing either WT or mutant (S358L) TMEM43 to generate a double transgenic mouse line overexpressing both forms of the protein. In addition, we explored if systemic delivery of a codon-optimized self-complementary adeno-associated virus bearing WT-TMEM43 could improve disease progression assessed by ECG and echocardiography.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Double transgenic mice overexpressing both WT and mutant TMEM43 forms showed delayed ARVC5 onset, improved cardiac contraction, and reduced ECG abnormalities compared with mice expressing S358L-TMEM43. In addition, cardiomyocyte death and myocardial fibrosis were reduced, with an overall increase in survival. Finally, we demonstrated that a single systemic administration of an adeno-associated virus carrying codon-optimized WT-TMEM43 prevents ventricular dysfunction and ECG abnormalities induced by S358L-TMEM43.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Overexpression of WT-TMEM43 improves the pathological phenotype in a mouse model of ARVC5. Adeno-associated virus-mediated delivery of WT-TMEM43 offers a promising and specific therapy for patients suffering from this highly lethal disease.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifiers: NCT05885412, NCT06109181, and NCT06228924.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40091736/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40091736</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.124.325848>10.1161/CIRCRESAHA.124.325848</a></p></div>]]></content:encoded>
+<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Res. 2025 Mar 17. doi: 10.1161/CIRCRESAHA.124.325848. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Arrhythmogenic right ventricular cardiomyopathy type 5 (ARVC5) is the most aggressive type of ARVC, caused by a fully penetrant missense mutation (p.S358L) in TMEM43 (transmembrane protein 43). Pathologically, the disease is characterized by dilation of the cardiac chambers and fibrofatty replacement of the myocardium, which results in heart failure and sudden cardiac death. Current therapeutic options are limited, and no specific therapies targeting the primary cause of the disease have been proposed.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: We investigated whether overexpression of wild-type (WT) TMEM43 could overcome the detrimental effects of the mutant form. We used transgenic mouse models overexpressing either WT or mutant (S358L) TMEM43 to generate a double transgenic mouse line overexpressing both forms of the protein. In addition, we explored if systemic delivery of a codon-optimized self-complementary adeno-associated virus bearing WT-TMEM43 could improve disease progression assessed by ECG and echocardiography.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Double transgenic mice overexpressing both WT and mutant TMEM43 forms showed delayed ARVC5 onset, improved cardiac contraction, and reduced ECG abnormalities compared with mice expressing S358L-TMEM43. In addition, cardiomyocyte death and myocardial fibrosis were reduced, with an overall increase in survival. Finally, we demonstrated that a single systemic administration of an adeno-associated virus carrying codon-optimized WT-TMEM43 prevents ventricular dysfunction and ECG abnormalities induced by S358L-TMEM43.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Overexpression of WT-TMEM43 improves the pathological phenotype in a mouse model of ARVC5. Adeno-associated virus-mediated delivery of WT-TMEM43 offers a promising and specific therapy for patients suffering from this highly lethal disease.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifiers: NCT05885412, NCT06109181, and NCT06228924.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40091736/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318082200&v=2.18.0.post9+e462414">40091736</a> | DOI:<a href=https://doi.org/10.1161/CIRCRESAHA.124.325848>10.1161/CIRCRESAHA.124.325848</a></p></div>]]></content:encoded>
 <guid ispermalink="false">pubmed:40091736</guid>
 <pubDate>Mon, 17 Mar 2025 06:00:00 -0400</pubDate>
 <dc:creator>Laura Lalaguna</dc:creator>
@@ -267,180 +462,6 @@
 <dc:title>Overexpression of Wild-Type TMEM43 Improves Cardiac Function in Arrhythmogenic Right Ventricular Cardiomyopathy Type 5</dc:title>
 <dc:identifier>pmid:40091736</dc:identifier>
 <dc:identifier>doi:10.1161/CIRCRESAHA.124.325848</dc:identifier>
-</item>
-<item>
-<title>High temperature and cardiovascular disease in Australia under different climatic, demographic, and adaptive scenarios</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40090366/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: Higher temperatures are expected to exacerbate the burden of CVD. This study highlights the need for urgent adaptation and mitigation efforts to minimize the negative health impacts of a warming climate on CVD.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Mar 17:ehaf117. doi: 10.1093/eurheartj/ehaf117. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND AND AIMS: Cardiovascular disease (CVD), the leading cause of death globally and in Australia, is sensitive to heat exposure. This study assesses the burden of CVD attributable to high temperatures across Australia and projects future burden in the context of climate change.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Disability-adjusted life years for CVD, including years of life lost and years lived with disability, were sourced from the Australian Burden of Disease database. A meta-regression model was constructed using location-specific predictors and relative risks from prior literature to estimate relative risks of CVD mortality and morbidity due to high temperatures in the Australian context. The baseline CVD burden attributable to high temperatures in Australia for 2003-18 was calculated, and future burdens under two greenhouse gas emissions scenarios [Representative Concentration Pathways (RCP4.5 and RCP8.5)] for the 2030s and 2050s were projected, considering demographic changes and human adaptation.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: During the baseline period, high temperatures accounted for 7.3% (95% confidence interval: 7.0%-7.6%) of the CVD burden in Australia, equivalent to 223.8 Disability-adjusted life years (95% confidence interval: 221.0-226.6) per 100 000 population. Future projections suggest a steady increase in the CVD burden across all scenarios examined. By the 2050s, under the RCP8.5 scenario that considers population growth and no adaptation, the total attributable burden of CVD is projected to more than double compared with the baseline, with the Northern Territory facing the most significant increase. These impacts could be mitigated with effective human adaptation to the warming climate.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Higher temperatures are expected to exacerbate the burden of CVD. This study highlights the need for urgent adaptation and mitigation efforts to minimize the negative health impacts of a warming climate on CVD.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40090366/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40090366</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehaf117>10.1093/eurheartj/ehaf117</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:40090366</guid>
-<pubDate>Sun, 16 Mar 2025 06:00:00 -0400</pubDate>
-<dc:creator>Jingwen Liu</dc:creator>
-<dc:creator>Blesson M Varghese</dc:creator>
-<dc:creator>Alana Hansen</dc:creator>
-<dc:creator>Keith Dear</dc:creator>
-<dc:creator>Timothy Driscoll</dc:creator>
-<dc:creator>Ying Zhang</dc:creator>
-<dc:creator>Geoffrey Morgan</dc:creator>
-<dc:creator>Vanessa Prescott</dc:creator>
-<dc:creator>Vergil Dolar</dc:creator>
-<dc:creator>Michelle Gourley</dc:creator>
-<dc:creator>Anthony Capon</dc:creator>
-<dc:creator>Peng Bi</dc:creator>
-<dc:date>2025-03-16</dc:date>
-<dc:source>European heart journal</dc:source>
-<dc:title>High temperature and cardiovascular disease in Australia under different climatic, demographic, and adaptive scenarios</dc:title>
-<dc:identifier>pmid:40090366</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehaf117</dc:identifier>
-</item>
-<item>
-<title>Mitral valve leaflet diverticulum with infective endocarditis associated with eccentric regurgitation of the bicuspid aortic valve</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40088098/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J Cardiovasc Imaging. 2025 Mar 15:jeaf092. doi: 10.1093/ehjci/jeaf092. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40088098/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40088098</a> | DOI:<a href=https://doi.org/10.1093/ehjci/jeaf092>10.1093/ehjci/jeaf092</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:40088098</guid>
-<pubDate>Sat, 15 Mar 2025 06:00:00 -0400</pubDate>
-<dc:creator>Xuejie Li</dc:creator>
-<dc:creator>Lin Ma</dc:creator>
-<dc:date>2025-03-15</dc:date>
-<dc:source>European heart journal. Cardiovascular Imaging</dc:source>
-<dc:title>Mitral valve leaflet diverticulum with infective endocarditis associated with eccentric regurgitation of the bicuspid aortic valve</dc:title>
-<dc:identifier>pmid:40088098</dc:identifier>
-<dc:identifier>doi:10.1093/ehjci/jeaf092</dc:identifier>
-</item>
-<item>
-<title>Question: an uncommon electrocardiogram pattern in a case of acute chest pain</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40086893/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J Acute Cardiovasc Care. 2025 Mar 15:zuaf019. doi: 10.1093/ehjacc/zuaf019. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40086893/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40086893</a> | DOI:<a href=https://doi.org/10.1093/ehjacc/zuaf019>10.1093/ehjacc/zuaf019</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:40086893</guid>
-<pubDate>Fri, 14 Mar 2025 06:00:00 -0400</pubDate>
-<dc:creator>Gulbadin Mufti</dc:creator>
-<dc:creator>Shahid H Shali</dc:creator>
-<dc:creator>A Shaheer Ahmed</dc:creator>
-<dc:date>2025-03-14</dc:date>
-<dc:source>European heart journal. Acute cardiovascular care</dc:source>
-<dc:title>Question: an uncommon electrocardiogram pattern in a case of acute chest pain</dc:title>
-<dc:identifier>pmid:40086893</dc:identifier>
-<dc:identifier>doi:10.1093/ehjacc/zuaf019</dc:identifier>
-</item>
-<item>
-<title>Toward non-invasive assessment of myocardial work using myocardial stiffness and strain: a human pilot study</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40085822/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: Calculating segmental myocardial work based on myocardial stiffness and strain measurements is technically feasible. This approach overcomes the inherent limitations of current methods by introducing a direct quantitative measure of myocardial stress.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J Cardiovasc Imaging. 2025 Mar 14:jeaf089. doi: 10.1093/ehjci/jeaf089. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Myocardial work assessment has emerged as a promising tool for left ventricular (LV) performance evaluation. Existing non-invasive methods for assessing it rely on assumptions on LV pressure and geometry. Recently, shear wave elastography allowed to quantify changes in myocardial stiffness throughout the cardiac cycle. Based on Hooke's law, it becomes theoretically possible to calculate myocardial stress and work from myocardial stiffness and strain measurements. The main objective of this study is to demonstrate the feasibility of this comprehensive ultrasound approach and to compare myocardial work values between populations where variations are anticipated.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Children with hypertrophic cardiomyopathy (HCM), aortic stenosis (AS) and healthy volunteers (HV) were included in this study. Segment dimensions, strain, thickness, and segmental myocardial stiffness were assessed in the basal anteroseptal segment throughout the cardiac cycle. One-beat segmental work, the stress-strain loop area, contributive and dissipative work were compared between groups.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Twenty HV (9.8 ± 5.3 years of age), 20 HCM (10.0 ± 6.1 years of age) and 5 AS (5.3 ± 4.3 years of age) subjects were included. One-beat segmental work was significantly higher in AS (272.0 ± 102.9 µJ/mm) and lower in HCM (38.2 ± 106.9 µJ/mm) compared to HV (131.1 ± 83.3 µJ/mm), p=0.02 and p=0.01 respectively. Desynchronized work was prevailing in HCM with dissipative work during systole measured at 17.3 ± 28.9 µJ/mm and contributive work during diastole measured at 15.3 ± 18.0 µJ/mm. The stress-strain loop area was higher in AS (95.2 ± 31.1 kPa.%) and HV (66.2 ± 35.9 kPa.%) than in HCM (5.8 ± 13.0 kPa.%), p&lt;0.01.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: Calculating segmental myocardial work based on myocardial stiffness and strain measurements is technically feasible. This approach overcomes the inherent limitations of current methods by introducing a direct quantitative measure of myocardial stress.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40085822/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40085822</a> | DOI:<a href=https://doi.org/10.1093/ehjci/jeaf089>10.1093/ehjci/jeaf089</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:40085822</guid>
-<pubDate>Fri, 14 Mar 2025 06:00:00 -0400</pubDate>
-<dc:creator>Maelys Venet</dc:creator>
-<dc:creator>Jerome Baranger</dc:creator>
-<dc:creator>Aimen Malik</dc:creator>
-<dc:creator>Minh B Nguyen</dc:creator>
-<dc:creator>Seema Mital</dc:creator>
-<dc:creator>Mark K Friedberg</dc:creator>
-<dc:creator>Mathieu Pernot</dc:creator>
-<dc:creator>Clement Papadacci</dc:creator>
-<dc:creator>Sebastien Salles</dc:creator>
-<dc:creator>Rajiv Chaturvedi</dc:creator>
-<dc:creator>Luc Mertens</dc:creator>
-<dc:creator>Olivier Villemain</dc:creator>
-<dc:date>2025-03-14</dc:date>
-<dc:source>European heart journal. Cardiovascular Imaging</dc:source>
-<dc:title>Toward non-invasive assessment of myocardial work using myocardial stiffness and strain: a human pilot study</dc:title>
-<dc:identifier>pmid:40085822</dc:identifier>
-<dc:identifier>doi:10.1093/ehjci/jeaf089</dc:identifier>
-</item>
-<item>
-<title>Outcomes of Mechanical Circulatory Support Devices Among Patients with Mechanical Complications of Acute Myocardial Infarction</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40085820/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSIONS: In this large observational analysis of AMI hospitalizations, mechanical complications were rare and associated with very high in-hospital mortality. Although the use of MCS has increased, however, in-hospital mortality rates remain high even among patients who received MCS. Further investigations are needed to clarify the role of MCS devices among patients with mechanical complications of AMI.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J Acute Cardiovasc Care. 2025 Mar 14:zuaf039. doi: 10.1093/ehjacc/zuaf039. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: Mechanical complications of acute myocardial infarction (AMI) are rare but associated with considerably high mortality. While guidelines suggest mechanical circulatory support (MCS) devices as a potential bridge to definitive therapy, studies supporting this recommendation are limited.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS: Using data from the National Inpatient Sample, a large admirative database in the United States, years 2016-2020, we identified AMI admissions (ST-elevation and non-ST-elevation myocardial infarction) with mechanical complications (ventricular septal defect, free wall rupture, or papillary muscle rupture). Logistic regression models adjusting for potential confounders were used to assess temporal trends in MCS utilization and to compare in-hospital mortality between those who received MCS versus none.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">RESULTS: Among 4,450,219 AMI patients, 7,025 (0.2%) had a mechanical complication of which, 3,115 patients (44.3%) received at least one MCS device. There was a rising trend in MCS use (39.3% in 2016 to 48.9% in 2020, Ptrend=0.02), but there was no corresponding reduction in the incidence of in-hospital mortality (36.9% in 2016 vs 43.4% in 2020, Ptrend=0.75). There was no significant difference in in-hospital mortality between those who received MCS versus those who did not (48.4 vs 34.5% respectively.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSIONS: In this large observational analysis of AMI hospitalizations, mechanical complications were rare and associated with very high in-hospital mortality. Although the use of MCS has increased, however, in-hospital mortality rates remain high even among patients who received MCS. Further investigations are needed to clarify the role of MCS devices among patients with mechanical complications of AMI.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40085820/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40085820</a> | DOI:<a href=https://doi.org/10.1093/ehjacc/zuaf039>10.1093/ehjacc/zuaf039</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:40085820</guid>
-<pubDate>Fri, 14 Mar 2025 06:00:00 -0400</pubDate>
-<dc:creator>Ahmed M Younes</dc:creator>
-<dc:creator>Ahmed K Mahmoud</dc:creator>
-<dc:creator>Ibrahim Kamel</dc:creator>
-<dc:creator>Linus Williams</dc:creator>
-<dc:creator>Ahmed Maraey</dc:creator>
-<dc:creator>Mahmoud Khalil</dc:creator>
-<dc:creator>Ahmed Elzanaty</dc:creator>
-<dc:creator>Rodrigo Bagur</dc:creator>
-<dc:creator>Abdulla A Damluji</dc:creator>
-<dc:creator>Jacqueline E Tamis-Holland</dc:creator>
-<dc:creator>Islam Y Elgendy</dc:creator>
-<dc:date>2025-03-14</dc:date>
-<dc:source>European heart journal. Acute cardiovascular care</dc:source>
-<dc:title>Outcomes of Mechanical Circulatory Support Devices Among Patients with Mechanical Complications of Acute Myocardial Infarction</dc:title>
-<dc:identifier>pmid:40085820</dc:identifier>
-<dc:identifier>doi:10.1093/ehjacc/zuaf039</dc:identifier>
-</item>
-<item>
-<title>Cardiac computed tomography for rule-out of ischemic heart disease in patients with new-onset heart failure</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40085773/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
-      <description>CONCLUSION: In stable patients with new-onset HF, cardiac CT may be considered as the primary imaging modality to rule out ischemic heart disease, and implementation of a CT-based strategy for ischemia rule-out may substantially reduce the need for invasive examination.</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J Cardiovasc Imaging. 2025 Mar 14:jeaf090. doi: 10.1093/ehjci/jeaf090. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">BACKGROUND: In patients with new-onset heart failure (HF), invasive coronary angiography (ICA) is recommended to rule out coronary artery disease (CAD).</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">OBJECTIVE: To investigate the utility of a coronary artery calcium score (CACS) and coronary computed tomography angiography (CCTA) for rule-out of obstructive CAD in patients with new-onset HF.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">METHODS AND RESULTS: Patients with new-onset HF referred for cardiac computed tomography (CT) were included (2008-2022). Patients were grouped according to CACS and CCTA findings. Stenosis on CCTA was defined as ≥1 vessel with ≥50% luminal diameter stenosis. Obstructive CAD was defined as ≥1 vessel with ≥50% luminal diameter stenosis at ICA performed within 120 days from cardiac CT. Revascularization procedures within 120 days from cardiac CT were identified.Overall, 3336 patients were eligible. Obstructive CAD was ruled out in 2332/2780 patients (83.8%) with complete cardiac CT. 1032 (30.9%) patients had CACS=0 and 377 (11.3%) patients had CACS≥1000.18.0% of patients had stenosis on CCTA, ranging from 2.8% to 71.7% in patients with CACS=0 and CACS≥1000, respectively.Obstructive CAD at second-line ICA was diagnosed in 11.5% of patients, ranging from 1.2% to 47.2% in patients with CACS=0 and CACS≥1000, respectively. Revascularization was performed in 6.9% of patients, ranging from 0.6% to 26.5% in patients with CACS=0 and CACS≥1000, respectively.</p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">CONCLUSION: In stable patients with new-onset HF, cardiac CT may be considered as the primary imaging modality to rule out ischemic heart disease, and implementation of a CT-based strategy for ischemia rule-out may substantially reduce the need for invasive examination.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40085773/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40085773</a> | DOI:<a href=https://doi.org/10.1093/ehjci/jeaf090>10.1093/ehjci/jeaf090</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:40085773</guid>
-<pubDate>Fri, 14 Mar 2025 06:00:00 -0400</pubDate>
-<dc:creator>Christina Boesgaard Graversen</dc:creator>
-<dc:creator>Laust Dupont Rasmussen</dc:creator>
-<dc:creator>Jens Sundbøll</dc:creator>
-<dc:creator>Morten Würtz</dc:creator>
-<dc:creator>Kristian Hay Kragholm</dc:creator>
-<dc:creator>Morten Bøttcher</dc:creator>
-<dc:creator>Simon Winther</dc:creator>
-<dc:date>2025-03-14</dc:date>
-<dc:source>European heart journal. Cardiovascular Imaging</dc:source>
-<dc:title>Cardiac computed tomography for rule-out of ischemic heart disease in patients with new-onset heart failure</dc:title>
-<dc:identifier>pmid:40085773</dc:identifier>
-<dc:identifier>doi:10.1093/ehjci/jeaf090</dc:identifier>
-</item>
-<item>
-<title>The year in cardiovascular medicine 2024: the top 10 papers in thrombosis and antithrombotic treatment</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40084811/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Eur Heart J. 2025 Mar 14:ehaf126. doi: 10.1093/eurheartj/ehaf126. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40084811/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40084811</a> | DOI:<a href=https://doi.org/10.1093/eurheartj/ehaf126>10.1093/eurheartj/ehaf126</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:40084811</guid>
-<pubDate>Fri, 14 Mar 2025 06:00:00 -0400</pubDate>
-<dc:creator>Felicita Andreotti</dc:creator>
-<dc:creator>Jurriën M Ten Berg</dc:creator>
-<dc:creator>Michelle L O'Donoghue</dc:creator>
-<dc:date>2025-03-14</dc:date>
-<dc:source>European heart journal</dc:source>
-<dc:title>The year in cardiovascular medicine 2024: the top 10 papers in thrombosis and antithrombotic treatment</dc:title>
-<dc:identifier>pmid:40084811</dc:identifier>
-<dc:identifier>doi:10.1093/eurheartj/ehaf126</dc:identifier>
-</item>
-<item>
-<title>Hepatopulmonary Syndrome or Portopulmonary Hypertension? Two Contrasting Cases of Exertional Hypoxemia From Liver Disease</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40084409/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
-      <description>No abstract</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Heart Fail. 2025 Mar 14:e012506. doi: 10.1161/CIRCHEARTFAILURE.124.012506. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40084409/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40084409</a> | DOI:<a href=https://doi.org/10.1161/CIRCHEARTFAILURE.124.012506>10.1161/CIRCHEARTFAILURE.124.012506</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:40084409</guid>
-<pubDate>Fri, 14 Mar 2025 06:00:00 -0400</pubDate>
-<dc:creator>Fadi Adel</dc:creator>
-<dc:creator>Adel Kabbara Allababidi</dc:creator>
-<dc:creator>Yogesh N V Reddy</dc:creator>
-<dc:date>2025-03-14</dc:date>
-<dc:source>Circulation. Heart failure</dc:source>
-<dc:title>Hepatopulmonary Syndrome or Portopulmonary Hypertension? Two Contrasting Cases of Exertional Hypoxemia From Liver Disease</dc:title>
-<dc:identifier>pmid:40084409</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCHEARTFAILURE.124.012506</dc:identifier>
-</item>
-<item>
-<title>Hereditary Transthyretin Cardiac Amyloidosis With the p.V142I Variant: Mechanistic Insights and Diagnostic Challenges</title>
-<link/>https://pubmed.ncbi.nlm.nih.gov/40084403/?utm_source=Chrome&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&amp;fc=20230708114047&amp;ff=20250318061233&amp;v=2.18.0.post9+e462414
-      <description>The most common form of hereditary transthyretin cardiac amyloidosis (hATTR-CA) in the United States and the United Kingdom is the p.V142I variant. About 3% to 4% of patients with African ancestry carry this genetic predisposition to develop signs and symptoms of hATTR-CA. Nevertheless, clinical manifestations of hATTR-CA appear only late in the fifth and sixth decades of life, despite its clear genetic background. Imbalances in native protein-stabilizing and elementary breakdown cellular...</description>
-<content:encoded><![CDATA[<div><p style="color: #4aa564;">Circ Heart Fail. 2025 Mar 14:e012469. doi: 10.1161/CIRCHEARTFAILURE.124.012469. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">The most common form of hereditary transthyretin cardiac amyloidosis (hATTR-CA) in the United States and the United Kingdom is the p.V142I variant. About 3% to 4% of patients with African ancestry carry this genetic predisposition to develop signs and symptoms of hATTR-CA. Nevertheless, clinical manifestations of hATTR-CA appear only late in the fifth and sixth decades of life, despite its clear genetic background. Imbalances in native protein-stabilizing and elementary breakdown cellular mechanisms are postulated as potential causes for affecting transthyretin structural integrity and myocardial fibril deposition. Noncoding variants, epigenetic and environmental factors, as well as gut microbiome derangements may serve as disease-modifying factors that feature detrimental amyloidogenic organ involvement and impact disease severity. Organ amyloid deposition varies widely among different carriers of a genetic transthyretin variant. The genotype-phenotype interdependence causes unpredictable phenotypic penetrance that results in a variety of signs and symptoms and patient outcomes. Cardiovascular biomarkers and multimodality imaging may identify initial amyloidogenic organ involvement. These early clinical clues through the course of hATTR-CA offer a window of opportunity for early treatment onset to cease disease progression and alter prognosis. Identifying at-risk patients requires information on the genetic background of probands and their relatives. Initiatives to reveal asymptomatic gene carriers early in the disease should be encouraged, as it necessitates stringent patient follow-up and immediate treatment onset to reduce the burden of heart failure hospitalization and mortality in hATTR-CA.</p><p style="color: lightgray">PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/40084403/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vUePJ4Z_tESAAXKwJxBoGOTaabXd6U-NVu8003KrCpq8yLQC-&fc=20230708114047&ff=20250318061233&v=2.18.0.post9+e462414">40084403</a> | DOI:<a href=https://doi.org/10.1161/CIRCHEARTFAILURE.124.012469>10.1161/CIRCHEARTFAILURE.124.012469</a></p></div>]]></content:encoded>
-<guid ispermalink="false">pubmed:40084403</guid>
-<pubDate>Fri, 14 Mar 2025 06:00:00 -0400</pubDate>
-<dc:creator>Simon Vanhentenrijk</dc:creator>
-<dc:creator>Justin L Grodin</dc:creator>
-<dc:creator>Silvio Nunes Augusto</dc:creator>
-<dc:creator>W H Wilson Tang</dc:creator>
-<dc:date>2025-03-14</dc:date>
-<dc:source>Circulation. Heart failure</dc:source>
-<dc:title>Hereditary Transthyretin Cardiac Amyloidosis With the p.V142I Variant: Mechanistic Insights and Diagnostic Challenges</dc:title>
-<dc:identifier>pmid:40084403</dc:identifier>
-<dc:identifier>doi:10.1161/CIRCHEARTFAILURE.124.012469</dc:identifier>
 </item>
 
 
